@@ -1,0 +1,668 @@
+
+"%ld人" = "% ld orang";
+
+"%ld票" = "% ld suara";
+
+"Confirm to quit the audience link" = "Konfirmasi untuk mundur dari penonton Lian Mai?";
+
+"Flip camera" = "Kamera flip";
+
+"Linking, quti will colse link" = "Saat ini di Lianmai, co-host penutup akan\ nexit Lianmai saat ini";
+
+"Mute" = "bisu";
+
+"Please go to System Settings to turn on relevant permissions." = "Silakan buka pengaturan sistem untuk mengaktifkan izin yang relevan.";
+
+"Turn off the camera" = "Matikan kamera";
+
+"Turn on the camera" = "Nyalakan kamera";
+
+"Unmute" = "Unbisu";
+
+"all-1" = "semuanya";
+
+"apply_link" = "Mendaftar untuk Lianmai Tengah...";
+
+"audio_call" = "Audio Lianmai";
+
+"available" = "bisa dibuka";
+
+"award" = "Hadiah:";
+
+"award_and_detail" = " Hadiah:% @% ld copy, lihat detailnya";
+
+"award_award" = "hadiah ";
+
+"award_award_comming" = "Gelombang hadiah akan menghampiri Anda.";
+
+"award_count" = "Jumlah hadiah:% d";
+
+"award_count_short" = "kuantitas ";
+
+"award_event_end" = "Acara telah berakhir.";
+
+"award_fill_success" = "Informasi pemenang berhasil diisi.";
+
+"award_go_get_award" = "Pergi untuk mengumpulkan hadiah";
+
+"award_info_input_hint" = "Silakan isi informasi pemenang secepatnya untuk menghindari kehilangan hadiah\ nHak untuk menjelaskan hadiah dan penyedia milik penyelenggara.";
+
+"award_info_input_title" = "Sempurnakan informasi pemenang";
+
+"award_input_receiver" = "Silakan masukkan nama Anda";
+
+"award_join_fail_tip" = "kegagalan partisipasi";
+
+"award_join_success_tip" = "Partisipasi berhasil, harap bersabar dan tunggu undian lotere ~";
+
+"award_lost_empty_box" = "Sayangnya, kotaknya kosong, terus bekerja dengan baik ~";
+
+"award_no_need_fill" = "Tidak perlu mengisi";
+
+"award_no_record_keep_going" = "Belum ada rekor kemenangan, teruslah bekerja keras";
+
+"award_opened" = "Lotre telah dibuka.";
+
+"award_recipient" = "Penerima";
+
+"award_repeat_join_tip" = "Berpartisipasi dalam lotere";
+
+"award_result_dialog_tip" = "Hak untuk menafsirkan dan memberikan hadiah adalah milik penyelenggara";
+
+"award_still_lock" = "Lotre belum dibuka, terus bekerja keras ~";
+
+"award_to_be_filled" = "Untuk diisi";
+
+"award_will_start" = "Lotre akan segera dimulai, harap tunggu sebentar ~";
+
+"award_win_prize" = "Selamat% @ memenangkan% @";
+
+"award_winner_count" = "Total% ld orang memenangkan lotre";
+
+"award_winner_hint" = "Pengguna pemenang mengisi informasi pemenang di pintu masuk alat-lotere interaktif sesegera mungkin untuk menghindari melewatkan hadiah ~";
+
+"award_winner_hint_highlight" = "Alat Interaktif - Undian";
+
+"award_winner_list" = "Daftar pemenang";
+
+"back_continue_award" = "Kembali untuk melanjutkan lotere";
+
+"back_to_live" = "Kembali ke streaming langsung";
+
+"buy_now" = "Beli Sekarang";
+
+"buying_now_" = "Membeli sekarang.";
+
+"cancel" = "batal";
+
+"cancel_request" = "Batalkan aplikasi.";
+
+"card_see_explain" = "Baca penjelasannya";
+
+"cell_phone_number" = "Nomor ponsel";
+
+"change_channel" = "Ganti saluran";
+
+"change_language" = "Ganti bahasa";
+
+"clear_screen" = "layar bening";
+
+"click_for_the_draw" = "Klik untuk menggambar";
+
+"click_one_click_join_btn_tip" = "Klik satu klik untuk berpartisipasi dalam penyelesaian otomatis";
+
+"click_replay" = "Klik untuk bermain lagi.";
+
+"click_too_fast" = "Kecepatan tangan terlalu cepat, tunggu sebentar ~";
+
+"comment_failed" = "komentar gagal";
+
+"comment_report_abet_btn_text" = "Diduga / menghasut melukai diri sendiri dan bunuh diri";
+
+"comment_report_advertise_btn_text" = "kampanye iklan";
+
+"comment_report_cheat_btn_text" = "diduga penipuan";
+
+"comment_report_curse_btn_text" = "Menghina saya atau orang lain";
+
+"comment_report_edittext_hint" = "Tolong jelaskan alasan laporan secara rinci, sehingga platform dapat menilai apakah komentar tersebut ilegal.";
+
+"comment_report_other_btn_text" = "lainnya";
+
+"comment_report_post_btn_text" = "menyerahkan";
+
+"comment_report_title_text" = "Laporkan komentar";
+
+"comment_report_unlawful_btn_text" = "pelanggaran hukum dan peraturan";
+
+"comment_report_vulgar_btn_text" = "Porno vulgar";
+
+"confirm" = "Oke";
+
+"congratulations_to_for" = "Selamat% @ memenangkan% @";
+
+"congratulations_you_won_the_lottery" = "Selamat, Anda memenangkan lotre.";
+
+"copy_link" = "Salin tautan";
+
+"copy_link_ok" = "Salin tautan berhasil";
+
+"count_down" = "Hitung mundur";
+
+"days" = "Dewa";
+
+"did_not_win" = "Tidak menang";
+
+"disconnect mic" = "Cabut gandum";
+
+"draw" = "Lotre kedua";
+
+"duration_colon" = "dilihat ";
+
+"end" = "akhir";
+
+"entered_live_room" = "Memasuki streaming langsung.";
+
+"fail_and_retry" = "Gagal mengirim, silakan coba lagi";
+
+"failed_open_please_retry_later" = "Gagal membuka, silakan coba lagi nanti.";
+
+"fill_address" = "Silakan isi alamat pengiriman.";
+
+"fill_phone_number" = "Silakan masukkan nomor ponsel yang benar.";
+
+"fore_show" = "teaser";
+
+"free_to_buy" = "ambil gratis";
+
+"get_award" = "Hadiah klaim";
+
+"getting_comments" = "Dapatkan komentar...";
+
+"gift_reward_effect_off" = "Efek hadiah mati";
+
+"gift_reward_effect_on" = "Efek hadiah pada";
+
+"gift_reward_effect_switch" = "efek gift";
+
+"gift_reward_free" = "gratis";
+
+"gift_reward_not_enough" = "Poin yang tidak cukup untuk memberi tip";
+
+"gift_reward_point" = "integral";
+
+"gift_reward_send" = "kado";
+
+"gift_reward_service_exception" = "Poin tidak normal, silakan coba lagi nanti";
+
+"gift_reward_title" = "kado";
+
+"gift_sent_hint" = "kirim";
+
+"goods_receiving_information" = "Informasi tanda terima";
+
+"got_it" = "Mengerti.";
+
+"has_won" = "Memenangkan";
+
+"here_it_comes_" = "Ini dia.";
+
+"host" = "tuan rumah";
+
+"host_changed_nickname" = "Tuan rumah telah mengubah nama panggilan Anda";
+
+"host_close_audio" = "Tuan rumah telah mematikan mikrofon Anda.";
+
+"host_close_audio_and_video" = "Tuan rumah telah mematikan mikrofon dan kamera Anda.";
+
+"host_close_video" = "Tuan rumah telah mematikan kamera Anda.";
+
+"host_open_audio" = "Host berlaku untuk menyalakan mikrofon Anda.";
+
+"host_open_audio_and_video" = "Host berlaku untuk menyalakan mikrofon dan kamera Anda.";
+
+"host_open_video" = "Host berlaku untuk menyalakan kamera Anda.";
+
+"host_set_link_mute" = "Tuan rumah telah mengatur semua staf untuk membisukan.";
+
+"hot_sale" = "Penjualan Panas";
+
+"hours" = "waktu";
+
+"i_know" = "Oh begitu.";
+
+"input_card_name_or_index" = "Masukkan nama produk atau nomor seri";
+
+"input_phone_number" = "Silakan masukkan nomor ponsel Anda.";
+
+"input_receiving_address" = "Silakan masukkan alamat pengiriman.";
+
+"interact_tool_count" = "Total% zd konten interaktif";
+
+"internet_unstable_switch_resolution" = "Jaringan saat ini tidak stabil, disarankan untuk beralih ke";
+
+"invalid_nickname" = "Nama panggilan tidak sah";
+
+"join_requirement" = "Kondisi partisipasi";
+
+"like_failed" = "Seperti gagal.";
+
+"link failed" = "Lianmai gagal";
+
+"link_end_tip" = "Lianmai yang berakhir";
+
+"live" = "Siaran langsung";
+
+"live_description" = "Deskripsi streaming langsung";
+
+"live_end_tip" = "Siaran langsung telah berakhir.";
+
+"live_interactive" = "interaksi langsung";
+
+"live_not_allowed_mobile_watch" = "Streaming langsung tidak mengizinkan tampilan akhir seluler";
+
+"live_start_countdown" = "Masih ada beberapa hari sebelum siaran langsung dimulai.";
+
+"liveroom_qrcode" = "Kode QR streaming langsung";
+
+"long_click_save_picture" = "Tekan lama untuk menyimpan gambar.";
+
+"long_click_save_qrcode" = "Tekan lama untuk menyimpan kode QR dan membaginya dengan teman ~";
+
+"lose_award_tip" = "Maaf Anda tidak memenangkan lotre.";
+
+"lottery_drawn" = "Digambar";
+
+"lottery_will_open" = "lotere segera hadir";
+
+"me" = "aku";
+
+"minutes" = "poin";
+
+"minutes2" = "menit";
+
+"modification" = "modifikasi";
+
+"more" = "lebih";
+
+"my_prize" = "rekor kemenangan";
+
+"net_abnormal" = "Kesalahan jaringan, silakan coba lagi";
+
+"net_error_btn_text" = "Coba lagi";
+
+"net_error_portrait_btn_text" = "penyegaran coba lagi";
+
+"net_error_text" = "Jaringan saat ini tidak tersedia, silakan periksa koneksi jaringan dan coba lagi";
+
+"nick_name_cannot_be_blank" = "Nama panggilan tidak bisa kosong!";
+
+"nick_name_dialog_hint_text" = "Silakan masukkan nama panggilan Anda untuk mulai berinteraksi ~";
+
+"no_comments" = "Belum ada komentar";
+
+"no_more_historical_comments" = "Tidak ada lagi komentar historis";
+
+"no_one_participate_award" = "Tidak ada yang berpartisipasi dalam lotere.";
+
+"no_private_chat_yet" = "Belum ada obrolan pribadi";
+
+"no_product_yet" = "Belum ada produk";
+
+"non_wifi_btn_text" = "Mainkan lagi.";
+
+"one_click_join" = "partisipasi satu klik";
+
+"only_stock_left" = "Hanya stok yang tersisa";
+
+"open_immediately" = "Buka sekarang";
+
+"opened" = "Dibuka";
+
+"ordered" = "Dipesan";
+
+"participate_successfully_and_wait_for_the_draw" = "Berpartisipasi dengan sukses dan tunggu undian lotere.";
+
+"participated" = "Berpartisipasi";
+
+"participated_count" = "Partisipasi% ld orang";
+
+"people_count" = "popularitas";
+
+"phone_number" = "Nomor ponsel";
+
+"pinned" = "atasan";
+
+"pinned_content" = "konten teratas";
+
+"play_back" = "memutar";
+
+"playback" = "memutar";
+
+"please_enter_the_correct_email" = "Silakan masukkan alamat email yang benar.";
+
+"please_enter_the_correct_phone_number" = "Silakan masukkan nomor ponsel yang benar";
+
+"please_fill_receiver" = "Silakan masukkan penerima";
+
+"please_input_question_answer" = "Silakan masukkan konten pertanyaan";
+
+"please_select_an_image_with_a_size_less_than_8m" = "Silakan pilih gambar yang berukuran lebih kecil dari 8 juta.";
+
+"presenter" = "pembicara";
+
+"pull_to_load_more_comments" = "Turun untuk memuat lebih banyak komentar";
+
+"pulling_historical_comments_limit" = "Tarik komentar sejarah telah mencapai batasnya";
+
+"questionnaire_answer_required" = "Bidang ini diperlukan";
+
+"questionnaire_filled" = "Anda telah menyelesaikan kuesioner ini, terima kasih atas partisipasinya";
+
+"questionnaire_string" = "kuesioner";
+
+"receiving_address" = "Alamat pengiriman";
+
+"redirect_to_time" = "Itu telah ditemukan untuk Anda.";
+
+"register_success" = "Pendaftaran berhasil";
+
+"release_to_load_more_comments" = "Rilis Muat Lebih Banyak Komentar";
+
+"replay" = "memutar ulang";
+
+"replay_comment" = "membalas";
+
+"report_comment" = "lapor";
+
+"report_error" = "Laporkan kegagalan";
+
+"report_success" = "Di kirim berhasil, terima kasih atas tanggapan Anda.";
+
+"request_link" = "Terapkan untuk Lianmai";
+
+"requesting" = "Menerapkan...";
+
+"reservation_fail" = "Janji temu gagal";
+
+"reservation_now" = "Pesan Sekarang";
+
+"reservation_success" = "Penunjukan berhasil";
+
+"reservationed" = "dipesan";
+
+"resolution_auto" = "Cerdas";
+
+"resolution_bd" = "Blu-ray";
+
+"resolution_hd" = "definisi tinggi";
+
+"resolution_ld" = "mulus";
+
+"resolution_origin" = "lukisan asli";
+
+"resolution_sd" = "SD";
+
+"resolution_select" = "Pemilihan kejelasan";
+
+"resolution_title" = "Pemilihan kejelasan";
+
+"resolution_uhd" = "Sangat jelas";
+
+"save_picture" = "Simpan Gambar";
+
+"save_picture_failed" = "Gagal menyimpan gambar";
+
+"save_picture_ok" = "Gambar telah disimpan ke album";
+
+"screen sharing" = "Berbagi layar";
+
+"search" = "Pencarian";
+
+"search_other_products" = "Pergi mencari produk lain";
+
+"seconds" = "kedua";
+
+"send" = "kirim";
+
+"send_comment_no_enable" = "Obrolan belum dibuka";
+
+"send_danmaku_key" = "Kata sandi komentar pasca peluru:";
+
+"send_image_fail" = "Gagal mengirim gambar.";
+
+"send_image_to_chat" = "Kirim gambar untuk mengobrol";
+
+"share" = "berbagi";
+
+"sign_in_successfully" = "Masuk dengan sukses";
+
+"speed" = "kecepatan ganda";
+
+"speed_play" = "pemutaran kecepatan ganda";
+
+"speed_toast" = "pemutaran kecepatan% s telah diaktifkan untuk Anda";
+
+"submit_failed" = "Kirim gagal.";
+
+"submit_winning_information" = "Kirimkan informasi pemenang";
+
+"submitted_success" = "Di kirim berhasil";
+
+"task_award_locked" = "Untuk dibuka";
+
+"task_award_open_now" = "Buka segera";
+
+"task_award_rule" = "Aturan aktivitas";
+
+"tips" = "petunjuk";
+
+"tvu_award_result" = "hasil kemenangan";
+
+"tvu_embedded_web_url" = "tautan segaris";
+
+"tvu_exit_clear_screen" = "Keluar dari layar yang jelas";
+
+"tvu_generate_poster" = "menghasilkan poster";
+
+"tvu_generate_qrcode" = "Hasilkan kode QR";
+
+"tvu_image_text" = "grafis";
+
+"tvu_interact_tool" = "alat interaktif";
+
+"tvu_invite_watch_live" = "Undang Anda untuk menonton streaming langsung bersama.";
+
+"tvu_limit_gif_type_tip" = "Gambar tidak mendukung format GIF, silakan unggah lagi.";
+
+"tvu_long_press_to_view" = "Tekan lama untuk mengidentifikasi kode QR untuk ditonton";
+
+"tvu_no_more_goods" = "Semua kamar live stream telah dikunjungi, sayang.";
+
+"tvu_private_chat" = "Host live streaming obrolan pribadi";
+
+"tvu_save_local" = "selamatkan lokal";
+
+"tvu_shopping_car" = "belanja cart";
+
+"tvu_shopping_car_all" = "semuanya";
+
+"tvu_shopping_card" = "Kartu produk";
+
+"username_and_other_count_people_are_buying_item_index" = "% @ dan% ld lainnya orang membeli item% ld";
+
+"username_and_other_count_people_have_placed_an_order_for_item_index" = "% @ dan% ld lainnya orang telah memesan item% ld";
+
+"username_has_placed_an_order_for_item_index" = "% @ telah melakukan pemesanan untuk item No.% ld";
+
+"username_is_buying_item_index" = "% @ adalah membeli nomor item% ld";
+
+"video_call" = "Video Lianmai";
+
+"w" = "sepuluh ribu";
+
+"warm_tips" = "Pengingat hangat";
+
+"win_and_watch" = "Tonton streaming langsung dan menangkan hadiah.";
+
+"win_award_tip" = "Selamat, Anda mendapatkan hadiahnya.";
+
+"winning_info_completed" = "Informasi pemenang telah selesai.";
+
+"you_have_been_muted" = "Anda telah dibungkam";
+
+"仅展示前200名中奖观众" = "Tampilkan hanya 200 pemirsa pemenang pertama";
+
+"你的答案：" = "Jawaban Anda:";
+
+"做任务参与抽奖" = "Lakukan tugas dan berpartisipasi dalam lotere";
+
+"公告" = "pengumuman";
+
+"单选" = "radio";
+
+"去参加" = "Pergi untuk berpartisipasi";
+
+"参与" = "berpartisipasi";
+
+"参与答题" = "Berpartisipasi dalam menjawab pertanyaan";
+
+"回答正确" = "Jawaban yang benar";
+
+"回答错误" = "Jawaban yang salah";
+
+"多选" = "pilihan ganda";
+
+"完成全部任务即可参与" = "Selesaikan semua tugas untuk berpartisipasi";
+
+"实际参与人数：%d人" = "Jumlah peserta sebenarnya:% d";
+
+"已完成" = "Selesai.";
+
+"已投票" = "Terpilih";
+
+"已提交" = "Di kirim";
+
+"已提交，请等待公布答案" = "Di kirim, harap tunggu jawabannya diumumkan.";
+
+"已签到" = "Ditandatangani di";
+
+"已结束" = "Berakhir";
+
+"很遗憾，你未参与" = "Maaf Anda tidak berpartisipasi.";
+
+"投票" = "suara";
+
+"投票已截止" = "Pemungutan suara telah ditutup";
+
+"提交投票" = "Kirimkan suara";
+
+"未作答" = "Tidak ada jawaban";
+
+"未完成" = "tidak lengkap";
+
+"未签到" = "Tidak mendaftar";
+
+"查看中奖名单" = "Periksa daftar pemenang";
+
+"查看结果" = "Lihat Hasil";
+
+"查看详情" = "Lihat detailnya";
+
+"正确答案：" = "Jawaban yang benar adalah:";
+
+"没有更多内容了" = "Tidak ada lagi konten.";
+
+"点击参与" = "Klik untuk berpartisipasi";
+
+"点击参加" = "Klik untuk berpartisipasi";
+
+"直播间发起了一场抽奖" = "Sebuah lotere telah diluncurkan di streaming langsung.";
+
+"看结果" = "Lihat hasilnya";
+
+"确认提交" = "mengkonfirmasi pengiriman";
+
+"立即参与" = "Berpartisipasi sekarang";
+
+"答案解析：" = "Analisis jawaban:";
+
+"答题已截止" = "Jawabannya telah berakhir";
+
+"签到" = "masuk";
+
+"继续观看直播" = "Lanjutkan menonton siaran langsungnya";
+
+"自动发送" = "kirim otomatis";
+
+"至少提交%@个投票" = "Kirim setidaknya% @ suara";
+
+"至少提交%@个签到" = "Kirim setidaknya% @ check-in";
+
+"至少提交%@个问卷" = "Kirim setidaknya% @ kuesioner";
+
+"至少提交%@道答题" = "Kirim setidaknya% @ jawaban";
+
+"至少答对%@道答题" = "Setidaknya% benar @ jawab pertanyaannya";
+
+"讲解中" = "Menjelaskan";
+
+"请联系主办方领取奖品" = "Silakan hubungi penyelenggara untuk mengklaim hadiah.";
+
+"请选择您的选项" = "Silakan pilih opsi Anda";
+
+"距答题截止" = "Batas waktu untuk menjawab pertanyaan";
+
+"输入项不能为空" = "Masuk tidak bisa kosong";
+
+"进行中" = "sedang berlangsung";
+
+"当前处于非Wi-Fi网络，播放将消耗流量" = "Saat ini di jaringan non-Wi-Fi, pemutaran akan menghabiskan data";
+
+"评论过于频繁，请稍后再试" = "Komentar terlalu sering, silakan coba lagi nanti";
+
+"请输入你的昵称，开始互动～" = "Silakan masukkan nama panggilan Anda untuk mulai berinteraksi ~";
+
+"请输入昵称" = "Masukkan nama panggilan";
+
+"重试" = "Coba lagi";
+
+"关注" = "ikuti";
+
+"已关注" = "Diikuti";
+
+"the_current_account_is_logged_in_on_another_device" = "Akun saat ini masuk di perangkat lain";
+
+"watching_has_been_suspended_due_to_disturbing_the_order_of_the_live_stream_" = "Menonton telah ditangguhkan karena mengganggu urutan live streaming.";
+
+"watching_has_been_suspended_due_to_long_absence_" = "Menonton telah ditangguhkan karena absen yang lama.";
+
+"keep_watching" = "Tetap menonton";
+
+"sign_in_has_closed" = "Masuk telah ditutup";
+
+"exit_live_room" = "Keluar dari streaming langsung";
+
+"立即签到" = "Masuk sekarang";
+
+"in_order_to_avoid_suspending_watching_the_live_stream__please_complete_the_check" = "Untuk menghindari penundaan menonton siaran langsung, harap selesaikan check-in secepatnya.";
+
+"确认不再关注了吗 ？" = "Apakah Anda yakin tidak lagi mengikuti?";
+
+"提交全部投票" = "Kirim semua suara";
+
+"提交全部答题" = "Kirim semua jawaban";
+
+"提交全部签到" = "Kirim Semua Masuk";
+
+"提交全部问卷" = "Kirim semua kuesioner";
+
+"答对全部答题" = "Jawab semua pertanyaan dengan benar";
+
+"email" = "email";
+
+"email_hint" = "Silakan masukkan alamat email Anda";
+
+"fill_email" = "Silakan masukkan alamat email yang benar.";
+
+"tvu_out_of_stock" = "terjual habis";

@@ -1,0 +1,954 @@
+
+"1080p" = "블루레이 1080p";
+
+"480p" = "SD 480p";
+
+"540p" = "고화질 540p";
+
+"720p" = "울트라 클리어 720p";
+
+"abandoned_after_exiting" = "종료 후 현재 모든 작업이 중단됩니다.";
+
+"alert_close_live" = "라이브 스트림을 닫을 수 있습니까?";
+
+"alert_emoji_not_support" = "입력 이모티콘이 아직 지원되지 않습니다.";
+
+"alert_flash_lamp_error" = "죄송합니다. 플래시 권한 획득에 실패했습니다.";
+
+"alert_max_15" = "최대 15자 입력";
+
+"alert_max_200" = "최대 200자 입력";
+
+"alert_msg_screen_switch" = "라이브 스트림 화면의 방향이 변경될 예정입니다. 전환하시겠습니까?";
+
+"alert_msg_screen_switch_camera" = "라이브 스트림 화면의 방향이 곧 변경되고 캔버스의 펜던트가 변경됩니다. 전환하시겠습니까?";
+
+"alert_no_camera" = "카메라 허가를 받지 못했습니다. 설정에서 %@ 권한을 부여하시겠습니까?";
+
+"alert_no_microphone" = "마이크 사용 권한을 얻지 못했습니다. 설정에서 %@ 이 권한을 부여하시겠습니까?";
+
+"alert_no_photo_library" = "앨범 권한을 얻지 못했습니다. 설정으로 이동하여 %@ 권한을 부여합니까?";
+
+"alert_only_rear_camera" = "플래시는 후면 카메라 장면에서만 허용됩니다.";
+
+"alert_screen_switch" = "화면 전환 프롬프트";
+
+"apply_now" = "즉시 사용";
+
+"back" = "반환";
+
+"basic_information" = "기본 정보";
+
+"basic_information_add_label" = "추가";
+
+"basic_information_cover_label_%ld" = "지원되는 형식: JPG 및 PNG. 파일 크기: %ldMB 이하.";
+
+"basic_information_description_switch_label" = "라이브 스트림에서 라이브 스트림 설명을 표시합니다.";
+
+"basic_information_description_textview_label" = "내용 설명";
+
+"basic_information_description_textview_placeholder" = "라이브 스트림 설명 입력";
+
+"basic_information_edit_label" = "편집";
+
+"basic_information_live_tag" = "라이브 스트림 분류";
+
+"basic_information_live_tag_changed_error" = "라이브 스트림 분류가 업데이트되었습니다. 다시 시도하십시오.";
+
+"basic_information_live_tag_count" = "%d";
+
+"basic_information_live_tag_empty_title" = "대체 카테고리 없음";
+
+"basic_information_live_title_textview_placeholder" = "라이브 스트림 제목 입력";
+
+"basic_information_nav_account_avatar" = "계정 아바타";
+
+"basic_information_nav_account_name" = "계정 이름";
+
+"basic_information_nav_cover" = "표지 이미지";
+
+"basic_information_nav_description" = "라이브 스트림 설명";
+
+"basic_information_nav_live_title" = "라이브 스트림 제목";
+
+"beauty" = "아름다움";
+
+"big_eyes" = "큰 눈";
+
+"camera_live" = "비디오";
+
+"cancel" = "취소";
+
+"caton" = "카드";
+
+"change_avatar" = "변화";
+
+"choose_sharpness" = "정의 선택";
+
+"clean" = "화면 지우기";
+
+"clear" = "분명한";
+
+"clear_pendants_layer" = "빈 펜던트";
+
+"click_to_edit_template_name" = "템플릿 이름 편집하려면 클릭";
+
+"closing_live_streaming" = "라이브 스트림이 종료되었습니다. 기다려 주십시오.";
+
+"comment_input_placeholder" = "모두에게 이야기";
+
+"confirm" = "확인";
+
+"confirm_delete_template" = "템플릿을 삭제하시겠습니까?";
+
+"confirm_delete_widget_and_layer" = "펜던트 제거 확인? 삭제 후 펜던트를 사용하는 레이어도 삭제됩니다.";
+
+"confirm_exit" = "종료 확인?";
+
+"confirm_switch" = "인계 확인";
+
+"create_template" = "새 템플릿";
+
+"delete" = "삭제";
+
+"delete_all_comment" = "모든 댓글 지우기를 확인하시겠습니까?";
+
+"delete_comment" = "댓글 지우기";
+
+"delete_string" = "삭제";
+
+"delete_template_pendent_warning" = "펜던트는 %@ 템플릿에 속합니다. 삭제 후 템플릿을 다시 다운로드해야 합니다. 삭제 확인?";
+
+"download" = "다운로드";
+
+"download_now" = "지금 다운로드";
+
+"exit" = "그만둬";
+
+"filter" = "필터";
+
+"flash_lamp" = "플래시";
+
+"flip" = "뒤집기";
+
+"go_edit" = "편집하려면";
+
+"go_setting" = "설정으로 이동";
+
+"good" = "좋아";
+
+"has_update" = "업데이트가 있습니다.";
+
+"i_got_it" = "아, 알겠습니다.";
+
+"image_size_over_%dM_need_reselect" = "이미지가 %dM을 초과합니다. 다시 업로드하십시오.";
+
+"is_empty" = "비어 있음";
+
+"landscape" = "수평 화면";
+
+"layer" = "레이어";
+
+"live_end_start_tip" = "라이브 방송이 종료되었습니다. 다시 시작해야 하는 경우 라이브 방송 시간을 재설정하십시오.";
+
+"live_has_been_started" = "라이브 스트림이 라이브로 진행되어 작동할 수 없습니다.";
+
+"live_head_online_label" = "온라인%ld";
+
+"live_room_name_cannot_be_blank" = "라이브 스트림의 이름은 비워 둘 수 없습니다.";
+
+"live_time_left" = "%02ld 생방송이 끝날 때까지 떠났다:%02ld:%02ld";
+
+"media" = "미디어 파일";
+
+"mirror" = "거울 이미지";
+
+"more" = "더";
+
+"msg_net_error" = "네트워크 요청이 실패했습니다. 다시 시도하십시오";
+
+"msg_net_error_extra_long" = "입력 문자가 너무 길어서 다시 입력하십시오.";
+
+"mute" = "음소거";
+
+"narrow_face" = "좁은 얼굴";
+
+"net_abnormal" = "네트워크 이상";
+
+"net_error_btn_text" = "재시도";
+
+"net_error_text" = "현재 네트워크를 사용할 수 없습니다. 네트워크 연결을 확인하고 다시 시도하십시오.";
+
+"network_request_error" = "네트워크 요청 오류";
+
+"nick_name_cannot_be_blank" = "닉네임은 비울 수 없습니다!";
+
+"no" = "취소";
+
+"no_template" = "아직 템플릿 없음";
+
+"off_line" = "네트워크 없음";
+
+"only_support_20_layer" = "최대 20개의 레이어를 지원합니다.";
+
+"pendants" = "펜던트";
+
+"pendants_layer" = "레이어";
+
+"pendants_layer_camera" = "초상화 레이어";
+
+"pendants_layer_clear_alert_clear" = "비어 있음";
+
+"pendants_layer_clear_alert_title" = "모든 펜던트를 비우시겠습니까?";
+
+"pendants_layer_down" = "아래로 이동";
+
+"pendants_layer_hide" = "숨다";
+
+"pendants_layer_show" = "쇼";
+
+"pendants_layer_tips" = "길게 눌러 레이어를 빠르게 드래그하여 순서를 조정하십시오~";
+
+"pendants_layer_up" = "위로 이동";
+
+"please_input" = "입력하십시오(15자 이내).";
+
+"popularity" = "인기";
+
+"portrait" = "초상화 화면";
+
+"products" = "쇼핑백";
+
+"products_add_added" = "추가됨";
+
+"products_add_added_des" = "제품이 추가되었습니다.";
+
+"products_add_addnew" = "새로운";
+
+"products_add_done" = "완료.";
+
+"products_add_shop_cross_text" = "상품의 원래 가격";
+
+"products_add_shop_highlight" = "현재 가격";
+
+"products_add_shop_image" = "커버 이미지 추가";
+
+"products_add_shop_image_des" = "사진이 늘어나지 않도록 1:1의 비율로 업로드하는 것이 좋습니다.";
+
+"products_add_shop_name" = "상품명";
+
+"products_add_shop_name_placeholder" = "제품 이름을 입력하십시오";
+
+"products_add_shop_price_placehoder" = "제품 가격을 입력하십시오.";
+
+"products_add_shop_url" = "제품 링크";
+
+"products_add_shop_url_placeholder" = "http:/";
+
+"products_add_submit" = "제출";
+
+"products_can_not_pin_tip" = "현재 제품에는 사진이 추가되지 않아 위에 올릴 수 없습니다.";
+
+"products_cancel_pin" = "상단 취소";
+
+"products_checkmark" = "배치 작업";
+
+"products_confirm_delete" = "삭제를 확인합니까?";
+
+"products_confirm_delete_content" = "삭제 후 제품을 복원할 수 없습니다. 주의하여 작동하십시오.";
+
+"products_delete_count" = "삭제(%ld)";
+
+"products_edit" = "편집";
+
+"products_edit_title" = "제품 편집";
+
+"products_empty" = "현재 카드에 추가된 제품이 없습니다.";
+
+"products_empty_tip" = "제품 추가를 클릭합니다";
+
+"products_filter" = "필터";
+
+"products_info_changed_error" = "현재 목록 제품 정보가 업데이트되었습니다. 다시 시도하십시오.";
+
+"products_list" = "선반에 올려";
+
+"products_more" = "더";
+
+"products_number_count" = "총%ld항목";
+
+"products_order" = "순서 조정";
+
+"products_pin_to_top" = "상단";
+
+"products_quantity_limit_error" = "현재 제품 목록이 최대 제품 수 500개에 도달했습니다. 일부 제품을 삭제하고 계속 추가하십시오.";
+
+"products_reorder_guide" = "사진을 클릭하고 드래그하여 제품 주문을 조정합니다.";
+
+"products_reset" = "재설정";
+
+"products_search" = "검색";
+
+"products_search_empty" = "관련 제품을 찾을 수 없습니다.";
+
+"products_search_placeholder" = "제품 이름을 입력하십시오";
+
+"products_select_all" = "모두 선택";
+
+"products_sure" = "확인";
+
+"products_sure_count" = "확인(%ld)";
+
+"products_title" = "라이브 스트림 제품";
+
+"products_unlist" = "선반에서";
+
+"prompt" = "힌트";
+
+"props" = "소품";
+
+"replay_comment" = "답장";
+
+"resolution" = "명확성";
+
+"rotate_to_landscape_to_apply_template" = "현재 라이브 방송은 세로 모드인데, 가로 화면으로 전환하여 이 템플릿을 적용할 수 있습니까?";
+
+"rotate_to_portrait_to_apply_template" = "현재 라이브 방송은 가로 모드입니다. 세로 화면으로 전환하고 이 템플릿을 적용하시겠습니까?";
+
+"rotate_to_save_landscape" = "가로 모드로 전환하고 새 템플릿을 만들려고 합니다.";
+
+"rotate_to_save_portrait" = "세로 모드로 전환하고 새 템플릿을 만들려고 합니다.";
+
+"save" = "저장";
+
+"save_error" = "저장 실패, 다시 시도하십시오";
+
+"save_landscape_template" = "수평 템플릿으로 저장하시겠습니까?";
+
+"save_portrait_template" = "초상화 템플릿으로 저장하시겠습니까?";
+
+"save_success" = "성공적으로 저장";
+
+"screen_live" = "화면 녹화";
+
+"screen_share_hint" = "라이브 방송이 시작되면 청중은 실시간으로 휴대폰 화면의 콘텐츠를 볼 수 있습니다.";
+
+"screen_sharing_hint" = "화면 녹화 중에 휴대폰의 다른 인터페이스로 전환하여 라이브 방송을 할 수 있습니다.";
+
+"skin_grinding" = "피부 마찰";
+
+"smooth_live_only_support_10_gif" = "원활한 라이브 방송을 위해 10장의 GIF 사진만 지원됩니다.";
+
+"start_live" = "라이브 스트림 시작";
+
+"start_live_fail" = "라이브로 이동 실패, 다시 시도하십시오";
+
+"sweep_to_switch" = "템플릿을 전환하려면 왼쪽과 오른쪽으로 이동하십시오.";
+
+"template" = "템플릿";
+
+"template_can_not_save_without_name" = "채워지지 않은 템플릿 이름을 저장할 수 없습니다";
+
+"template_delete_hint" = "템플릿이 삭제되면 다른 사용자가 템플릿을 사용할 수 없습니다.";
+
+"template_download_first" = "템플릿을 먼저 다운로드한 다음 편집하십시오.";
+
+"template_has_update_click_to_download" = "템플릿이 업데이트되었습니다. 다운로드하려면 클릭하십시오.";
+
+"template_not_exist" = "템플릿이 없거나 삭제되었습니다.";
+
+"template_save_hint" = "아름다움, 소품, 펜던트 및 레이어 설정이 함께 템플릿으로 저장됩니다.";
+
+"text" = "텍스트";
+
+"thin_cheekbones" = "마른 광대뼈";
+
+"thin_face" = "얇은 얼굴";
+
+"thin_mandible" = "린 하악골";
+
+"thin_nose" = "마른 코";
+
+"toast_landscape_live" = "가로 모드에서 라이브로 전환하면 화면이 수평으로 표시됩니다.";
+
+"toast_portrait_live" = "세로로 라이브로 전환되었으며 화면이 수직으로 표시됩니다.";
+
+"ttlv_pendents_upload" = "이미지 업로드";
+
+"tvu_product_library_please_search" = "지금 검색";
+
+"tvu_product_library_search_tip" = "검색 내용을 입력한 후 검색 결과를 표시합니다.";
+
+"tvu_push_product_lib_response_error" = "반품 오류, 반품 내용을 확인하십시오.";
+
+"tvu_push_product_lib_timeout" = "요청 시간 초과";
+
+"tvupush_product_add_library" = "제품 라이브러리에서 추가";
+
+"tvupush_product_library_add" = "추가";
+
+"tvupush_product_library_search_result_empty" = "현재 검색 기준과 일치하는 항목이 없습니다.";
+
+"tvupush_product_library_uncorrelated" = "이 라이브 스트림과 연결된 제품 라이브러리가 없습니다.";
+
+"tvupush_product_most_product_added" = "최대 500개의 제품을 추가합니다.";
+
+"tvupush_product_no_products_yet" = "아직 제품이 없습니다";
+
+"tvupush_product_title_add" = "제품 추가";
+
+"tvupush_send_success" = "성공적으로 보냈습니다";
+
+"tvupush_start_time_not_yet_toast" = "라이브 방송 시간이 도착하지 않았습니다. 라이브 방송 시작 시간 이후에 라이브 방송을 시작하십시오.";
+
+"unknown" = "알 수 없음";
+
+"unsupport_gif_warning" = "GIF 형식이 지원되지 않습니다. 다시 업로드하십시오.";
+
+"unsupport_rotate_to_landscape_hint" = "Go LIVE에서 가로 모드 전환을 지원하지 않는 템플릿";
+
+"unsupport_rotate_to_portrait_hint" = "Go LIVE에서 세로 모드 전환을 지원하지 않는 템플릿";
+
+"unsupported_broadcast_title" = "현재 서비스 버전은 라이브를 지원하지 않습니다.";
+
+"unsupported_feature_title" = "현재 서비스 버전이 이 기능을 지원하지 않습니다.";
+
+"unsupported_version_message" = "현재 계정 버전은 이 기능을 지원하지 않습니다. 서비스 버전을 업그레이드하려면 고객 서비스에 문의하십시오.";
+
+"whitening" = "미백";
+
+"俄语" = "러시아어";
+
+"印尼语" = "인도네시아어";
+
+"土耳其语" = "터키어";
+
+"日文" = "일본어";
+
+"泰语" = "태국어";
+
+"简中" = "중국어 간체";
+
+"繁中" = "중국 전통";
+
+"英文" = "영어";
+
+"葡萄牙语" = "포르투갈어";
+
+"西班牙语" = "스페인어";
+
+"越南语" = "베트남어";
+
+"阿拉伯语" = "아랍어";
+
+"韩语" = "한국어";
+
+"tvupush_filter_01" = "부드러운 흰색";
+
+"tvupush_filter_02" = "크림";
+
+"tvupush_filter_03" = "산소";
+
+"tvupush_filter_04" = "플라티코돈";
+
+"tvupush_filter_05" = "로리타";
+
+"tvupush_filter_06" = "복숭아";
+
+"tvupush_filter_07" = "마카롱";
+
+"tvupush_filter_08" = "거품";
+
+"tvupush_filter_09" = "벚꽃";
+
+"tvupush_filter_10" = "가벼운 따뜻함";
+
+"tvupush_filter_11" = "이야기";
+
+"tvupush_filter_12" = "홋카이도";
+
+"tvupush_filter_13" = "기타";
+
+"tvupush_filter_14" = "시애틀";
+
+"tvupush_filter_15" = "조용한";
+
+"tvupush_filter_16" = "영화";
+
+"tvupush_filter_17" = "따뜻한 태양";
+
+"tvupush_filter_18" = "옛날";
+
+"tvupush_filter_19" = "빨간 입술";
+
+"tvupush_filter_20" = "오렌지 블루스";
+
+"tvupush_filter_21" = "페이드";
+
+"tvupush_filter_22" = "흑백";
+
+"tvupush_filter_23" = "부드러운";
+
+"tvupush_filter_24" = "사랑은 정말 달콤해";
+
+"tvupush_filter_25" = "첫 광경";
+
+"tvupush_filter_26" = "어두운 톤";
+
+"tvupush_filter_27" = "밀크티";
+
+"tvupush_filter_28" = "부드러운";
+
+"tvupush_filter_29" = "일몰";
+
+"tvupush_filter_30" = "차가운 산소";
+
+"tvupush_filter_31" = "바다의 초상화";
+
+"tvupush_filter_32" = "프리미엄 그레이";
+
+"tvupush_filter_33" = "섬";
+
+"tvupush_filter_34" = "가벼운 여름";
+
+"tvupush_filter_35" = "9";
+
+"tvupush_filter_36" = "적갈색";
+
+"tvupush_filter_37" = "클리어";
+
+"tvupush_filter_38" = "자연";
+
+"tvupush_filter_39" = "소다";
+
+"tvupush_filter_40" = "캘리포니아";
+
+"tvupush_filter_41" = "음식 색상";
+
+"tvupush_filter_42" = "사천 맛";
+
+"tvupush_filter_43" = "미국 영화";
+
+"tvupush_filter_44" = "레드 레트로";
+
+"tvupush_filter_45" = "여행";
+
+"tvupush_filter_46" = "따뜻한 노란색";
+
+"tvupush_filter_47" = "블루스 필름";
+
+"tvupush_filter_48" = "차가운 하얀 피부";
+
+"tvupush_filter_49" = "반투명";
+
+"tvupush_filter_50" = "밝은 오렌지";
+
+"tvupush_filter_51" = "호두";
+
+"tvupush_filter_52" = "짙은 갈색";
+
+"tvupush_filter_53" = "드라큘라";
+
+"tvupush_filter_54" = "마룬";
+
+"tvupush_filter_55" = "코코넛 그로브";
+
+"tvupush_filter_56" = "따뜻한 음식";
+
+"tvupush_filter_57" = "반짝이는 물";
+
+"tvupush_filter_58" = "요리";
+
+"tvupush_filter_59" = "숯불 굽기";
+
+"tvupush_filter_60" = "교토";
+
+"tvupush_filter_61" = "해안";
+
+"tvupush_filter_62" = "그린 얀";
+
+"tvupush_filter_63" = "이브닝 체리";
+
+"tvupush_filter_64" = "녹색 오렌지";
+
+"tvupush_filter_65" = "사랑의 도시";
+
+"tvupush_filter_66" = "CT";
+
+"tvupush_filter_67" = "EK";
+
+"tvupush_filter_68" = "FJ";
+
+"tvupush_filter_69" = "블랙 골드";
+
+"tvupush_filter_70" = "햅번";
+
+"模板下载失败，挂件剩余个数不足" = "템플릿 다운로드에 실패했으며 나머지 펜던트 수가 부족합니다.";
+
+"filter_normal" = "정상";
+
+"tvupush_link_sidebar" = "사이드바 보기";
+
+"tvupush_link_user_upper_limit" = "현재 Lianmai 직원이 상한에 도달했습니다.";
+
+"tvupush_link_confirm_microphone_tip" = "밀 연결을 시작하면 현재 레이어 펜던트가 더 이상 표시되지 않습니다. 시작을 확인하시겠습니까?";
+
+"tvupush_link_list_empty" = "당분간 리안 마이 시청자는 없습니다~";
+
+"tvupush_link_start" = "밀과의 연결 시작";
+
+"tvupush_link_view" = "보기";
+
+"tvupush_link_confirm_mike" = "Lian Mai 청중의 끝을 확인합니까?";
+
+"tvupush_link_remove" = "제거";
+
+"tvupush_link_remove_microphone" = "Lianmai 제거";
+
+"tvupush_link_quit_mike" = "현재 Lianmai에서 공동 호스트의 끝은 현재 Lianmai를 종료합니다.";
+
+"tvupush_link_camera" = "카메라";
+
+"tvupush_link_stop" = "엔드 리안마이";
+
+"tvupush_link_microphone" = "마이크";
+
+"tvupush_link_view_settings" = "설정 보기";
+
+"tvupush_link_apply_list" = "응용 프로그램 목록";
+
+"tvupush_link_audience" = "관객 리안 마이";
+
+"tvupush_link_grid" = "그리드 보기";
+
+"tvupush_link_confirm_start" = "Lianmai의 시작을 확인합니까?";
+
+"tvupush_link_confirm_to_remove" = "정말 제거하시겠습니까? n[%@]?";
+
+"tvupush_link_hint" = "Lianmai를 시작한 후 청중은 Lianmai 애플리케이션을 시작할 수 있으며 \nup to 1v%ld 비디오 Lianmai가 지원됩니다.";
+
+"tvupush_link_user_action" = "[%s]에서 작동";
+
+"tvupush_link_resume_hint" = "지난번에 Lian Mai는 정상적으로 끝나지 않았습니다.";
+
+"tvupush_link_resume_title" = "Lianmai를 복원해야 합니까?";
+
+"tvupush_link_start_fail" = "Lianmai가 실패했습니다. 다시 시도하십시오.";
+
+"tvupush_link_presenter" = "호스트";
+
+"tvupush_link_accept" = "수락";
+
+"tvupush_link_apply_send_fail" = "응용 프로그램을 보내지 못했습니다. 다시 시도하십시오.";
+
+"tvupush_link_apply_send_success" = "성공적으로 보낸 응용 프로그램";
+
+"filter_ABG" = "ABG";
+
+"filter_F2" = "소다";
+
+"filter_F3" = "캘리포니아";
+
+"filter_F4" = "음식 색상";
+
+"filter_F5" = "사천 맛";
+
+"filter_HUJI" = "후지";
+
+"filter_L1" = "섬";
+
+"filter_L2" = "가벼운 여름";
+
+"filter_L3" = "9";
+
+"filter_L4" = "적갈색";
+
+"filter_L5" = "클리어";
+
+"filter_Po1" = "부드러운";
+
+"filter_Po10" = "프리미엄 그레이";
+
+"filter_Po2" = "사랑은 정말 달콤해";
+
+"filter_Po3" = "첫 광경";
+
+"filter_Po4" = "어두운 톤";
+
+"filter_Po5" = "밀크티";
+
+"filter_Po6" = "부드러운";
+
+"filter_Po7" = "일몰";
+
+"filter_Po8" = "차가운 산소";
+
+"filter_Po9" = "바다의 초상화";
+
+"filter_S1" = "미국 영화";
+
+"filter_S2" = "레드 레트로";
+
+"filter_S3" = "여행";
+
+"filter_S4" = "따뜻한 노란색";
+
+"filter_S5" = "블루스 필름";
+
+"filter_aikefa" = "EK";
+
+"filter_aizhicheng" = "사랑의 도시";
+
+"filter_baixi" = "공정한";
+
+"filter_baixue" = "백설공주";
+
+"filter_beihaidao" = "홋카이도";
+
+"filter_campan" = "플라티코돈";
+
+"filter_chalk" = "부드러운 흰색";
+
+"filter_chaobai" = "울트라 화이트";
+
+"filter_chulian" = "첫사랑";
+
+"filter_chuxin" = "원래 의도";
+
+"filter_degula" = "드라큘라";
+
+"filter_dongren" = "움직이는";
+
+"filter_feifan" = "비범한";
+
+"filter_fenci" = "핑크 도자기";
+
+"filter_fushi" = "FJ";
+
+"filter_gaoqing" = "고화질";
+
+"filter_guowang" = "과거";
+
+"filter_haian" = "해안";
+
+"filter_heben" = "햅번";
+
+"filter_heibai" = "흑백";
+
+"filter_heijin" = "블랙 골드";
+
+"filter_hongchun" = "빨간 입술";
+
+"filter_huanfu" = "피부 회춘";
+
+"filter_huopo" = "활기찬";
+
+"filter_hutaomu" = "호두";
+
+"filter_jiari" = "휴일";
+
+"filter_jingdu" = "교토";
+
+"filter_jinshu" = "금속";
+
+"filter_julandiao" = "오렌지 블루스";
+
+"filter_kameier" = "카멜";
+
+"filter_kangtaishi" = "CT";
+
+"filter_landiao" = "블루스";
+
+"filter_lengbaipi" = "차가운 하얀 피부";
+
+"filter_lengxi" = "콜드 시스템";
+
+"filter_liangju" = "밝은 오렌지";
+
+"filter_liaoli" = "요리";
+
+"filter_lise" = "마룬";
+
+"filter_lolita" = "로리타";
+
+"filter_lvyan" = "그린 얀";
+
+"filter_makalong" = "마카롱";
+
+"filter_mitao" = "복숭아";
+
+"filter_mopian" = "무성영화";
+
+"filter_mousse" = "무스";
+
+"filter_musi" = "가벼운 따뜻함";
+
+"filter_naihui" = "우유 재";
+
+"filter_naiyou" = "크림";
+
+"filter_nuanshi" = "따뜻한 음식";
+
+"filter_oxgen" = "산소";
+
+"filter_qiangwei" = "장미";
+
+"filter_qingcheng" = "녹색 오렌지";
+
+"filter_qingchun" = "순수한";
+
+"filter_qingyang" = "가벼운 산소";
+
+"filter_qipaoshui" = "반짝이는 물";
+
+"filter_quqi" = "쿠키";
+
+"filter_rixi" = "일본어";
+
+"filter_riza" = "기타";
+
+"filter_rouhe" = "부드러운";
+
+"filter_shenhe" = "짙은 갈색";
+
+"filter_shensui" = "심오한";
+
+"filter_shenyeshitang" = "심야 카페테리아";
+
+"filter_suying" = "캠핑";
+
+"filter_tanshao" = "숯불 굽기";
+
+"filter_touliang" = "반투명";
+
+"filter_tuise" = "페이드";
+
+"filter_wanying" = "이브닝 체리";
+
+"filter_weixun" = "약간 취한";
+
+"filter_wuye" = "미즈노";
+
+"filter_wuyu" = "이야기";
+
+"filter_yelin" = "코코넛 그로브";
+
+"filter_yinglang" = "터프";
+
+"filter_yinhua" = "벚꽃";
+
+"filter_youhua" = "유화";
+
+"filter_yuansheng" = "네이티브";
+
+"filter_yuanxiangji" = "오리지널 카메라";
+
+"filter_zhengchang" = "정상";
+
+"filter_ziran" = "자연";
+
+"beauty_Android_fenbai_lite_whiten" = "화이트닝 - 핑크 화이트";
+
+"beauty_Android_lengbai_lite_whiten" = "미백 - 미백";
+
+"beauty_Android_lite_BEF_BEAUTY_BRIGHTEN_EYE" = "눈 - 밝은 눈";
+
+"beauty_Android_lite_BEF_BEAUTY_REMOVE_POUCH" = "눈 - 다크 서클";
+
+"beauty_Android_lite_BEF_BEAUTY_SMILES_FOLDS" = "얼굴 - 비골 주름";
+
+"beauty_Android_lite_smooth" = "피부 마찰";
+
+"beauty_Android_rosy_lite_rosy" = "미백 - 발그레";
+
+"beauty_Android_standard_clear" = "분명한";
+
+"beauty_Android_standard_sharp" = "날카롭게";
+
+"beauty_Android_standard_smooth" = "피부 마찰";
+
+"beauty_Android_video_BEF_BEAUTY_REMOVE_POUCH" = "눈 - 다크 서클";
+
+"beauty_Android_video_BEF_BEAUTY_SMILES_FOLDS" = "얼굴 - 비골 주름";
+
+"beauty_IOS_fenbai_lite_whiten" = "화이트닝 - 핑크 화이트";
+
+"beauty_IOS_lengbai_lite_whiten" = "미백 - 미백";
+
+"beauty_IOS_lite_BEF_BEAUTY_BRIGHTEN_EYE" = "눈 - 밝은 눈";
+
+"beauty_IOS_lite_BEF_BEAUTY_REMOVE_POUCH" = "눈 - 다크 서클";
+
+"beauty_IOS_lite_BEF_BEAUTY_SMILES_FOLDS" = "얼굴 - 비골 주름";
+
+"beauty_IOS_lite_smooth" = "피부 마찰";
+
+"beauty_IOS_rosy_lite_rosy" = "미백 - 발그레";
+
+"beauty_IOS_standard_clear" = "분명한";
+
+"beauty_IOS_standard_sharp" = "날카롭게";
+
+"beauty_IOS_standard_smooth" = "피부 마찰";
+
+"beauty_IOS_video_BEF_BEAUTY_REMOVE_POUCH" = "눈 - 다크 서클";
+
+"beauty_IOS_video_BEF_BEAUTY_SMILES_FOLDS" = "얼굴 - 비골 주름";
+
+"comment_failed" = "댓글 실패";
+
+"double_eye_lid/newmoon_BEF_BEAUTY_EYE_SINGLE_TO_DOUBLE" = "눈 - 쌍꺼풀";
+
+"reshape_v8_BEF_BEAUTY_BODY_SHRINK_HEAD" = "얼굴 - 작은 머리";
+
+"reshape_v8_Face_ALL_boy" = "얼굴 - 얇은 얼굴 - 남성 신";
+
+"reshape_v8_Face_ALL_girl" = "얼굴 - 얇은 얼굴 - 뮤즈";
+
+"reshape_v8_Face_ALL_nature" = "얼굴 - 얇은 얼굴 - 자연스러운";
+
+"reshape_v8_Internal_Deform_Face" = "얼굴 - 작은 얼굴";
+
+"reshape_v8_Internal_Deform_MouthCorner" = "입 - 미소";
+
+"reshape_v8_Internal_Deform_Short_Face" = "얼굴 - 짧은 얼굴";
+
+"reshape_v8_Internal_Deform_VFace" = "얼굴-V 얼굴";
+
+"reshape_v8_lite_BEF_BEAUTY_BODY_SHRINK_HEAD" = "얼굴 - 작은 머리";
+
+"reshape_v8_lite_Face_ALL_boy" = "얼굴 - 얇은 얼굴 - 남성 신";
+
+"reshape_v8_lite_Face_ALL_girl" = "얼굴 - 얇은 얼굴 - 뮤즈";
+
+"reshape_v8_lite_Face_ALL_nature" = "얼굴 - 얇은 얼굴 - 자연스러운";
+
+"reshape_v8_lite_Internal_Deform_CutFace" = "얼굴 - 좁은 얼굴";
+
+"reshape_v8_lite_Internal_Deform_Eye" = "눈 - 크기";
+
+"reshape_v8_lite_Internal_Deform_Face" = "얼굴 - 작은 얼굴";
+
+"reshape_v8_lite_Internal_Deform_MouthCorner" = "입 - 미소";
+
+"reshape_v8_lite_Internal_Deform_Zoom_Cheekbone" = "얼굴 - 광대뼈";
+
+"reshape_v8_lite_Internal_Deform_Zoom_Jawbone" = "얼굴 - 턱";
+
+"sharpen_Android_lite_sharp" = "날카롭게";
+
+"sharpen_IOS_lite_sharp" = "날카롭게";
+
+"whiten_clear_Android_lite_clear" = "분명한";
+
+"whiten_clear_Android_lite_whiten" = "미백 - 내추럴";
+
+"whiten_clear_IOS_lite_clear" = "분명한";
+
+"whiten_clear_IOS_lite_whiten" = "미백 - 내추럴";
+
+"whiten_teeth_Android_lite_BEF_BEAUTY_WHITEN_TEETH" = "입 - 하얀 이빨";
+
+"whiten_teeth_IOS_lite_BEF_BEAUTY_WHITEN_TEETH" = "입 - 하얀 이빨";
+
+"whiten_teeth_standard_BEF_BEAUTY_WHITEN_TEETH" = "입 - 하얀 이빨";

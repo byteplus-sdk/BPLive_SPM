@@ -1,0 +1,54 @@
+//
+
+//
+
+#pragma once
+
+namespace bytertc {
+
+/**
+ * 
+ * @hidden(Windows,Linux,macOS)
+ * @type callback
+ * @brief Speech recognition service usage status callback <br>
+ * Note: Callback functions are thrown synchronously in a non-UI thread within the SDK. Therefore, you must not perform any time-consuming operations or direct UI operations within the callback function, as this may cause the app to crash.
+ */
+class IRTCASREngineEventHandler {
+public:
+    
+    /**
+     * 
+     * @hidden constructor/destructor
+     * @brief Destructor
+     */
+    virtual ~IRTCASREngineEventHandler() {
+    }
+    
+    /**
+     * 
+     * @type callback
+     * @brief  Speech recognition service starts successful callback
+     */
+    virtual void onSuccess() = 0;
+    
+    /**
+     * 
+     * @type callback
+     * @brief Callback of successful voice to text conversion. All the recognized text is returned through this callback.
+     * @param message Text message obtained after the completion of the recognition
+     * @note If the network connection is interrupted during the recognition process, the callback after the reconnection carries only the text message recognized after the reconnection.
+     */
+    virtual void onMessage(const char* message) = 0;
+    
+    /**
+     * 
+     * @type callback
+     * @brief This callback is triggered when an error event occurs within the speech recognition service.
+     * @param error_code Error code <br>
+     *         - < 0: parameter error or API call order error. See RTCASRErrorCode{@link #RTCASRErrorCode};
+     *         - > 0: see [speech recognition service error code](https:
+     * @param error_message Detailed error message
+     */
+    virtual void onError(int error_code, const char* error_message) = 0;
+};
+}  

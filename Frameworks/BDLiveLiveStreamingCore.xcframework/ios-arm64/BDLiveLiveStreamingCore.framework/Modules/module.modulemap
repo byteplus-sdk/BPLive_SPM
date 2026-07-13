@@ -1,0 +1,5 @@
+framework module BDLiveLiveStreamingCore {
+  umbrella header "BDLiveLiveStreamingCore.h"
+  export *
+  module * { export * }
+}

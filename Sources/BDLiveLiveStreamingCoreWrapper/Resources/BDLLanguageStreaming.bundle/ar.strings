@@ -1,0 +1,954 @@
+
+"1080p" = "بلو راي 1080p";
+
+"480p" = "SD 480p";
+
+"540p" = "عالية الوضوح 540p";
+
+"720p" = "فائقة الوضوح 720p";
+
+"abandoned_after_exiting" = "بعد الخروج ، سيتم إحباط جميع العمليات الحالية";
+
+"alert_close_live" = "هل أنت متأكد من إغلاق البث المباشر ؟";
+
+"alert_emoji_not_support" = "لم يتم دعم إدخال الرموز التعبيرية حتى الآن.";
+
+"alert_flash_lamp_error" = "عذرا ، فشل الحصول على إذن فلاش.";
+
+"alert_max_15" = "أدخل حتى 15 حرف";
+
+"alert_max_200" = "أدخل حتى 200 حرف";
+
+"alert_msg_screen_switch" = "اتجاه شاشة البث المباشر على وشك التغيير. هل تريد التبديل ؟";
+
+"alert_msg_screen_switch_camera" = "اتجاه شاشة البث المباشر على وشك التغيير ، وستتغير القلادة الموجودة في اللوحة القماشية. هل تريد التبديل ؟";
+
+"alert_no_camera" = "لم أحصل على إذن الكاميرا. هل تريد منح إذن %@ في الإعدادات ؟";
+
+"alert_no_microphone" = "لم أحصل على إذن الميكروفون. هل تريد منح %@ هذا الإذن في الإعدادات ؟";
+
+"alert_no_photo_library" = "لم تحصل على إذن الألبوم ، انتقل إلى الإعدادات لمنح إذن %@ ؟";
+
+"alert_only_rear_camera" = "الفلاش مسموح به فقط في مشاهد الكاميرا الخلفية";
+
+"alert_screen_switch" = "تبديل الشاشة المطالبات";
+
+"apply_now" = "استخدام فورا";
+
+"back" = "العودة";
+
+"basic_information" = "معلومات أساسية";
+
+"basic_information_add_label" = "اضافة";
+
+"basic_information_cover_label_%ld" = "الصيغ المدعومة: JPG و PNG. حجم الملف: لا يزيد عن %ld ميغابايت.";
+
+"basic_information_description_switch_label" = "أظهر وصف البث المباشر في البث المباشر.";
+
+"basic_information_description_textview_label" = "وصف المحتوى";
+
+"basic_information_description_textview_placeholder" = "أدخل وصف البث المباشر";
+
+"basic_information_edit_label" = "تعديل";
+
+"basic_information_live_tag" = "تصنيف البث المباشر";
+
+"basic_information_live_tag_changed_error" = "تم تحديث تصنيف البث المباشر ، يرجى المحاولة مرة أخرى.";
+
+"basic_information_live_tag_count" = "%d واحد";
+
+"basic_information_live_tag_empty_title" = "لا توجد فئات بديلة";
+
+"basic_information_live_title_textview_placeholder" = "أدخل عنوان البث المباشر";
+
+"basic_information_nav_account_avatar" = "أفاتار الحساب";
+
+"basic_information_nav_account_name" = "اسم الحساب";
+
+"basic_information_nav_cover" = "صورة الغلاف";
+
+"basic_information_nav_description" = "وصف البث المباشر";
+
+"basic_information_nav_live_title" = "عنوان البث المباشر";
+
+"beauty" = "الجمال";
+
+"big_eyes" = "العيون الكبيرة";
+
+"camera_live" = "فيديو";
+
+"cancel" = "الغاء";
+
+"caton" = "بطاقة";
+
+"change_avatar" = "تغير";
+
+"choose_sharpness" = "اختر التعريف";
+
+"clean" = "واضح الشاشة";
+
+"clear" = "واضح";
+
+"clear_pendants_layer" = "قلادة فارغة";
+
+"click_to_edit_template_name" = "اسم القالب انقر لتحرير";
+
+"closing_live_streaming" = "تم إغلاق البث المباشر ، يرجى الانتظار.";
+
+"comment_input_placeholder" = "تحدث مع الجميع";
+
+"confirm" = "اوك";
+
+"confirm_delete_template" = "هل أنت متأكد أنك تريد حذف القالب ؟";
+
+"confirm_delete_widget_and_layer" = "تأكيد إزالة القلادة ؟ بعد الحذف ، سيتم أيضًا حذف الطبقة التي تستخدم القلادة.";
+
+"confirm_exit" = "تأكيد الإقلاع عن التدخين ؟";
+
+"confirm_switch" = "تأكيد التسليم";
+
+"create_template" = "قالب جديد";
+
+"delete" = "احذف";
+
+"delete_all_comment" = "تأكيد مسح جميع التعليقات ؟";
+
+"delete_comment" = "تعليقات واضحة";
+
+"delete_string" = "احذف";
+
+"delete_template_pendent_warning" = "القلادة تنتمي إلى قالب %@. بعد الحذف ، يجب تنزيل القالب مرة أخرى. تأكيد الحذف ؟";
+
+"download" = "تحميل";
+
+"download_now" = "تحميل الآن";
+
+"exit" = "اعتزل";
+
+"filter" = "فلتر";
+
+"flash_lamp" = "فلاش";
+
+"flip" = "اقلب";
+
+"go_edit" = "للتعديل";
+
+"go_setting" = "اذهب إلى الإعدادات";
+
+"good" = "جيد";
+
+"has_update" = "هناك تحديث.";
+
+"i_got_it" = "أوه ، أرى.";
+
+"image_size_over_%dM_need_reselect" = "تجاوزت الصورة %dM، يرجى إعادة رفعها";
+
+"is_empty" = "فاضي";
+
+"landscape" = "شاشة أفقية";
+
+"layer" = "طبقة";
+
+"live_end_start_tip" = "انتهى البث المباشر. إذا كنت بحاجة إلى بدء تشغيله مرة أخرى ، فيرجى إعادة ضبط وقت البث المباشر.";
+
+"live_has_been_started" = "أصبح البث المباشر مباشرًا ولا يمكن تشغيله.";
+
+"live_head_online_label" = "%ld على الانترنت";
+
+"live_room_name_cannot_be_blank" = "لا يمكن أن يكون اسم البث المباشر فارغًا.";
+
+"live_time_left" = "غادر %02ld حتى نهاية البث المباشر: %02ld: %02ld";
+
+"media" = "ملف الوسائط";
+
+"mirror" = "صورة المرآة";
+
+"more" = "أكثر";
+
+"msg_net_error" = "فشل طلب الشبكة. يرجى المحاولة مرة أخرى";
+
+"msg_net_error_extra_long" = "حرف الإدخال طويل جدًا ، يرجى إعادة إدخاله.";
+
+"mute" = "كتم الصوت";
+
+"narrow_face" = "وجه ضيق";
+
+"net_abnormal" = "شذوذ الشبكة";
+
+"net_error_btn_text" = "إعادة المحاولة";
+
+"net_error_text" = "الشبكة الحالية غير متوفرة ، يرجى التحقق من اتصال الشبكة وإعادة المحاولة";
+
+"network_request_error" = "خطأ في طلب الشبكة";
+
+"nick_name_cannot_be_blank" = "الاسم المستعار لا يمكن أن يكون فارغا!";
+
+"no" = "الغاء";
+
+"no_template" = "لا يوجد قالب بعد";
+
+"off_line" = "لا شبكة";
+
+"only_support_20_layer" = "يدعم ما يصل إلى 20 طبقة.";
+
+"pendants" = "قلادة";
+
+"pendants_layer" = "طبقة";
+
+"pendants_layer_camera" = "طبقة بورتريه";
+
+"pendants_layer_clear_alert_clear" = "فاضي";
+
+"pendants_layer_clear_alert_title" = "هل أنت متأكد من إفراغ جميع المعلقات ؟";
+
+"pendants_layer_down" = "تحرك للأسفل";
+
+"pendants_layer_hide" = "يخفي";
+
+"pendants_layer_show" = "عرض";
+
+"pendants_layer_tips" = "اضغط لفترة طويلة لسحب الطبقة بسرعة لضبط الطلب ~";
+
+"pendants_layer_up" = "حركي فوق";
+
+"please_input" = "الرجاء إدخال (في غضون 15 حرفا)";
+
+"popularity" = "شعبية";
+
+"portrait" = "شاشة بورتريه";
+
+"products" = "حقيبة تسوق";
+
+"products_add_added" = "مضاف";
+
+"products_add_added_des" = "تم إضافة المنتج الخاص بك.";
+
+"products_add_addnew" = "جديد";
+
+"products_add_done" = "مكتمل.";
+
+"products_add_shop_cross_text" = "السعر الأصلي للبضائع";
+
+"products_add_shop_highlight" = "السعر الحالي";
+
+"products_add_shop_image" = "إضافة صورة الغلاف";
+
+"products_add_shop_image_des" = "يوصى بتحميل نسبة 1: 1 لمنع تمدد الصورة.";
+
+"products_add_shop_name" = "اسم المنتج";
+
+"products_add_shop_name_placeholder" = "الرجاء إدخال اسم المنتج";
+
+"products_add_shop_price_placehoder" = "الرجاء إدخال سعر المنتج.";
+
+"products_add_shop_url" = "رابط المنتج";
+
+"products_add_shop_url_placeholder" = "http: /";
+
+"products_add_submit" = "يسلم";
+
+"products_can_not_pin_tip" = "المنتج الحالي لا يحتوي على صور مضافة ولا يمكن تصدره.";
+
+"products_cancel_pin" = "إلغاء القمة";
+
+"products_checkmark" = "عملية دفعة";
+
+"products_confirm_delete" = "هل تؤكد الحذف ؟";
+
+"products_confirm_delete_content" = "لا يمكن استعادة المنتج بعد حذفه ، يرجى العمل بحذر.";
+
+"products_delete_count" = "تحذف (%ld)";
+
+"products_edit" = "تعديل";
+
+"products_edit_title" = "تحرير المنتج";
+
+"products_empty" = "لم تتم إضافة أي منتجات إلى البطاقة الحالية.";
+
+"products_empty_tip" = "انقر فوق إضافة منتج";
+
+"products_filter" = "فلتر";
+
+"products_info_changed_error" = "تم تحديث القائمة الحالية معلومات المنتج ، يرجى المحاولة مرة أخرى.";
+
+"products_list" = "وضع على الرفوف";
+
+"products_more" = "أكثر";
+
+"products_number_count" = "مجموع %ld الأصناف";
+
+"products_order" = "ضبط النظام";
+
+"products_pin_to_top" = "القمة";
+
+"products_quantity_limit_error" = "وصلت قائمة المنتجات الحالية إلى الحد الأقصى لعدد المنتجات 500. يرجى حذف بعض المنتجات والاستمرار في إضافتها.";
+
+"products_reorder_guide" = "انقر واسحب الصورة لضبط ترتيب المنتج.";
+
+"products_reset" = "إعادة الضبط";
+
+"products_search" = "بحث";
+
+"products_search_empty" = "لم يتم العثور على منتجات ذات صلة.";
+
+"products_search_placeholder" = "الرجاء إدخال اسم المنتج";
+
+"products_select_all" = "اختر الكل";
+
+"products_sure" = "تأكيد";
+
+"products_sure_count" = "تأكيد (%ld)";
+
+"products_title" = "منتج البث المباشر";
+
+"products_unlist" = "قبالة الرف";
+
+"prompt" = "تلميح";
+
+"props" = "دعامة";
+
+"replay_comment" = "ردي";
+
+"resolution" = "الوضوح";
+
+"rotate_to_landscape_to_apply_template" = "البث المباشر الحالي في الوضع الرأسي ، هل أنت متأكد من التبديل إلى شاشة أفقية ، وتطبيق هذا القالب ؟";
+
+"rotate_to_portrait_to_apply_template" = "البث المباشر الحالي في الوضع الأفقي. هل أنت متأكد من التبديل إلى الشاشة العمودية وتطبيق هذا القالب ؟";
+
+"rotate_to_save_landscape" = "على وشك التبديل إلى الوضع الأفقي وإنشاء قالب جديد";
+
+"rotate_to_save_portrait" = "على وشك التبديل إلى الوضع الرأسي وإنشاء قالب جديد";
+
+"save" = "حفظ";
+
+"save_error" = "فشل الحفظ ، يرجى المحاولة مرة أخرى";
+
+"save_landscape_template" = "هل أنت متأكد أنك تريد الحفظ كقالب أفقي ؟";
+
+"save_portrait_template" = "هل أنت متأكد من الحفظ كقالب عمودي ؟";
+
+"save_success" = "تم الحفظ بنجاح";
+
+"screen_live" = "تسجيل الشاشة";
+
+"screen_share_hint" = "بعد بدء البث المباشر ، سيرى الجمهور المحتوى على شاشة هاتفك في الوقت الفعلي";
+
+"screen_sharing_hint" = "أثناء تسجيل الشاشة ، يمكنك التبديل إلى واجهات أخرى للهاتف المحمول للبث المباشر.";
+
+"skin_grinding" = "جلدي";
+
+"smooth_live_only_support_10_gif" = "من أجل ضمان البث المباشر السلس ، يتم دعم 10 صور GIF فقط.";
+
+"start_live" = "بدء بث مباشر";
+
+"start_live_fail" = "فشل Go LIVE ، يرجى المحاولة مرة أخرى";
+
+"sweep_to_switch" = "الشريحة اليسار واليمين للتبديل القوالب";
+
+"template" = "قالب";
+
+"template_can_not_save_without_name" = "لا يمكن حفظ اسم القالب غير المعبأ";
+
+"template_delete_hint" = "بعد حذف القالب ، لن يتمكن المستخدمون الآخرون من استخدامه";
+
+"template_download_first" = "يرجى تنزيل القالب أولاً ثم تحريره.";
+
+"template_has_update_click_to_download" = "تم تحديث القالب ، انقر للتنزيل.";
+
+"template_not_exist" = "القالب غير موجود أو تم حذفه";
+
+"template_save_hint" = "سيتم حفظ إعدادات الجمال والدعائم والمعلقات والطبقة كقوالب معًا.";
+
+"text" = "النص";
+
+"thin_cheekbones" = "عظام الخد العجاف";
+
+"thin_face" = "وجه رقيق";
+
+"thin_mandible" = "العجاف الفك السفلي";
+
+"thin_nose" = "أنف نحيف";
+
+"toast_landscape_live" = "تحولت إلى الذهاب لايف في وضع أفقي ، يتم عرض الشاشة أفقيا";
+
+"toast_portrait_live" = "تم تحويله إلى البث المباشر بشكل عمودي ، ويتم عرض الشاشة عموديًا.";
+
+"ttlv_pendents_upload" = "رفع الصورة";
+
+"tvu_product_library_please_search" = "البحث الآن";
+
+"tvu_product_library_search_tip" = "بعد إدخال محتوى البحث ، اعرض نتائج البحث";
+
+"tvu_push_product_lib_response_error" = "خطأ في الإرجاع ، يرجى التحقق من محتوى الإرجاع";
+
+"tvu_push_product_lib_timeout" = "مهلة الطلب";
+
+"tvupush_product_add_library" = "أضف من مكتبة المنتجات";
+
+"tvupush_product_library_add" = "اضافة";
+
+"tvupush_product_library_search_result_empty" = "لا توجد عناصر تطابق معايير البحث الحالية";
+
+"tvupush_product_library_uncorrelated" = "لا توجد مكتبة منتجات مرتبطة بهذا البث المباشر.";
+
+"tvupush_product_most_product_added" = "إضافة ما يصل إلى 500 منتج";
+
+"tvupush_product_no_products_yet" = "لا توجد منتجات حتى الآن";
+
+"tvupush_product_title_add" = "إضافة المنتج";
+
+"tvupush_send_success" = "تم الإرسال بنجاح";
+
+"tvupush_start_time_not_yet_toast" = "لم يحن وقت البث المباشر ، يرجى بدء البث المباشر بعد وقت بدء البث المباشر.";
+
+"unknown" = "مجهول";
+
+"unsupport_gif_warning" = "تنسيق GIF غير مدعوم ، يرجى إعادة التحميل";
+
+"unsupport_rotate_to_landscape_hint" = "القوالب التي لا تدعم تبديل الوضع الأفقي في Go LIVE";
+
+"unsupport_rotate_to_portrait_hint" = "القوالب التي لا تدعم تبديل الوضع الرأسي في Go LIVE";
+
+"unsupported_broadcast_title" = "إصدار الخدمة الحالي لا يدعم البث المباشر.";
+
+"unsupported_feature_title" = "إصدار الخدمة الحالي لا يدعم هذه الميزة";
+
+"unsupported_version_message" = "لا يدعم إصدار الحساب الحالي هذه الوظيفة ، يرجى الاتصال بخدمة العملاء لترقية إصدار الخدمة.";
+
+"whitening" = "تبييض";
+
+"俄语" = "الروسية";
+
+"印尼语" = "الإندونيسية";
+
+"土耳其语" = "تركي";
+
+"日文" = "ياباني";
+
+"泰语" = "التايلاندية";
+
+"简中" = "الصينية المبسطة";
+
+"繁中" = "الصينية التقليدية";
+
+"英文" = "الإنجليزية";
+
+"葡萄牙语" = "البرتغالية";
+
+"西班牙语" = "الأسبانية";
+
+"越南语" = "الفيتنامية";
+
+"阿拉伯语" = "عربي";
+
+"韩语" = "كوري";
+
+"tvupush_filter_01" = "أبيض ناعم";
+
+"tvupush_filter_02" = "كريم";
+
+"tvupush_filter_03" = "أكسجين";
+
+"tvupush_filter_04" = "بلاتيكودون";
+
+"tvupush_filter_05" = "لوليتا";
+
+"tvupush_filter_06" = "خوخ";
+
+"tvupush_filter_07" = "معكرون";
+
+"tvupush_filter_08" = "رغوة";
+
+"tvupush_filter_09" = "زهر الكرز";
+
+"tvupush_filter_10" = "ضوء دافئ";
+
+"tvupush_filter_11" = "قصة";
+
+"tvupush_filter_12" = "هوكايدو";
+
+"tvupush_filter_13" = "متفرقات";
+
+"tvupush_filter_14" = "سياتل";
+
+"tvupush_filter_15" = "هادي";
+
+"tvupush_filter_16" = "فيلم";
+
+"tvupush_filter_17" = "الشمس الدافئة";
+
+"tvupush_filter_18" = "ايام زمان";
+
+"tvupush_filter_19" = "أحمر الشفاه";
+
+"tvupush_filter_20" = "البلوز البرتقالي";
+
+"tvupush_filter_21" = "تتلاشى";
+
+"tvupush_filter_22" = "اسود و ابيض";
+
+"tvupush_filter_23" = "رقيق";
+
+"tvupush_filter_24" = "الحب حلو جدا";
+
+"tvupush_filter_25" = "اول نظره";
+
+"tvupush_filter_26" = "نغمة داكنة";
+
+"tvupush_filter_27" = "شاي بالحليب";
+
+"tvupush_filter_28" = "لينة";
+
+"tvupush_filter_29" = "غروب الشمس";
+
+"tvupush_filter_30" = "الأكسجين البارد";
+
+"tvupush_filter_31" = "صورة عن طريق البحر";
+
+"tvupush_filter_32" = "قسط رمادي";
+
+"tvupush_filter_33" = "الجزيرة";
+
+"tvupush_filter_34" = "صيف خفيف";
+
+"tvupush_filter_35" = "الليل";
+
+"tvupush_filter_36" = "احمر بني";
+
+"tvupush_filter_37" = "واضح";
+
+"tvupush_filter_38" = "الطبيعة";
+
+"tvupush_filter_39" = "صودا";
+
+"tvupush_filter_40" = "كاليفورنيا";
+
+"tvupush_filter_41" = "لون الطعام";
+
+"tvupush_filter_42" = "نكهة سيتشوان";
+
+"tvupush_filter_43" = "فيلم أمريكي";
+
+"tvupush_filter_44" = "الأحمر الرجعية";
+
+"tvupush_filter_45" = "رحلة";
+
+"tvupush_filter_46" = "أصفر دافئ";
+
+"tvupush_filter_47" = "بلوز فيلم";
+
+"tvupush_filter_48" = "البشرة البيضاء الباردة";
+
+"tvupush_filter_49" = "شفاف";
+
+"tvupush_filter_50" = "برتقالة زاهية";
+
+"tvupush_filter_51" = "الجوز";
+
+"tvupush_filter_52" = "بني غامق";
+
+"tvupush_filter_53" = "دراكولا";
+
+"tvupush_filter_54" = "كستنائي";
+
+"tvupush_filter_55" = "جوز الهند غروف";
+
+"tvupush_filter_56" = "الطعام الدافئ";
+
+"tvupush_filter_57" = "المياه الفوارة";
+
+"tvupush_filter_58" = "الطبخ";
+
+"tvupush_filter_59" = "حرق الفحم";
+
+"tvupush_filter_60" = "كيوتو";
+
+"tvupush_filter_61" = "الساحل";
+
+"tvupush_filter_62" = "غرين يان";
+
+"tvupush_filter_63" = "مساء الكرز";
+
+"tvupush_filter_64" = "اخضر برتقالي";
+
+"tvupush_filter_65" = "مدينة الحب";
+
+"tvupush_filter_66" = "CT";
+
+"tvupush_filter_67" = "EK";
+
+"tvupush_filter_68" = "FJ";
+
+"tvupush_filter_69" = "الذهب الأسود";
+
+"tvupush_filter_70" = "هيبورن";
+
+"模板下载失败，挂件剩余个数不足" = "فشل تنزيل القالب ، والعدد المتبقي من المعلقات غير كافٍ.";
+
+"filter_normal" = "عادي";
+
+"tvupush_link_sidebar" = "عرض الشريط الجانبي";
+
+"tvupush_link_user_upper_limit" = "وصل أفراد Lianmai الحاليون إلى الحد الأعلى";
+
+"tvupush_link_confirm_microphone_tip" = "بعد البدء في توصيل القمح ، لن يتم عرض قلادة الطبقة الحالية. هل تريد تأكيد البداية ؟";
+
+"tvupush_link_list_empty" = "لا يوجد مشاهدون ليان ماي في الوقت الحالي ~";
+
+"tvupush_link_start" = "بدء الاتصال مع القمح";
+
+"tvupush_link_view" = "منظر";
+
+"tvupush_link_confirm_mike" = "تأكيد نهاية الجمهور ليان مي ؟";
+
+"tvupush_link_remove" = "إزالة";
+
+"tvupush_link_remove_microphone" = "إزالة Lianmai";
+
+"tvupush_link_quit_mike" = "حاليًا في Lianmai ، ستخرج نهاية المضيف المشارك من Lianmai الحالي";
+
+"tvupush_link_camera" = "الكاميرا";
+
+"tvupush_link_stop" = "نهاية ليانماي";
+
+"tvupush_link_microphone" = "ميكروفون";
+
+"tvupush_link_view_settings" = "عرض الإعدادات";
+
+"tvupush_link_apply_list" = "قائمة التطبيق";
+
+"tvupush_link_audience" = "الجمهور ليان ماي";
+
+"tvupush_link_grid" = "منظر الشبكة";
+
+"tvupush_link_confirm_start" = "تأكيد بداية Lianmai ؟";
+
+"tvupush_link_confirm_to_remove" = "هل أنت متأكد أنك تريد إزالة\ n [%@] ؟";
+
+"tvupush_link_hint" = "بعد بدء Lianmai ، يمكن للجمهور بدء تطبيق Lianmai ،\ nup إلى 1v%ld video Lianmai مدعوم";
+
+"tvupush_link_user_action" = "تعمل على [%@]";
+
+"tvupush_link_resume_hint" = "آخر مرة ، لم ينته ليان ماي بشكل طبيعي.";
+
+"tvupush_link_resume_title" = "هل تحتاج إلى استعادة Lianmai ؟";
+
+"tvupush_link_start_fail" = "فشل Lianmai ، يرجى المحاولة مرة أخرى.";
+
+"tvupush_link_presenter" = "مضيف";
+
+"tvupush_link_accept" = "تقبلي";
+
+"tvupush_link_apply_send_fail" = "فشل إرسال الطلب ، يرجى المحاولة مرة أخرى.";
+
+"tvupush_link_apply_send_success" = "تم إرسال الطلب بنجاح";
+
+"filter_ABG" = "أبجي";
+
+"filter_F2" = "صودا";
+
+"filter_F3" = "كاليفورنيا";
+
+"filter_F4" = "لون الطعام";
+
+"filter_F5" = "نكهة سيتشوان";
+
+"filter_HUJI" = "هوجي";
+
+"filter_L1" = "الجزيرة";
+
+"filter_L2" = "صيف خفيف";
+
+"filter_L3" = "الليل";
+
+"filter_L4" = "احمر بني";
+
+"filter_L5" = "واضح";
+
+"filter_Po1" = "رقيق";
+
+"filter_Po10" = "قسط رمادي";
+
+"filter_Po2" = "الحب حلو جدا";
+
+"filter_Po3" = "اول نظره";
+
+"filter_Po4" = "نغمة داكنة";
+
+"filter_Po5" = "شاي بالحليب";
+
+"filter_Po6" = "ناعم";
+
+"filter_Po7" = "غروب الشمس";
+
+"filter_Po8" = "الأكسجين البارد";
+
+"filter_Po9" = "صورة عن طريق البحر";
+
+"filter_S1" = "فيلم أمريكي";
+
+"filter_S2" = "الأحمر الرجعية";
+
+"filter_S3" = "رحلة";
+
+"filter_S4" = "أصفر دافئ";
+
+"filter_S5" = "بلوز فيلم";
+
+"filter_aikefa" = "EK";
+
+"filter_aizhicheng" = "مدينة الحب";
+
+"filter_baixi" = "عادل";
+
+"filter_baixue" = "سنو وايت";
+
+"filter_beihaidao" = "هوكايدو";
+
+"filter_campan" = "بلاتيكودون";
+
+"filter_chalk" = "أبيض ناعم";
+
+"filter_chaobai" = "الترا الأبيض";
+
+"filter_chulian" = "الحب الأول";
+
+"filter_chuxin" = "اصلي النيه";
+
+"filter_degula" = "دراكولا";
+
+"filter_dongren" = "تتحرك";
+
+"filter_feifan" = "استثنائي";
+
+"filter_fenci" = "الخزف الوردي";
+
+"filter_fushi" = "FJ";
+
+"filter_gaoqing" = "عالية الوضوح";
+
+"filter_guowang" = "الماضي";
+
+"filter_haian" = "الساحل";
+
+"filter_heben" = "هيبورن";
+
+"filter_heibai" = "اسود و ابيض";
+
+"filter_heijin" = "الذهب الأسود";
+
+"filter_hongchun" = "أحمر الشفاه";
+
+"filter_huanfu" = "تجديد الجلد";
+
+"filter_huopo" = "حيو";
+
+"filter_hutaomu" = "الجوز";
+
+"filter_jiari" = "عطلة";
+
+"filter_jingdu" = "كيوتو";
+
+"filter_jinshu" = "معدن";
+
+"filter_julandiao" = "البلوز البرتقالي";
+
+"filter_kameier" = "كرمل";
+
+"filter_kangtaishi" = "CT";
+
+"filter_landiao" = "البلوز";
+
+"filter_lengbaipi" = "البشرة البيضاء الباردة";
+
+"filter_lengxi" = "نظام البرد";
+
+"filter_liangju" = "برتقالة زاهية";
+
+"filter_liaoli" = "الطبخ";
+
+"filter_lise" = "كستنائي";
+
+"filter_lolita" = "لوليتا";
+
+"filter_lvyan" = "غرين يان";
+
+"filter_makalong" = "معكرون";
+
+"filter_mitao" = "خوخ";
+
+"filter_mopian" = "فيلم صامت";
+
+"filter_mousse" = "موس";
+
+"filter_musi" = "ضوء دافئ";
+
+"filter_naihui" = "رماد الحليب";
+
+"filter_naiyou" = "كريم";
+
+"filter_nuanshi" = "الطعام الدافئ";
+
+"filter_oxgen" = "أكسجين";
+
+"filter_qiangwei" = "وردة";
+
+"filter_qingcheng" = "اخضر برتقالي";
+
+"filter_qingchun" = "نقي";
+
+"filter_qingyang" = "الأكسجين الخفيف";
+
+"filter_qipaoshui" = "المياه الفوارة";
+
+"filter_quqi" = "كوكي";
+
+"filter_rixi" = "ياباني";
+
+"filter_riza" = "متفرقات";
+
+"filter_rouhe" = "ناعم";
+
+"filter_shenhe" = "بني غامق";
+
+"filter_shensui" = "عميق";
+
+"filter_shenyeshitang" = "كافتيريا اخر الليل";
+
+"filter_suying" = "التخييم";
+
+"filter_tanshao" = "حرق الفحم";
+
+"filter_touliang" = "شفاف";
+
+"filter_tuise" = "تتلاشى";
+
+"filter_wanying" = "مساء الكرز";
+
+"filter_weixun" = "سكران شوي";
+
+"filter_wuye" = "ميزونو";
+
+"filter_wuyu" = "قصة";
+
+"filter_yelin" = "جوز الهند غروف";
+
+"filter_yinglang" = "قاسي";
+
+"filter_yinhua" = "زهر الكرز";
+
+"filter_youhua" = "لوحة زيتية";
+
+"filter_yuansheng" = "أصلي";
+
+"filter_yuanxiangji" = "الكاميرا الأصلية";
+
+"filter_zhengchang" = "عادي";
+
+"filter_ziran" = "الطبيعة";
+
+"beauty_Android_fenbai_lite_whiten" = "تبييض - وردي أبيض";
+
+"beauty_Android_lengbai_lite_whiten" = "تبييض - تبييض";
+
+"beauty_Android_lite_BEF_BEAUTY_BRIGHTEN_EYE" = "عيون - عيون مشرقة";
+
+"beauty_Android_lite_BEF_BEAUTY_REMOVE_POUCH" = "عيون - الهالات السوداء";
+
+"beauty_Android_lite_BEF_BEAUTY_SMILES_FOLDS" = "الوجه - الطيات الأنفية الشفوية";
+
+"beauty_Android_lite_smooth" = "جلدي";
+
+"beauty_Android_rosy_lite_rosy" = "تبييض - رودي";
+
+"beauty_Android_standard_clear" = "واضح";
+
+"beauty_Android_standard_sharp" = "شحذ";
+
+"beauty_Android_standard_smooth" = "جلدي";
+
+"beauty_Android_video_BEF_BEAUTY_REMOVE_POUCH" = "عيون - الهالات السوداء";
+
+"beauty_Android_video_BEF_BEAUTY_SMILES_FOLDS" = "الوجه - الطيات الأنفية الشفوية";
+
+"beauty_IOS_fenbai_lite_whiten" = "تبييض - وردي أبيض";
+
+"beauty_IOS_lengbai_lite_whiten" = "تبييض - تبييض";
+
+"beauty_IOS_lite_BEF_BEAUTY_BRIGHTEN_EYE" = "عيون - عيون مشرقة";
+
+"beauty_IOS_lite_BEF_BEAUTY_REMOVE_POUCH" = "عيون - الهالات السوداء";
+
+"beauty_IOS_lite_BEF_BEAUTY_SMILES_FOLDS" = "الوجه - الطيات الأنفية الشفوية";
+
+"beauty_IOS_lite_smooth" = "جلدي";
+
+"beauty_IOS_rosy_lite_rosy" = "تبييض - رودي";
+
+"beauty_IOS_standard_clear" = "واضح";
+
+"beauty_IOS_standard_sharp" = "شحذ";
+
+"beauty_IOS_standard_smooth" = "جلدي";
+
+"beauty_IOS_video_BEF_BEAUTY_REMOVE_POUCH" = "عيون - الهالات السوداء";
+
+"beauty_IOS_video_BEF_BEAUTY_SMILES_FOLDS" = "الوجه - الطيات الأنفية الشفوية";
+
+"comment_failed" = "فشل التعليق";
+
+"double_eye_lid/newmoon_BEF_BEAUTY_EYE_SINGLE_TO_DOUBLE" = "عيون - الجفون المزدوجة";
+
+"reshape_v8_BEF_BEAUTY_BODY_SHRINK_HEAD" = "وجه - رأس صغير";
+
+"reshape_v8_Face_ALL_boy" = "وجه - وجه رقيق - ذكر الله";
+
+"reshape_v8_Face_ALL_girl" = "وجه - وجه رقيق - موسى";
+
+"reshape_v8_Face_ALL_nature" = "وجه - وجه رقيق - طبيعي";
+
+"reshape_v8_Internal_Deform_Face" = "وجه - وجه صغير";
+
+"reshape_v8_Internal_Deform_MouthCorner" = "الفم - ابتسامة";
+
+"reshape_v8_Internal_Deform_Short_Face" = "وجه - وجه قصير";
+
+"reshape_v8_Internal_Deform_VFace" = "وجه-V";
+
+"reshape_v8_lite_BEF_BEAUTY_BODY_SHRINK_HEAD" = "وجه - رأس صغير";
+
+"reshape_v8_lite_Face_ALL_boy" = "وجه - وجه رقيق - ذكر الله";
+
+"reshape_v8_lite_Face_ALL_girl" = "وجه - وجه رقيق - موسى";
+
+"reshape_v8_lite_Face_ALL_nature" = "وجه - وجه رقيق - طبيعي";
+
+"reshape_v8_lite_Internal_Deform_CutFace" = "الوجه - الوجه الضيق";
+
+"reshape_v8_lite_Internal_Deform_Eye" = "عيون - حجم";
+
+"reshape_v8_lite_Internal_Deform_Face" = "وجه - وجه صغير";
+
+"reshape_v8_lite_Internal_Deform_MouthCorner" = "الفم - ابتسامة";
+
+"reshape_v8_lite_Internal_Deform_Zoom_Cheekbone" = "الوجه - عظام الخد";
+
+"reshape_v8_lite_Internal_Deform_Zoom_Jawbone" = "الوجه - الفك";
+
+"sharpen_Android_lite_sharp" = "شحذ";
+
+"sharpen_IOS_lite_sharp" = "شحذ";
+
+"whiten_clear_Android_lite_clear" = "واضح";
+
+"whiten_clear_Android_lite_whiten" = "تبييض - طبيعي";
+
+"whiten_clear_IOS_lite_clear" = "واضح";
+
+"whiten_clear_IOS_lite_whiten" = "تبييض - طبيعي";
+
+"whiten_teeth_Android_lite_BEF_BEAUTY_WHITEN_TEETH" = "الفم - أسنان بيضاء";
+
+"whiten_teeth_IOS_lite_BEF_BEAUTY_WHITEN_TEETH" = "الفم - أسنان بيضاء";
+
+"whiten_teeth_standard_BEF_BEAUTY_WHITEN_TEETH" = "الفم - أسنان بيضاء";

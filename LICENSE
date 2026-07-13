@@ -1,0 +1,52 @@
+BPLive SDK License
+
+Copyright 2025 BytePlus Pte. Ltd. All Rights Reserved.
+
+The BPLive was developed by Byteplus Pte. Ltd. (hereinafter "BytePlus"). Any copyright or patent right is owned by and proprietary material of BytePlus or its affiliates.
+
+BPLive is available under the BPLive and licensed under the commercial license. Customers can contact BytePlus through its portal https://www.byteplus.com for commercial licensing options.
+
+Access to or use of the foregoing is subject to the BytePlus Software License and Services Agreement,  which you agree to and accept by downloading or installing the foregoing software, found at: https://docs.byteplus.com/en/legal/docs/byteplus-software-license-and-services-agreement 
+
+Without BytePlus' prior written permission, any use of BPLive, in particular any use for commercial purposes, is prohibited. This includes, without limitation, incorporation in a commercial product, use in a commercial service, or production of other artefacts for commercial purposes.
+
+Without BytePlus' prior written permission, the BPLive may not be reproduced, modified and/or made available in any form to any third party.
+
+======
+Third-party files or components: 
+======
+Masonry
+  
+SPDX License Identifier: MIT License
+======
+YYModel
+  
+SPDX License Identifier: MIT License
+======
+YYCategories
+  
+SPDX License Identifier: MIT License
+======
+MBProgressHUD
+  
+SPDX License Identifier: MIT License
+======
+SDWebImage
+  
+SPDX License Identifier: MIT License
+======
+SDWebImageWebPCoder
+  
+SPDX License Identifier: MIT License
+======
+MJRefresh
+  
+SPDX License Identifier: MIT License
+======
+RangersAppLog
+  
+SPDX License Identifier: MIT License
+======
+TTSDKFramework
+  
+SPDX License Identifier: MIT License

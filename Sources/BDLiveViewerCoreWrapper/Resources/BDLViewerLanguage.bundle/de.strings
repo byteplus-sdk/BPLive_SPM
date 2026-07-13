@@ -1,0 +1,668 @@
+
+"%ld人" = "% ld Menschen";
+
+"%ld票" = "% ld Stimmen";
+
+"Confirm to quit the audience link" = "Bestätigen Sie, sich aus dem Publikum zurückzuziehen Lian Mai?";
+
+"Flip camera" = "Kamera umklappen";
+
+"Linking, quti will colse link" = "Derzeit in Lianmai, schließende Co-Gastgeber wird\ nexit die aktuelle Lianmai";
+
+"Mute" = "Stummschaltung";
+
+"Please go to System Settings to turn on relevant permissions." = "Bitte gehen Sie zu den Systemeinstellungen, um die entsprechenden Berechtigungen zu aktivieren.";
+
+"Turn off the camera" = "Schalten Sie die Kamera aus";
+
+"Turn on the camera" = "Schalten Sie die Kamera ein";
+
+"Unmute" = "Stummschaltung aufheben";
+
+"all-1" = "Alle";
+
+"apply_link" = "Bewerben Sie sich für Lianmai Middle...";
+
+"audio_call" = "Audio Lianmai";
+
+"available" = "Kann geöffnet werden";
+
+"award" = "Preis:";
+
+"award_and_detail" = " Preise:% @% ld Kopien, siehe Details";
+
+"award_award" = "Preis ";
+
+"award_award_comming" = "Eine Welle von Preisen kommt auf Sie zu.";
+
+"award_count" = "Anzahl der Preise:% d";
+
+"award_count_short" = "Menge ";
+
+"award_event_end" = "Die Veranstaltung ist beendet.";
+
+"award_fill_success" = "Die Gewinninformationen werden erfolgreich ausgefüllt.";
+
+"award_go_get_award" = "Gehen Sie, um den Preis abzuholen";
+
+"award_info_input_hint" = "Bitte geben Sie die Gewinninformationen so schnell wie möglich ein, um den Preis nicht zu verpassen\ nDas Recht, den Preis und den Anbieter zu erklären, liegt beim Veranstalter.";
+
+"award_info_input_title" = "Verbessern Sie die Gewinninformationen";
+
+"award_input_receiver" = "Bitte geben Sie Ihren Namen ein";
+
+"award_join_fail_tip" = "Scheitern der Teilnahme";
+
+"award_join_success_tip" = "Die Teilnahme ist erfolgreich, bitte haben Sie Geduld und warten Sie auf die Verlosung ~";
+
+"award_lost_empty_box" = "Leider ist die Kiste leer, machen Sie weiter so ~";
+
+"award_no_need_fill" = "Kein Ausfüllen erforderlich";
+
+"award_no_record_keep_going" = "Es gibt noch keine Erfolgsbilanz, arbeiten Sie weiter hart";
+
+"award_opened" = "Die Lotterie ist eröffnet.";
+
+"award_recipient" = "Empfänger";
+
+"award_repeat_join_tip" = "An der Lotterie teilgenommen";
+
+"award_result_dialog_tip" = "Das Recht, den Preis auszulegen und zur Verfügung zu stellen, liegt beim Veranstalter";
+
+"award_still_lock" = "Die Lotterie wurde noch nicht freigeschaltet, arbeiten Sie weiter hart ~";
+
+"award_to_be_filled" = "auszufüllen";
+
+"award_will_start" = "Die Lotterie fängt gleich an, bitte warten Sie einen Moment ~";
+
+"award_win_prize" = "Herzlichen Glückwunsch% @ Gewinn% @";
+
+"award_winner_count" = "Insgesamt% ld Menschen haben im Lotto gewonnen";
+
+"award_winner_hint" = "Der Gewinner füllt die Gewinninformationen am Eingang der interaktiven Tool-Lotterie so schnell wie möglich aus, um den Preis nicht zu verpassen ~";
+
+"award_winner_hint_highlight" = "Interaktive Tools - Gewinnspiele";
+
+"award_winner_list" = "Gewinnerliste";
+
+"back_continue_award" = "Rückkehr zur Fortsetzung der Lotterie";
+
+"back_to_live" = "Zurück zum Live-Stream";
+
+"buy_now" = "Jetzt kaufen";
+
+"buying_now_" = "Jetzt kaufen.";
+
+"cancel" = "Abbrechen";
+
+"cancel_request" = "Stornieren Sie den Antrag.";
+
+"card_see_explain" = "Lesen Sie die Erklärung";
+
+"cell_phone_number" = "Handynummer";
+
+"change_channel" = "Kanal wechseln";
+
+"change_language" = "Sprache wechseln";
+
+"clear_screen" = "Klarer Bildschirm";
+
+"click_for_the_draw" = "Zum Zeichnen anklicken";
+
+"click_one_click_join_btn_tip" = "Klicken Sie auf einen Klick, um an der automatischen Fertigstellung teilzunehmen";
+
+"click_replay" = "Klicken Sie, um erneut zu spielen.";
+
+"click_too_fast" = "Die Handgeschwindigkeit ist zu schnell, warte eine Minute ~";
+
+"comment_failed" = "Kommentar fehlgeschlagen";
+
+"comment_report_abet_btn_text" = "Verdacht auf / angestiftete Selbstverletzung und Selbstmord";
+
+"comment_report_advertise_btn_text" = "Werbekampagne";
+
+"comment_report_cheat_btn_text" = "Verdacht auf Betrug";
+
+"comment_report_curse_btn_text" = "Beleidigen Sie mich oder andere";
+
+"comment_report_edittext_hint" = "Bitte beschreiben Sie den Grund für den Bericht im Detail, damit die Plattform beurteilen kann, ob der Kommentar illegal ist.";
+
+"comment_report_other_btn_text" = "Sonstiges";
+
+"comment_report_post_btn_text" = "einreichen";
+
+"comment_report_title_text" = "Einen Kommentar melden";
+
+"comment_report_unlawful_btn_text" = "Verstöße gegen Gesetze und Vorschriften";
+
+"comment_report_vulgar_btn_text" = "Vulgäre Pornos";
+
+"confirm" = "OK";
+
+"congratulations_to_for" = "Herzlichen Glückwunsch% @ Gewinn% @";
+
+"congratulations_you_won_the_lottery" = "Herzlichen Glückwunsch, Sie haben im Lotto gewonnen.";
+
+"copy_link" = "Link kopieren";
+
+"copy_link_ok" = "Link erfolgreich kopieren";
+
+"count_down" = "Countdown";
+
+"days" = "Gott";
+
+"did_not_win" = "Hat nicht gewonnen";
+
+"disconnect mic" = "Trennen Sie den Weizen";
+
+"draw" = "Zweite Lotterie";
+
+"duration_colon" = "angesehen ";
+
+"email" = "E-Mail";
+
+"email_hint" = "Bitte geben Sie Ihre E-Mail-Adresse ein";
+
+"end" = "Ende";
+
+"entered_live_room" = "den Live-Stream betreten.";
+
+"exit_live_room" = "den Live-Stream verlassen";
+
+"fail_and_retry" = "Absenden fehlgeschlagen, bitte versuchen Sie es erneut";
+
+"failed_open_please_retry_later" = "konnte nicht geöffnet werden, bitte versuchen Sie es später noch einmal.";
+
+"fill_address" = "Bitte geben Sie die Lieferadresse ein.";
+
+"fill_email" = "Bitte geben Sie die richtige E-Mail Adresse ein.";
+
+"fill_phone_number" = "Bitte geben Sie die richtige Handynummer ein.";
+
+"fore_show" = "Teaser";
+
+"free_to_buy" = "frei greifen";
+
+"get_award" = "Preise einfordern";
+
+"getting_comments" = "Holen Sie sich Kommentare...";
+
+"gift_reward_effect_off" = "Geschenkeffekte aus";
+
+"gift_reward_effect_on" = "Geschenkeffekt auf";
+
+"gift_reward_effect_switch" = "Geschenk-Effekt";
+
+"gift_reward_free" = "Kostenlos";
+
+"gift_reward_not_enough" = "Unzureichende Punkte zum Trinkgeld";
+
+"gift_reward_point" = "Integral";
+
+"gift_reward_send" = "Geschenk";
+
+"gift_reward_service_exception" = "Punkte sind abnormal, bitte versuchen Sie es später noch einmal";
+
+"gift_reward_title" = "Geschenk";
+
+"gift_sent_hint" = "senden";
+
+"goods_receiving_information" = "Informationen zum Eingang";
+
+"got_it" = "Ich hab s.";
+
+"has_won" = "Gewinnen";
+
+"here_it_comes_" = "Jetzt kommt es.";
+
+"host" = "Gastgeber";
+
+"host_changed_nickname" = "Der Gastgeber hat Ihren Spitznamen geändert";
+
+"host_close_audio" = "Der Gastgeber hat Ihr Mikrofon ausgeschaltet.";
+
+"host_close_audio_and_video" = "Der Gastgeber hat Ihr Mikrofon und Ihre Kamera ausgeschaltet.";
+
+"host_close_video" = "Der Gastgeber hat Ihre Kamera ausgeschaltet.";
+
+"host_open_audio" = "Der Host beantragt, Ihr Mikrofon einzuschalten.";
+
+"host_open_audio_and_video" = "Der Host kann Ihr Mikrofon und Ihre Kamera einschalten.";
+
+"host_open_video" = "Der Host beantragt, Ihre Kamera einzuschalten.";
+
+"host_set_link_mute" = "Der Gastgeber hat alle Mitarbeiter auf stumm gestellt.";
+
+"hot_sale" = "Heißer Verkauf";
+
+"hours" = "Zeit";
+
+"i_know" = "Oh, ich verstehe.";
+
+"in_order_to_avoid_suspending_watching_the_live_stream__please_complete_the_check" = "Um zu vermeiden, dass der Live-Stream unterbrochen wird, füllen Sie bitte so schnell wie möglich den Check-in aus.";
+
+"input_card_name_or_index" = "Geben Sie den Produktnamen oder die Seriennummer ein";
+
+"input_phone_number" = "Bitte geben Sie Ihre Handynummer ein.";
+
+"input_receiving_address" = "Bitte geben Sie die Lieferadresse ein.";
+
+"interact_tool_count" = "Gesamt% zd interaktiver Inhalt";
+
+"internet_unstable_switch_resolution" = "Das aktuelle Netzwerk ist instabil, es wird empfohlen, auf";
+
+"invalid_nickname" = "Spitzname ist nicht legal";
+
+"join_requirement" = "Teilnahmebedingungen";
+
+"keep_watching" = "weiter beobachten";
+
+"like_failed" = "Wie gescheitert.";
+
+"link failed" = "Lianmai gescheitert";
+
+"link_end_tip" = "Beendet Lianmai";
+
+"live" = "Live-Streaming";
+
+"live_description" = "Beschreibung des Live-Streams";
+
+"live_end_tip" = "Der Live-Stream ist beendet.";
+
+"live_interactive" = "Live-Interaktion";
+
+"live_not_allowed_mobile_watch" = "Live-Streaming ermöglicht keine Anzeige am mobilen Ende";
+
+"live_start_countdown" = "Es sind noch Tage bis zum Beginn der Live-Übertragung.";
+
+"liveroom_qrcode" = "Live-Streaming QR-Code";
+
+"long_click_save_picture" = "Drücken Sie lange, um das Bild zu speichern.";
+
+"long_click_save_qrcode" = "Langes Drücken, um den QR-Code zu speichern und mit Freunden zu teilen ~";
+
+"lose_award_tip" = "Es tut mir leid, dass Sie nicht im Lotto gewonnen haben.";
+
+"lottery_drawn" = "Gezeichnet";
+
+"lottery_will_open" = "Lotterie kommt bald";
+
+"me" = "i";
+
+"minutes" = "Punkte";
+
+"minutes2" = "Minute";
+
+"modification" = "Ändern";
+
+"more" = "mehr";
+
+"my_prize" = "Gewinnerrekord";
+
+"net_abnormal" = "Netzwerkfehler, bitte versuchen Sie es erneut";
+
+"net_error_btn_text" = "Wiederholen";
+
+"net_error_portrait_btn_text" = "Wiederholungsversuch aktualisieren";
+
+"net_error_text" = "Das aktuelle Netzwerk ist nicht verfügbar, bitte überprüfen Sie die Netzwerkverbindung und versuchen Sie es erneut";
+
+"nick_name_cannot_be_blank" = "Der Spitzname darf nicht leer sein!";
+
+"nick_name_dialog_hint_text" = "Bitte geben Sie Ihren Spitznamen ein, um mit der Interaktion zu beginnen ~";
+
+"no_comments" = "Noch keine Kommentare";
+
+"no_more_historical_comments" = "Keine historischen Kommentare mehr";
+
+"no_one_participate_award" = "Niemand hat an der Lotterie teilgenommen.";
+
+"no_private_chat_yet" = "Noch kein privater Chat";
+
+"no_product_yet" = "Noch keine Produkte";
+
+"non_wifi_btn_text" = "Nochmal spielen.";
+
+"one_click_join" = "Ein-Klick-Teilnahme";
+
+"only_stock_left" = "Nur noch Bestand";
+
+"open_immediately" = "Jetzt öffnen";
+
+"opened" = "Geöffnet";
+
+"ordered" = "bestellt";
+
+"participate_successfully_and_wait_for_the_draw" = "Nehmen Sie erfolgreich teil und warten Sie auf die Verlosung.";
+
+"participated" = "teilgenommen";
+
+"participated_count" = "Beteiligt% ld Menschen";
+
+"people_count" = "Popularität";
+
+"phone_number" = "Handynummer";
+
+"pinned" = "oben";
+
+"pinned_content" = "Bester Inhalt";
+
+"play_back" = "Wiedergabe";
+
+"playback" = "Wiedergabe";
+
+"please_enter_the_correct_email" = "Bitte geben Sie die richtige E-Mail Adresse ein.";
+
+"please_enter_the_correct_phone_number" = "Bitte geben Sie die richtige Handynummer ein";
+
+"please_fill_receiver" = "Bitte Empfänger eingeben";
+
+"please_input_question_answer" = "Bitte geben Sie den Inhalt der Frage ein";
+
+"please_select_an_image_with_a_size_less_than_8m" = "Bitte wählen Sie ein Bild mit einer Größe von weniger als 8 m.";
+
+"presenter" = "Lautsprecher";
+
+"pull_to_load_more_comments" = "Dropdown, um weitere Kommentare zu laden";
+
+"pulling_historical_comments_limit" = "Pull-History-Kommentare haben ihre Grenze erreicht";
+
+"questionnaire_answer_required" = "Dieses Feld ist erforderlich";
+
+"questionnaire_filled" = "Sie haben diesen Fragebogen ausgefüllt, vielen Dank für Ihre Teilnahme";
+
+"questionnaire_string" = "Fragebogen";
+
+"receiving_address" = "Lieferadresse";
+
+"redirect_to_time" = "Es wurde für Sie gefunden.";
+
+"register_success" = "Erfolgreiche Registrierung";
+
+"release_to_load_more_comments" = "Release Load Mehr Kommentare";
+
+"replay" = "Wiederholung";
+
+"replay_comment" = "antworten";
+
+"report_comment" = "Bericht";
+
+"report_error" = "Fehler melden";
+
+"report_success" = "erfolgreich eingereicht, danke für Ihr Feedback.";
+
+"request_link" = "Bewerben Sie sich für Lianmai";
+
+"requesting" = "sich bewerben...";
+
+"reservation_fail" = "Termin fehlgeschlagen";
+
+"reservation_now" = "Jetzt buchen";
+
+"reservation_success" = "Ernennung erfolgreich";
+
+"reservationed" = "Reserviert";
+
+"resolution_auto" = "Intelligent";
+
+"resolution_bd" = "Blu-ray";
+
+"resolution_hd" = "Hohe Auflösung";
+
+"resolution_ld" = "Glatt";
+
+"resolution_origin" = "Originalgemälde";
+
+"resolution_sd" = "SD";
+
+"resolution_select" = "Auswahl der Klarheit";
+
+"resolution_title" = "Auswahl der Klarheit";
+
+"resolution_uhd" = "Ultra klar";
+
+"save_picture" = "Bild speichern";
+
+"save_picture_failed" = "Bild konnte nicht gespeichert werden";
+
+"save_picture_ok" = "Bild wurde im Album gespeichert";
+
+"screen sharing" = "Bildschirm teilen";
+
+"search" = "Suche";
+
+"search_other_products" = "Suchen Sie nach anderen Produkten";
+
+"seconds" = "Zweite";
+
+"send" = "senden";
+
+"send_comment_no_enable" = "Chat ist noch nicht geöffnet";
+
+"send_danmaku_key" = "Passwort für Bullet-Kommentar posten:";
+
+"send_image_fail" = "Bild konnte nicht gesendet werden.";
+
+"send_image_to_chat" = "Bilder zum Chatten senden";
+
+"share" = "Teilen";
+
+"sign_in_has_closed" = "Anmeldung ist geschlossen";
+
+"sign_in_successfully" = "erfolgreich anmelden";
+
+"speed" = "Doppelte Geschwindigkeit";
+
+"speed_play" = "Wiedergabe mit doppelter Geschwindigkeit";
+
+"speed_toast" = "% s Geschwindigkeit Wiedergabe wurde für Sie aktiviert";
+
+"submit_failed" = "Absenden fehlgeschlagen.";
+
+"submit_winning_information" = "Gewinninformationen einreichen";
+
+"submitted_success" = "erfolgreich eingereicht";
+
+"task_award_locked" = "freigeschaltet werden";
+
+"task_award_open_now" = "Sofort öffnen";
+
+"task_award_rule" = "Regeln für Aktivitäten";
+
+"the_current_account_is_logged_in_on_another_device" = "Das Girokonto ist auf einem anderen Gerät angemeldet";
+
+"tips" = "Hinweis";
+
+"tvu_award_result" = "Gewinnergebnis";
+
+"tvu_embedded_web_url" = "Inline-Link";
+
+"tvu_exit_clear_screen" = "Klarer Bildschirm verlassen";
+
+"tvu_generate_poster" = "Poster generieren";
+
+"tvu_generate_qrcode" = "QR-Code generieren";
+
+"tvu_image_text" = "Grafik";
+
+"tvu_interact_tool" = "Interaktives Werkzeug";
+
+"tvu_invite_watch_live" = "Wir laden Sie ein, sich den Live-Stream gemeinsam anzusehen.";
+
+"tvu_limit_gif_type_tip" = "Das Bild unterstützt das GIF-Format nicht, bitte laden Sie es erneut hoch.";
+
+"tvu_long_press_to_view" = "Langes Drücken, um den zu beobachtenden QR-Code zu identifizieren";
+
+"tvu_no_more_goods" = "Alle Live-Stream-Räume wurden besucht, Baby.";
+
+"tvu_out_of_stock" = "Ausverkauft";
+
+"tvu_private_chat" = "Privater Chat Live-Streaming-Host";
+
+"tvu_save_local" = "Lokal speichern";
+
+"tvu_shopping_car" = "Einkaufswagen";
+
+"tvu_shopping_car_all" = "Alle";
+
+"tvu_shopping_card" = "Produktkarte";
+
+"username_and_other_count_people_are_buying_item_index" = "% @ und andere% ld Menschen kaufen Artikel% ld";
+
+"username_and_other_count_people_have_placed_an_order_for_item_index" = "% @ und andere% ld Personen haben eine Bestellung für Artikel% ld aufgegeben";
+
+"username_has_placed_an_order_for_item_index" = "% @ hat eine Bestellung für Artikel Nr.% ld aufgegeben";
+
+"username_is_buying_item_index" = "% @ kauft Artikelnummer% ld";
+
+"video_call" = "Video Lianmai";
+
+"w" = "Zehntausend";
+
+"warm_tips" = "Warme Erinnerung";
+
+"watching_has_been_suspended_due_to_disturbing_the_order_of_the_live_stream_" = "Das Ansehen wurde wegen Störung der Ordnung des Live-Streams unterbrochen.";
+
+"watching_has_been_suspended_due_to_long_absence_" = "Das Ansehen wurde wegen langer Abwesenheit unterbrochen.";
+
+"win_and_watch" = "Sehen Sie sich den Live-Stream an und gewinnen Sie Preise.";
+
+"win_award_tip" = "Herzlichen Glückwunsch, Sie haben den Preis bekommen.";
+
+"winning_info_completed" = "Die Gewinnerinformationen wurden vervollständigt.";
+
+"you_have_been_muted" = "Du wurdest zum Schweigen gebracht";
+
+"仅展示前200名中奖观众" = "Nur die ersten 200 Gewinner anzeigen";
+
+"你的答案：" = "Ihre Antwort:";
+
+"做任务参与抽奖" = "Aufgaben erledigen und an der Lotterie teilnehmen";
+
+"公告" = "Ankündigung";
+
+"关注" = "folgen";
+
+"单选" = "Radio";
+
+"去参加" = "Gehen Sie zur Teilnahme";
+
+"参与" = "teilnehmen";
+
+"参与答题" = "Beteiligen Sie sich an der Beantwortung von Fragen";
+
+"回答正确" = "Richtige Antwort";
+
+"回答错误" = "Falsche Antwort";
+
+"多选" = "Mehrfachauswahl";
+
+"完成全部任务即可参与" = "Erledigen Sie alle Aufgaben zur Teilnahme";
+
+"实际参与人数：%d人" = "Tatsächliche Anzahl der Teilnehmer:% d";
+
+"已关注" = "Gefolgt";
+
+"已完成" = "abgeschlossen.";
+
+"已投票" = "Gewählt";
+
+"已提交" = "Eingereicht";
+
+"已提交，请等待公布答案" = "eingereicht, warten Sie bitte, bis die Antwort bekannt gegeben wird.";
+
+"已签到" = "Unterschrieben";
+
+"已结束" = "beendet";
+
+"当前处于非Wi-Fi网络，播放将消耗流量" = "Derzeit in einem Nicht-Wi-Fi-Netzwerk verbraucht die Wiedergabe Daten";
+
+"很遗憾，你未参与" = "Es tut mir leid, dass Sie nicht teilgenommen haben.";
+
+"投票" = "abstimmen";
+
+"投票已截止" = "Die Abstimmung ist geschlossen";
+
+"提交全部投票" = "Alle Stimmen einreichen";
+
+"提交全部答题" = "Alle Antworten einreichen";
+
+"提交全部签到" = "Alle einreichen Anmelden";
+
+"提交全部问卷" = "Alle Fragebögen einreichen";
+
+"提交投票" = "Abstimmung einreichen";
+
+"未作答" = "Keine Antwort";
+
+"未完成" = "Unvollständig";
+
+"未签到" = "Nicht angemeldet";
+
+"查看中奖名单" = "Überprüfen Sie die Gewinnerliste";
+
+"查看结果" = "Ergebnisse anzeigen";
+
+"查看详情" = "Details anzeigen";
+
+"正确答案：" = "Die richtige Antwort lautet:";
+
+"没有更多内容了" = "Kein Inhalt mehr.";
+
+"点击参与" = "Klicken Sie, um teilzunehmen";
+
+"点击参加" = "Klicken Sie, um teilzunehmen";
+
+"直播间发起了一场抽奖" = "Im Live-Stream wurde eine Verlosung gestartet.";
+
+"看结果" = "Sehen Sie sich die Ergebnisse an";
+
+"确认不再关注了吗 ？" = "Sind Sie sicher, dass Sie nicht mehr folgen?";
+
+"确认提交" = "Einreichung bestätigen";
+
+"立即参与" = "Jetzt teilnehmen";
+
+"立即签到" = "Jetzt anmelden";
+
+"答对全部答题" = "Alle Fragen richtig beantworten";
+
+"答案解析：" = "Analyse der Antwort:";
+
+"答题已截止" = "Die Antwort ist beendet";
+
+"签到" = "anmelden";
+
+"继续观看直播" = "Sehen Sie sich den Live-Stream weiter an";
+
+"自动发送" = "Automatisches Senden";
+
+"至少提交%@个投票" = "Mindestens% @ Stimmen einreichen";
+
+"至少提交%@个签到" = "Mindestens% @ check-ins einreichen";
+
+"至少提交%@个问卷" = "Mindestens% @ Fragebogen einreichen";
+
+"至少提交%@道答题" = "Mindestens% @ Antworten einreichen";
+
+"至少答对%@道答题" = "Mindestens% richtig @ beantworten Sie die Frage";
+
+"讲解中" = "Erklären";
+
+"评论过于频繁，请稍后再试" = "Kommentare sind zu häufig, bitte versuchen Sie es später noch einmal";
+
+"请联系主办方领取奖品" = "Bitte wenden Sie sich an den Veranstalter, um den Preis zu erhalten.";
+
+"请输入你的昵称，开始互动～" = "Bitte geben Sie Ihren Spitznamen ein, um mit der Interaktion zu beginnen ~";
+
+"请输入昵称" = "Bitte geben Sie einen Spitznamen ein";
+
+"请选择您的选项" = "Bitte wählen Sie Ihre Option";
+
+"距答题截止" = "Frist für die Beantwortung von Fragen";
+
+"输入项不能为空" = "Eintrag darf nicht leer sein";
+
+"进行中" = "in Arbeit";
+
+"重试" = "Wiederholen";

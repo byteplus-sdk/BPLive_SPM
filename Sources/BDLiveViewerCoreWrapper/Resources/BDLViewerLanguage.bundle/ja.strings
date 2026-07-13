@@ -1,0 +1,668 @@
+
+"cancel" = "取り消し";
+
+"change_language" = "言語を切り替える";
+
+"click_replay" = "クリックして再生";
+
+"comment_failed" = "コメント失敗";
+
+"confirm" = "確認する";
+
+"end" = "終わり";
+
+"fore_show" = "予告";
+
+"free_to_buy" = "買う";
+
+"getting_comments" = "コメントを取得しています...";
+
+"host" = "司会者";
+
+"invalid_nickname" = "ニックネームは合法ではありません";
+
+"like_failed" = "失敗を称賛する";
+
+"live_end_tip" = "ライブは終了しました";
+
+"net_abnormal" = "ネットワーク異常、再試行してください";
+
+"net_error_btn_text" = "リトライ";
+
+"net_error_portrait_btn_text" = "更新して再試行します";
+
+"net_error_text" = "現在のネットワークは利用できません。ネットワーク接続を確認して、再試行してください";
+
+"nick_name_cannot_be_blank" = "ユーザー名を空白にすることはできません！";
+
+"nick_name_dialog_hint_text" = "ニックネームを入力して、インタラクティブに始めてください~";
+
+"no_comments" = "コメントなし";
+
+"no_more_historical_comments" = "これ以上の歴史的なコメントはありません";
+
+"non_wifi_btn_text" = "再生を続ける";
+
+"pinned" = "トップ";
+
+"pinned_content" = "トップコンテンツ";
+
+"play_back" = "再生";
+
+"pull_to_load_more_comments" = "ドロップダウンしてコメントを追加します";
+
+"pulling_historical_comments_limit" = "歴史的なコメントを引き出すことはすでに上限に達している";
+
+"register_success" = "登録成功";
+
+"release_to_load_more_comments" = "より多くのコメントをロードするためにリリース";
+
+"replay" = "リプレイ";
+
+"resolution_auto" = "Auto";
+
+"resolution_bd" = "UHD";
+
+"resolution_uhd" = "1080P";
+
+"resolution_hd" = "720P";
+
+"resolution_sd" = "540P";
+
+"resolution_origin" = "Origin";
+
+"resolution_ld" = "240P";
+
+"resolution_select" = "シャープな選択";
+
+"resolution_title" = "シャープな選択";
+
+"send_comment_no_enable" = "まだチャットを開始していません。";
+
+"speed" = "倍速";
+
+"speed_play" = "倍速再生";
+
+"speed_toast" = "あなたのために%s倍速再生をオンにしました";
+
+"w" = "万";
+
+"you_have_been_muted" = "あなたは禁止されています";
+
+"save_picture" = "写真を保存";
+
+"save_picture_ok" = "写真をアルバムに保存しました";
+
+"save_picture_failed" = "画像の保存に失敗";
+
+"copy_link" = "リンクをコピー";
+
+"copy_link_ok" = "リンクのコピー成功";
+
+"count_down" = "カウントダウン";
+
+"days" = "日";
+
+"hours" = "とき";
+
+"minutes" = "ポイント";
+
+"seconds" = "秒";
+
+"clear_screen" = "ビデオのみ";
+
+"participated" = "参加しました";
+
+"tvu_award_result" = "当選結果";
+
+"award_info_input_title" = "当選情報を完備";
+
+"phone_number" = "携帯電話番号";
+
+"input_phone_number" = "携帯番号を入力してください";
+
+"receiving_address" = "受取人の住所";
+
+"input_receiving_address" = "住所を入力してください";
+
+"award_info_input_hint" = "賞品を逃さないように、できるだけ早く当選情報を記入してください";
+
+"fill_address" = "お届け先をご記入ください";
+
+"fill_phone_number" = "正しい携帯電話番号を入力してください";
+
+"award_winner_count" = "合計%ld人当選";
+
+"award_winner_hint" = "当選したユーザーは、賞品を逃さないように、できるだけ早くインタラクティブツール-抽選入口に当選情報を入力してください。";
+
+"award_winner_hint_highlight" = "インタラクティブツール-抽選";
+
+"award_winner_list" = "当選リスト";
+
+"no_one_participate_award" = "この抽選イベントには誰も参加していない";
+
+"click_for_the_draw" = "抽選で";
+
+"lottery_drawn" = "受賞した";
+
+"lottery_will_open" = "まもなく抽選";
+
+"award" = "賞品:";
+
+"award_count" = "賞品の数:%d";
+
+"click_one_click_join_btn_tip" = "ワンクリックで参加自動完了";
+
+"join_requirement" = "参加の条件";
+
+"send_danmaku_key" = "弾幕合言葉を発表:";
+
+"one_click_join" = "ワンクリックで参加";
+
+"lose_award_tip" = "残念ながら、あなたは当選していません～";
+
+"win_award_tip" = "おめでとう、賞品をゲット";
+
+"award_result_dialog_tip" = "賞品の説明権と提供者は主催者が所有する";
+
+"got_it" = "分かった";
+
+"participated_count" = "参加済み %ld 人";
+
+"award_join_success_tip" = "参加は成功しました、賞金を待ってください〜";
+
+"winning_info_completed" = "当選情報が完成しました";
+
+"award_join_fail_tip" = "参加に失敗";
+
+"award_repeat_join_tip" = "抽選に参加しました";
+
+"reservation_fail" = "予約に失敗";
+
+"reservation_now" = "今すぐ予約";
+
+"reservation_success" = "予約に成功";
+
+"reservationed" = "予約済み";
+
+"live_start_countdown" = "ライブ開始まであと";
+
+"参与" = "Try";
+
+"直播间发起了一场抽奖" = "ライブで抽選が行われました";
+
+"live_description" = "ライブ説明";
+
+"entered_live_room" = "直播間に入った";
+
+"Confirm to quit the audience link" = "観客の連麦を脱退することを確認しますか?";
+
+"Flip camera" = "フリップカメラ";
+
+"Linking, quti will colse link" = "現在、連麦中です。ライブをオフにします。連麦は\n現在の連麦を終了します";
+
+"Mute" = "ミュート";
+
+"Please go to System Settings to turn on relevant permissions." = "システム設定にアクセスして、関連する権限をオンにしてください";
+
+"Turn off the camera" = "カメラの電源を切る";
+
+"Turn on the camera" = "カメラをオンにする";
+
+"Unmute" = "ミュート解除";
+
+"apply_link" = "連麦中を申請する...";
+
+"audio_call" = "オーディオリンク";
+
+"cancel_request" = "キャンセル申請";
+
+"disconnect mic" = "切断連麦";
+
+"link failed" = "連麦は失敗した";
+
+"me" = "私は";
+
+"presenter" = "メインスピーカー";
+
+"request_link" = "連麦を申請する";
+
+"requesting" = "申請中です...";
+
+"screen sharing" = "画面を共有しています";
+
+"video_call" = "ビデオ連麦";
+
+"link_end_tip" = "終わった連麦";
+
+"replay_comment" = "返信する";
+
+"report_comment" = "通報する";
+
+"change_channel" = "チャンネルの切り替え";
+
+"live" = "ライブ配信中";
+
+"playback" = "再生";
+
+"comment_report_abet_btn_text" = "自傷自殺の疑い/扇動";
+
+"comment_report_advertise_btn_text" = "広告宣伝";
+
+"comment_report_cheat_btn_text" = "詐欺の疑い";
+
+"comment_report_curse_btn_text" = "私や他人を侮辱する";
+
+"comment_report_edittext_hint" = "通報の原因を詳しく説明して、プラットフォームがコメントが違反しているかどうかを判断しやすいようにしてください";
+
+"comment_report_other_btn_text" = "その他";
+
+"comment_report_post_btn_text" = "提出する";
+
+"comment_report_title_text" = "コメントを報告する";
+
+"comment_report_unlawful_btn_text" = "違法な違反";
+
+"comment_report_vulgar_btn_text" = "下品なポルノ";
+
+"report_error" = "失敗を報告する";
+
+"report_success" = "正常に提出し、あなたのフィードバックをありがとう";
+
+"tvu_invite_watch_live" = "一緒にライブを見るように招待します。";
+
+"liveroom_qrcode" = "直播間二次元コード";
+
+"long_click_save_picture" = "画像を保存するために長押し";
+
+"long_click_save_qrcode" = "長押しでQRコードを保存して、友達にシェアしましょう～";
+
+"tvu_generate_poster" = "ポスターを生成";
+
+"tvu_generate_qrcode" = "qrcodeの生成に";
+
+"tvu_long_press_to_view" = "認識二次元コードを長押しして見る";
+
+"host_changed_nickname" = "司会者はあなたのニックネームを修正しました";
+
+"host_close_audio" = "ホストはあなたのマイクをオフにしました";
+
+"host_close_audio_and_video" = "ホストはあなたのマイクとカメラをオフにしました";
+
+"host_close_video" = "ホストはあなたのカメラをオフにしました";
+
+"host_open_audio" = "司会者はあなたのマイクを開けることを申請します";
+
+"host_open_audio_and_video" = "司会者はマイクとカメラを開けることを申請します";
+
+"host_open_video" = "司会者はあなたのカメラを開けることを申請します";
+
+"host_set_link_mute" = "司会者は全員ミュートを設定した";
+
+"click_too_fast" = "手の速さが速すぎて、ちょっと待って~";
+
+"讲解中" = "説明中";
+
+"fail_and_retry" = "送信に失敗しました。再試行してください";
+
+"send" = "送信";
+
+"send_image_to_chat" = "チャットに画像を送信";
+
+"send_image_fail" = "画像の送信に失敗しました";
+
+"please_select_an_image_with_a_size_less_than_8m" = "サイズが8M未満の画像を選択してください";
+
+"live_not_allowed_mobile_watch" = "ライブ配信ではモバイル端末での視聴は許可されていません。";
+
+"redirect_to_time" = "位置を特定しました";
+
+"warm_tips" = "ヒント";
+
+"tips" = "ヒント";
+
+"i_know" = "わかった";
+
+"please_input_question_answer" = "質問内容を入力してください";
+
+"questionnaire_answer_required" = "この項目は必須項目です";
+
+"questionnaire_string" = "アンケート";
+
+"submit_failed" = "提出に失敗しました";
+
+"submitted_success" = "提出しました";
+
+"questionnaire_filled" = "このアンケートに記入しました。参加してくれてありがとう";
+
+"please_enter_the_correct_email" = "正しいメールアドレスを入力してください";
+
+"please_enter_the_correct_phone_number" = "正しい携帯電話番号を入力してください";
+
+"多选" = "複数選択";
+
+"进行中" = "実施中";
+
+"已投票" = "投票しました";
+
+"点击参加" = "参加をクリック";
+
+"实际参与人数：%d人" = "実際の参加者数:%d人";
+
+"提交投票" = "投票を提出する";
+
+"单选" = "単一選択";
+
+"投票" = "投票する";
+
+"公告" = "お知らせ";
+
+"查看详情" = "詳細を見る";
+
+"请选择您的选项" = "オプションを選択してください";
+
+"已结束" = "終了";
+
+"投票已截止" = "投票は終了しました";
+
+"看结果" = "結果を見る";
+
+"查看结果" = "結果を表示";
+
+"去参加" = "参加する";
+
+"%ld票" = "%ld票";
+
+"%ld人" = "%ld人を数える";
+
+"参与答题" = "解答に参加する";
+
+"正确答案：" = "正しい答え:";
+
+"答案解析：" = "答えの解析:";
+
+"答题已截止" = "解答締め切りました";
+
+"已提交" = "提出済み";
+
+"未作答" = "未回答です";
+
+"回答正确" = "正しい答え";
+
+"继续观看直播" = "ライブを見続ける";
+
+"距答题截止" = "解答期限まで";
+
+"你的答案：" = "あなたの答え:";
+
+"已提交，请等待公布答案" = "提出したので、回答を発表するのを待ってください";
+
+"确认提交" = "コミットの確認";
+
+"回答错误" = "間違った答え";
+
+"more" = "もっと";
+
+"live_interactive" = "ライブインタラクション";
+
+"win_and_watch" = "ライブ配信を観て賞品を獲得";
+
+"点击参与" = "参加をクリック";
+
+"available" = "利用可能な";
+
+"congratulations_to_for" = "おめでとう%@for%@";
+
+"draw" = "描く";
+
+"duration_colon" = "デュレーション: ";
+
+"minutes2" = "分です";
+
+"opened" = "開いた";
+
+"my_prize" = "当選記録";
+
+"task_award_rule" = "イベントルール";
+
+"task_award_locked" = "ロックされた";
+
+"task_award_open_now" = "開く";
+
+"did_not_win" = "未当選";
+
+"has_won" = "当選済み";
+
+"award_and_detail" = " 賞品: %@ %ld 部 詳細を表示";
+
+"get_award" = "賞品を受け取る";
+
+"award_event_end" = "イベントは終了しました";
+
+"award_fill_success" = "当選情報が正常に入力されました";
+
+"award_opened" = "抽選が開始されました";
+
+"award_recipient" = "受取人";
+
+"award_still_lock" = "抽選はまだ解除されていません、引き続き頑張ります〜";
+
+"award_will_start" = "抽選が間もなく開始されますので、少々お待ちください。";
+
+"back_continue_award" = "戻って抽選を続ける";
+
+"award_no_need_fill" = "記入不要";
+
+"award_no_record_keep_going" = "当選記録はまだありません、頑張ってください";
+
+"award_input_receiver" = "名前を入力してください";
+
+"failed_open_please_retry_later" = "開始に失敗しました。後で再試行してください。";
+
+"award_award" = "賞品 ";
+
+"award_count_short" = "数量 ";
+
+"award_lost_empty_box" = "残念ながら、箱の中は空っぽです。もっと頑張ります。";
+
+"award_win_prize" = "おめでとうございます %@ 当選 %@";
+
+"award_award_comming" = "大量の賞品があなたに襲いかかっています〜";
+
+"award_go_get_award" = "賞品を受け取る";
+
+"open_immediately" = "今すぐ開く";
+
+"award_to_be_filled" = "記入待ち";
+
+"please_fill_receiver" = "受取人を入力してください";
+
+"share" = "共有する";
+
+"no_product_yet" = "商品はありません";
+
+"search" = "検索する";
+
+"search_other_products" = "他の商品を検索する";
+
+"input_card_name_or_index" = "商品名またはシリアル番号を入力します";
+
+"立即参与" = "今すぐ参加";
+
+"participate_successfully_and_wait_for_the_draw" = "参加が成功し、抽選を待つ";
+
+"congratulations_you_won_the_lottery" = "くじに当たる";
+
+"cell_phone_number" = "携帯電話番号";
+
+"submit_winning_information" = "当選情報を提出";
+
+"goods_receiving_information" = "受取情報";
+
+"modification" = "修正する";
+
+"做任务参与抽奖" = "任務をして抽選に参加する";
+
+"至少提交%@个投票" = "少なくとも送信%@の投票が必要です";
+
+"至少提交%@个问卷" = "少なくとも%@のアンケートを送信";
+
+"至少提交%@道答题" = "少なくとも%@の解答を送信";
+
+"至少答对%@道答题" = "少なくとも%@の解答を正解する";
+
+"至少提交%@个签到" = "少なくとも%@回サインインを提出";
+
+"未完成" = "未完了";
+
+"已完成" = "完了しました";
+
+"自动发送" = "自動送信";
+
+"完成全部任务即可参与" = "参加任務を完成する";
+
+"all-1" = "全部";
+
+"很遗憾，你未参与" = "参加しませんでしたね";
+
+"card_see_explain" = "説明";
+
+"back_to_live" = "ライブに戻る";
+
+"tvu_limit_gif_type_tip" = "画像はGIF形式に対応していませんので、再アップロードしてください";
+
+"gift_reward_effect_off" = "ギフトエフェクト閉じる";
+
+"gift_reward_effect_on" = "ギフトエフェクトがオンになります";
+
+"gift_reward_effect_switch" = "ギフトエフェクト";
+
+"gift_reward_free" = "無料";
+
+"gift_reward_not_enough" = "ポイントが不足しているため、チップを支払うことができません。";
+
+"gift_reward_point" = "ポイント";
+
+"gift_reward_send" = "差し上げる";
+
+"gift_reward_service_exception" = "積分が異常です。後で再試行してください。";
+
+"gift_reward_title" = "ギフト";
+
+"gift_sent_hint" = "送る";
+
+"请联系主办方领取奖品" = "主催者に賞品を受け取ってください";
+
+"查看中奖名单" = "閲覧当選者リスト";
+
+"仅展示前200名中奖观众" = "トップ200名の当選視聴者のみ表示します";
+
+"tvu_private_chat" = "プライベートチャットで配信者に話しかける";
+
+"tvu_image_text" = "画像とテキスト";
+
+"tvu_interact_tool" = "インタラクティブツール";
+
+"tvu_embedded_web_url" = "インラインリンク";
+
+"internet_unstable_switch_resolution" = "現在のネットワークは不安定です。に切り替えることをお勧めします";
+
+"interact_tool_count" = "合計 %d のインタラクティブコンテンツ";
+
+"tvu_shopping_car" = "ショッピングカート";
+
+"tvu_shopping_car_all" = "全部";
+
+"tvu_shopping_card" = "商品カード";
+
+"tvu_save_local" = "ローカルに保存";
+
+"tvu_exit_clear_screen" = "クリアスクリーンを終了";
+
+"tvu_no_more_goods" = "すべてのライブルームを見ました、ベイビー";
+
+"输入项不能为空" = "入力欄を空欄にすることはできません";
+
+"sign_in_successfully" = "サインイン成功";
+
+"已签到" = "サインイン済み";
+
+"未签到" = "未サインイン";
+
+"签到" = "サインイン";
+
+"没有更多内容了" = "これ以上コンテンツはありません";
+
+"people_count" = "人気";
+
+"no_private_chat_yet" = "プライベートチャットはありません";
+
+"buy_now" = "今すぐ購入";
+
+"buying_now_" = "購入中";
+
+"here_it_comes_" = "来た";
+
+"hot_sale" = "ホットセール";
+
+"only_stock_left" = "在庫は残りわずかです。";
+
+"ordered" = "注文済み";
+
+"username_and_other_count_people_are_buying_item_index" = "%@など%ld人が%ld号商品を買っています";
+
+"username_and_other_count_people_have_placed_an_order_for_item_index" = "%@など%ld人が%ld号商品を注文しました";
+
+"username_has_placed_an_order_for_item_index" = "%@%ld商品を注文しました";
+
+"username_is_buying_item_index" = "%@は%ld商品を購入しています";
+
+"当前处于非Wi-Fi网络，播放将消耗流量" = "現在、Wi-Fi以外のネットワークでは、再生によりデータが消費されます";
+
+"评论过于频繁，请稍后再试" = "コメントが頻繁すぎるので、後で再試行してください";
+
+"请输入你的昵称，开始互动～" = "ニックネームを入力して、インタラクティブに始めてください~";
+
+"请输入昵称" = "ニックネームを入力してください";
+
+"重试" = "リトライ";
+
+"关注" = "フォロー";
+
+"已关注" = "フォロー済み";
+
+"the_current_account_is_logged_in_on_another_device" = "現在のアカウントは他のデバイスでログインしています";
+
+"watching_has_been_suspended_due_to_disturbing_the_order_of_the_live_stream_" = "直播間の秩序を乱したため、視聴を一時停止しました。";
+
+"watching_has_been_suspended_due_to_long_absence_" = "長い間サインしていないため、視聴を一時停止しました";
+
+"keep_watching" = "視聴を続ける";
+
+"sign_in_has_closed" = "サインインは締め切りました";
+
+"exit_live_room" = "ライブ配信から退出する";
+
+"立即签到" = "今すぐサインイン";
+
+"in_order_to_avoid_suspending_watching_the_live_stream__please_complete_the_check" = "ライブの一時停止を避けるために、できるだけ早くチェックインを完了してください";
+
+"确认不再关注了吗 ？" = "フォローをやめますか？";
+
+"提交全部投票" = "すべての投票を提出する";
+
+"提交全部答题" = "すべての回答を提出する";
+
+"提交全部签到" = "すべてのサインインを提出する";
+
+"提交全部问卷" = "すべてのアンケートを提出";
+
+"答对全部答题" = "すべての問題に正解する";
+
+"email" = "メールアドレス";
+
+"email_hint" = "メールアドレスを入力してください";
+
+"fill_email" = "正しいメールアドレスを入力してください";
+
+"tvu_out_of_stock" = "完売しました";

@@ -1,0 +1,1 @@
+This repository contains the official Swift Package Manager (SPM) release for the BytePlus Enterprise Live BPLive iOS SDK. For details, please refer to the [BytePlus Official Website](https://docs.byteplus.com/en/docs/byteplus-livesaas/docs-what-is-byteplus-live)。

@@ -1,0 +1,954 @@
+
+"1080p" = "Ánh sáng xanh 1080p";
+
+"480p" = "Đánh dấu 480p";
+
+"540p" = "HD 540p";
+
+"720p" = "Độ phân giải 720p";
+
+"abandoned_after_exiting" = "Sau khi thoát, tất cả các thao tác hiện tại sẽ bị bỏ.";
+
+"alert_close_live" = "Xác nhận tắt livestream không?";
+
+"alert_emoji_not_support" = "Tạm thời không hỗ trợ nhập biểu tượng cảm xúc";
+
+"alert_flash_lamp_error" = "Xin lỗi, quyền đèn flash không thành công.";
+
+"alert_max_15" = "Nhập tối đa 15 ký tự";
+
+"alert_max_200" = "Nhập tối đa 200 ký tự";
+
+"alert_msg_screen_switch" = "Sắp thay đổi hướng màn hình livestream, có nên chuyển đổi không?";
+
+"alert_msg_screen_switch_camera" = "Sắp thay đổi hướng màn hình livestream, mặt dây chuyền trong vải sẽ thay đổi, có nên chuyển đổi không?";
+
+"alert_no_camera" = "Không có quyền máy ảnh, có nên vào cài đặt để cấp quyền này %@ không?";
+
+"alert_no_microphone" = "Không nhận được quyền micrô, bạn có vào cài đặt để cấp quyền này %@ không?";
+
+"alert_no_photo_library" = "Không có quyền album, bạn có muốn vào cài đặt để cấp quyền này %@ không?";
+
+"alert_only_rear_camera" = "Cảnh camera phía sau mới cho phép bật đèn flash.";
+
+"alert_screen_switch" = "Chuyển đổi màn hình nhắc";
+
+"apply_now" = "Sử dụng ngay";
+
+"back" = "Quay lại";
+
+"basic_information" = "Thông tin cơ bản";
+
+"basic_information_add_label" = "Thêm";
+
+"basic_information_cover_label_%ld" = "Hỗ trợ định dạng: JPG và PNG. Kích thước tập tin: không quá %ld MB.";
+
+"basic_information_description_switch_label" = "Hiển thị mô tả livestream giữa các livestream";
+
+"basic_information_description_textview_label" = "Mô tả nội dung";
+
+"basic_information_description_textview_placeholder" = "Nhập mô tả livestream";
+
+"basic_information_edit_label" = "Chỉnh sửa";
+
+"basic_information_live_tag" = "Danh mục livestream";
+
+"basic_information_live_tag_changed_error" = "Phân loại phòng livestream đã được cập nhật, xin vui lòng thử lại";
+
+"basic_information_live_tag_count" = "%d.";
+
+"basic_information_live_tag_empty_title" = "Không có phân loại thay thế";
+
+"basic_information_live_title_textview_placeholder" = "Nhập tiêu đề livestream";
+
+"basic_information_nav_account_avatar" = "Hình đại diện tài khoản";
+
+"basic_information_nav_account_name" = "Tên tài khoản";
+
+"basic_information_nav_cover" = "Ảnh bìa";
+
+"basic_information_nav_description" = "Mô tả livestream";
+
+"basic_information_nav_live_title" = "Tiêu đề livestream";
+
+"beauty" = "Sắc đẹp";
+
+"big_eyes" = "Mắt to";
+
+"camera_live" = "Video";
+
+"cancel" = "Hủy";
+
+"caton" = "Thẻ";
+
+"change_avatar" = "Thay đổi";
+
+"choose_sharpness" = "Chọn rõ ràng";
+
+"clean" = "Màn hình";
+
+"clear" = "Rõ ràng";
+
+"clear_pendants_layer" = "Treo trống";
+
+"click_to_edit_template_name" = "Tên mẫu Nhấp vào sửa";
+
+"closing_live_streaming" = "Livestream đang đóng cửa, xin vui lòng sau.";
+
+"comment_input_placeholder" = "Nói chuyện với mọi người đi.";
+
+"confirm" = "Chắc rồi.";
+
+"confirm_delete_template" = "Xác nhận xóa mẫu không?";
+
+"confirm_delete_widget_and_layer" = "Xác nhận xóa mặt dây chuyền? Sau khi xóa, các lớp sử dụng mặt dây chuyền cũng sẽ bị xóa.";
+
+"confirm_exit" = "Xác nhận rút lui không?";
+
+"confirm_switch" = "Xác nhận chuyển đổi";
+
+"create_template" = "Mẫu mới";
+
+"delete" = "Xoá";
+
+"delete_all_comment" = "Xác nhận để xóa tất cả các bình luận?";
+
+"delete_comment" = "Xóa bình luận";
+
+"delete_string" = "Xoá";
+
+"delete_template_pendent_warning" = "Mặt dây chuyền này thuộc về mẫu %@, sau khi xóa mẫu cần tải xuống lại, xác nhận xóa?";
+
+"download" = "Tải về";
+
+"download_now" = "Tải xuống ngay";
+
+"exit" = "Thoát";
+
+"filter" = "Bộ lọc";
+
+"flash_lamp" = "Đèn flash";
+
+"flip" = "Lật";
+
+"go_edit" = "Đi chỉnh sửa";
+
+"go_setting" = "Đi cài đặt";
+
+"good" = "Tốt.";
+
+"has_update" = "Có update";
+
+"i_got_it" = "Tôi biết rồi.";
+
+"image_size_over_%dM_need_reselect" = "Hình ảnh vượt quá %dM, vui lòng tải lại";
+
+"is_empty" = "Trống.";
+
+"landscape" = "Màn hình ngang";
+
+"layer" = "Lớp";
+
+"live_end_start_tip" = "Livestream đã kết thúc, nếu bạn cần mở lại, xin vui lòng đặt lại thời gian livestream.";
+
+"live_has_been_started" = "Phòng livestream này đã bắt đầu livestream, không thể hoạt động được.";
+
+"live_head_online_label" = "%ld người online";
+
+"live_room_name_cannot_be_blank" = "Tên phòng livestream không thể trống.";
+
+"live_time_left" = "Kết thúc livestream còn lại %02ld: %02ld: %02ld";
+
+"media" = "Tài liệu truyền thông";
+
+"mirror" = "Gương";
+
+"more" = "Thêm";
+
+"msg_net_error" = "Yêu cầu mạng không thành công, xin vui lòng thử lại";
+
+"msg_net_error_extra_long" = "Nhập ký tự quá dài, xin vui lòng nhập lại";
+
+"mute" = "Tắt tiếng";
+
+"narrow_face" = "Mặt hẹp";
+
+"net_abnormal" = "Mạng bất thường";
+
+"net_error_btn_text" = "Thử lại";
+
+"net_error_text" = "Mạng hiện tại không khả dụng, hãy thử lại sau khi kiểm tra kết nối mạng";
+
+"network_request_error" = "Lỗi yêu cầu mạng";
+
+"nick_name_cannot_be_blank" = "Biệt danh không thể để trống!";
+
+"no" = "Hủy";
+
+"no_template" = "Không có mẫu";
+
+"off_line" = "Không có mạng";
+
+"only_support_20_layer" = "Hỗ trợ tối đa 20 lớp.";
+
+"pendants" = "Mặt dây chuyền";
+
+"pendants_layer" = "Lớp";
+
+"pendants_layer_camera" = "Lớp chân dung";
+
+"pendants_layer_clear_alert_clear" = "Trống hết.";
+
+"pendants_layer_clear_alert_title" = "Xác nhận làm trống tất cả các mặt dây chuyền?";
+
+"pendants_layer_down" = "Di chuyển xuống";
+
+"pendants_layer_hide" = "Ẩn";
+
+"pendants_layer_show" = "Hiển thị";
+
+"pendants_layer_tips" = "Nhấn lâu có thể nhanh chóng kéo các lớp để điều chỉnh thứ tự nhé ~";
+
+"pendants_layer_up" = "Lên.";
+
+"please_input" = "Vui lòng nhập (trong vòng 15 ký tự)";
+
+"popularity" = "Phổ biến";
+
+"portrait" = "Màn hình dọc";
+
+"products" = "Túi mua sắm";
+
+"products_add_added" = "Đã thêm";
+
+"products_add_added_des" = "Sản phẩm của bạn đã được thêm vào";
+
+"products_add_addnew" = "Mới";
+
+"products_add_done" = "Đã hoàn thành";
+
+"products_add_shop_cross_text" = "Giá gốc của sản phẩm";
+
+"products_add_shop_highlight" = "Giá hiện tại";
+
+"products_add_shop_image" = "Thêm ảnh bìa";
+
+"products_add_shop_image_des" = "Đề nghị tải lên tỷ lệ 1: 1 để ngăn hình ảnh bị kéo dài";
+
+"products_add_shop_name" = "Tên sản phẩm";
+
+"products_add_shop_name_placeholder" = "Vui lòng nhập tên sản phẩm";
+
+"products_add_shop_price_placehoder" = "Vui lòng nhập giá sản phẩm";
+
+"products_add_shop_url" = "Liên kết sản phẩm";
+
+"products_add_shop_url_placeholder" = "http: /";
+
+"products_add_submit" = "Gửi";
+
+"products_can_not_pin_tip" = "Sản phẩm hiện tại không thêm hình ảnh, không thể đặt trên cùng.";
+
+"products_cancel_pin" = "Hủy bỏ";
+
+"products_checkmark" = "Vận hành hàng loạt";
+
+"products_confirm_delete" = "Bạn có xác nhận xóa không?";
+
+"products_confirm_delete_content" = "Sản phẩm không thể được khôi phục sau khi xóa, xin vui lòng thao tác cẩn thận";
+
+"products_delete_count" = "Xoá (%ld)";
+
+"products_edit" = "Chỉnh sửa";
+
+"products_edit_title" = "Chỉnh sửa sản phẩm";
+
+"products_empty" = "Thẻ hiện tại không thêm sản phẩm";
+
+"products_empty_tip" = "Nhấp vào Thêm sản phẩm";
+
+"products_filter" = "Lọc";
+
+"products_info_changed_error" = "Thông tin sản phẩm trong danh sách hiện tại đã được cập nhật, xin vui lòng thử lại.";
+
+"products_list" = "Lên kệ";
+
+"products_more" = "Thêm";
+
+"products_number_count" = "Tổng %ld sản phẩm";
+
+"products_order" = "Điều chỉnh thứ tự";
+
+"products_pin_to_top" = "Lên trên";
+
+"products_quantity_limit_error" = "Danh sách sản phẩm hiện tại đã đạt đến số lượng sản phẩm tối đa 500, xin vui lòng xóa một số sản phẩm rồi tiếp tục thêm.";
+
+"products_reorder_guide" = "Nhấp và kéo hình ảnh để điều chỉnh thứ tự sản phẩm";
+
+"products_reset" = "Đặt lại";
+
+"products_search" = "Tìm kiếm";
+
+"products_search_empty" = "Không tìm thấy sản phẩm liên quan";
+
+"products_search_placeholder" = "Vui lòng nhập tên sản phẩm";
+
+"products_select_all" = "Chọn tất cả";
+
+"products_sure" = "Xác nhận";
+
+"products_sure_count" = "Xác nhận (%ld)";
+
+"products_title" = "Sản phẩm livestream";
+
+"products_unlist" = "Xuống kệ";
+
+"prompt" = "Gợi ý";
+
+"props" = "Đạo cụ";
+
+"replay_comment" = "Trả lời";
+
+"resolution" = "Sự rõ ràng";
+
+"rotate_to_landscape_to_apply_template" = "Hiện tại livestream là chế độ màn hình dọc, xác định chuyển sang màn hình ngang và áp dụng mẫu này?";
+
+"rotate_to_portrait_to_apply_template" = "Hiện tại livestream là chế độ màn hình ngang, xác định chuyển sang màn hình dọc và áp dụng mẫu này?";
+
+"rotate_to_save_landscape" = "Sắp chuyển sang chế độ màn hình ngang và tạo mẫu mới";
+
+"rotate_to_save_portrait" = "Sắp chuyển sang chế độ màn hình dọc và tạo mẫu mới";
+
+"save" = "Lưu";
+
+"save_error" = "Lưu không thành công, xin vui lòng thử lại";
+
+"save_landscape_template" = "Xác nhận lưu dưới dạng mẫu màn hình ngang không?";
+
+"save_portrait_template" = "Xác nhận lưu dưới dạng mẫu màn hình dọc không?";
+
+"save_success" = "Lưu thành công";
+
+"screen_live" = "Màn hình ghi";
+
+"screen_share_hint" = "Sau khi bắt đầu livestream, người xem sẽ thấy nội dung trên màn hình điện thoại của bạn trong thời gian thực.";
+
+"screen_sharing_hint" = "Trong màn hình ghi âm, bạn có thể chuyển sang giao diện khác của điện thoại để livestream.";
+
+"skin_grinding" = "Mài da";
+
+"smooth_live_only_support_10_gif" = "Để đảm bảo livestream trôi chảy, chỉ hỗ trợ thêm 10 ảnh GIF";
+
+"start_live" = "Bắt đầu livestream";
+
+"start_live_fail" = "Bắt đầu livestream không thành công, xin vui lòng thử lại";
+
+"sweep_to_switch" = "Chuyển đổi mẫu trượt trái và phải";
+
+"template" = "Bản mẫu";
+
+"template_can_not_save_without_name" = "Không thể lưu mà không điền tên mẫu";
+
+"template_delete_hint" = "Sau khi mẫu bị xóa, người dùng khác sẽ không thể sử dụng được.";
+
+"template_download_first" = "Vui lòng tải xuống mẫu trước khi chỉnh sửa.";
+
+"template_has_update_click_to_download" = "Mẫu có cập nhật, nhấp vào Tải xuống";
+
+"template_not_exist" = "Mẫu không tồn tại hoặc đã bị xóa";
+
+"template_save_hint" = "Làm đẹp, đạo cụ, mặt dây chuyền, cài đặt lớp sẽ được lưu cùng nhau dưới dạng mẫu.";
+
+"text" = "Văn bản";
+
+"thin_cheekbones" = "Xương gò má";
+
+"thin_face" = "Mặt gầy";
+
+"thin_mandible" = "Xương hàm dưới gầy";
+
+"thin_nose" = "mũi gầy";
+
+"toast_landscape_live" = "Đã chuyển sang màn hình ngang để bắt đầu livestream, màn hình được hiển thị theo chiều ngang";
+
+"toast_portrait_live" = "Đã chuyển sang màn hình dọc để bắt đầu livestream, màn hình hiển thị theo chiều dọc";
+
+"ttlv_pendents_upload" = "Tải lên hình ảnh";
+
+"tvu_product_library_please_search" = "Tìm kiếm ngay";
+
+"tvu_product_library_search_tip" = "Sau khi nhập nội dung tìm kiếm, hiển thị kết quả sau tìm kiếm";
+
+"tvu_push_product_lib_response_error" = "Trả về lỗi, xin vui lòng kiểm tra nội dung trả lại";
+
+"tvu_push_product_lib_timeout" = "Yêu cầu hết thời gian";
+
+"tvupush_product_add_library" = "Thêm từ kho sản phẩm";
+
+"tvupush_product_library_add" = "Thêm";
+
+"tvupush_product_library_search_result_empty" = "Không có sản phẩm phù hợp với tiêu chí tìm kiếm hiện tại";
+
+"tvupush_product_library_uncorrelated" = "Phòng livestream này không có kho hàng hóa liên quan.";
+
+"tvupush_product_most_product_added" = "Thêm tối đa 500 sản phẩm";
+
+"tvupush_product_no_products_yet" = "Tạm thời không có sản phẩm";
+
+"tvupush_product_title_add" = "Thêm sản phẩm";
+
+"tvupush_send_success" = "Gửi thành công";
+
+"tvupush_start_time_not_yet_toast" = "Thời gian livestream chưa đến, xin vui lòng mở livestream sau thời gian bắt đầu livestream.";
+
+"unknown" = "Không rõ";
+
+"unsupport_gif_warning" = "Không hỗ trợ định dạng GIF, xin vui lòng tải lên lại";
+
+"unsupport_rotate_to_landscape_hint" = "Không hỗ trợ mẫu chuyển đổi chế độ màn hình ngang trong livestream";
+
+"unsupport_rotate_to_portrait_hint" = "Không hỗ trợ mẫu chuyển đổi chế độ màn hình dọc trong livestream";
+
+"unsupported_broadcast_title" = "Phiên bản dịch vụ hiện tại không hỗ trợ livestream";
+
+"unsupported_feature_title" = "Phiên bản dịch vụ hiện tại không hỗ trợ tính năng này.";
+
+"unsupported_version_message" = "Phiên bản tài khoản hiện tại không hỗ trợ chức năng này, xin vui lòng liên hệ với CSKH để nâng cấp phiên bản dịch vụ.";
+
+"whitening" = "Làm trắng";
+
+"俄语" = "Tiếng Nga";
+
+"印尼语" = "Tiếng Indonesia";
+
+"土耳其语" = "Thổ Nhĩ Kỳ";
+
+"日文" = "Tiếng Nhật";
+
+"泰语" = "Thái Lan";
+
+"简中" = "Trung bình";
+
+"繁中" = "Đang phát";
+
+"英文" = "Tiếng Anh";
+
+"葡萄牙语" = "Tiếng Bồ Đào Nha";
+
+"西班牙语" = "Tiếng Tây Ban Nha";
+
+"越南语" = "Tiếng Việt";
+
+"阿拉伯语" = "Ả rập";
+
+"韩语" = "Hàn Quốc";
+
+"tvupush_filter_01" = "Màu trắng";
+
+"tvupush_filter_02" = "Kem";
+
+"tvupush_filter_03" = "Oxy";
+
+"tvupush_filter_04" = "Hoa cam";
+
+"tvupush_filter_05" = "Lolita.";
+
+"tvupush_filter_06" = "Đào.";
+
+"tvupush_filter_07" = "Bánh macaron";
+
+"tvupush_filter_08" = "Bong bóng";
+
+"tvupush_filter_09" = "Hoa anh đào";
+
+"tvupush_filter_10" = "Ấm áp";
+
+"tvupush_filter_11" = "Câu chuyện";
+
+"tvupush_filter_12" = "Hokkaido";
+
+"tvupush_filter_13" = "Ngày";
+
+"tvupush_filter_14" = "Seattle.";
+
+"tvupush_filter_15" = "Yên lặng.";
+
+"tvupush_filter_16" = "Phim";
+
+"tvupush_filter_17" = "Nắng ấm";
+
+"tvupush_filter_18" = "Ngày xưa";
+
+"tvupush_filter_19" = "Môi đỏ";
+
+"tvupush_filter_20" = "Màu xanh cam";
+
+"tvupush_filter_21" = "Màu sắc";
+
+"tvupush_filter_22" = "Đen trắng";
+
+"tvupush_filter_23" = "Nhẹ nhàng";
+
+"tvupush_filter_24" = "Tình yêu siêu ngọt ngào";
+
+"tvupush_filter_25" = "Lần đầu gặp";
+
+"tvupush_filter_26" = "Bóng tối";
+
+"tvupush_filter_27" = "Trà sữa";
+
+"tvupush_filter_28" = "Mềm mại";
+
+"tvupush_filter_29" = "Hoàng hôn";
+
+"tvupush_filter_30" = "Oxy lạnh";
+
+"tvupush_filter_31" = "Chân dung bãi biển";
+
+"tvupush_filter_32" = "Màu xám cao cấp";
+
+"tvupush_filter_33" = "Đảo";
+
+"tvupush_filter_34" = "Mùa hè";
+
+"tvupush_filter_35" = "Đêm";
+
+"tvupush_filter_36" = "Nâu đỏ";
+
+"tvupush_filter_37" = "Rõ ràng";
+
+"tvupush_filter_38" = "Tự nhiên.";
+
+"tvupush_filter_39" = "Soda";
+
+"tvupush_filter_40" = "California";
+
+"tvupush_filter_41" = "Màu thực phẩm";
+
+"tvupush_filter_42" = "Hương vị";
+
+"tvupush_filter_43" = "Phim Mỹ";
+
+"tvupush_filter_44" = "đỏ cổ điển";
+
+"tvupush_filter_45" = "Hành trình";
+
+"tvupush_filter_46" = "Màu vàng ấm áp";
+
+"tvupush_filter_47" = "Phim blues";
+
+"tvupush_filter_48" = "Da trắng lạnh";
+
+"tvupush_filter_49" = "Sáng";
+
+"tvupush_filter_50" = "Màu cam sáng";
+
+"tvupush_filter_51" = "Quả óc chó";
+
+"tvupush_filter_52" = "Màu nâu sẫm";
+
+"tvupush_filter_53" = "Dracula.";
+
+"tvupush_filter_54" = "Màu hạt dẻ";
+
+"tvupush_filter_55" = "Cây dừa";
+
+"tvupush_filter_56" = "Thức ăn ấm";
+
+"tvupush_filter_57" = "Nước bong bóng";
+
+"tvupush_filter_58" = "Ẩm thực";
+
+"tvupush_filter_59" = "Đốt than";
+
+"tvupush_filter_60" = "Kyoto";
+
+"tvupush_filter_61" = "Bờ biển";
+
+"tvupush_filter_62" = "Màu xanh lá cây";
+
+"tvupush_filter_63" = "Hoa anh đào buổi tối";
+
+"tvupush_filter_64" = "Màu cam";
+
+"tvupush_filter_65" = "Thành phố tình yêu";
+
+"tvupush_filter_66" = "CT";
+
+"tvupush_filter_67" = "EK";
+
+"tvupush_filter_68" = "FJ";
+
+"tvupush_filter_69" = "Vàng đen";
+
+"tvupush_filter_70" = "Hepburn.";
+
+"模板下载失败，挂件剩余个数不足" = "Tải xuống mẫu không thành công, số lượng mặt dây chuyền còn lại không đủ.";
+
+"filter_normal" = "Bình thường.";
+
+"tvupush_link_sidebar" = "Chế độ xem thanh bên";
+
+"tvupush_link_user_upper_limit" = "Hiện tại nhân viên Liên Mai đã đạt giới hạn trên.";
+
+"tvupush_link_confirm_microphone_tip" = "Sau khi bắt đầu Lianmai, mặt dây chuyền lớp hiện tại sẽ không còn được hiển thị nữa, bạn có xác nhận bắt đầu không?";
+
+"tvupush_link_list_empty" = "Tạm thời không có khán giả của Liên Mai.";
+
+"tvupush_link_start" = "Bắt đầu Liên Mai";
+
+"tvupush_link_view" = "Xem";
+
+"tvupush_link_confirm_mike" = "Xác nhận kết thúc khán giả Liên Mai?";
+
+"tvupush_link_remove" = "Xoá";
+
+"tvupush_link_remove_microphone" = "Loại bỏ Liên Mai";
+
+"tvupush_link_quit_mike" = "Hiện đang ở Lianmai, kết thúc livestream Lianmai sẽ rút khỏi Lianmai hiện tại.";
+
+"tvupush_link_camera" = "Máy ảnh";
+
+"tvupush_link_stop" = "Kết thúc Liên Mai";
+
+"tvupush_link_microphone" = "Mic";
+
+"tvupush_link_view_settings" = "Cài đặt xem";
+
+"tvupush_link_apply_list" = "Danh sách yêu cầu";
+
+"tvupush_link_audience" = "Khán giả Liên Mai";
+
+"tvupush_link_grid" = "Chế độ xem cung điện";
+
+"tvupush_link_confirm_start" = "Xác nhận bắt đầu Liên Mai?";
+
+"tvupush_link_confirm_to_remove" = "Xác nhận bạn muốn xóa\ n [%@] không?";
+
+"tvupush_link_hint" = "Sau khi bắt đầu Liên Mai, người xem có thể bắt đầu yêu cầu Liên Mai,\ n hỗ trợ tối đa 1v%ld video Liên Mai.";
+
+"tvupush_link_user_action" = "Hoạt động trên [%@]";
+
+"tvupush_link_resume_hint" = "Lần trước Liên Mai không kết thúc bình thường.";
+
+"tvupush_link_resume_title" = "Có cần khôi phục Liên Mai không?";
+
+"tvupush_link_start_fail" = "Liên Mai thất bại, xin vui lòng thử lại.";
+
+"tvupush_link_presenter" = "Người dẫn chương trình";
+
+"tvupush_link_accept" = "Chấp nhận";
+
+"tvupush_link_apply_send_fail" = "Yêu cầu gửi không thành công, xin vui lòng thử lại";
+
+"tvupush_link_apply_send_success" = "Yêu cầu gửi thành công";
+
+"filter_ABG" = "ABG";
+
+"filter_F2" = "Soda";
+
+"filter_F3" = "California";
+
+"filter_F4" = "Màu thực phẩm";
+
+"filter_F5" = "Hương vị";
+
+"filter_HUJI" = "HUJI";
+
+"filter_L1" = "Đảo";
+
+"filter_L2" = "Mùa hè";
+
+"filter_L3" = "Đêm";
+
+"filter_L4" = "Nâu đỏ";
+
+"filter_L5" = "Rõ ràng";
+
+"filter_Po1" = "Nhẹ nhàng";
+
+"filter_Po10" = "Màu xám cao cấp";
+
+"filter_Po2" = "Tình yêu siêu ngọt ngào";
+
+"filter_Po3" = "Lần đầu gặp";
+
+"filter_Po4" = "Bóng tối";
+
+"filter_Po5" = "Trà sữa";
+
+"filter_Po6" = "mềm mại";
+
+"filter_Po7" = "Hoàng hôn";
+
+"filter_Po8" = "Oxy lạnh";
+
+"filter_Po9" = "Chân dung bãi biển";
+
+"filter_S1" = "Phim Mỹ";
+
+"filter_S2" = "đỏ cổ điển";
+
+"filter_S3" = "Hành trình";
+
+"filter_S4" = "Màu vàng ấm áp";
+
+"filter_S5" = "Phim blues";
+
+"filter_aikefa" = "EK";
+
+"filter_aizhicheng" = "Thành phố tình yêu";
+
+"filter_baixi" = "trắng";
+
+"filter_baixue" = "Tuyết";
+
+"filter_beihaidao" = "Hokkaido";
+
+"filter_campan" = "Hoa cam";
+
+"filter_chalk" = "Màu trắng";
+
+"filter_chaobai" = "Siêu trắng";
+
+"filter_chulian" = "Mối tình đầu";
+
+"filter_chuxin" = "Trái tim đầu tiên";
+
+"filter_degula" = "Dracula.";
+
+"filter_dongren" = "Cảm động.";
+
+"filter_feifan" = "phi thường";
+
+"filter_fenci" = "Bột sứ";
+
+"filter_fushi" = "FJ";
+
+"filter_gaoqing" = "HD";
+
+"filter_guowang" = "Quá khứ";
+
+"filter_haian" = "Bờ biển";
+
+"filter_heben" = "Hepburn.";
+
+"filter_heibai" = "Đen trắng";
+
+"filter_heijin" = "Vàng đen";
+
+"filter_hongchun" = "Môi đỏ";
+
+"filter_huanfu" = "Trẻ hóa da";
+
+"filter_huopo" = "Hoạt động";
+
+"filter_hutaomu" = "Quả óc chó";
+
+"filter_jiari" = "Kỳ nghỉ";
+
+"filter_jingdu" = "Kyoto";
+
+"filter_jinshu" = "Kim loại";
+
+"filter_julandiao" = "Màu xanh cam";
+
+"filter_kameier" = "Carmel.";
+
+"filter_kangtaishi" = "CT";
+
+"filter_landiao" = "Nhạc blues";
+
+"filter_lengbaipi" = "Da trắng lạnh";
+
+"filter_lengxi" = "Lạnh";
+
+"filter_liangju" = "Màu cam sáng";
+
+"filter_liaoli" = "Ẩm thực";
+
+"filter_lise" = "Màu hạt dẻ";
+
+"filter_lolita" = "Lolita.";
+
+"filter_lvyan" = "Màu xanh lá cây";
+
+"filter_makalong" = "Bánh macaron";
+
+"filter_mitao" = "Đào.";
+
+"filter_mopian" = "Phim câm";
+
+"filter_mousse" = "mousse";
+
+"filter_musi" = "Ấm áp";
+
+"filter_naihui" = "Tro sữa";
+
+"filter_naiyou" = "Kem";
+
+"filter_nuanshi" = "Thức ăn ấm";
+
+"filter_oxgen" = "Oxy";
+
+"filter_qiangwei" = "Hoa hồng";
+
+"filter_qingcheng" = "Màu cam";
+
+"filter_qingchun" = "Tinh khiết";
+
+"filter_qingyang" = "Oxy nhẹ";
+
+"filter_qipaoshui" = "Nước bong bóng";
+
+"filter_quqi" = "Bánh quy";
+
+"filter_rixi" = "Nhật bản";
+
+"filter_riza" = "Ngày";
+
+"filter_rouhe" = "Mềm mại";
+
+"filter_shenhe" = "Màu nâu sẫm";
+
+"filter_shensui" = "Sâu.";
+
+"filter_shenyeshitang" = "Nhà hàng đêm";
+
+"filter_suying" = "Cắm trại";
+
+"filter_tanshao" = "Đốt than";
+
+"filter_touliang" = "Sáng";
+
+"filter_tuise" = "Màu sắc";
+
+"filter_wanying" = "Hoa anh đào buổi tối";
+
+"filter_weixun" = "Hơi say.";
+
+"filter_wuye" = "Sương mù";
+
+"filter_wuyu" = "Câu chuyện";
+
+"filter_yelin" = "Cây dừa";
+
+"filter_yinglang" = "Mạnh mẽ";
+
+"filter_yinhua" = "Hoa anh đào";
+
+"filter_youhua" = "Tranh sơn dầu";
+
+"filter_yuansheng" = "Bản địa";
+
+"filter_yuanxiangji" = "Máy ảnh gốc";
+
+"filter_zhengchang" = "Bình thường.";
+
+"filter_ziran" = "Tự nhiên.";
+
+"beauty_Android_fenbai_lite_whiten" = "Làm trắng - trắng hồng";
+
+"beauty_Android_lengbai_lite_whiten" = "Làm trắng - trắng";
+
+"beauty_Android_lite_BEF_BEAUTY_BRIGHTEN_EYE" = "Mắt - Mắt sáng";
+
+"beauty_Android_lite_BEF_BEAUTY_REMOVE_POUCH" = "Mắt - quầng thâm";
+
+"beauty_Android_lite_BEF_BEAUTY_SMILES_FOLDS" = "Mặt - pháp luật";
+
+"beauty_Android_lite_smooth" = "Mài da";
+
+"beauty_Android_rosy_lite_rosy" = "Làm trắng - hồng hào";
+
+"beauty_Android_standard_clear" = "Rõ ràng";
+
+"beauty_Android_standard_sharp" = "Sắc nét";
+
+"beauty_Android_standard_smooth" = "Mài da";
+
+"beauty_Android_video_BEF_BEAUTY_REMOVE_POUCH" = "Mắt - quầng thâm";
+
+"beauty_Android_video_BEF_BEAUTY_SMILES_FOLDS" = "Mặt - pháp luật";
+
+"beauty_IOS_fenbai_lite_whiten" = "Làm trắng - trắng hồng";
+
+"beauty_IOS_lengbai_lite_whiten" = "Làm trắng - trắng";
+
+"beauty_IOS_lite_BEF_BEAUTY_BRIGHTEN_EYE" = "Mắt - Mắt sáng";
+
+"beauty_IOS_lite_BEF_BEAUTY_REMOVE_POUCH" = "Mắt - quầng thâm";
+
+"beauty_IOS_lite_BEF_BEAUTY_SMILES_FOLDS" = "Mặt - pháp luật";
+
+"beauty_IOS_lite_smooth" = "Mài da";
+
+"beauty_IOS_rosy_lite_rosy" = "Làm trắng - hồng hào";
+
+"beauty_IOS_standard_clear" = "Rõ ràng";
+
+"beauty_IOS_standard_sharp" = "Sắc nét";
+
+"beauty_IOS_standard_smooth" = "Mài da";
+
+"beauty_IOS_video_BEF_BEAUTY_REMOVE_POUCH" = "Mắt - quầng thâm";
+
+"beauty_IOS_video_BEF_BEAUTY_SMILES_FOLDS" = "Mặt - pháp luật";
+
+"comment_failed" = "Bình luận thất bại";
+
+"double_eye_lid/newmoon_BEF_BEAUTY_EYE_SINGLE_TO_DOUBLE" = "Mắt - hai mí mắt";
+
+"reshape_v8_BEF_BEAUTY_BODY_SHRINK_HEAD" = "Mặt - Đầu nhỏ";
+
+"reshape_v8_Face_ALL_boy" = "Mặt - Mặt gầy - Nam thần";
+
+"reshape_v8_Face_ALL_girl" = "Mặt - Mặt gầy - Nữ thần";
+
+"reshape_v8_Face_ALL_nature" = "Mặt - Mặt gầy - Tự nhiên";
+
+"reshape_v8_Internal_Deform_Face" = "Mặt - Mặt nhỏ";
+
+"reshape_v8_Internal_Deform_MouthCorner" = "Miệng - Nụ cười";
+
+"reshape_v8_Internal_Deform_Short_Face" = "Mặt - Mặt ngắn";
+
+"reshape_v8_Internal_Deform_VFace" = "Mặt - V mặt";
+
+"reshape_v8_lite_BEF_BEAUTY_BODY_SHRINK_HEAD" = "Mặt - Đầu nhỏ";
+
+"reshape_v8_lite_Face_ALL_boy" = "Mặt - Mặt gầy - Nam thần";
+
+"reshape_v8_lite_Face_ALL_girl" = "Mặt - Mặt gầy - Nữ thần";
+
+"reshape_v8_lite_Face_ALL_nature" = "Mặt - Mặt gầy - Tự nhiên";
+
+"reshape_v8_lite_Internal_Deform_CutFace" = "Mặt - Mặt hẹp";
+
+"reshape_v8_lite_Internal_Deform_Eye" = "Mắt - Kích thước";
+
+"reshape_v8_lite_Internal_Deform_Face" = "Mặt - Mặt nhỏ";
+
+"reshape_v8_lite_Internal_Deform_MouthCorner" = "Miệng - Nụ cười";
+
+"reshape_v8_lite_Internal_Deform_Zoom_Cheekbone" = "Mặt - Xương gò má";
+
+"reshape_v8_lite_Internal_Deform_Zoom_Jawbone" = "Mặt - Hàm dưới";
+
+"sharpen_Android_lite_sharp" = "Sắc nét";
+
+"sharpen_IOS_lite_sharp" = "Sắc nét";
+
+"whiten_clear_Android_lite_clear" = "Rõ ràng";
+
+"whiten_clear_Android_lite_whiten" = "Làm trắng - tự nhiên";
+
+"whiten_clear_IOS_lite_clear" = "Rõ ràng";
+
+"whiten_clear_IOS_lite_whiten" = "Làm trắng - tự nhiên";
+
+"whiten_teeth_Android_lite_BEF_BEAUTY_WHITEN_TEETH" = "Miệng - Răng trắng";
+
+"whiten_teeth_IOS_lite_BEF_BEAUTY_WHITEN_TEETH" = "Miệng - Răng trắng";
+
+"whiten_teeth_standard_BEF_BEAUTY_WHITEN_TEETH" = "Miệng - Răng trắng";

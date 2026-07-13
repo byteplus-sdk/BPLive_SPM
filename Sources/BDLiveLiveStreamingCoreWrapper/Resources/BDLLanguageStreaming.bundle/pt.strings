@@ -1,0 +1,954 @@
+
+"1080p" = "Blu-ray 1080p";
+
+"480p" = "SD 480p";
+
+"540p" = "Alta definição 540p";
+
+"720p" = "Ultra claro 720p";
+
+"abandoned_after_exiting" = "Depois de sair, todas as operações atuais serão canceladas";
+
+"alert_close_live" = "Tem certeza de fechar a transmissão ao vivo?";
+
+"alert_emoji_not_support" = "Emoji de entrada ainda não é suportado.";
+
+"alert_flash_lamp_error" = "Desculpe, a aquisição da permissão do Flash falhou.";
+
+"alert_max_15" = "Insira até 15 caracteres";
+
+"alert_max_200" = "Insira até 200 caracteres";
+
+"alert_msg_screen_switch" = "A orientação da tela de transmissão ao vivo está prestes a ser alterada. Você quer mudar?";
+
+"alert_msg_screen_switch_camera" = "A orientação da tela de transmissão ao vivo está prestes a ser alterada e o pingente na tela mudará. Você quer mudar?";
+
+"alert_no_camera" = "Não obtive a permissão da câmera. Deseja conceder %@ permissão nas configurações?";
+
+"alert_no_microphone" = "Não obtive a permissão do microfone. Deseja conceder %@ essa permissão nas configurações?";
+
+"alert_no_photo_library" = "Não obteve permissão do álbum, vá para as configurações para conceder %@ permissão?";
+
+"alert_only_rear_camera" = "Flash só é permitido em cenas da câmera traseira";
+
+"alert_screen_switch" = "Alternar prompts de tela";
+
+"apply_now" = "Use imediatamente";
+
+"back" = "Retorno";
+
+"basic_information" = "Informações básicas";
+
+"basic_information_add_label" = "Adicionar";
+
+"basic_information_cover_label_%ld" = "Formatos suportados: JPG e PNG. Tamanho do arquivo: não mais que %ld MB.";
+
+"basic_information_description_switch_label" = "Mostre a descrição da transmissão ao vivo na transmissão ao vivo.";
+
+"basic_information_description_textview_label" = "Descrever conteúdo";
+
+"basic_information_description_textview_placeholder" = "Insira a descrição da transmissão ao vivo";
+
+"basic_information_edit_label" = "Editar";
+
+"basic_information_live_tag" = "Classificação de transmissão ao vivo";
+
+"basic_information_live_tag_changed_error" = "A classificação da transmissão ao vivo foi atualizada, tente novamente.";
+
+"basic_information_live_tag_count" = "%d 1";
+
+"basic_information_live_tag_empty_title" = "Sem categorias alternativas";
+
+"basic_information_live_title_textview_placeholder" = "Digite o título da transmissão ao vivo";
+
+"basic_information_nav_account_avatar" = "Avatar da conta";
+
+"basic_information_nav_account_name" = "Nome da conta";
+
+"basic_information_nav_cover" = "Imagem de capa";
+
+"basic_information_nav_description" = "Descrição da transmissão ao vivo";
+
+"basic_information_nav_live_title" = "Título da transmissão ao vivo";
+
+"beauty" = "Beleza";
+
+"big_eyes" = "Olhos grandes";
+
+"camera_live" = "Vídeo";
+
+"cancel" = "Cancelar";
+
+"caton" = "Cartão";
+
+"change_avatar" = "Mudança";
+
+"choose_sharpness" = "Selecionar definição";
+
+"clean" = "Tela limpa";
+
+"clear" = "Claro";
+
+"clear_pendants_layer" = "Pingente vazio";
+
+"click_to_edit_template_name" = "Nome do modelo Clique para editar";
+
+"closing_live_streaming" = "A transmissão ao vivo está fechada, aguarde.";
+
+"comment_input_placeholder" = "Fale com todos";
+
+"confirm" = "Está bem";
+
+"confirm_delete_template" = "Tem certeza de que deseja excluir o modelo?";
+
+"confirm_delete_widget_and_layer" = "Confirme a remoção do pingente? Após a exclusão, a camada que usa o pingente também será excluída.";
+
+"confirm_exit" = "Confirmar para sair?";
+
+"confirm_switch" = "Confirmar transferência";
+
+"create_template" = "Novo modelo";
+
+"delete" = "Excluir";
+
+"delete_all_comment" = "Confirme a limpeza de todos os comentários?";
+
+"delete_comment" = "Comentários claros";
+
+"delete_string" = "Excluir";
+
+"delete_template_pendent_warning" = "O pingente pertence ao %@ modelo. Após a exclusão, o modelo precisa ser baixado novamente. Confirmar exclusão?";
+
+"download" = "Baixar";
+
+"download_now" = "Baixe agora";
+
+"exit" = "Sair";
+
+"filter" = "Filtro";
+
+"flash_lamp" = "Piscar de olhos";
+
+"flip" = "Virar";
+
+"go_edit" = "Editar";
+
+"go_setting" = "Ir para configurações";
+
+"good" = "Bom";
+
+"has_update" = "Há uma atualização.";
+
+"i_got_it" = "Ah eu vejo.";
+
+"image_size_over_%dM_need_reselect" = "A imagem ultrapassa %dM, por favor, faça o upload novamente";
+
+"is_empty" = "Vazio";
+
+"landscape" = "Tela horizontal";
+
+"layer" = "Camada";
+
+"live_end_start_tip" = "A transmissão ao vivo terminou. Se você precisar iniciá-lo novamente, redefina o horário de transmissão ao vivo.";
+
+"live_has_been_started" = "A transmissão ao vivo foi AO VIVO e não pode ser operada.";
+
+"live_head_online_label" = "%ld online";
+
+"live_room_name_cannot_be_blank" = "O nome da transmissão ao vivo não pode estar vazio.";
+
+"live_time_left" = "%02ld deixou até o final da transmissão ao vivo: %02ld: %02ld";
+
+"media" = "Arquivo de mídia";
+
+"mirror" = "Imagem espelhada";
+
+"more" = "Mais";
+
+"msg_net_error" = "O pedido de rede falhou. Por favor tente novamente";
+
+"msg_net_error_extra_long" = "O caractere de entrada é muito longo, insira-o novamente.";
+
+"mute" = "Mudo";
+
+"narrow_face" = "Rosto estreito";
+
+"net_abnormal" = "Anormalidade de rede";
+
+"net_error_btn_text" = "Tentar novamente";
+
+"net_error_text" = "A rede atual não está disponível, verifique a conexão de rede e tente novamente";
+
+"network_request_error" = "Erro de solicitação de rede";
+
+"nick_name_cannot_be_blank" = "O apelido não pode estar vazio!";
+
+"no" = "Cancelar";
+
+"no_template" = "Nenhum modelo ainda";
+
+"off_line" = "Sem rede";
+
+"only_support_20_layer" = "Suporta até 20 camadas.";
+
+"pendants" = "Pingente";
+
+"pendants_layer" = "Camada";
+
+"pendants_layer_camera" = "Camada de retrato";
+
+"pendants_layer_clear_alert_clear" = "Vazio";
+
+"pendants_layer_clear_alert_title" = "Tem certeza de esvaziar todos os pingentes?";
+
+"pendants_layer_down" = "Mover para baixo";
+
+"pendants_layer_hide" = "Esconder";
+
+"pendants_layer_show" = "Mostrar";
+
+"pendants_layer_tips" = "Pressione e arraste rapidamente a camada para ajustar a ordem ~";
+
+"pendants_layer_up" = "Mover para cima";
+
+"please_input" = "Por favor insira (dentro de 15 caracteres)";
+
+"popularity" = "Popularidade";
+
+"portrait" = "Tela de retrato";
+
+"products" = "Bolsa de compras";
+
+"products_add_added" = "Adicionado";
+
+"products_add_added_des" = "Seu produto foi adicionado.";
+
+"products_add_addnew" = "Novo";
+
+"products_add_done" = "Concluído.";
+
+"products_add_shop_cross_text" = "Preço inicial das mercadorias";
+
+"products_add_shop_highlight" = "Preço atual";
+
+"products_add_shop_image" = "Adicionar imagem de capa";
+
+"products_add_shop_image_des" = "Recomenda-se carregar uma proporção de 1: 1 para evitar que a imagem seja esticada.";
+
+"products_add_shop_name" = "Nome do produto";
+
+"products_add_shop_name_placeholder" = "Por favor, insira um nome de produto";
+
+"products_add_shop_price_placehoder" = "Insira o preço do produto.";
+
+"products_add_shop_url" = "Link do produto";
+
+"products_add_shop_url_placeholder" = "Http: / / pt.html /";
+
+"products_add_submit" = "Enviar";
+
+"products_can_not_pin_tip" = "O produto atual não tem fotos adicionadas e não pode ser coberto.";
+
+"products_cancel_pin" = "Cancelar topo";
+
+"products_checkmark" = "Operação em lote";
+
+"products_confirm_delete" = "Você confirma a exclusão?";
+
+"products_confirm_delete_content" = "O produto não pode ser restaurado após ser excluído, por favor, opere com cautela.";
+
+"products_delete_count" = "Excluir (%ld)";
+
+"products_edit" = "Editar";
+
+"products_edit_title" = "Editar produto";
+
+"products_empty" = "Nenhum produto foi adicionado ao cartão atual.";
+
+"products_empty_tip" = "Clique em Adicionar produto";
+
+"products_filter" = "Filtro";
+
+"products_info_changed_error" = "A lista atual de informações de produtos foi atualizada, tente novamente.";
+
+"products_list" = "Colocar nas prateleiras";
+
+"products_more" = "Mais";
+
+"products_number_count" = "Total de %ld itens";
+
+"products_order" = "Ajustar a ordem";
+
+"products_pin_to_top" = "Topo";
+
+"products_quantity_limit_error" = "A lista de produtos atual atingiu o número máximo de produtos 500. Exclua alguns produtos e continue a adicioná-los.";
+
+"products_reorder_guide" = "Clique e arraste a imagem para ajustar a ordem do produto.";
+
+"products_reset" = "Redefinir";
+
+"products_search" = "Pesquisar";
+
+"products_search_empty" = "Nenhum produto relacionado foi encontrado.";
+
+"products_search_placeholder" = "Por favor, insira um nome de produto";
+
+"products_select_all" = "Selecione Tudo";
+
+"products_sure" = "Confirmar";
+
+"products_sure_count" = "Confirmação (%ld)";
+
+"products_title" = "Produto de transmissão ao vivo";
+
+"products_unlist" = "Fora da prateleira";
+
+"prompt" = "Dica";
+
+"props" = "Suporte";
+
+"replay_comment" = "Resposta";
+
+"resolution" = "Clareza";
+
+"rotate_to_landscape_to_apply_template" = "A transmissão ao vivo atual está no modo retrato, você tem certeza de mudar para a tela panorâmica e aplicar este modelo?";
+
+"rotate_to_portrait_to_apply_template" = "A transmissão ao vivo atual está no modo paisagem. Tem certeza de mudar para a tela de retrato e aplicar este modelo?";
+
+"rotate_to_save_landscape" = "Prestes a mudar para o modo paisagem e criar um novo modelo";
+
+"rotate_to_save_portrait" = "Prestes a mudar para o modo retrato e criar um novo modelo";
+
+"save" = "Salvar";
+
+"save_error" = "A gravação falhou, tente novamente";
+
+"save_landscape_template" = "Tem certeza de que deseja salvar como um modelo horizontal?";
+
+"save_portrait_template" = "Você tem certeza de salvar como um modelo de retrato?";
+
+"save_success" = "Salvo com sucesso";
+
+"screen_live" = "Gravação de tela";
+
+"screen_share_hint" = "Após o início da transmissão ao vivo, o público verá o conteúdo na tela do seu telefone em tempo real";
+
+"screen_sharing_hint" = "Durante a gravação da tela, você pode alternar para outras interfaces do celular para transmissão ao vivo.";
+
+"skin_grinding" = "Dermoabrasão";
+
+"smooth_live_only_support_10_gif" = "Para garantir uma transmissão ao vivo suave, apenas 10 imagens GIF são suportadas.";
+
+"start_live" = "Iniciar transmissão ao vivo";
+
+"start_live_fail" = "Go LIVE falhou, tente novamente";
+
+"sweep_to_switch" = "Deslize para a esquerda e para a direita para alternar os modelos";
+
+"template" = "Modelo";
+
+"template_can_not_save_without_name" = "O nome do modelo não preenchido não pode ser salvo";
+
+"template_delete_hint" = "Depois que o modelo for excluído, outros usuários não poderão usá-lo";
+
+"template_download_first" = "Faça o download do modelo primeiro e depois edite-o.";
+
+"template_has_update_click_to_download" = "O modelo foi atualizado, clique para baixar.";
+
+"template_not_exist" = "O modelo não existe ou foi excluído";
+
+"template_save_hint" = "Beleza, adereços, pingentes e configurações de camada serão salvos como modelos juntos.";
+
+"text" = "Texto";
+
+"thin_cheekbones" = "Maçãs do rosto magras";
+
+"thin_face" = "Rosto magro";
+
+"thin_mandible" = "Mandíbula magra";
+
+"thin_nose" = "Nariz magro";
+
+"toast_landscape_live" = "Mudou para LIVE no modo paisagem, a tela é exibida horizontalmente";
+
+"toast_portrait_live" = "Ele foi alternado para ir AO VIVO em retrato e a tela é exibida verticalmente.";
+
+"ttlv_pendents_upload" = "Carregar imagem";
+
+"tvu_product_library_please_search" = "Pesquise agora";
+
+"tvu_product_library_search_tip" = "Depois de inserir o conteúdo da pesquisa, exibir os resultados da pesquisa";
+
+"tvu_push_product_lib_response_error" = "Erro de retorno, verifique o conteúdo de retorno";
+
+"tvu_push_product_lib_timeout" = "Pedido esgotado";
+
+"tvupush_product_add_library" = "Adicionar da biblioteca de produtos";
+
+"tvupush_product_library_add" = "Adicionar";
+
+"tvupush_product_library_search_result_empty" = "Não há itens que correspondam aos critérios de pesquisa atuais";
+
+"tvupush_product_library_uncorrelated" = "Não há nenhuma biblioteca de produtos associada a esta transmissão ao vivo.";
+
+"tvupush_product_most_product_added" = "Adicione até 500 produtos";
+
+"tvupush_product_no_products_yet" = "Nenhum produto ainda";
+
+"tvupush_product_title_add" = "Adicionar produto";
+
+"tvupush_send_success" = "Enviado com sucesso";
+
+"tvupush_start_time_not_yet_toast" = "O horário de transmissão ao vivo não chegou, inicie a transmissão ao vivo após o horário de início da transmissão ao vivo.";
+
+"unknown" = "Desconhecido";
+
+"unsupport_gif_warning" = "O formato GIF não é suportado, por favor, recarregue";
+
+"unsupport_rotate_to_landscape_hint" = "Modelos que não suportam alternar o modo de paisagem no Go LIVE";
+
+"unsupport_rotate_to_portrait_hint" = "Modelos que não suportam a alternância do modo retrato no Go LIVE";
+
+"unsupported_broadcast_title" = "A versão do serviço atual não suporta a ativação.";
+
+"unsupported_feature_title" = "A versão de serviço atual não suporta esse recurso";
+
+"unsupported_version_message" = "A versão da conta atual não suporta esta função, entre em contato com o atendimento ao cliente para atualizar a versão do serviço.";
+
+"whitening" = "Clareamento";
+
+"俄语" = "Russo";
+
+"印尼语" = "Indonésio";
+
+"土耳其语" = "Turco";
+
+"日文" = "Japonês";
+
+"泰语" = "Tailandês";
+
+"简中" = "Chinês simplificado";
+
+"繁中" = "Chinês Tradicional";
+
+"英文" = "Inglês";
+
+"葡萄牙语" = "Português";
+
+"西班牙语" = "Espanhol";
+
+"越南语" = "Vietnamita";
+
+"阿拉伯语" = "Árabe";
+
+"韩语" = "Coreano";
+
+"tvupush_filter_01" = "Branco macio";
+
+"tvupush_filter_02" = "Creme";
+
+"tvupush_filter_03" = "Oxigênio";
+
+"tvupush_filter_04" = "Platycodon";
+
+"tvupush_filter_05" = "Lolita";
+
+"tvupush_filter_06" = "Pêssego";
+
+"tvupush_filter_07" = "Macaron";
+
+"tvupush_filter_08" = "Espuma";
+
+"tvupush_filter_09" = "Flor de cerejeira";
+
+"tvupush_filter_10" = "Leve quente";
+
+"tvupush_filter_11" = "História";
+
+"tvupush_filter_12" = "Hokkaido";
+
+"tvupush_filter_13" = "Diversos";
+
+"tvupush_filter_14" = "Seattle";
+
+"tvupush_filter_15" = "Quieto";
+
+"tvupush_filter_16" = "Filme";
+
+"tvupush_filter_17" = "Sol Quente";
+
+"tvupush_filter_18" = "Velhos tempos";
+
+"tvupush_filter_19" = "Lábios vermelhos";
+
+"tvupush_filter_20" = "Azul Laranja";
+
+"tvupush_filter_21" = "Desaparecer";
+
+"tvupush_filter_22" = "Preto e branco";
+
+"tvupush_filter_23" = "Gentil";
+
+"tvupush_filter_24" = "O amor é super doce";
+
+"tvupush_filter_25" = "Primeira vista";
+
+"tvupush_filter_26" = "Tom escuro";
+
+"tvupush_filter_27" = "Chá com leite";
+
+"tvupush_filter_28" = "Suave";
+
+"tvupush_filter_29" = "Pôr do sol";
+
+"tvupush_filter_30" = "Oxigênio frio";
+
+"tvupush_filter_31" = "Retrato à beira-mar";
+
+"tvupush_filter_32" = "Cinza premium";
+
+"tvupush_filter_33" = "Ilha";
+
+"tvupush_filter_34" = "Verão claro";
+
+"tvupush_filter_35" = "Noite";
+
+"tvupush_filter_36" = "Vermelho marrom";
+
+"tvupush_filter_37" = "Claro";
+
+"tvupush_filter_38" = "Natureza";
+
+"tvupush_filter_39" = "Refrigerante";
+
+"tvupush_filter_40" = "Califórnia";
+
+"tvupush_filter_41" = "Cor alimentar";
+
+"tvupush_filter_42" = "Sabor Sichuan";
+
+"tvupush_filter_43" = "Filme Americano";
+
+"tvupush_filter_44" = "Retro vermelho";
+
+"tvupush_filter_45" = "Jornada";
+
+"tvupush_filter_46" = "Amarelo quente";
+
+"tvupush_filter_47" = "Filme de Blues";
+
+"tvupush_filter_48" = "Pele branca fria";
+
+"tvupush_filter_49" = "Translúcido";
+
+"tvupush_filter_50" = "Laranja brilhante";
+
+"tvupush_filter_51" = "Noz";
+
+"tvupush_filter_52" = "Marrom escuro";
+
+"tvupush_filter_53" = "Drácula";
+
+"tvupush_filter_54" = "Marrom";
+
+"tvupush_filter_55" = "Coconut Grove";
+
+"tvupush_filter_56" = "Comida quente";
+
+"tvupush_filter_57" = "Água com gás";
+
+"tvupush_filter_58" = "Cozinhando";
+
+"tvupush_filter_59" = "Queima de carvão";
+
+"tvupush_filter_60" = "Quioto";
+
+"tvupush_filter_61" = "Costa";
+
+"tvupush_filter_62" = "Yan Verde";
+
+"tvupush_filter_63" = "Cereja da noite";
+
+"tvupush_filter_64" = "Verde laranja";
+
+"tvupush_filter_65" = "Cidade do Amor";
+
+"tvupush_filter_66" = "TC";
+
+"tvupush_filter_67" = "EK";
+
+"tvupush_filter_68" = "FJ";
+
+"tvupush_filter_69" = "Ouro preto";
+
+"tvupush_filter_70" = "Hepburn";
+
+"模板下载失败，挂件剩余个数不足" = "O download do modelo falhou e o número restante de pingentes é insuficiente.";
+
+"filter_normal" = "Normal";
+
+"tvupush_link_sidebar" = "Vista da Barra Lateral";
+
+"tvupush_link_user_upper_limit" = "O pessoal atual da Lianmai atingiu o limite superior";
+
+"tvupush_link_confirm_microphone_tip" = "Depois de começar a conectar o trigo, o pingente da camada atual não será mais exibido. Deseja confirmar o início?";
+
+"tvupush_link_list_empty" = "Não há espectadores de Lian Mai por enquanto ~";
+
+"tvupush_link_start" = "Comece a se conectar com o trigo";
+
+"tvupush_link_view" = "Visão";
+
+"tvupush_link_confirm_mike" = "Confirme o fim da audiência Lian Mai?";
+
+"tvupush_link_remove" = "Remover";
+
+"tvupush_link_remove_microphone" = "Remover Lianmai";
+
+"tvupush_link_quit_mike" = "Atualmente em Lianmai, o fim do co-anfitrião sairá do Lianmai atual";
+
+"tvupush_link_camera" = "Câmera";
+
+"tvupush_link_stop" = "Fim Lianmai";
+
+"tvupush_link_microphone" = "Microfone";
+
+"tvupush_link_view_settings" = "Ver configurações";
+
+"tvupush_link_apply_list" = "Lista de aplicações";
+
+"tvupush_link_audience" = "Público Lian Mai";
+
+"tvupush_link_grid" = "Visualização em grade";
+
+"tvupush_link_confirm_start" = "Confirmar o início de Lianmai?";
+
+"tvupush_link_confirm_to_remove" = "Tem certeza de que deseja remover\ n [%@]?";
+
+"tvupush_link_hint" = "Depois de iniciar o Lianmai, o público pode iniciar um aplicativo Lianmai,\ nup to 1v%ld video Lianmai é suportado";
+
+"tvupush_link_user_action" = "Operar em [%@]";
+
+"tvupush_link_resume_hint" = "Da última vez, Lian Mai não terminou normalmente.";
+
+"tvupush_link_resume_title" = "Você precisa restaurar Lianmai?";
+
+"tvupush_link_start_fail" = "Lianmai falhou, por favor, tente novamente.";
+
+"tvupush_link_presenter" = "Anfitrião";
+
+"tvupush_link_accept" = "Aceitar";
+
+"tvupush_link_apply_send_fail" = "O aplicativo não foi enviado, tente novamente.";
+
+"tvupush_link_apply_send_success" = "Candidatura enviada com sucesso";
+
+"filter_ABG" = "ABG";
+
+"filter_F2" = "Refrigerante";
+
+"filter_F3" = "Califórnia";
+
+"filter_F4" = "Cor alimentar";
+
+"filter_F5" = "Sabor Sichuan";
+
+"filter_HUJI" = "HUJI";
+
+"filter_L1" = "Ilha";
+
+"filter_L2" = "Verão claro";
+
+"filter_L3" = "Noite";
+
+"filter_L4" = "Vermelho marrom";
+
+"filter_L5" = "Claro";
+
+"filter_Po1" = "Gentil";
+
+"filter_Po10" = "Cinza premium";
+
+"filter_Po2" = "O amor é super doce";
+
+"filter_Po3" = "Primeira vista";
+
+"filter_Po4" = "Tom escuro";
+
+"filter_Po5" = "Chá com leite";
+
+"filter_Po6" = "Macio";
+
+"filter_Po7" = "Pôr do sol";
+
+"filter_Po8" = "Oxigênio frio";
+
+"filter_Po9" = "Retrato à beira-mar";
+
+"filter_S1" = "Filme Americano";
+
+"filter_S2" = "Retro vermelho";
+
+"filter_S3" = "Jornada";
+
+"filter_S4" = "Amarelo quente";
+
+"filter_S5" = "Filme de Blues";
+
+"filter_aikefa" = "EK";
+
+"filter_aizhicheng" = "Cidade do Amor";
+
+"filter_baixi" = "Justo";
+
+"filter_baixue" = "Branca de Neve";
+
+"filter_beihaidao" = "Hokkaido";
+
+"filter_campan" = "Platycodon";
+
+"filter_chalk" = "Branco macio";
+
+"filter_chaobai" = "Ultra Branco";
+
+"filter_chulian" = "Primeiro amor";
+
+"filter_chuxin" = "Intenção original";
+
+"filter_degula" = "Drácula";
+
+"filter_dongren" = "Movendo";
+
+"filter_feifan" = "Extraordinário";
+
+"filter_fenci" = "Porcelana rosa";
+
+"filter_fushi" = "FJ";
+
+"filter_gaoqing" = "Alta definição";
+
+"filter_guowang" = "Passado";
+
+"filter_haian" = "Costa";
+
+"filter_heben" = "Hepburn";
+
+"filter_heibai" = "Preto e branco";
+
+"filter_heijin" = "Ouro preto";
+
+"filter_hongchun" = "Lábios vermelhos";
+
+"filter_huanfu" = "Rejuvenescimento da pele";
+
+"filter_huopo" = "Animado";
+
+"filter_hutaomu" = "Noz";
+
+"filter_jiari" = "Feriado";
+
+"filter_jingdu" = "Quioto";
+
+"filter_jinshu" = "Metal";
+
+"filter_julandiao" = "Azul Laranja";
+
+"filter_kameier" = "Carmel";
+
+"filter_kangtaishi" = "TC";
+
+"filter_landiao" = "Azuis";
+
+"filter_lengbaipi" = "Pele branca fria";
+
+"filter_lengxi" = "Sistema frio";
+
+"filter_liangju" = "Laranja brilhante";
+
+"filter_liaoli" = "Cozinhando";
+
+"filter_lise" = "Marrom";
+
+"filter_lolita" = "Lolita";
+
+"filter_lvyan" = "Yan Verde";
+
+"filter_makalong" = "Macaron";
+
+"filter_mitao" = "Pêssego";
+
+"filter_mopian" = "Filme mudo";
+
+"filter_mousse" = "Mousse";
+
+"filter_musi" = "Leve quente";
+
+"filter_naihui" = "Cinza de leite";
+
+"filter_naiyou" = "Creme";
+
+"filter_nuanshi" = "Comida quente";
+
+"filter_oxgen" = "Oxigênio";
+
+"filter_qiangwei" = "Rosa";
+
+"filter_qingcheng" = "Verde laranja";
+
+"filter_qingchun" = "Puro";
+
+"filter_qingyang" = "Oxigénio leve";
+
+"filter_qipaoshui" = "Água com gás";
+
+"filter_quqi" = "Biscoito";
+
+"filter_rixi" = "Japonês";
+
+"filter_riza" = "Diversos";
+
+"filter_rouhe" = "Macio";
+
+"filter_shenhe" = "Marrom escuro";
+
+"filter_shensui" = "Profundo";
+
+"filter_shenyeshitang" = "Cafeteria tarde da noite";
+
+"filter_suying" = "Acampamento";
+
+"filter_tanshao" = "Queima de carvão";
+
+"filter_touliang" = "Translúcido";
+
+"filter_tuise" = "Desaparecer";
+
+"filter_wanying" = "Cereja da noite";
+
+"filter_weixun" = "Ligeiramente bêbado";
+
+"filter_wuye" = "Mizuno";
+
+"filter_wuyu" = "História";
+
+"filter_yelin" = "Coconut Grove";
+
+"filter_yinglang" = "Difícil";
+
+"filter_yinhua" = "Flor de cerejeira";
+
+"filter_youhua" = "Pintura a óleo";
+
+"filter_yuansheng" = "Nativo";
+
+"filter_yuanxiangji" = "Câmera original";
+
+"filter_zhengchang" = "Normal";
+
+"filter_ziran" = "Natureza";
+
+"beauty_Android_fenbai_lite_whiten" = "Clareamento - Branco Rosa";
+
+"beauty_Android_lengbai_lite_whiten" = "Clareamento - clareamento";
+
+"beauty_Android_lite_BEF_BEAUTY_BRIGHTEN_EYE" = "Olhos - olhos brilhantes";
+
+"beauty_Android_lite_BEF_BEAUTY_REMOVE_POUCH" = "Olhos - olheiras";
+
+"beauty_Android_lite_BEF_BEAUTY_SMILES_FOLDS" = "Face - dobras nasolabiais";
+
+"beauty_Android_lite_smooth" = "Dermoabrasão";
+
+"beauty_Android_rosy_lite_rosy" = "Clareamento - avermelhado";
+
+"beauty_Android_standard_clear" = "Claro";
+
+"beauty_Android_standard_sharp" = "Afiar";
+
+"beauty_Android_standard_smooth" = "Dermoabrasão";
+
+"beauty_Android_video_BEF_BEAUTY_REMOVE_POUCH" = "Olhos - olheiras";
+
+"beauty_Android_video_BEF_BEAUTY_SMILES_FOLDS" = "Face - dobras nasolabiais";
+
+"beauty_IOS_fenbai_lite_whiten" = "Clareamento - Branco Rosa";
+
+"beauty_IOS_lengbai_lite_whiten" = "Clareamento - clareamento";
+
+"beauty_IOS_lite_BEF_BEAUTY_BRIGHTEN_EYE" = "Olhos - olhos brilhantes";
+
+"beauty_IOS_lite_BEF_BEAUTY_REMOVE_POUCH" = "Olhos - olheiras";
+
+"beauty_IOS_lite_BEF_BEAUTY_SMILES_FOLDS" = "Face - dobras nasolabiais";
+
+"beauty_IOS_lite_smooth" = "Dermoabrasão";
+
+"beauty_IOS_rosy_lite_rosy" = "Clareamento - avermelhado";
+
+"beauty_IOS_standard_clear" = "Claro";
+
+"beauty_IOS_standard_sharp" = "Afiar";
+
+"beauty_IOS_standard_smooth" = "Dermoabrasão";
+
+"beauty_IOS_video_BEF_BEAUTY_REMOVE_POUCH" = "Olhos - olheiras";
+
+"beauty_IOS_video_BEF_BEAUTY_SMILES_FOLDS" = "Face - dobras nasolabiais";
+
+"comment_failed" = "Comentário falhou";
+
+"double_eye_lid/newmoon_BEF_BEAUTY_EYE_SINGLE_TO_DOUBLE" = "Olhos - pálpebras duplas";
+
+"reshape_v8_BEF_BEAUTY_BODY_SHRINK_HEAD" = "Rosto - cabeça pequena";
+
+"reshape_v8_Face_ALL_boy" = "Rosto - Rosto Fino - Deus Masculino";
+
+"reshape_v8_Face_ALL_girl" = "Rosto - Rosto Fino - Musa";
+
+"reshape_v8_Face_ALL_nature" = "Rosto - Rosto Fino - Natural";
+
+"reshape_v8_Internal_Deform_Face" = "Rosto - rosto pequeno";
+
+"reshape_v8_Internal_Deform_MouthCorner" = "Boca - sorriso";
+
+"reshape_v8_Internal_Deform_Short_Face" = "Rosto - rosto curto";
+
+"reshape_v8_Internal_Deform_VFace" = "Rosto-V rosto";
+
+"reshape_v8_lite_BEF_BEAUTY_BODY_SHRINK_HEAD" = "Rosto - cabeça pequena";
+
+"reshape_v8_lite_Face_ALL_boy" = "Rosto - Rosto Fino - Deus Masculino";
+
+"reshape_v8_lite_Face_ALL_girl" = "Rosto - Rosto Fino - Musa";
+
+"reshape_v8_lite_Face_ALL_nature" = "Rosto - Rosto Fino - Natural";
+
+"reshape_v8_lite_Internal_Deform_CutFace" = "Rosto - rosto estreito";
+
+"reshape_v8_lite_Internal_Deform_Eye" = "Olhos - tamanho";
+
+"reshape_v8_lite_Internal_Deform_Face" = "Rosto - rosto pequeno";
+
+"reshape_v8_lite_Internal_Deform_MouthCorner" = "Boca - sorriso";
+
+"reshape_v8_lite_Internal_Deform_Zoom_Cheekbone" = "Rosto - maçãs do rosto";
+
+"reshape_v8_lite_Internal_Deform_Zoom_Jawbone" = "Rosto - Mandíbula";
+
+"sharpen_Android_lite_sharp" = "Afiar";
+
+"sharpen_IOS_lite_sharp" = "Afiar";
+
+"whiten_clear_Android_lite_clear" = "Claro";
+
+"whiten_clear_Android_lite_whiten" = "Clareamento - Natural";
+
+"whiten_clear_IOS_lite_clear" = "Claro";
+
+"whiten_clear_IOS_lite_whiten" = "Clareamento - Natural";
+
+"whiten_teeth_Android_lite_BEF_BEAUTY_WHITEN_TEETH" = "Boca - Dentes Brancos";
+
+"whiten_teeth_IOS_lite_BEF_BEAUTY_WHITEN_TEETH" = "Boca - Dentes Brancos";
+
+"whiten_teeth_standard_BEF_BEAUTY_WHITEN_TEETH" = "Boca - Dentes Brancos";

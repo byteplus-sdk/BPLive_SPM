@@ -1,0 +1,954 @@
+
+"1080p" = "Blu-ray 1080p";
+
+"480p" = "Sd 480p";
+
+"540p" = "Definisi tinggi 540p";
+
+"720p" = "720p yang sangat jelas";
+
+"abandoned_after_exiting" = "Setelah keluar, semua operasi saat ini akan dibatalkan";
+
+"alert_close_live" = "Apakah Anda yakin untuk menutup streaming langsung?";
+
+"alert_emoji_not_support" = "Masukkan emoji belum didukung.";
+
+"alert_flash_lamp_error" = "Maaf, akuisisi izin flash gagal.";
+
+"alert_max_15" = "Masukkan hingga 15 karakter";
+
+"alert_max_200" = "Masukkan hingga 200 karakter";
+
+"alert_msg_screen_switch" = "Orientasi layar streaming langsung akan segera diubah. Apakah Anda ingin beralih?";
+
+"alert_msg_screen_switch_camera" = "Orientasi layar streaming langsung akan segera diubah, dan liontin di kanvas akan berubah. Apakah Anda ingin beralih?";
+
+"alert_no_camera" = "Saya belum mendapatkan izin kamera. Apakah Anda ingin memberikan %@ izin dalam pengaturan?";
+
+"alert_no_microphone" = "Saya belum mendapatkan izin mikrofon. Apakah Anda ingin memberikan %@ izin ini dalam pengaturan?";
+
+"alert_no_photo_library" = "Tidak mendapatkan izin album, pergi ke pengaturan untuk memberikan %@ izin?";
+
+"alert_only_rear_camera" = "Flash hanya diperbolehkan di adegan kamera belakang";
+
+"alert_screen_switch" = "Ganti petunjuk layar";
+
+"apply_now" = "gunakan segera";
+
+"back" = "kembali";
+
+"basic_information" = "informasi dasar";
+
+"basic_information_add_label" = "menambahkan";
+
+"basic_information_cover_label_%ld" = "Format yang didukung: JPG dan PNG. Ukuran file: tidak lebih dari %ld MB.";
+
+"basic_information_description_switch_label" = "Tampilkan deskripsi streaming langsung di streaming langsung.";
+
+"basic_information_description_textview_label" = "Jelaskan konten";
+
+"basic_information_description_textview_placeholder" = "Masukkan deskripsi streaming langsung";
+
+"basic_information_edit_label" = "sunting";
+
+"basic_information_live_tag" = "Klasifikasi streaming langsung";
+
+"basic_information_live_tag_changed_error" = "Klasifikasi streaming langsung telah diperbarui, silakan coba lagi.";
+
+"basic_information_live_tag_count" = "%d satu";
+
+"basic_information_live_tag_empty_title" = "Tidak ada kategori alternatif";
+
+"basic_information_live_title_textview_placeholder" = "Masukkan judul streaming langsung";
+
+"basic_information_nav_account_avatar" = "avatar akun";
+
+"basic_information_nav_account_name" = "nama akun";
+
+"basic_information_nav_cover" = "gambar penutup";
+
+"basic_information_nav_description" = "Deskripsi streaming langsung";
+
+"basic_information_nav_live_title" = "Judul streaming langsung";
+
+"beauty" = "Kecantikan";
+
+"big_eyes" = "Mata besar";
+
+"camera_live" = "video";
+
+"cancel" = "batal";
+
+"caton" = "Kartu";
+
+"change_avatar" = "perubahan";
+
+"choose_sharpness" = "Pilih definisi";
+
+"clean" = "layar bening";
+
+"clear" = "bening";
+
+"clear_pendants_layer" = "Liontin kosong";
+
+"click_to_edit_template_name" = "Nama Template Klik untuk mengedit";
+
+"closing_live_streaming" = "Streaming langsung ditutup, harap tunggu.";
+
+"comment_input_placeholder" = "Bicaralah dengan semua orang";
+
+"confirm" = "Oke";
+
+"confirm_delete_template" = "Anda yakin ingin menghapus template?";
+
+"confirm_delete_widget_and_layer" = "Konfirmasi penghapusan liontin? Setelah dihapus, lapisan yang menggunakan liontin juga akan dihapus.";
+
+"confirm_exit" = "Mengkonfirmasi untuk berhenti?";
+
+"confirm_switch" = "Konfirmasi serah terima";
+
+"create_template" = "template baru";
+
+"delete" = "menghapus";
+
+"delete_all_comment" = "Konfirmasi menghapus semua komentar?";
+
+"delete_comment" = "Komentar yang jelas";
+
+"delete_string" = "menghapus";
+
+"delete_template_pendent_warning" = "Liontin milik template %@ . Setelah dihapus, template perlu diunduh lagi. Konfirmasi penghapusan?";
+
+"download" = "unduh";
+
+"download_now" = "Unduh sekarang";
+
+"exit" = "berhenti";
+
+"filter" = "penyaring";
+
+"flash_lamp" = "kilat";
+
+"flip" = "membalik";
+
+"go_edit" = "Untuk mengedit";
+
+"go_setting" = "Pergi ke pengaturan";
+
+"good" = "Bagus";
+
+"has_update" = "Ada pembaruan.";
+
+"i_got_it" = "Oh begitu.";
+
+"image_size_over_%dM_need_reselect" = "Gambar melebihi %dM, silakan unggah ulang";
+
+"is_empty" = "hampa";
+
+"landscape" = "layar horizontal";
+
+"layer" = "Lapisan";
+
+"live_end_start_tip" = "Siaran langsung telah berakhir. Jika Anda perlu memulainya lagi, harap atur ulang waktu siaran langsung.";
+
+"live_has_been_started" = "Streaming langsung telah LANGSUNG dan tidak dapat dioperasikan.";
+
+"live_head_online_label" = "%ld online";
+
+"live_room_name_cannot_be_blank" = "Nama siaran langsungnya tidak boleh kosong.";
+
+"live_time_left" = "%02ld tersisa sampai akhir siaran langsung: %02ld: %02ld";
+
+"media" = "file media";
+
+"mirror" = "bayangan cermin";
+
+"more" = "lebih";
+
+"msg_net_error" = "Permintaan jaringan gagal. Silakan coba lagi";
+
+"msg_net_error_extra_long" = "Karakter input terlalu panjang, silakan masukkan kembali.";
+
+"mute" = "bisu";
+
+"narrow_face" = "wajah sempit";
+
+"net_abnormal" = "kelainan jaringan";
+
+"net_error_btn_text" = "Coba lagi";
+
+"net_error_text" = "Jaringan saat ini tidak tersedia, silakan periksa koneksi jaringan dan coba lagi";
+
+"network_request_error" = "kesalahan permintaan jaringan";
+
+"nick_name_cannot_be_blank" = "Nama panggilan tidak bisa kosong!";
+
+"no" = "batal";
+
+"no_template" = "Belum ada template";
+
+"off_line" = "Tidak ada jaringan";
+
+"only_support_20_layer" = "Ini mendukung hingga 20 lapisan.";
+
+"pendants" = "liontin";
+
+"pendants_layer" = "Lapisan";
+
+"pendants_layer_camera" = "Lapisan potret";
+
+"pendants_layer_clear_alert_clear" = "hampa";
+
+"pendants_layer_clear_alert_title" = "Apakah Anda yakin untuk mengosongkan semua liontin?";
+
+"pendants_layer_down" = "Pindah ke bawah";
+
+"pendants_layer_hide" = "bersembunyi";
+
+"pendants_layer_show" = "Pertunjukan";
+
+"pendants_layer_tips" = "Tekan lama untuk menyeret lapisan dengan cepat untuk menyesuaikan urutan ~";
+
+"pendants_layer_up" = "naik";
+
+"please_input" = "Silakan masukkan (dalam 15 karakter)";
+
+"popularity" = "popularitas";
+
+"portrait" = "layar potret";
+
+"products" = "Tas belanja";
+
+"products_add_added" = "Ditambahkan";
+
+"products_add_added_des" = "Produk Anda telah ditambahkan.";
+
+"products_add_addnew" = "baru";
+
+"products_add_done" = "Selesai.";
+
+"products_add_shop_cross_text" = "Harga barang asli";
+
+"products_add_shop_highlight" = "Harga saat ini";
+
+"products_add_shop_image" = "Tambahkan gambar sampul";
+
+"products_add_shop_image_des" = "Disarankan untuk mengunggah rasio 1: 1 untuk mencegah gambar diregangkan.";
+
+"products_add_shop_name" = "Nama produk";
+
+"products_add_shop_name_placeholder" = "Silakan masukkan nama produk";
+
+"products_add_shop_price_placehoder" = "Masukkan harga produk.";
+
+"products_add_shop_url" = "link produk";
+
+"products_add_shop_url_placeholder" = "http: /";
+
+"products_add_submit" = "menyerahkan";
+
+"products_can_not_pin_tip" = "Produk saat ini tidak memiliki gambar yang ditambahkan dan tidak dapat diatapi.";
+
+"products_cancel_pin" = "Batalkan atasan";
+
+"products_checkmark" = "operasi batch";
+
+"products_confirm_delete" = "Apakah Anda mengkonfirmasi penghapusan?";
+
+"products_confirm_delete_content" = "Produk tidak dapat dipulihkan setelah dihapus, harap beroperasi dengan hati-hati.";
+
+"products_delete_count" = "Hapus (%ld)";
+
+"products_edit" = "sunting";
+
+"products_edit_title" = "Sunting produk";
+
+"products_empty" = "Tidak ada produk yang ditambahkan ke kartu saat ini.";
+
+"products_empty_tip" = "Klik Tambahkan Produk";
+
+"products_filter" = "penyaring";
+
+"products_info_changed_error" = "Informasi produk daftar saat ini telah diperbarui, silakan coba lagi.";
+
+"products_list" = "taruh di rak";
+
+"products_more" = "lebih";
+
+"products_number_count" = "Jumlah %ld barang";
+
+"products_order" = "sesuaikan pesanan";
+
+"products_pin_to_top" = "atasan";
+
+"products_quantity_limit_error" = "Daftar produk saat ini telah mencapai jumlah maksimum produk 500. Harap hapus beberapa produk dan terus tambahkan.";
+
+"products_reorder_guide" = "Klik dan seret gambar untuk menyesuaikan urutan produk.";
+
+"products_reset" = "mengatur ulang";
+
+"products_search" = "Pencarian";
+
+"products_search_empty" = "Tidak ada produk terkait yang ditemukan.";
+
+"products_search_placeholder" = "Silakan masukkan nama produk";
+
+"products_select_all" = "Pilih Semua";
+
+"products_sure" = "konfirmasi";
+
+"products_sure_count" = "Konfirmasi (%ld)";
+
+"products_title" = "produk streaming langsung";
+
+"products_unlist" = "dari rak";
+
+"prompt" = "petunjuk";
+
+"props" = "alat peraga";
+
+"replay_comment" = "membalas";
+
+"resolution" = "kejelasan";
+
+"rotate_to_landscape_to_apply_template" = "Siaran langsung saat ini dalam mode potret, apakah Anda yakin untuk beralih ke layar lanskap, dan menerapkan template ini?";
+
+"rotate_to_portrait_to_apply_template" = "Siaran langsung saat ini dalam mode lanskap. Apakah Anda yakin untuk beralih ke layar potret dan menerapkan template ini?";
+
+"rotate_to_save_landscape" = "Akan beralih ke mode lanskap dan membuat template baru";
+
+"rotate_to_save_portrait" = "Akan beralih ke mode potret dan membuat template baru";
+
+"save" = "menyimpan";
+
+"save_error" = "Simpan gagal, silakan coba lagi";
+
+"save_landscape_template" = "Apakah Anda yakin ingin menyimpan sebagai template horizontal?";
+
+"save_portrait_template" = "Apakah Anda yakin untuk menyimpan sebagai templat potret?";
+
+"save_success" = "Berhasil disimpan";
+
+"screen_live" = "perekaman layar";
+
+"screen_share_hint" = "Setelah siaran langsung dimulai, penonton akan melihat konten di layar ponsel Anda secara real time";
+
+"screen_sharing_hint" = "Selama perekaman layar, Anda dapat beralih ke antarmuka lain dari ponsel untuk siaran langsung.";
+
+"skin_grinding" = "dermabrasi";
+
+"smooth_live_only_support_10_gif" = "Untuk memastikan siaran langsung yang lancar, hanya 10 gambar GIF yang didukung.";
+
+"start_live" = "Mulai streaming langsung";
+
+"start_live_fail" = "LIVE gagal, silakan coba lagi";
+
+"sweep_to_switch" = "Geser ke kiri dan kanan untuk mengganti template";
+
+"template" = "template";
+
+"template_can_not_save_without_name" = "Nama template yang tidak terisi tidak dapat disimpan";
+
+"template_delete_hint" = "Setelah template dihapus, pengguna lain tidak akan dapat menggunakannya";
+
+"template_download_first" = "Silakan unduh templat terlebih dahulu lalu edit.";
+
+"template_has_update_click_to_download" = "Template telah diperbarui, klik untuk mengunduh.";
+
+"template_not_exist" = "Template tidak ada atau telah dihapus";
+
+"template_save_hint" = "Kecantikan, alat peraga, liontin, dan pengaturan lapisan akan disimpan sebagai template bersama-sama.";
+
+"text" = "Teks";
+
+"thin_cheekbones" = "tulang pipi lean";
+
+"thin_face" = "Wajah tipis";
+
+"thin_mandible" = "mandibula lean";
+
+"thin_nose" = "Hidung kurus";
+
+"toast_landscape_live" = "Beralih ke LANGSUNG dalam mode lanskap, layar ditampilkan secara horizontal";
+
+"toast_portrait_live" = "Ini telah dialihkan untuk menjadi LANGSUNG dalam potret, dan layar ditampilkan secara vertikal.";
+
+"ttlv_pendents_upload" = "Unggah gambar";
+
+"tvu_product_library_please_search" = "Cari sekarang";
+
+"tvu_product_library_search_tip" = "Setelah memasukkan konten pencarian, tampilkan hasil pencarian";
+
+"tvu_push_product_lib_response_error" = "Kesalahan pengembalian, silakan periksa konten pengembalian";
+
+"tvu_push_product_lib_timeout" = "permintaan waktunya";
+
+"tvupush_product_add_library" = "Tambahkan dari perpustakaan produk";
+
+"tvupush_product_library_add" = "menambahkan";
+
+"tvupush_product_library_search_result_empty" = "Tidak ada item yang cocok dengan kriteria pencarian saat ini";
+
+"tvupush_product_library_uncorrelated" = "Tidak ada perpustakaan produk yang terkait dengan streaming langsung ini.";
+
+"tvupush_product_most_product_added" = "Tambahkan hingga 500 produk";
+
+"tvupush_product_no_products_yet" = "Belum ada produk";
+
+"tvupush_product_title_add" = "Tambahkan produk";
+
+"tvupush_send_success" = "Di kirim dengan sukses";
+
+"tvupush_start_time_not_yet_toast" = "Waktu siaran langsung belum tiba, silakan mulai siaran langsung setelah waktu mulai siaran langsung.";
+
+"unknown" = "tidak dikenal";
+
+"unsupport_gif_warning" = "Format GIF tidak didukung, silakan unggah ulang";
+
+"unsupport_rotate_to_landscape_hint" = "Template yang tidak mendukung beralih mode lanskap di Go LIVE";
+
+"unsupport_rotate_to_portrait_hint" = "Template yang tidak mendukung beralih mode potret di Go LIVE";
+
+"unsupported_broadcast_title" = "Versi layanan saat ini tidak mendukung go live.";
+
+"unsupported_feature_title" = "Versi layanan saat ini tidak mendukung fitur ini";
+
+"unsupported_version_message" = "Versi akun berjalan tidak mendukung fungsi ini, silakan hubungi layanan pelanggan untuk meningkatkan versi layanan.";
+
+"whitening" = "pemutih";
+
+"俄语" = "Rusia";
+
+"印尼语" = "Bahasa Indonesia";
+
+"土耳其语" = "Turki";
+
+"日文" = "Jepang";
+
+"泰语" = "Thailand";
+
+"简中" = "Cina Sederhana";
+
+"繁中" = "Cina Tradisional";
+
+"英文" = "Bahasa inggris";
+
+"葡萄牙语" = "Portugis";
+
+"西班牙语" = "Orang Spanyol";
+
+"越南语" = "Vietnam";
+
+"阿拉伯语" = "bahasa arab";
+
+"韩语" = "Korea";
+
+"tvupush_filter_01" = "putih soft";
+
+"tvupush_filter_02" = "krim";
+
+"tvupush_filter_03" = "oksigen";
+
+"tvupush_filter_04" = "Platycodon";
+
+"tvupush_filter_05" = "Lolita";
+
+"tvupush_filter_06" = "Persik";
+
+"tvupush_filter_07" = "Makaron";
+
+"tvupush_filter_08" = "busa";
+
+"tvupush_filter_09" = "bunga sakura";
+
+"tvupush_filter_10" = "Cahaya hangat";
+
+"tvupush_filter_11" = "Cerita";
+
+"tvupush_filter_12" = "Hokkaido";
+
+"tvupush_filter_13" = "Aneka";
+
+"tvupush_filter_14" = "Seattle";
+
+"tvupush_filter_15" = "tenang";
+
+"tvupush_filter_16" = "film";
+
+"tvupush_filter_17" = "Hangat Mentari";
+
+"tvupush_filter_18" = "hari tua";
+
+"tvupush_filter_19" = "bibir merah";
+
+"tvupush_filter_20" = "Oranye Biru";
+
+"tvupush_filter_21" = "memudar";
+
+"tvupush_filter_22" = "hitam putih";
+
+"tvupush_filter_23" = "lembut";
+
+"tvupush_filter_24" = "Cinta itu super manis";
+
+"tvupush_filter_25" = "pandangan pertama";
+
+"tvupush_filter_26" = "Nada gelap";
+
+"tvupush_filter_27" = "Teh susu";
+
+"tvupush_filter_28" = "Lembut";
+
+"tvupush_filter_29" = "matahari terbenam";
+
+"tvupush_filter_30" = "Oksigen dingin";
+
+"tvupush_filter_31" = "Potret di tepi Laut";
+
+"tvupush_filter_32" = "Abu-abu Premium";
+
+"tvupush_filter_33" = "pulau";
+
+"tvupush_filter_34" = "Musim panas ringan";
+
+"tvupush_filter_35" = "malam";
+
+"tvupush_filter_36" = "merah coklat";
+
+"tvupush_filter_37" = "Jernih";
+
+"tvupush_filter_38" = "Alam";
+
+"tvupush_filter_39" = "soda";
+
+"tvupush_filter_40" = "California";
+
+"tvupush_filter_41" = "pewarna makanan";
+
+"tvupush_filter_42" = "Rasa Sichuan";
+
+"tvupush_filter_43" = "Film Amerika";
+
+"tvupush_filter_44" = "retro merah";
+
+"tvupush_filter_45" = "perjalanan";
+
+"tvupush_filter_46" = "Kuning hangat";
+
+"tvupush_filter_47" = "Film Blues";
+
+"tvupush_filter_48" = "Kulit putih dingin";
+
+"tvupush_filter_49" = "tembus pandang";
+
+"tvupush_filter_50" = "Oranye cerah";
+
+"tvupush_filter_51" = "kenari";
+
+"tvupush_filter_52" = "coklat tua";
+
+"tvupush_filter_53" = "Drakula";
+
+"tvupush_filter_54" = "merah marun";
+
+"tvupush_filter_55" = "Hutan Kelapa";
+
+"tvupush_filter_56" = "Makanan hangat";
+
+"tvupush_filter_57" = "Air berkilau";
+
+"tvupush_filter_58" = "memasak";
+
+"tvupush_filter_59" = "pembakaran arang";
+
+"tvupush_filter_60" = "Kyoto";
+
+"tvupush_filter_61" = "pantai";
+
+"tvupush_filter_62" = "Yan Hijau";
+
+"tvupush_filter_63" = "Ceri malam";
+
+"tvupush_filter_64" = "oranye hijau";
+
+"tvupush_filter_65" = "Kota Cinta";
+
+"tvupush_filter_66" = "CT";
+
+"tvupush_filter_67" = "EK";
+
+"tvupush_filter_68" = "FJ";
+
+"tvupush_filter_69" = "hitam gold";
+
+"tvupush_filter_70" = "Luka bakar";
+
+"模板下载失败，挂件剩余个数不足" = "Pengunduhan template gagal, dan jumlah liontin yang tersisa tidak mencukupi.";
+
+"filter_normal" = "Normal";
+
+"tvupush_link_sidebar" = "Pemandangan Tepi";
+
+"tvupush_link_user_upper_limit" = "Personil Lianmai saat ini telah mencapai batas atas";
+
+"tvupush_link_confirm_microphone_tip" = "Setelah mulai menghubungkan gandum, liontin lapisan saat ini tidak akan lagi ditampilkan. Apakah Anda ingin mengkonfirmasi awal?";
+
+"tvupush_link_list_empty" = "Tidak ada penonton Lian Mai untuk saat ini ~";
+
+"tvupush_link_start" = "Mulai terhubung dengan gandum";
+
+"tvupush_link_view" = "pemandangan";
+
+"tvupush_link_confirm_mike" = "Konfirmasi akhir dari penonton Lian Mai?";
+
+"tvupush_link_remove" = "hapus";
+
+"tvupush_link_remove_microphone" = "Hapus Lianmai";
+
+"tvupush_link_quit_mike" = "Saat ini di Lianmai, akhir dari co-host akan keluar dari Lianmai saat ini";
+
+"tvupush_link_camera" = "kamera";
+
+"tvupush_link_stop" = "Akhir Lianmai";
+
+"tvupush_link_microphone" = "mikrofon";
+
+"tvupush_link_view_settings" = "lihat pengaturan";
+
+"tvupush_link_apply_list" = "daftar aplikasi";
+
+"tvupush_link_audience" = "Penonton Lian Mai";
+
+"tvupush_link_grid" = "tampilan kisi";
+
+"tvupush_link_confirm_start" = "Konfirmasi awal dari Lianmai?";
+
+"tvupush_link_confirm_to_remove" = "Apakah Anda yakin ingin menghapus\ n [%@]?";
+
+"tvupush_link_hint" = "Setelah memulai Lianmai, penonton dapat memulai aplikasi Lianmai,\ hingga 1v%ld video Lianmai didukung";
+
+"tvupush_link_user_action" = "Beroperasi pada [%@]";
+
+"tvupush_link_resume_hint" = "Terakhir kali, Lian Mai tidak berakhir normal.";
+
+"tvupush_link_resume_title" = "Apakah Anda perlu memulihkan Lianmai?";
+
+"tvupush_link_start_fail" = "Lianmai gagal, silakan coba lagi.";
+
+"tvupush_link_presenter" = "tuan rumah";
+
+"tvupush_link_accept" = "menerima";
+
+"tvupush_link_apply_send_fail" = "Aplikasi gagal di kirim, silakan coba lagi.";
+
+"tvupush_link_apply_send_success" = "Aplikasi berhasil di kirim";
+
+"filter_ABG" = "ABG";
+
+"filter_F2" = "soda";
+
+"filter_F3" = "California";
+
+"filter_F4" = "pewarna makanan";
+
+"filter_F5" = "Rasa Sichuan";
+
+"filter_HUJI" = "HUJI";
+
+"filter_L1" = "pulau";
+
+"filter_L2" = "Musim panas ringan";
+
+"filter_L3" = "malam";
+
+"filter_L4" = "merah coklat";
+
+"filter_L5" = "Jernih";
+
+"filter_Po1" = "lembut";
+
+"filter_Po10" = "Abu-abu Premium";
+
+"filter_Po2" = "Cinta itu super manis";
+
+"filter_Po3" = "pandangan pertama";
+
+"filter_Po4" = "Nada gelap";
+
+"filter_Po5" = "Teh susu";
+
+"filter_Po6" = "lembut";
+
+"filter_Po7" = "matahari terbenam";
+
+"filter_Po8" = "Oksigen dingin";
+
+"filter_Po9" = "Potret di tepi Laut";
+
+"filter_S1" = "Film Amerika";
+
+"filter_S2" = "retro merah";
+
+"filter_S3" = "perjalanan";
+
+"filter_S4" = "Kuning hangat";
+
+"filter_S5" = "Film Blues";
+
+"filter_aikefa" = "EK";
+
+"filter_aizhicheng" = "Kota Cinta";
+
+"filter_baixi" = "adil";
+
+"filter_baixue" = "Putri Salju";
+
+"filter_beihaidao" = "Hokkaido";
+
+"filter_campan" = "Platycodon";
+
+"filter_chalk" = "putih soft";
+
+"filter_chaobai" = "Sangat Putih";
+
+"filter_chulian" = "Cinta pertama";
+
+"filter_chuxin" = "niat asli";
+
+"filter_degula" = "Drakula";
+
+"filter_dongren" = "bergerak";
+
+"filter_feifan" = "luar biasa";
+
+"filter_fenci" = "Porselen merah muda";
+
+"filter_fushi" = "FJ";
+
+"filter_gaoqing" = "definisi tinggi";
+
+"filter_guowang" = "masa lalu";
+
+"filter_haian" = "pantai";
+
+"filter_heben" = "Luka bakar";
+
+"filter_heibai" = "hitam putih";
+
+"filter_heijin" = "hitam gold";
+
+"filter_hongchun" = "bibir merah";
+
+"filter_huanfu" = "peremajaan kulit";
+
+"filter_huopo" = "hidup";
+
+"filter_hutaomu" = "kenari";
+
+"filter_jiari" = "Liburan";
+
+"filter_jingdu" = "Kyoto";
+
+"filter_jinshu" = "logam";
+
+"filter_julandiao" = "Oranye Biru";
+
+"filter_kameier" = "Karmel";
+
+"filter_kangtaishi" = "CT";
+
+"filter_landiao" = "Biru";
+
+"filter_lengbaipi" = "Kulit putih dingin";
+
+"filter_lengxi" = "sistem dingin";
+
+"filter_liangju" = "Oranye cerah";
+
+"filter_liaoli" = "memasak";
+
+"filter_lise" = "merah marun";
+
+"filter_lolita" = "Lolita";
+
+"filter_lvyan" = "Yan Hijau";
+
+"filter_makalong" = "Makaron";
+
+"filter_mitao" = "Persik";
+
+"filter_mopian" = "film bisu";
+
+"filter_mousse" = "mousse";
+
+"filter_musi" = "Cahaya hangat";
+
+"filter_naihui" = "abu susu";
+
+"filter_naiyou" = "krim";
+
+"filter_nuanshi" = "Makanan hangat";
+
+"filter_oxgen" = "oksigen";
+
+"filter_qiangwei" = "Mawar";
+
+"filter_qingcheng" = "oranye hijau";
+
+"filter_qingchun" = "murni";
+
+"filter_qingyang" = "Oksigen ringan";
+
+"filter_qipaoshui" = "Air berkilau";
+
+"filter_quqi" = "kue";
+
+"filter_rixi" = "Jepang";
+
+"filter_riza" = "Aneka";
+
+"filter_rouhe" = "lembut";
+
+"filter_shenhe" = "coklat tua";
+
+"filter_shensui" = "mendalam";
+
+"filter_shenyeshitang" = "Kafetaria larut malam";
+
+"filter_suying" = "berkemah";
+
+"filter_tanshao" = "pembakaran arang";
+
+"filter_touliang" = "tembus pandang";
+
+"filter_tuise" = "memudar";
+
+"filter_wanying" = "Ceri malam";
+
+"filter_weixun" = "sedikit mabuk";
+
+"filter_wuye" = "Mizuno";
+
+"filter_wuyu" = "Cerita";
+
+"filter_yelin" = "Hutan Kelapa";
+
+"filter_yinglang" = "tangguh";
+
+"filter_yinhua" = "bunga sakura";
+
+"filter_youhua" = "lukisan cat minyak";
+
+"filter_yuansheng" = "asli";
+
+"filter_yuanxiangji" = "Kamera asli";
+
+"filter_zhengchang" = "Normal";
+
+"filter_ziran" = "Alam";
+
+"beauty_Android_fenbai_lite_whiten" = "Pemutih - Putih Merah Muda";
+
+"beauty_Android_lengbai_lite_whiten" = "Pemutih - pemutih";
+
+"beauty_Android_lite_BEF_BEAUTY_BRIGHTEN_EYE" = "Mata - mata cerah";
+
+"beauty_Android_lite_BEF_BEAUTY_REMOVE_POUCH" = "Mata - lingkaran hitam";
+
+"beauty_Android_lite_BEF_BEAUTY_SMILES_FOLDS" = "Wajah - lipatan nasolabial";
+
+"beauty_Android_lite_smooth" = "dermabrasi";
+
+"beauty_Android_rosy_lite_rosy" = "Pemutih - kemerahan";
+
+"beauty_Android_standard_clear" = "bening";
+
+"beauty_Android_standard_sharp" = "tajam";
+
+"beauty_Android_standard_smooth" = "dermabrasi";
+
+"beauty_Android_video_BEF_BEAUTY_REMOVE_POUCH" = "Mata - lingkaran hitam";
+
+"beauty_Android_video_BEF_BEAUTY_SMILES_FOLDS" = "Wajah - lipatan nasolabial";
+
+"beauty_IOS_fenbai_lite_whiten" = "Pemutih - Putih Merah Muda";
+
+"beauty_IOS_lengbai_lite_whiten" = "Pemutih - pemutih";
+
+"beauty_IOS_lite_BEF_BEAUTY_BRIGHTEN_EYE" = "Mata - mata cerah";
+
+"beauty_IOS_lite_BEF_BEAUTY_REMOVE_POUCH" = "Mata - lingkaran hitam";
+
+"beauty_IOS_lite_BEF_BEAUTY_SMILES_FOLDS" = "Wajah - lipatan nasolabial";
+
+"beauty_IOS_lite_smooth" = "dermabrasi";
+
+"beauty_IOS_rosy_lite_rosy" = "Pemutih - kemerahan";
+
+"beauty_IOS_standard_clear" = "bening";
+
+"beauty_IOS_standard_sharp" = "tajam";
+
+"beauty_IOS_standard_smooth" = "dermabrasi";
+
+"beauty_IOS_video_BEF_BEAUTY_REMOVE_POUCH" = "Mata - lingkaran hitam";
+
+"beauty_IOS_video_BEF_BEAUTY_SMILES_FOLDS" = "Wajah - lipatan nasolabial";
+
+"comment_failed" = "Komentar gagal";
+
+"double_eye_lid/newmoon_BEF_BEAUTY_EYE_SINGLE_TO_DOUBLE" = "Mata - kelopak mata ganda";
+
+"reshape_v8_BEF_BEAUTY_BODY_SHRINK_HEAD" = "Wajah - kepala kecil";
+
+"reshape_v8_Face_ALL_boy" = "Wajah - Wajah Tipis - Dewa Pria";
+
+"reshape_v8_Face_ALL_girl" = "Wajah - Wajah Tipis - Muse";
+
+"reshape_v8_Face_ALL_nature" = "Wajah - Wajah Tipis - Alami";
+
+"reshape_v8_Internal_Deform_Face" = "Wajah - wajah kecil";
+
+"reshape_v8_Internal_Deform_MouthCorner" = "Mulut - senyum";
+
+"reshape_v8_Internal_Deform_Short_Face" = "Wajah - wajah pendek";
+
+"reshape_v8_Internal_Deform_VFace" = "Wajah-V";
+
+"reshape_v8_lite_BEF_BEAUTY_BODY_SHRINK_HEAD" = "Wajah - kepala kecil";
+
+"reshape_v8_lite_Face_ALL_boy" = "Wajah - Wajah Tipis - Dewa Pria";
+
+"reshape_v8_lite_Face_ALL_girl" = "Wajah - Wajah Tipis - Muse";
+
+"reshape_v8_lite_Face_ALL_nature" = "Wajah - Wajah Tipis - Alami";
+
+"reshape_v8_lite_Internal_Deform_CutFace" = "Wajah - wajah sempit";
+
+"reshape_v8_lite_Internal_Deform_Eye" = "Ukuran mata";
+
+"reshape_v8_lite_Internal_Deform_Face" = "Wajah - wajah kecil";
+
+"reshape_v8_lite_Internal_Deform_MouthCorner" = "Mulut - senyum";
+
+"reshape_v8_lite_Internal_Deform_Zoom_Cheekbone" = "Wajah - tulang pipi";
+
+"reshape_v8_lite_Internal_Deform_Zoom_Jawbone" = "Wajah - Rahang";
+
+"sharpen_Android_lite_sharp" = "tajam";
+
+"sharpen_IOS_lite_sharp" = "tajam";
+
+"whiten_clear_Android_lite_clear" = "bening";
+
+"whiten_clear_Android_lite_whiten" = "Pemutih - Alami";
+
+"whiten_clear_IOS_lite_clear" = "bening";
+
+"whiten_clear_IOS_lite_whiten" = "Pemutih - Alami";
+
+"whiten_teeth_Android_lite_BEF_BEAUTY_WHITEN_TEETH" = "Mulut - Gigi Putih";
+
+"whiten_teeth_IOS_lite_BEF_BEAUTY_WHITEN_TEETH" = "Mulut - Gigi Putih";
+
+"whiten_teeth_standard_BEF_BEAUTY_WHITEN_TEETH" = "Mulut - Gigi Putih";

@@ -1,0 +1,5 @@
+framework module BDLiveAudienceLink {
+  umbrella header "BDLiveAudienceLink.h"
+  export *
+  module * { export * }
+}

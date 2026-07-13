@@ -1,0 +1,668 @@
+
+"%ld人" = "% 늙은 사람들";
+
+"%ld票" = "% ld 투표";
+
+"Confirm to quit the audience link" = "Lian Mai 청중으로부터 탈퇴를 확인합니까?";
+
+"Flip camera" = "카메라 뒤집기";
+
+"Linking, quti will colse link" = "현재 Lianmai에서 공동 호스트를 닫으면 현재 Lianmai가 종료됩니다.";
+
+"Mute" = "음소거";
+
+"Please go to System Settings to turn on relevant permissions." = "관련 권한을 사용하려면 시스템 설정으로 이동하십시오.";
+
+"Turn off the camera" = "카메라 끄기";
+
+"Turn on the camera" = "카메라 켜";
+
+"Unmute" = "음소거 해제";
+
+"all-1" = "모두";
+
+"apply_link" = "Lianmai Middle을 신청하십시오. ..";
+
+"audio_call" = "오디오 리안마이";
+
+"available" = "열 수 있습니다";
+
+"award" = "상품:";
+
+"award_and_detail" = " 상품: %@%ld 사본, 세부 정보 참조";
+
+"award_award" = "상품 ";
+
+"award_award_comming" = "상품의 물결이 당신의 길을 오고 있습니다.";
+
+"award_count" = "상품 수: %d";
+
+"award_count_short" = "수량 ";
+
+"award_event_end" = "이벤트가 종료되었습니다.";
+
+"award_fill_success" = "당첨 정보가 성공적으로 작성되었습니다.";
+
+"award_go_get_award" = "상품을 받으러 가다";
+
+"award_info_input_hint" = "당첨 정보를 최대한 빨리 기입하여 상품을 놓치지 않도록 하십시오. 상품과 제공자를 설명할 권리는 주최자에게 있습니다.";
+
+"award_info_input_title" = "당첨 정보 완벽";
+
+"award_input_receiver" = "이름을 입력하십시오";
+
+"award_join_fail_tip" = "참여 실패";
+
+"award_join_success_tip" = "참여는 성공적이니 인내심을 갖고 추첨을 기다려주세요~";
+
+"award_lost_empty_box" = "아쉽게도 상자가 비어있으니 계속 수고하세요~";
+
+"award_no_need_fill" = "채울 필요가 없습니다";
+
+"award_no_record_keep_going" = "아직 우승 기록이 없습니다. 계속 열심히 하십시오.";
+
+"award_opened" = "복권이 열렸습니다.";
+
+"award_recipient" = "수취인";
+
+"award_repeat_join_tip" = "복권에 참여";
+
+"award_result_dialog_tip" = "상품을 해석하고 제공할 권리는 주최자에게 있습니다.";
+
+"award_still_lock" = "아직 복권이 풀리지 않았으니 계속 열심히 하세요~";
+
+"award_to_be_filled" = "채우기";
+
+"award_will_start" = "복권이 곧 시작될 예정이니 잠시만 기다려주세요~";
+
+"award_win_prize" = "축하합니다 % @ 우승 % @";
+
+"award_winner_count" = "총 %의 노인이 복권에 당첨되었습니다.";
+
+"award_winner_hint" = "당첨된 사용자는 상품을 놓치지 않기 위해 가능한 한 빨리 대화형 도구 복권 입구에 당첨 정보를 입력합니다.";
+
+"award_winner_hint_highlight" = "대화형 도구 - 스윕 테이크";
+
+"award_winner_list" = "우승 목록";
+
+"back_continue_award" = "복권을 계속하기 위해 돌아가기";
+
+"back_to_live" = "라이브 스트림으로 돌아가기";
+
+"buy_now" = "지금 구매";
+
+"buying_now_" = "지금 구매.";
+
+"cancel" = "취소";
+
+"cancel_request" = "응용 프로그램을 취소합니다.";
+
+"card_see_explain" = "설명 읽기";
+
+"cell_phone_number" = "휴대폰 번호";
+
+"change_channel" = "채널 전환";
+
+"change_language" = "언어 전환";
+
+"clear_screen" = "화면 지우기";
+
+"click_for_the_draw" = "그리려면 클릭";
+
+"click_one_click_join_btn_tip" = "자동 완료에 참여하려면 한 번의 클릭을 클릭하십시오.";
+
+"click_replay" = "다시 재생하려면 클릭하십시오.";
+
+"click_too_fast" = "손 속도가 너무 빨라, 잠깐만~";
+
+"comment_failed" = "댓글 실패";
+
+"comment_report_abet_btn_text" = "자해 및 자살 의심/선동";
+
+"comment_report_advertise_btn_text" = "광고 캠페인";
+
+"comment_report_cheat_btn_text" = "사기 혐의";
+
+"comment_report_curse_btn_text" = "나 또는 다른 사람을 모욕";
+
+"comment_report_edittext_hint" = "플랫폼이 댓글 불법 여부를 판단할 수 있도록 신고 이유를 자세히 설명해주세요.";
+
+"comment_report_other_btn_text" = "기타";
+
+"comment_report_post_btn_text" = "제출";
+
+"comment_report_title_text" = "댓글 보고";
+
+"comment_report_unlawful_btn_text" = "법률 및 규정 위반";
+
+"comment_report_vulgar_btn_text" = "저속한 포르노";
+
+"confirm" = "확인";
+
+"congratulations_to_for" = "축하합니다 % @ 우승 % @";
+
+"congratulations_you_won_the_lottery" = "축하합니다. 복권에 당첨되었습니다.";
+
+"copy_link" = "링크 복사";
+
+"copy_link_ok" = "링크 복사 성공";
+
+"count_down" = "카운트다운";
+
+"days" = "하나님";
+
+"did_not_win" = "이기지 못했다";
+
+"disconnect mic" = "밀 분리";
+
+"draw" = "두 번째 복권";
+
+"duration_colon" = "본 ";
+
+"end" = "끝";
+
+"entered_live_room" = "라이브 스트림에 들어갔습니다.";
+
+"fail_and_retry" = "보내지 못했습니다. 다시 시도하십시오.";
+
+"failed_open_please_retry_later" = "열지 못했습니다. 나중에 다시 시도하십시오.";
+
+"fill_address" = "배송 주소를 기입해 주세요.";
+
+"fill_phone_number" = "올바른 휴대폰 번호를 입력하십시오.";
+
+"fore_show" = "티저";
+
+"free_to_buy" = "무료로 잡기";
+
+"get_award" = "상품 청구";
+
+"getting_comments" = "댓글을 받으세요. ..";
+
+"gift_reward_effect_off" = "선물 효과 오프";
+
+"gift_reward_effect_on" = "에 대한 선물 효과";
+
+"gift_reward_effect_switch" = "선물 효과";
+
+"gift_reward_free" = "무료";
+
+"gift_reward_not_enough" = "팁에 부족한 포인트";
+
+"gift_reward_point" = "적분";
+
+"gift_reward_send" = "선물";
+
+"gift_reward_service_exception" = "포인트가 비정상적입니다. 나중에 다시 시도하십시오.";
+
+"gift_reward_title" = "선물";
+
+"gift_sent_hint" = "보내기";
+
+"goods_receiving_information" = "영수증 정보";
+
+"got_it" = "알았다.";
+
+"has_won" = "우승";
+
+"here_it_comes_" = "여기 온다.";
+
+"host" = "호스트";
+
+"host_changed_nickname" = "호스트가 별명을 변경했습니다.";
+
+"host_close_audio" = "호스트가 마이크를 껐습니다.";
+
+"host_close_audio_and_video" = "호스트가 마이크와 카메라를 껐습니다.";
+
+"host_close_video" = "호스트가 카메라를 껐습니다.";
+
+"host_open_audio" = "호스트가 마이크를 켜도록 신청합니다.";
+
+"host_open_audio_and_video" = "호스트가 적용되어 마이크와 카메라를 켭니다.";
+
+"host_open_video" = "호스트가 적용되어 카메라를 켭니다.";
+
+"host_set_link_mute" = "호스트가 모든 직원을 음소거하도록 설정했습니다.";
+
+"hot_sale" = "핫 세일";
+
+"hours" = "시간";
+
+"i_know" = "아, 알겠습니다.";
+
+"input_card_name_or_index" = "제품 이름 또는 일련 번호 입력";
+
+"input_phone_number" = "휴대폰 번호를 입력하십시오.";
+
+"input_receiving_address" = "배송 주소를 입력하십시오.";
+
+"interact_tool_count" = "총 %zd 대화형 콘텐츠";
+
+"internet_unstable_switch_resolution" = "현재 네트워크가 불안정하므로 다음으로 전환하는 것이 좋습니다.";
+
+"invalid_nickname" = "닉네임은 합법적이지 않습니다";
+
+"join_requirement" = "참여조건";
+
+"like_failed" = "실패한 것처럼.";
+
+"link failed" = "Lianmai 실패";
+
+"link_end_tip" = "끝 Lianmai";
+
+"live" = "라이브 스트림";
+
+"live_description" = "라이브 스트림 설명";
+
+"live_end_tip" = "라이브 스트림이 종료되었습니다.";
+
+"live_interactive" = "실시간 상호 작용";
+
+"live_not_allowed_mobile_watch" = "라이브 스트림은 모바일 엔드 보기를 허용하지 않습니다.";
+
+"live_start_countdown" = "생방송이 시작되기까지는 아직 며칠이 남았습니다.";
+
+"liveroom_qrcode" = "라이브 스트림 QR 코드";
+
+"long_click_save_picture" = "길게 눌러 사진을 저장합니다.";
+
+"long_click_save_qrcode" = "길게 눌러 QR코드를 저장하고 친구들과 공유하세요~";
+
+"lose_award_tip" = "복권에 당첨되지 못해 죄송합니다.";
+
+"lottery_drawn" = "그려진";
+
+"lottery_will_open" = "곧 복권이 온다";
+
+"me" = "i";
+
+"minutes" = "포인트";
+
+"minutes2" = "분";
+
+"modification" = "수정";
+
+"more" = "더";
+
+"my_prize" = "우승 기록";
+
+"net_abnormal" = "네트워크 오류, 다시 시도하십시오";
+
+"net_error_btn_text" = "재시도";
+
+"net_error_portrait_btn_text" = "새로 고침 재시도";
+
+"net_error_text" = "현재 네트워크를 사용할 수 없습니다. 네트워크 연결을 확인하고 다시 시도하십시오.";
+
+"nick_name_cannot_be_blank" = "닉네임은 비울 수 없습니다!";
+
+"nick_name_dialog_hint_text" = "상호 작용을 시작하려면 닉네임을 입력하십시오~";
+
+"no_comments" = "아직 댓글이 없습니다";
+
+"no_more_historical_comments" = "더 이상 역사적 댓글 없음";
+
+"no_one_participate_award" = "아무도 복권에 참여하지 않았습니다.";
+
+"no_private_chat_yet" = "아직 비공개 채팅 없음";
+
+"no_product_yet" = "아직 제품이 없습니다";
+
+"non_wifi_btn_text" = "다시 재생합니다.";
+
+"one_click_join" = "원클릭 참여";
+
+"only_stock_left" = "재고만 남았습니다";
+
+"open_immediately" = "지금 열기";
+
+"opened" = "열림";
+
+"ordered" = "주문됨";
+
+"participate_successfully_and_wait_for_the_draw" = "성공적으로 참여하고 복권 추첨을 기다리십시오.";
+
+"participated" = "참여";
+
+"participated_count" = "참여 %ld 사람들";
+
+"people_count" = "인기";
+
+"phone_number" = "휴대폰 번호";
+
+"pinned" = "상단";
+
+"pinned_content" = "최고 콘텐츠";
+
+"play_back" = "재생";
+
+"playback" = "재생";
+
+"please_enter_the_correct_email" = "올바른 이메일 주소를 입력하십시오.";
+
+"please_enter_the_correct_phone_number" = "올바른 휴대폰 번호를 입력하십시오.";
+
+"please_fill_receiver" = "수취인을 입력하십시오";
+
+"please_input_question_answer" = "질문 내용을 입력하십시오.";
+
+"please_select_an_image_with_a_size_less_than_8m" = "크기가 8M보다 작은 이미지를 선택하십시오.";
+
+"presenter" = "스피커";
+
+"pull_to_load_more_comments" = "더 많은 댓글을 로드하려면 드롭 다운";
+
+"pulling_historical_comments_limit" = "풀 히스토리 댓글이 한계에 도달했습니다.";
+
+"questionnaire_answer_required" = "이 필드는 필수입니다";
+
+"questionnaire_filled" = "이 설문지를 작성했습니다. 참여해 주셔서 감사합니다.";
+
+"questionnaire_string" = "설문지";
+
+"receiving_address" = "배송주소";
+
+"redirect_to_time" = "그것은 당신을 위해 위치해 있습니다.";
+
+"register_success" = "성공적인 등록";
+
+"release_to_load_more_comments" = "릴리스 추가 댓글 로드";
+
+"replay" = "다시보기";
+
+"replay_comment" = "답장";
+
+"report_comment" = "보고";
+
+"report_error" = "보고서 실패";
+
+"report_success" = "성공적으로 제출되었습니다. 피드백 감사합니다.";
+
+"request_link" = "Lianmai 신청";
+
+"requesting" = "적용. ..";
+
+"reservation_fail" = "예약 실패";
+
+"reservation_now" = "지금 예약";
+
+"reservation_success" = "예약 성공";
+
+"reservationed" = "예약됨";
+
+"resolution_auto" = "똑똑한";
+
+"resolution_bd" = "블루레이";
+
+"resolution_hd" = "고화질";
+
+"resolution_ld" = "부드러운";
+
+"resolution_origin" = "원본 그림";
+
+"resolution_sd" = "SD";
+
+"resolution_select" = "명확성 선택";
+
+"resolution_title" = "명확성 선택";
+
+"resolution_uhd" = "울트라 클리어";
+
+"save_picture" = "사진 저장";
+
+"save_picture_failed" = "사진을 저장하지 못했습니다.";
+
+"save_picture_ok" = "사진이 앨범에 저장되었습니다.";
+
+"screen sharing" = "공유 화면";
+
+"search" = "검색";
+
+"search_other_products" = "다른 제품 검색 이동";
+
+"seconds" = "두 번째";
+
+"send" = "보내기";
+
+"send_comment_no_enable" = "채팅이 아직 열리지 않았습니다.";
+
+"send_danmaku_key" = "게시물 댓글 비밀번호:";
+
+"send_image_fail" = "사진을 보내지 못했습니다.";
+
+"send_image_to_chat" = "채팅에 사진 보내기";
+
+"share" = "공유";
+
+"sign_in_successfully" = "성공적으로 로그인";
+
+"speed" = "더블 스피드";
+
+"speed_play" = "더블 스피드 재생";
+
+"speed_toast" = "%s 속도 재생이 켜져 있습니다.";
+
+"submit_failed" = "제출에 실패했습니다.";
+
+"submit_winning_information" = "당첨 정보 제출";
+
+"submitted_success" = "성공적으로 제출";
+
+"task_award_locked" = "잠금 해제";
+
+"task_award_open_now" = "즉시 열기";
+
+"task_award_rule" = "활동 규칙";
+
+"tips" = "힌트";
+
+"tvu_award_result" = "승리 결과";
+
+"tvu_embedded_web_url" = "인라인 링크";
+
+"tvu_exit_clear_screen" = "화면 종료";
+
+"tvu_generate_poster" = "포스터 생성";
+
+"tvu_generate_qrcode" = "QR 코드 생성";
+
+"tvu_image_text" = "그래픽";
+
+"tvu_interact_tool" = "대화형 도구";
+
+"tvu_invite_watch_live" = "라이브 스트림을 함께 시청하도록 초대합니다.";
+
+"tvu_limit_gif_type_tip" = "사진이 GIF 형식을 지원하지 않습니다. 다시 업로드하십시오.";
+
+"tvu_long_press_to_view" = "길게 눌러 시청할 QR 코드를 식별합니다.";
+
+"tvu_no_more_goods" = "모든 라이브 스트림 룸이 방문되었습니다.";
+
+"tvu_private_chat" = "개인 채팅 라이브 스트리밍 호스트";
+
+"tvu_save_local" = "로컬 저장";
+
+"tvu_shopping_car" = "장바구니";
+
+"tvu_shopping_car_all" = "모두";
+
+"tvu_shopping_card" = "제품 카드";
+
+"username_and_other_count_people_are_buying_item_index" = "%@ 및 기타 %ld 사람들이 %ld 항목을 구매하고 있습니다.";
+
+"username_and_other_count_people_have_placed_an_order_for_item_index" = "%@ 및 기타 %ld 사람들이 %ld 항목을 주문했습니다.";
+
+"username_has_placed_an_order_for_item_index" = "%@가 항목 번호를 주문했습니다. %ld";
+
+"username_is_buying_item_index" = "%@ 구매 아이템 번호 %ld";
+
+"video_call" = "비디오 리안마이";
+
+"w" = "만";
+
+"warm_tips" = "따뜻한 알림";
+
+"win_and_watch" = "라이브 스트림을 시청하고 상품을 받으십시오.";
+
+"win_award_tip" = "축하합니다. 상을 받았습니다.";
+
+"winning_info_completed" = "당첨 정보가 완료되었습니다.";
+
+"you_have_been_muted" = "당신은 침묵을 지켰습니다";
+
+"仅展示前200名中奖观众" = "처음 200명의 우승자만 보여주세요";
+
+"你的答案：" = "귀하의 답변:";
+
+"做任务参与抽奖" = "과제를 수행하고 복권에 참여";
+
+"公告" = "발표";
+
+"单选" = "라디오";
+
+"去参加" = "참여하러 가다";
+
+"参与" = "참여";
+
+"参与答题" = "질문에 답하는 데 참여";
+
+"回答正确" = "정답";
+
+"回答错误" = "오답";
+
+"多选" = "객관식";
+
+"完成全部任务即可参与" = "참여할 모든 작업 완료";
+
+"实际参与人数：%d人" = "실제 참가자 수: %d";
+
+"已完成" = "완료.";
+
+"已投票" = "투표";
+
+"已提交" = "제출됨";
+
+"已提交，请等待公布答案" = "제출되었습니다. 답변이 발표될 때까지 기다리십시오.";
+
+"已签到" = "로그인";
+
+"已结束" = "종료";
+
+"很遗憾，你未参与" = "참여하지 못해 죄송합니다.";
+
+"投票" = "투표";
+
+"投票已截止" = "투표가 마감되었습니다";
+
+"提交投票" = "투표 제출";
+
+"未作答" = "대답 없음";
+
+"未完成" = "불완전한";
+
+"未签到" = "가입하지 않았습니다";
+
+"查看中奖名单" = "당첨 목록 확인";
+
+"查看结果" = "결과 보기";
+
+"查看详情" = "세부 정보 보기";
+
+"正确答案：" = "정답은 다음과 같습니다.";
+
+"没有更多内容了" = "더 이상 콘텐츠가 없습니다.";
+
+"点击参与" = "참여하려면 클릭하세요";
+
+"点击参加" = "참여하려면 클릭하세요";
+
+"直播间发起了一场抽奖" = "라이브 스트림에서 복권이 시작되었습니다.";
+
+"看结果" = "결과를 보세요";
+
+"确认提交" = "제출 확인";
+
+"立即参与" = "지금 참여하세요";
+
+"答案解析：" = "답변 분석:";
+
+"答题已截止" = "답이 끝났다";
+
+"签到" = "로그인";
+
+"继续观看直播" = "라이브 스트림 계속 시청";
+
+"自动发送" = "자동 보내기";
+
+"至少提交%@个投票" = "최소 % @ 투표 제출";
+
+"至少提交%@个签到" = "최소 % @ 체크인 제출";
+
+"至少提交%@个问卷" = "최소 % @ 설문지 제출";
+
+"至少提交%@道答题" = "최소 %@ 답변 제출";
+
+"至少答对%@道答题" = "최소 % 정답 @ 질문에 답";
+
+"讲解中" = "설명";
+
+"请联系主办方领取奖品" = "상품을 받으려면 주최자에게 문의하십시오.";
+
+"请选择您的选项" = "옵션을 선택하십시오";
+
+"距答题截止" = "질문에 대한 답변 기한";
+
+"输入项不能为空" = "항목을 비울 수 없습니다";
+
+"进行中" = "진행 중";
+
+"当前处于非Wi-Fi网络，播放将消耗流量" = "현재 Wi-Fi가 아닌 네트워크에서 재생은 데이터를 소비합니다.";
+
+"评论过于频繁，请稍后再试" = "댓글이 너무 많습니다. 나중에 다시 시도하십시오.";
+
+"请输入你的昵称，开始互动～" = "상호 작용을 시작하려면 닉네임을 입력하십시오~";
+
+"请输入昵称" = "닉네임을 입력하십시오";
+
+"重试" = "재시도";
+
+"关注" = "에 초점";
+
+"已关注" = "팔로우";
+
+"the_current_account_is_logged_in_on_another_device" = "현재 계정이 다른 장치에 로그인되어 있습니다.";
+
+"watching_has_been_suspended_due_to_disturbing_the_order_of_the_live_stream_" = "라이브 스트림의 순서를 방해하여 시청이 중단되었습니다.";
+
+"watching_has_been_suspended_due_to_long_absence_" = "오랜 부재로 인해 시청이 중단되었습니다.";
+
+"keep_watching" = "계속 지켜봐";
+
+"sign_in_has_closed" = "로그인이 종료되었습니다.";
+
+"exit_live_room" = "라이브 스트림 종료";
+
+"立即签到" = "지금 로그인";
+
+"in_order_to_avoid_suspending_watching_the_live_stream__please_complete_the_check" = "라이브 스트림 시청이 중단되지 않도록 최대한 빨리 체크인을 완료하십시오.";
+
+"确认不再关注了吗 ？" = "정말 더 이상 신경 안 써요?";
+
+"提交全部投票" = "모든 투표 제출";
+
+"提交全部答题" = "모든 답변 제출";
+
+"提交全部签到" = "모든 로그인 제출";
+
+"提交全部问卷" = "모든 설문지 제출";
+
+"答对全部答题" = "모든 질문에 올바르게 답변";
+
+"email" = "이메일";
+
+"email_hint" = "이메일 주소를 입력하십시오.";
+
+"fill_email" = "올바른 이메일 주소를 입력하십시오.";
+
+"tvu_out_of_stock" = "품절";

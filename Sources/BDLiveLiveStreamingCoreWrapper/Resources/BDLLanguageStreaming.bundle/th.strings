@@ -1,0 +1,954 @@
+
+"1080p" = "Blu-ray 1080p";
+
+"480p" = "ความละเอียดมาตรฐาน 480p";
+
+"540p" = "HD 540p";
+
+"720p" = "ชัดเจนเป็นพิเศษ 720p";
+
+"abandoned_after_exiting" = "การดำเนินการปัจจุบันทั้งหมดจะถูกละทิ้งหลังจากออกจากโปรแกรม";
+
+"alert_close_live" = "ยืนยันจะปิดไลฟ์ไหมคะ";
+
+"alert_emoji_not_support" = "ยังไม่รองรับการป้อนอีโมติคอนในขณะนี้";
+
+"alert_flash_lamp_error" = "ขออภัย การขออนุญาตใช้แฟลชล้มเหลว";
+
+"alert_max_15" = "พิมพ์ได้ถึง15ตัว";
+
+"alert_max_200" = "พิมพ์ได้ถึง200ตัว";
+
+"alert_msg_screen_switch" = "กำลังจะเปลี่ยนทิศทางหน้าจอถ่ายทอดสด ต้องเปลี่ยนไหมคะ";
+
+"alert_msg_screen_switch_camera" = "กำลังจะเปลี่ยนทิศทางของหน้าจอถ่ายทอดสด จี้ในผืนผ้าใบจะเปลี่ยน คุณต้องการเปลี่ยนหรือไม่?";
+
+"alert_no_camera" = "หากคุณไม่มีสิทธิ์ใช้งานกล้อง คุณต้องการจะให้สิทธิ์%@ในการตั้งค่านี้หรือไม่?";
+
+"alert_no_microphone" = "ไม่ได้รับสิทธิ์ไมโครโฟนคุณต้องการไปที่การตั้งค่าเพื่อให้สิทธิ์นั้น%@หรือไม่";
+
+"alert_no_photo_library" = "คุณยังไม่ได้รับอนุญาตให้ใช้อัลบั้มแต่อย่างใด คุณต้องการจะให้สิทธิ์นี้แก่%@การตั้งค่านี้หรือไม่?";
+
+"alert_only_rear_camera" = "อนุญาตให้เปิดแฟลชได้เฉพาะในฉากกล้องหลังเท่านั้น";
+
+"alert_screen_switch" = "เคล็ดลับการสลับหน้าจอ";
+
+"apply_now" = "ใช้ทันที";
+
+"back" = "กลับมา";
+
+"basic_information" = "ข้อมูลพื้นฐาน";
+
+"basic_information_add_label" = "เพิ่ม";
+
+"basic_information_cover_label_%ld" = "รูปแบบที่รองรับ: JPG และ PNG ขนาดแฟ้ม: ไม่เกิน%ldMB";
+
+"basic_information_description_switch_label" = "แสดงคำอธิบายการถ่ายทอดสดในห้องไลฟ์";
+
+"basic_information_description_textview_label" = "อธิบายเนื้อหา";
+
+"basic_information_description_textview_placeholder" = "ป้อนคำอธิบายการถ่ายทอดสด";
+
+"basic_information_edit_label" = "แก้ไข";
+
+"basic_information_live_tag" = "การจำแนกประเภทการถ่ายทอดสด";
+
+"basic_information_live_tag_changed_error" = "หมวดหมู่ของห้องไลฟ์สดได้รับการอัปเดตแล้ว โปรดลองใหม่อีกครั้ง";
+
+"basic_information_live_tag_count" = "%dคน";
+
+"basic_information_live_tag_empty_title" = "ไม่มีหมวดหมู่ที่จะเลือก";
+
+"basic_information_live_title_textview_placeholder" = "ป้อนชื่อการถ่ายทอดสด";
+
+"basic_information_nav_account_avatar" = "รูปประจำตัวของบัญชี";
+
+"basic_information_nav_account_name" = "ชื่อบัญชี";
+
+"basic_information_nav_cover" = "รูปปก";
+
+"basic_information_nav_description" = "คำอธิบายการถ่ายทอดสด";
+
+"basic_information_nav_live_title" = "ชื่อไลฟ์";
+
+"beauty" = "ความงาม";
+
+"big_eyes" = "ตาโต";
+
+"camera_live" = "คลิปวิดีโอ";
+
+"cancel" = "ยกเลิกค่ะ";
+
+"caton" = "บัตร";
+
+"change_avatar" = "เปลี่ยน";
+
+"choose_sharpness" = "เลือกความชัดเจน";
+
+"clean" = "ล้างหน้าจอ";
+
+"clear" = "ชัดเจน";
+
+"clear_pendants_layer" = "ล้างจี้";
+
+"click_to_edit_template_name" = "ชื่อเทมเพลต คลิกเพื่อแก้ไข";
+
+"closing_live_streaming" = "การไลฟ์กำลังปิด โปรดรอสักครู่";
+
+"comment_input_placeholder" = "คุยกับทุกคน";
+
+"confirm" = "แน่ใจค่ะ";
+
+"confirm_delete_template" = "ยืนยันการลบเทมเพลตหรือไม่";
+
+"confirm_delete_widget_and_layer" = "ยืนยันการลบจี้? หลังจากลบเลเยอร์ที่ใช้จี้นี้จะถูกลบด้วย";
+
+"confirm_exit" = "ยืนยันการออกไหมคะ";
+
+"confirm_switch" = "ยืนยันการสลับ";
+
+"create_template" = "สร้างเทมเพลตใหม่";
+
+"delete" = "ลบ";
+
+"delete_all_comment" = "ยืนยันการล้างความคิดเห็นทั้งหมดหรือไม่";
+
+"delete_comment" = "ล้างคอมเมนต์";
+
+"delete_string" = "ลบ";
+
+"delete_template_pendent_warning" = "จี้เป็นของแม่แบบ%@หลังจากลบแม่แบบจะต้องดาวน์โหลดอีกครั้งยืนยันการลบ?";
+
+"download" = "ดาวน์โหลด";
+
+"download_now" = "ดาวน์โหลดทันที";
+
+"exit" = "เลิก";
+
+"filter" = "ตัวกรอง";
+
+"flash_lamp" = "แฟลช";
+
+"flip" = "พลิก";
+
+"go_edit" = "ไปตัดต่อ";
+
+"go_setting" = "ไปตั้ง";
+
+"good" = "ดี";
+
+"has_update" = "มีอัพเดท";
+
+"i_got_it" = "ฉันเข้าใจแล้ว";
+
+"image_size_over_%dM_need_reselect" = "รูปภาพเกิน %dM โปรดอัปโหลดใหม่";
+
+"is_empty" = "ว่างเปล่า";
+
+"landscape" = "จอภาพแนวนอน";
+
+"layer" = "เลเยอร์";
+
+"live_end_start_tip" = "การไลฟ์จบลงแล้ว หากต้องการเปิดอีกครั้ง โปรดตั้งเวลาการไลฟ์ใหม่ค่ะ";
+
+"live_has_been_started" = "ห้องไลฟ์สดนี้เริ่มไลฟ์แล้ว ไม่สามารถดำเนินการได้";
+
+"live_head_online_label" = "%ldคนออนไลน์";
+
+"live_room_name_cannot_be_blank" = "ชื่อของห้องไลฟ์ต้องไม่ว่างเปล่า";
+
+"live_time_left" = "เหลือ%02ldจนกว่าจะสิ้นสุดการถ่ายทอดสด: %02ld: %02ld";
+
+"media" = "แฟ้มสื่อ";
+
+"mirror" = "ภาพสะท้อนในกระจก";
+
+"more" = "เพิ่มเติม";
+
+"msg_net_error" = "การร้องขอเครือข่ายล้มเหลว โปรดลองใหม่อีกครั้ง";
+
+"msg_net_error_extra_long" = "อักขระอินพุตยาวเกินไปโปรดป้อนใหม่";
+
+"mute" = "ปิดเสียง";
+
+"narrow_face" = "หน้าแคบ";
+
+"net_abnormal" = "เครือข่ายผิดปกติ";
+
+"net_error_btn_text" = "ลองใหม่";
+
+"net_error_text" = "เครือข่ายปัจจุบันไม่พร้อมใช้งาน โปรดตรวจสอบการเชื่อมต่อเครือข่ายแล้วลองใหม่อีกครั้ง";
+
+"network_request_error" = "การร้องขอเครือข่ายผิดพลาด";
+
+"nick_name_cannot_be_blank" = "ชื่อเล่นต้องไม่ว่างเปล่า!";
+
+"no" = "ยกเลิกค่ะ";
+
+"no_template" = "ยังไม่มีแม่แบบ";
+
+"off_line" = "ไม่มีเครือข่าย";
+
+"only_support_20_layer" = "รองรับสูงสุด 20 เลเยอร์";
+
+"pendants" = "วิดเจ็ด";
+
+"pendants_layer" = "เลเยอร์";
+
+"pendants_layer_camera" = "เลเยอร์แนวตั้ง";
+
+"pendants_layer_clear_alert_clear" = "ล้างข้อมูล";
+
+"pendants_layer_clear_alert_title" = "ยืนยันว่าจี้ทั้งหมดว่างเปล่าหรือไม่?";
+
+"pendants_layer_down" = "เลื่อนลง";
+
+"pendants_layer_hide" = "ซ่อน";
+
+"pendants_layer_show" = "แสดง";
+
+"pendants_layer_tips" = "กดค้างไว้เพื่อลากเลเยอร์อย่างรวดเร็วเพื่อปรับลำดับ~";
+
+"pendants_layer_up" = "เลื่อนขึ้น";
+
+"please_input" = "กรุณาใส่ (ภายใน 15 ตัวอักษร)";
+
+"popularity" = "ความนิยม";
+
+"portrait" = "หน้าจอแนวตั้ง";
+
+"products" = "ถุงช้อปปิ้ง";
+
+"products_add_added" = "เพิ่มแล้ว";
+
+"products_add_added_des" = "สินค้าของคุณได้รับการเพิ่มเรียบร้อยแล้ว";
+
+"products_add_addnew" = "เพิ่ม";
+
+"products_add_done" = "เสร็จสมบูรณ์";
+
+"products_add_shop_cross_text" = "ราคาเดิมของสินค้า";
+
+"products_add_shop_highlight" = "ราคาปัจจุบัน";
+
+"products_add_shop_image" = "เพิ่มภาพหน้าปก";
+
+"products_add_shop_image_des" = "ขอแนะนำให้อัปโหลดอัตราส่วน 1:1 เพื่อป้องกันไม่ให้รูปภาพถูกยืดออก";
+
+"products_add_shop_name" = "ชื่อสินค้า";
+
+"products_add_shop_name_placeholder" = "กรุณาใส่ชื่อสินค้าค่ะ";
+
+"products_add_shop_price_placehoder" = "กรุณาใส่ราคาสินค้า";
+
+"products_add_shop_url" = "ลิงค์สินค้า";
+
+"products_add_shop_url_placeholder" = "ชม.:/";
+
+"products_add_submit" = "ส่งแล้ว";
+
+"products_can_not_pin_tip" = "สินค้าปัจจุบันไม่ได้เพิ่มรูปภาพ ไม่สามารถปักหมุดด้านบนได้";
+
+"products_cancel_pin" = "ยกเลิกการปักหมุดด้านบน";
+
+"products_checkmark" = "ปฏิบัติการแบบกลุ่ม";
+
+"products_confirm_delete" = "ยืนยันว่าจะลบหรือไม่";
+
+"products_confirm_delete_content" = "ไม่สามารถกู้คืนสินค้าได้หลังจากลบแล้ว โปรดดำเนินการด้วยความระมัดระวัง";
+
+"products_delete_count" = "ลบ (%ld)";
+
+"products_edit" = "แก้ไข";
+
+"products_edit_title" = "แก้ไขสินค้า";
+
+"products_empty" = "บัตรปัจจุบันไม่มีสินค้าเพิ่ม";
+
+"products_empty_tip" = "คลิกเพื่อเพิ่มสินค้า";
+
+"products_filter" = "คัดกรอง";
+
+"products_info_changed_error" = "ข้อมูลสินค้ารายการปัจจุบันได้รับการอัปเดตแล้ว โปรดลองอีกครั้ง";
+
+"products_list" = "บนชั้นวาง";
+
+"products_more" = "เพิ่มเติม";
+
+"products_number_count" = "สินค้าทั้งหมด %ld ชิ้น";
+
+"products_order" = "ปรับลำดับ";
+
+"products_pin_to_top" = "ปักหมุดด้านบน";
+
+"products_quantity_limit_error" = "รายการสินค้าปัจจุบันมีจำนวนสินค้าสูงสุด 500 รายการ โปรดลบสินค้าบางรายการและเพิ่มต่อไป";
+
+"products_reorder_guide" = "คลิกและลากรูปภาพเพื่อปรับลำดับของสินค้า";
+
+"products_reset" = "รีเซ็ต";
+
+"products_search" = "ค้นหา";
+
+"products_search_empty" = "ไม่พบสินค้าที่เกี่ยวข้อง";
+
+"products_search_placeholder" = "กรุณาใส่ชื่อสินค้าค่ะ";
+
+"products_select_all" = "เลือกทั้งหมด";
+
+"products_sure" = "ยืนยัน";
+
+"products_sure_count" = "ยืนยัน (%ld)";
+
+"products_title" = "สินค้า";
+
+"products_unlist" = "หยุดวางขาย";
+
+"prompt" = "เคล็ดลับ";
+
+"props" = "อุปกรณ์ประกอบฉาก";
+
+"replay_comment" = "ตอบกลับ";
+
+"resolution" = "ความชัดเจน";
+
+"rotate_to_landscape_to_apply_template" = "การถ่ายทอดสดปัจจุบันอยู่ในโหมดหน้าจอแนวตั้ง คุณแน่ใจหรือว่าต้องการเปลี่ยนเป็นหน้าจอแนวนอน และควรใช้เทมเพลตนี้";
+
+"rotate_to_portrait_to_apply_template" = "การถ่ายทอดสดปัจจุบันอยู่ในโหมดหน้าจอแนวนอน คุณแน่ใจหรือว่าต้องการเปลี่ยนเป็นหน้าจอแนวตั้ง และควรใช้เทมเพลตนี้";
+
+"rotate_to_save_landscape" = "กำลังจะเปลี่ยนเป็นโหมดหน้าจอแนวนอนและสร้างเทมเพลตใหม่";
+
+"rotate_to_save_portrait" = "กำลังจะเปลี่ยนเป็นโหมดหน้าจอแนวตั้งและสร้างเทมเพลตใหม่";
+
+"save" = "บันทึก";
+
+"save_error" = "การบันทึกล้มเหลว โปรดลองใหม่อีกครั้ง";
+
+"save_landscape_template" = "ยืนยันว่าบันทึกเป็นเทมเพลตหน้าจอแนวนอนหรือไม่";
+
+"save_portrait_template" = "ยืนยันว่าบันทึกเป็นแม่แบบหน้าจอแนวตั้งหรือไม่?";
+
+"save_success" = "บันทึกสำเร็จ";
+
+"screen_live" = "บันทึกหน้าจอ";
+
+"screen_share_hint" = "หลังจากเริ่มถ่ายทอดสด ผู้ชมจะเห็นเนื้อหาบนหน้าจอโทรศัพท์ของคุณแบบเรียลไทม์";
+
+"screen_sharing_hint" = "ในระหว่างการบันทึกหน้าจอ คุณสามารถสลับไปยังอินเทอร์เฟซอื่นของโทรศัพท์มือถือเพื่อถ่ายทอดสด";
+
+"skin_grinding" = "microdermabrasion";
+
+"smooth_live_only_support_10_gif" = "เพื่อให้การถ่ายทอดสดเป็นไปอย่างราบรื่น รองรับการเพิ่มรูปภาพ GIF เพียง 10 ภาพเท่านั้น";
+
+"start_live" = "เริ่มไลฟ์";
+
+"start_live_fail" = "การไลฟ์ล้มเหลว โปรดลองใหม่";
+
+"sweep_to_switch" = "เลื่อนแม่แบบการสลับซ้ายและขวา";
+
+"template" = "แม่แบบ";
+
+"template_can_not_save_without_name" = "ไม่สามารถบันทึกชื่อแม่แบบได้";
+
+"template_delete_hint" = "ผู้ใช้รายอื่นจะไม่สามารถใช้งานได้หลังจากลบเทมเพลตแล้ว";
+
+"template_download_first" = "โปรดดาวน์โหลดเทมเพลตก่อน แล้วค่อยดำเนินการแก้ไข";
+
+"template_has_update_click_to_download" = "เทมเพลตมีการอัปเดต คลิกเพื่อดาวน์โหลด";
+
+"template_not_exist" = "ไม่มีเทมเพลตหรือถูกลบไปแล้ว";
+
+"template_save_hint" = "ความงาม อุปกรณ์ประกอบฉาก จี้ และการตั้งค่าเลเยอร์จะถูกบันทึกเป็นเทมเพลตร่วมกัน";
+
+"text" = "ข้อความ";
+
+"thin_cheekbones" = "โหนกแก้มบางๆ";
+
+"thin_face" = "หน้าเรียว";
+
+"thin_mandible" = "ขากรรไกรล่างบาง";
+
+"thin_nose" = "จมูกบาง";
+
+"toast_landscape_live" = "เปลี่ยนเป็นหน้าจอแนวนอนเพื่อเริ่มการไลฟ์ และหน้าจอจะแสดงในแนวนอน";
+
+"toast_portrait_live" = "เปลี่ยนเป็นหน้าจอแนวตั้งเพื่อเริ่มการไลฟ์ และหน้าจอจะแสดงในแนวตั้ง";
+
+"ttlv_pendents_upload" = "อัปโหลดรูปภาพ";
+
+"tvu_product_library_please_search" = "ค้นหาทันที";
+
+"tvu_product_library_search_tip" = "หลังจากป้อนเนื้อหาการค้นหาแล้ว ผลลัพธ์หลังการค้นหาจะปรากฏขึ้น";
+
+"tvu_push_product_lib_response_error" = "ส่งคืนข้อผิดพลาด โปรดตรวจสอบเนื้อหาที่ส่งคืน";
+
+"tvu_push_product_lib_timeout" = "ขอหมดเวลา";
+
+"tvupush_product_add_library" = "เพิ่มจากไลบรารีสินค้า";
+
+"tvupush_product_library_add" = "เพิ่ม";
+
+"tvupush_product_library_search_result_empty" = "ไม่มีสินค้าที่ตรงตามเงื่อนไขการค้นหาปัจจุบัน";
+
+"tvupush_product_library_uncorrelated" = "ห้องสมุดสินค้าที่ไม่เกี่ยวข้องในห้องไลฟ์สดนี้";
+
+"tvupush_product_most_product_added" = "เพิ่มสูงสุด 500 รายการ";
+
+"tvupush_product_no_products_yet" = "ยังไม่มีสินค้าค่ะ";
+
+"tvupush_product_title_add" = "เพิ่มสินค้า";
+
+"tvupush_send_success" = "ส่งสำเร็จแล้ว";
+
+"tvupush_start_time_not_yet_toast" = "เวลาไลฟ์ยังมาไม่ถึง โปรดเริ่มไลฟ์สดหลังจากเริ่มไลฟ์";
+
+"unknown" = "ไม่ทราบ";
+
+"unsupport_gif_warning" = "ไม่รองรับรูปแบบ GIF โปรดอัปโหลดใหม่";
+
+"unsupport_rotate_to_landscape_hint" = "เทมเพลตที่ไม่รองรับการสลับโหมดหน้าจอแนวนอนระหว่างการไลฟ์";
+
+"unsupport_rotate_to_portrait_hint" = "เทมเพลตที่ไม่รองรับการสลับโหมดหน้าจอแนวตั้งระหว่างการไลฟ์";
+
+"unsupported_broadcast_title" = "เวอร์ชันบริการปัจจุบันไม่รองรับการเริ่มไลฟ์";
+
+"unsupported_feature_title" = "รุ่นบริการปัจจุบันไม่รองรับคุณสมบัตินี้";
+
+"unsupported_version_message" = "เวอร์ชันบัญชีปัจจุบันไม่รองรับฟังก์ชันนี้ โปรดติดต่อฝ่ายบริการลูกค้าเพื่ออัปเกรดเวอร์ชันบริการ";
+
+"whitening" = "ไวท์เทนนิ่ง";
+
+"俄语" = "รัสเซีย";
+
+"印尼语" = "ภาษาอินโดนีเซีย";
+
+"土耳其语" = "ตุรกี";
+
+"日文" = "ภาษาญี่ปุ่น";
+
+"泰语" = "ภาษาไทย";
+
+"简中" = "เจน";
+
+"繁中" = "ซับซ้อน";
+
+"英文" = "ภาษาอังกฤษ";
+
+"葡萄牙语" = "โปรตุเกส";
+
+"西班牙语" = "ภาษาสเปน";
+
+"越南语" = "ภาษาเวียดนาม";
+
+"阿拉伯语" = "ภาษาอาหรับ";
+
+"韩语" = "เกาหลี";
+
+"tvupush_filter_01" = "สีขาวนวล";
+
+"tvupush_filter_02" = "ครีม";
+
+"tvupush_filter_03" = "ออกซิเจน";
+
+"tvupush_filter_04" = "คิเคียว";
+
+"tvupush_filter_05" = "โลลิต้า";
+
+"tvupush_filter_06" = "ลูกพีช";
+
+"tvupush_filter_07" = "มาการอง";
+
+"tvupush_filter_08" = "โฟม";
+
+"tvupush_filter_09" = "ซากุระ";
+
+"tvupush_filter_10" = "แสงอบอุ่น";
+
+"tvupush_filter_11" = "เรื่อง";
+
+"tvupush_filter_12" = "ฮอกไกโด";
+
+"tvupush_filter_13" = "เบ็ดเตล็ดประจำวัน";
+
+"tvupush_filter_14" = "ซีแอตเทิล";
+
+"tvupush_filter_15" = "เงียบ";
+
+"tvupush_filter_16" = "ฟิล์ม";
+
+"tvupush_filter_17" = "แดดอุ่น";
+
+"tvupush_filter_18" = "วันเก่า";
+
+"tvupush_filter_19" = "ปากแดง";
+
+"tvupush_filter_20" = "บลูส์สีส้ม";
+
+"tvupush_filter_21" = "จาง";
+
+"tvupush_filter_22" = "ขาวดำ";
+
+"tvupush_filter_23" = "อ่อนโยน";
+
+"tvupush_filter_24" = "รักสุดหวาน";
+
+"tvupush_filter_25" = "เจอกันครั้งแรก";
+
+"tvupush_filter_26" = "โทนสีเข้ม";
+
+"tvupush_filter_27" = "ชานม";
+
+"tvupush_filter_28" = "นุ่ม";
+
+"tvupush_filter_29" = "พระอาทิตย์ตก";
+
+"tvupush_filter_30" = "ออกซิเจนเย็น";
+
+"tvupush_filter_31" = "รูปคนริมทะเล";
+
+"tvupush_filter_32" = "สีเทาขั้นสูง";
+
+"tvupush_filter_33" = "เกาะ";
+
+"tvupush_filter_34" = "ฤดูร้อนตื้น ๆ";
+
+"tvupush_filter_35" = "กลางคืน";
+
+"tvupush_filter_36" = "สีน้ำตาลแดง";
+
+"tvupush_filter_37" = "ใส";
+
+"tvupush_filter_38" = "ธรรมชาติ";
+
+"tvupush_filter_39" = "โซดา";
+
+"tvupush_filter_40" = "แคลิฟอร์เนีย";
+
+"tvupush_filter_41" = "สีผสมอาหาร";
+
+"tvupush_filter_42" = "รสเสฉวน";
+
+"tvupush_filter_43" = "ภาพยนตร์อเมริกัน";
+
+"tvupush_filter_44" = "สีแดงย้อนยุค";
+
+"tvupush_filter_45" = "การเดินทาง";
+
+"tvupush_filter_46" = "สีเหลืองอบอุ่น";
+
+"tvupush_filter_47" = "ฟิล์มบลูส์";
+
+"tvupush_filter_48" = "ผิวขาวเย็น";
+
+"tvupush_filter_49" = "โปร่งแสง";
+
+"tvupush_filter_50" = "ส้มสดใส";
+
+"tvupush_filter_51" = "วอลนัท";
+
+"tvupush_filter_52" = "สีน้ำตาลเข้ม";
+
+"tvupush_filter_53" = "แดร็กคิวล่า";
+
+"tvupush_filter_54" = "สีน้ำตาลแดง";
+
+"tvupush_filter_55" = "สวนมะพร้าว";
+
+"tvupush_filter_56" = "อาหารอุ่น";
+
+"tvupush_filter_57" = "น้ำอัดลม";
+
+"tvupush_filter_58" = "การทำอาหาร";
+
+"tvupush_filter_59" = "การเผาถ่าน";
+
+"tvupush_filter_60" = "เกียวโต";
+
+"tvupush_filter_61" = "ชายฝั่ง";
+
+"tvupush_filter_62" = "ลู่หยาน";
+
+"tvupush_filter_63" = "ดอกซากุระยามเย็น";
+
+"tvupush_filter_64" = "ส้มเขียว";
+
+"tvupush_filter_65" = "เมืองแห่งความรัก";
+
+"tvupush_filter_66" = "CT";
+
+"tvupush_filter_67" = "EK";
+
+"tvupush_filter_68" = "FJ";
+
+"tvupush_filter_69" = "แบล็กโกลด์";
+
+"tvupush_filter_70" = "เฮปเบิร์น";
+
+"模板下载失败，挂件剩余个数不足" = "การดาวน์โหลดเทมเพลตล้มเหลว จำนวนจี้ที่เหลือไม่เพียงพอ";
+
+"filter_normal" = "ปกติ";
+
+"tvupush_link_sidebar" = "มุมมองแถบด้านข้าง";
+
+"tvupush_link_user_upper_limit" = "บุคลากร Lianmai ปัจจุบันถึงขีดจำกัดบน";
+
+"tvupush_link_confirm_microphone_tip" = "หลังจากเริ่ม Lianmai จี้เลเยอร์ปัจจุบันจะไม่ปรากฏอีกต่อไป คุณยืนยันการเริ่มต้นหรือไม่";
+
+"tvupush_link_list_empty" = "ขณะนี้ยังไม่มีผู้ชม Lianmai~";
+
+"tvupush_link_start" = "เริ่ม Lianmai";
+
+"tvupush_link_view" = "มุมมอง";
+
+"tvupush_link_confirm_mike" = "ยืนยันการสิ้นสุดของผู้ชม Lianmai หรือไม่?";
+
+"tvupush_link_remove" = "ลบ";
+
+"tvupush_link_remove_microphone" = "ลบ Lianmai";
+
+"tvupush_link_quit_mike" = "ขณะนี้อยู่ใน Lianmai หลังจากสิ้นสุดการถ่ายทอดสด Lianmai จะออกจาก Lianmai ปัจจุบัน";
+
+"tvupush_link_camera" = "กล้องวงจรปิด";
+
+"tvupush_link_stop" = "จบเหลียนไหม";
+
+"tvupush_link_microphone" = "ไมโครโฟน";
+
+"tvupush_link_view_settings" = "การตั้งค่ามุมมอง";
+
+"tvupush_link_apply_list" = "รายการใบสมัคร";
+
+"tvupush_link_audience" = "ผู้ชม Lianmai";
+
+"tvupush_link_grid" = "มุมมองตาราง";
+
+"tvupush_link_confirm_start" = "ยืนยันการเริ่มต้น Lianmai?";
+
+"tvupush_link_confirm_to_remove" = "คุณแน่ใจหรือว่าต้องการจะลบ \ n [%@]?";
+
+"tvupush_link_hint" = "หลังจากเริ่ม Lianmai ผู้ชมสามารถเริ่มต้นแอปพลิเคชัน Lianmai ได้\nรองรับวิดีโอ Lianmai สูงสุด 1v%ld";
+
+"tvupush_link_user_action" = "ดำเนินการกับ [%@]";
+
+"tvupush_link_resume_hint" = "ครั้งสุดท้ายที่เหลียนใหม่ไม่จบตามปกติ";
+
+"tvupush_link_resume_title" = "จำเป็นต้องกู้คืน Lianmai หรือไม่?";
+
+"tvupush_link_start_fail" = "Lianmai ล้มเหลว โปรดลองใหม่อีกครั้ง";
+
+"tvupush_link_presenter" = "โฮสต์";
+
+"tvupush_link_accept" = "ยอมรับ";
+
+"tvupush_link_apply_send_fail" = "การส่งใบสมัครล้มเหลว โปรดลองใหม่อีกครั้ง";
+
+"tvupush_link_apply_send_success" = "ส่งใบสมัครเรียบร้อยแล้ว";
+
+"filter_ABG" = "ABG";
+
+"filter_F2" = "โซดา";
+
+"filter_F3" = "แคลิฟอร์เนีย";
+
+"filter_F4" = "สีผสมอาหาร";
+
+"filter_F5" = "รสเสฉวน";
+
+"filter_HUJI" = "ฮูจิ";
+
+"filter_L1" = "เกาะ";
+
+"filter_L2" = "ฤดูร้อนตื้น ๆ";
+
+"filter_L3" = "กลางคืน";
+
+"filter_L4" = "สีน้ำตาลแดง";
+
+"filter_L5" = "ใส";
+
+"filter_Po1" = "อ่อนโยน";
+
+"filter_Po10" = "สีเทาขั้นสูง";
+
+"filter_Po2" = "รักสุดหวาน";
+
+"filter_Po3" = "เจอกันครั้งแรก";
+
+"filter_Po4" = "โทนสีเข้ม";
+
+"filter_Po5" = "ชานม";
+
+"filter_Po6" = "นุ่ม";
+
+"filter_Po7" = "พระอาทิตย์ตก";
+
+"filter_Po8" = "ออกซิเจนเย็น";
+
+"filter_Po9" = "รูปคนริมทะเล";
+
+"filter_S1" = "ภาพยนตร์อเมริกัน";
+
+"filter_S2" = "สีแดงย้อนยุค";
+
+"filter_S3" = "การเดินทาง";
+
+"filter_S4" = "สีเหลืองอบอุ่น";
+
+"filter_S5" = "ฟิล์มบลูส์";
+
+"filter_aikefa" = "EK";
+
+"filter_aizhicheng" = "เมืองแห่งความรัก";
+
+"filter_baixi" = "ผิวขาว";
+
+"filter_baixue" = "หิมะ";
+
+"filter_beihaidao" = "ฮอกไกโด";
+
+"filter_campan" = "คิเคียว";
+
+"filter_chalk" = "สีขาวนวล";
+
+"filter_chaobai" = "ขาวสุด";
+
+"filter_chulian" = "รักครั้งแรก";
+
+"filter_chuxin" = "ใจแรก";
+
+"filter_degula" = "แดร็กคิวล่า";
+
+"filter_dongren" = "เคลื่อนไหว";
+
+"filter_feifan" = "ไม่ธรรมดา";
+
+"filter_fenci" = "พอร์ซเลนสีชมพู";
+
+"filter_fushi" = "FJ";
+
+"filter_gaoqing" = "HD";
+
+"filter_guowang" = "อดีต";
+
+"filter_haian" = "ชายฝั่ง";
+
+"filter_heben" = "เฮปเบิร์น";
+
+"filter_heibai" = "ขาวดำ";
+
+"filter_heijin" = "แบล็กโกลด์";
+
+"filter_hongchun" = "ปากแดง";
+
+"filter_huanfu" = "ฟื้นฟู";
+
+"filter_huopo" = "มีชีวิตชีวา";
+
+"filter_hutaomu" = "วอลนัท";
+
+"filter_jiari" = "วันหยุด";
+
+"filter_jingdu" = "เกียวโต";
+
+"filter_jinshu" = "โลหะ";
+
+"filter_julandiao" = "บลูส์สีส้ม";
+
+"filter_kameier" = "คาร์เมล";
+
+"filter_kangtaishi" = "CT";
+
+"filter_landiao" = "บลูส์";
+
+"filter_lengbaipi" = "ผิวขาวเย็น";
+
+"filter_lengxi" = "ระบบเย็น";
+
+"filter_liangju" = "ส้มสดใส";
+
+"filter_liaoli" = "การทำอาหาร";
+
+"filter_lise" = "สีน้ำตาลแดง";
+
+"filter_lolita" = "โลลิต้า";
+
+"filter_lvyan" = "ลู่หยาน";
+
+"filter_makalong" = "มาการอง";
+
+"filter_mitao" = "ลูกพีช";
+
+"filter_mopian" = "ฟิล์มเงียบ";
+
+"filter_mousse" = "มูส";
+
+"filter_musi" = "แสงอบอุ่น";
+
+"filter_naihui" = "เถ้านม";
+
+"filter_naiyou" = "ครีม";
+
+"filter_nuanshi" = "อาหารอุ่น";
+
+"filter_oxgen" = "ออกซิเจน";
+
+"filter_qiangwei" = "กุหลาบ";
+
+"filter_qingcheng" = "ส้มเขียว";
+
+"filter_qingchun" = "บริสุทธิ์";
+
+"filter_qingyang" = "ออกซิเจนเบา";
+
+"filter_qipaoshui" = "น้ำอัดลม";
+
+"filter_quqi" = "คุกกี้";
+
+"filter_rixi" = "ระบบภาษาญี่ปุ่น";
+
+"filter_riza" = "เบ็ดเตล็ดประจำวัน";
+
+"filter_rouhe" = "นุ่มละมุน";
+
+"filter_shenhe" = "สีน้ำตาลเข้ม";
+
+"filter_shensui" = "ลึก";
+
+"filter_shenyeshitang" = "โรงอาหารตอนดึก";
+
+"filter_suying" = "แคมป์ปิ้ง";
+
+"filter_tanshao" = "การเผาถ่าน";
+
+"filter_touliang" = "โปร่งแสง";
+
+"filter_tuise" = "จาง";
+
+"filter_wanying" = "ดอกซากุระยามเย็น";
+
+"filter_weixun" = "เมาเล็กน้อย";
+
+"filter_wuye" = "คิริโนะ";
+
+"filter_wuyu" = "เรื่อง";
+
+"filter_yelin" = "สวนมะพร้าว";
+
+"filter_yinglang" = "แกร่ง";
+
+"filter_yinhua" = "ซากุระ";
+
+"filter_youhua" = "ภาพเขียนสีน้ำมัน";
+
+"filter_yuansheng" = "พื้นเมือง";
+
+"filter_yuanxiangji" = "กล้องต้นฉบับ";
+
+"filter_zhengchang" = "ปกติ";
+
+"filter_ziran" = "ธรรมชาติ";
+
+"beauty_Android_fenbai_lite_whiten" = "ไวท์เทนนิ่ง - ขาวอมชมพู";
+
+"beauty_Android_lengbai_lite_whiten" = "ไวท์เทนนิ่ง - ผิวขาว";
+
+"beauty_Android_lite_BEF_BEAUTY_BRIGHTEN_EYE" = "ตาสว่าง";
+
+"beauty_Android_lite_BEF_BEAUTY_REMOVE_POUCH" = "ดวงตา - ความหมองคล้ำ";
+
+"beauty_Android_lite_BEF_BEAUTY_SMILES_FOLDS" = "ใบหน้า - ร่องแก้ม";
+
+"beauty_Android_lite_smooth" = "microdermabrasion";
+
+"beauty_Android_rosy_lite_rosy" = "ไวท์เทนนิ่ง - แดงก่ำ";
+
+"beauty_Android_standard_clear" = "ชัดเจน";
+
+"beauty_Android_standard_sharp" = "ลับคม";
+
+"beauty_Android_standard_smooth" = "microdermabrasion";
+
+"beauty_Android_video_BEF_BEAUTY_REMOVE_POUCH" = "ดวงตา - ความหมองคล้ำ";
+
+"beauty_Android_video_BEF_BEAUTY_SMILES_FOLDS" = "ใบหน้า - ร่องแก้ม";
+
+"beauty_IOS_fenbai_lite_whiten" = "ไวท์เทนนิ่ง - ขาวอมชมพู";
+
+"beauty_IOS_lengbai_lite_whiten" = "ไวท์เทนนิ่ง - ผิวขาว";
+
+"beauty_IOS_lite_BEF_BEAUTY_BRIGHTEN_EYE" = "ตาสว่าง";
+
+"beauty_IOS_lite_BEF_BEAUTY_REMOVE_POUCH" = "ดวงตา - ความหมองคล้ำ";
+
+"beauty_IOS_lite_BEF_BEAUTY_SMILES_FOLDS" = "ใบหน้า - ร่องแก้ม";
+
+"beauty_IOS_lite_smooth" = "microdermabrasion";
+
+"beauty_IOS_rosy_lite_rosy" = "ไวท์เทนนิ่ง - แดงก่ำ";
+
+"beauty_IOS_standard_clear" = "ชัดเจน";
+
+"beauty_IOS_standard_sharp" = "ลับคม";
+
+"beauty_IOS_standard_smooth" = "microdermabrasion";
+
+"beauty_IOS_video_BEF_BEAUTY_REMOVE_POUCH" = "ดวงตา - ความหมองคล้ำ";
+
+"beauty_IOS_video_BEF_BEAUTY_SMILES_FOLDS" = "ใบหน้า - ร่องแก้ม";
+
+"comment_failed" = "คอมเมนต์ล้มเหลว";
+
+"double_eye_lid/newmoon_BEF_BEAUTY_EYE_SINGLE_TO_DOUBLE" = "ตา - ตาสองชั้น";
+
+"reshape_v8_BEF_BEAUTY_BODY_SHRINK_HEAD" = "ใบหน้า - หัวเล็ก";
+
+"reshape_v8_Face_ALL_boy" = "หน้า-ยกกระชับหน้า-เทพชาย";
+
+"reshape_v8_Face_ALL_girl" = "ใบหน้า - ใบหน้าบาง - เทพธิดา";
+
+"reshape_v8_Face_ALL_nature" = "ใบหน้า - ใบหน้าบาง - ธรรมชาติ";
+
+"reshape_v8_Internal_Deform_Face" = "ใบหน้า - ใบหน้าเล็ก ๆ";
+
+"reshape_v8_Internal_Deform_MouthCorner" = "ปาก - ยิ้ม";
+
+"reshape_v8_Internal_Deform_Short_Face" = "ใบหน้า - หน้าสั้น";
+
+"reshape_v8_Internal_Deform_VFace" = "หน้า - หน้าวี";
+
+"reshape_v8_lite_BEF_BEAUTY_BODY_SHRINK_HEAD" = "ใบหน้า - หัวเล็ก";
+
+"reshape_v8_lite_Face_ALL_boy" = "หน้า-ยกกระชับหน้า-เทพชาย";
+
+"reshape_v8_lite_Face_ALL_girl" = "ใบหน้า - ใบหน้าบาง - เทพธิดา";
+
+"reshape_v8_lite_Face_ALL_nature" = "ใบหน้า - ใบหน้าบาง - ธรรมชาติ";
+
+"reshape_v8_lite_Internal_Deform_CutFace" = "ใบหน้า - หน้าแคบ";
+
+"reshape_v8_lite_Internal_Deform_Eye" = "ขนาดตา";
+
+"reshape_v8_lite_Internal_Deform_Face" = "ใบหน้า - ใบหน้าเล็ก ๆ";
+
+"reshape_v8_lite_Internal_Deform_MouthCorner" = "ปาก - ยิ้ม";
+
+"reshape_v8_lite_Internal_Deform_Zoom_Cheekbone" = "ใบหน้า - โหนกแก้ม";
+
+"reshape_v8_lite_Internal_Deform_Zoom_Jawbone" = "ใบหน้า - กราม";
+
+"sharpen_Android_lite_sharp" = "ลับคม";
+
+"sharpen_IOS_lite_sharp" = "ลับคม";
+
+"whiten_clear_Android_lite_clear" = "ชัดเจน";
+
+"whiten_clear_Android_lite_whiten" = "ไวท์เทนนิ่ง - ธรรมชาติ";
+
+"whiten_clear_IOS_lite_clear" = "ชัดเจน";
+
+"whiten_clear_IOS_lite_whiten" = "ไวท์เทนนิ่ง - ธรรมชาติ";
+
+"whiten_teeth_Android_lite_BEF_BEAUTY_WHITEN_TEETH" = "ปาก-ฟันขาว";
+
+"whiten_teeth_IOS_lite_BEF_BEAUTY_WHITEN_TEETH" = "ปาก-ฟันขาว";
+
+"whiten_teeth_standard_BEF_BEAUTY_WHITEN_TEETH" = "ปาก-ฟันขาว";
