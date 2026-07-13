@@ -1,0 +1,668 @@
+
+"%ld人" = "% ld orang";
+
+"%ld票" = "% ld undi";
+
+"Confirm to quit the audience link" = "Adakah anda pasti mahu menarik diri daripada penonton Lian Mak?";
+
+"Flip camera" = "Balik kamera.";
+
+"Linking, quti will colse link" = "Pada masa ini Lian Mai sedang dijalankan, menutup strim langsung Lian Mai akan menarik diri daripada Lian Mai semasa.";
+
+"Mute" = "Senyap.";
+
+"Please go to System Settings to turn on relevant permissions." = "Sila pergi ke Tetapan Sistem untuk mengaktifkan kebenaran yang berkaitan.";
+
+"Turn off the camera" = "Matikan kamera.";
+
+"Turn on the camera" = "Hidupkan kamera.";
+
+"Unmute" = "Batalkan bisu.";
+
+"all-1" = "Semua";
+
+"apply_link" = "Mohon untuk Lian Mai...";
+
+"audio_call" = "Lian Mai Audio";
+
+"available" = "Boleh dibuka";
+
+"award" = "Hadiah:";
+
+"award_and_detail" = " Hadiah:% @% ld untuk melihat butiran.";
+
+"award_award" = "Hadiah ";
+
+"award_award_comming" = "Gelombang hadiah akan datang kepada anda ~";
+
+"award_count" = "Jumlah hadiah:% d";
+
+"award_count_short" = "kuantiti ";
+
+"award_event_end" = "Acara sudah tamat.";
+
+"award_fill_success" = "Maklumat kemenangan telah berjaya diisi.";
+
+"award_go_get_award" = "Pergi untuk menuntut hadiah.";
+
+"award_info_input_hint" = "Sila isikan maklumat kemenangan secepat mungkin untuk mengelakkan kehilangan hadiah\ n Hak tafsiran hadiah dan pembekal adalah milik pihak penganjur.";
+
+"award_info_input_title" = "Meningkatkan maklumat kemenangan hadiah.";
+
+"award_input_receiver" = "Sila masukkan nama anda.";
+
+"award_join_fail_tip" = "Penyertaan dalam kegagalan";
+
+"award_join_success_tip" = "Penyertaan berjaya, harap bersabar menunggu cabutan hadiah ~";
+
+"award_lost_empty_box" = "Minta maaf, kotak itu kosong, teruskan usaha anda ~";
+
+"award_no_need_fill" = "Tidak perlu mengisi.";
+
+"award_no_record_keep_going" = "Tiada rekod kemenangan, teruskan mengisi minyak.";
+
+"award_opened" = "Cabutan telah dibuka.";
+
+"award_recipient" = "Penerima";
+
+"award_repeat_join_tip" = "telah menyertai cabutan bertuah.";
+
+"award_result_dialog_tip" = "Hak tafsiran hadiah dan pembekal adalah milik penganjur.";
+
+"award_still_lock" = "Cabutan belum dibuka kuncinya buat masa ini, teruskan usaha ~";
+
+"award_to_be_filled" = "Untuk diisi.";
+
+"award_will_start" = "Cabutan akan bermula tidak lama lagi, sila tunggu sebentar ~";
+
+"award_win_prize" = "Tahniah% @ menang% @";
+
+"award_winner_count" = "Sebanyak% ld telah memenangi hadiah.";
+
+"award_winner_hint" = "Pengguna yang menang mengisi maklumat kemenangan di pintu masuk alat interaktif-cabutan bertuah dengan secepat mungkin untuk mengelakkan kehilangan hadiah ~";
+
+"award_winner_hint_highlight" = "Alat Interaktif - Cabutan Bertuah";
+
+"award_winner_list" = "Senarai pemenang";
+
+"back_continue_award" = "Kembali untuk meneruskan cabutan bertuah.";
+
+"back_to_live" = "Kembali ke siaran langsung.";
+
+"buy_now" = "Beli sekarang.";
+
+"buying_now_" = "Sedang membeli.";
+
+"cancel" = "Batalkan.";
+
+"cancel_request" = "Batalkan permohonan.";
+
+"card_see_explain" = "baca penjelasan.";
+
+"cell_phone_number" = "Nombor telefon bimbit";
+
+"change_channel" = "Tukar saluran";
+
+"change_language" = "Tukar Bahasa";
+
+"clear_screen" = "Kitar Semula Skrin";
+
+"click_for_the_draw" = "Klik untuk cabutan bertuah.";
+
+"click_one_click_join_btn_tip" = "Klik satu klik untuk menyertai pelengkapan automatik.";
+
+"click_replay" = "Klik untuk bermain semula.";
+
+"click_too_fast" = "Kelajuan tangan terlalu pantas, tunggu sebentar ~";
+
+"comment_failed" = "Ulasan Gagal";
+
+"comment_report_abet_btn_text" = "Disyaki / bersubahat mencederakan diri sendiri";
+
+"comment_report_advertise_btn_text" = "Pengiklanan";
+
+"comment_report_cheat_btn_text" = "Disyaki menipu";
+
+"comment_report_curse_btn_text" = "menghina saya atau orang lain.";
+
+"comment_report_edittext_hint" = "Sila huraikan sebab laporan secara terperinci, supaya platform boleh menentukan sama ada ulasan itu melanggar peraturan.";
+
+"comment_report_other_btn_text" = "Lain- lain";
+
+"comment_report_post_btn_text" = "Hantar";
+
+"comment_report_title_text" = "Laporkan Ulasan";
+
+"comment_report_unlawful_btn_text" = "pelanggaran undang-undang";
+
+"comment_report_vulgar_btn_text" = "lucah kesat";
+
+"confirm" = "Pasti.";
+
+"congratulations_to_for" = "Tahniah% @ menang% @";
+
+"congratulations_you_won_the_lottery" = "Tahniah, anda telah memenangi hadiah.";
+
+"copy_link" = "Salin pautan";
+
+"copy_link_ok" = "Berjaya menyalin pautan.";
+
+"count_down" = "Kira detik.";
+
+"days" = "langit";
+
+"did_not_win" = "Tidak menang";
+
+"disconnect mic" = "Putuskan sambungan sambungan gandum.";
+
+"draw" = "cabutan bertuah kali ini.";
+
+"duration_colon" = "Sudah menonton. ";
+
+"email" = "Peti Mel";
+
+"email_hint" = "Sila masukkan alamat e-mel anda.";
+
+"end" = "Hujung";
+
+"entered_live_room" = "Memasuki bilik siaran langsung.";
+
+"exit_live_room" = "Keluar dari bilik siaran langsung.";
+
+"fail_and_retry" = "Penghantaran gagal, sila cuba lagi.";
+
+"failed_open_please_retry_later" = "Pembukaan gagal, sila cuba lagi kemudian.";
+
+"fill_address" = "Sila isikan alamat penghantaran.";
+
+"fill_email" = "Sila masukkan alamat e-mel yang betul.";
+
+"fill_phone_number" = "Sila masukkan nombor telefon bimbit yang betul.";
+
+"fore_show" = "Notis";
+
+"free_to_buy" = "Ambil secara percuma.";
+
+"get_award" = "Terima hadiah.";
+
+"getting_comments" = "Dapatkan ulasan...";
+
+"gift_reward_effect_off" = "Kesan khas hadiah ditutup.";
+
+"gift_reward_effect_on" = "Kesan hadiah dihidupkan.";
+
+"gift_reward_effect_switch" = "Hadiah Kesan Khas";
+
+"gift_reward_free" = "Percuma.";
+
+"gift_reward_not_enough" = "Mata tidak mencukupi untuk mendapat ganjaran.";
+
+"gift_reward_point" = "Mata ganjaran";
+
+"gift_reward_send" = "Berikan hadiah.";
+
+"gift_reward_service_exception" = "Pengecualian kamiran, sila cuba lagi kemudian.";
+
+"gift_reward_title" = "Hadiah.";
+
+"gift_sent_hint" = "Hantar keluar.";
+
+"goods_receiving_information" = "Maklumat penerimaan bungkusan";
+
+"got_it" = "Faham.";
+
+"has_won" = "telah menang.";
+
+"here_it_comes_" = "Tulen.";
+
+"host" = "Moderator";
+
+"host_changed_nickname" = "Moderator telah mengubahsuai nama panggilan anda.";
+
+"host_close_audio" = "Tuan rumah telah mematikan mikrofon anda.";
+
+"host_close_audio_and_video" = "Tuan rumah telah mematikan mikrofon dan kamera web anda.";
+
+"host_close_video" = "Tuan rumah telah mematikan kamera anda.";
+
+"host_open_audio" = "Moderator meminta untuk menghidupkan mikrofon anda.";
+
+"host_open_audio_and_video" = "Moderator meminta untuk menghidupkan mikrofon dan kamera web anda.";
+
+"host_open_video" = "Moderator meminta untuk membuka kamera anda.";
+
+"host_set_link_mute" = "Moderator telah menetapkan bisu semua kakitangan.";
+
+"hot_sale" = "Jualan terlaris.";
+
+"hours" = "Masa";
+
+"i_know" = "Saya sudah faham.";
+
+"in_order_to_avoid_suspending_watching_the_live_stream__please_complete_the_check" = "Untuk mengelakkan penggantungan siaran langsung, sila lengkapkan daftar masuk dengan secepat mungkin.";
+
+"input_card_name_or_index" = "Masukkan nama produk atau nombor siri.";
+
+"input_phone_number" = "Sila masukkan nombor telefon bimbit anda.";
+
+"input_receiving_address" = "Sila masukkan alamat penghantaran.";
+
+"interact_tool_count" = "Jumlah% zd kandungan interaktif";
+
+"internet_unstable_switch_resolution" = "Rangkaian semasa tidak stabil, adalah disyorkan untuk bertukar kepada";
+
+"invalid_nickname" = "Nama samaran tidak sah.";
+
+"join_requirement" = "Syarat Penyertaan";
+
+"keep_watching" = "Teruskan menonton.";
+
+"like_failed" = "Gagal klik suka.";
+
+"link failed" = "Lian Mai gagal.";
+
+"link_end_tip" = "Lian Mak sudah tamat.";
+
+"live" = "dalam siaran langsung.";
+
+"live_description" = "Penerangan siaran langsung";
+
+"live_end_tip" = "Siaran langsung sudah tamat.";
+
+"live_interactive" = "Interaksi dalam siaran langsung";
+
+"live_not_allowed_mobile_watch" = "Tontonan mudah alih tidak dibenarkan di bilik siaran langsung.";
+
+"live_start_countdown" = "Masih jauh dari permulaan siaran langsung.";
+
+"liveroom_qrcode" = "Kod QR untuk bilik siaran langsung";
+
+"long_click_save_picture" = "Tekan lama untuk menyimpan gambar.";
+
+"long_click_save_qrcode" = "Tekan lama untuk menyimpan kod QR dan kongsi dengan rakan anda ~";
+
+"lose_award_tip" = "Saya meminta maaf kerana anda tidak memenangi hadiah ~";
+
+"lottery_drawn" = "Dimenangi.";
+
+"lottery_will_open" = "Hadiah akan datang.";
+
+"me" = "saya.";
+
+"minutes" = "Markah";
+
+"minutes2" = "minit.";
+
+"modification" = "Ubahsuai";
+
+"more" = "Lagi.";
+
+"my_prize" = "rekod kemenangan hadiah.";
+
+"net_abnormal" = "Pengecualian rangkaian, sila cuba lagi.";
+
+"net_error_btn_text" = "Cuba lagi.";
+
+"net_error_portrait_btn_text" = "Muat semula dan cuba lagi.";
+
+"net_error_text" = "Rangkaian tidak tersedia pada masa ini, sila semak sambungan rangkaian dan cuba lagi.";
+
+"nick_name_cannot_be_blank" = "Nama panggilan tidak boleh kosong!";
+
+"nick_name_dialog_hint_text" = "Sila masukkan nama panggilan anda dan mula berinteraksi ~";
+
+"no_comments" = "Tiada ulasan lagi.";
+
+"no_more_historical_comments" = "Tiada lagi ulasan sejarah.";
+
+"no_one_participate_award" = "Tiada sesiapa yang menyertai cabutan bertuah ini.";
+
+"no_private_chat_yet" = "Tiada sembang peribadi buat masa ini.";
+
+"no_product_yet" = "Tiada produk tersedia buat masa ini.";
+
+"non_wifi_btn_text" = "Teruskan bermain.";
+
+"one_click_join" = "Sertai dengan satu klik.";
+
+"only_stock_left" = "Hanya tinggal stok sahaja.";
+
+"open_immediately" = "Hidupkan sekarang.";
+
+"opened" = "sudah dibuka.";
+
+"ordered" = "Pesanan telah dibuat.";
+
+"participate_successfully_and_wait_for_the_draw" = "Mengambil bahagian dalam kejayaan, menunggu cabutan bertuah.";
+
+"participated" = "Sudah mengambil bahagian";
+
+"participated_count" = "% ld sudah terlibat.";
+
+"people_count" = "populariti";
+
+"phone_number" = "Nombor telefon bimbit";
+
+"pinned" = "atas.";
+
+"pinned_content" = "Kandungan teratas";
+
+"play_back" = "Main semula";
+
+"playback" = "Main semula";
+
+"please_enter_the_correct_email" = "Sila masukkan alamat e-mel yang betul.";
+
+"please_enter_the_correct_phone_number" = "Sila masukkan nombor telefon bimbit yang betul.";
+
+"please_fill_receiver" = "Sila masukkan penerima.";
+
+"please_input_question_answer" = "Sila masukkan kandungan soalan.";
+
+"please_select_an_image_with_a_size_less_than_8m" = "Sila pilih gambar yang saiznya kurang daripada 8M.";
+
+"presenter" = "Pensyarah";
+
+"pull_to_load_more_comments" = "Muat turun untuk lebih banyak ulasan.";
+
+"pulling_historical_comments_limit" = "Menarik ulasan sejarah telah mencapai had atas.";
+
+"questionnaire_answer_required" = "Item ini diperlukan.";
+
+"questionnaire_filled" = "Anda telah mengisi borang soal selidik ini, terima kasih atas penyertaan anda.";
+
+"questionnaire_string" = "Soal Selidik";
+
+"receiving_address" = "Alamat penghantaran.";
+
+"redirect_to_time" = "Kami telah mengenalpasti lokasi untuk anda.";
+
+"register_success" = "Pendaftaran berjaya.";
+
+"release_to_load_more_comments" = "Lepaskan dan muatkan lebih banyak ulasan.";
+
+"replay" = "Main semula";
+
+"replay_comment" = "Balas kepada";
+
+"report_comment" = "Laporkan";
+
+"report_error" = "Gagal melaporkan";
+
+"report_success" = "Penyerahan berjaya, terima kasih atas maklum balas anda.";
+
+"request_link" = "Mohon Lian Mai.";
+
+"requesting" = "dalam permohonan...";
+
+"reservation_fail" = "Gagal membuat temujanji.";
+
+"reservation_now" = "Buat temujanji sekarang.";
+
+"reservation_success" = "Tempahan telah berjaya dibuat.";
+
+"reservationed" = "Sudah membuat temujanji.";
+
+"resolution_auto" = "Pintar";
+
+"resolution_bd" = "Cahaya biru";
+
+"resolution_hd" = "HD";
+
+"resolution_ld" = "Kecairan";
+
+"resolution_origin" = "Lukisan asal";
+
+"resolution_sd" = "SD";
+
+"resolution_select" = "Pemilihan Kejelasan";
+
+"resolution_title" = "Pemilihan Kejelasan";
+
+"resolution_uhd" = "Ultra-jelas";
+
+"save_picture" = "Simpan Gambar";
+
+"save_picture_failed" = "Gagal menyimpan gambar.";
+
+"save_picture_ok" = "Gambar telah disimpan ke album.";
+
+"screen sharing" = "Berkongsi skrin";
+
+"search" = "Carian";
+
+"search_other_products" = "Pergi cari produk lain.";
+
+"seconds" = "detik.";
+
+"send" = "Hantar.";
+
+"send_comment_no_enable" = "Sembang belum dibuka lagi.";
+
+"send_danmaku_key" = "Keluarkan kata laluan bertubi-tubi:";
+
+"send_image_fail" = "Gagal menghantar gambar.";
+
+"send_image_to_chat" = "Hantar gambar ke sembang.";
+
+"share" = "Kongsi";
+
+"sign_in_has_closed" = "Daftar masuk telah tamat tempoh.";
+
+"sign_in_successfully" = "Log masuk berjaya.";
+
+"speed" = "Kelajuan Berganda";
+
+"speed_play" = "Main semula dengan kelajuan dua kali ganda.";
+
+"speed_toast" = "% s telah dihidupkan untuk anda.";
+
+"submit_failed" = "Penghantaran Gagal";
+
+"submit_winning_information" = "Hantar maklumat kemenangan.";
+
+"submitted_success" = "Penghantaran berjaya.";
+
+"task_award_locked" = "Untuk dibuka kuncinya.";
+
+"task_award_open_now" = "Hidupkan sekarang.";
+
+"task_award_rule" = "Peraturan Aktiviti";
+
+"the_current_account_is_logged_in_on_another_device" = "Akaun semasa telah dilog masuk pada peranti lain.";
+
+"tips" = "Petua";
+
+"tvu_award_result" = "Keputusan kemenangan";
+
+"tvu_embedded_web_url" = "Pautan sebaris";
+
+"tvu_exit_clear_screen" = "Keluar dari skrin";
+
+"tvu_generate_poster" = "Menjana poster";
+
+"tvu_generate_qrcode" = "Hasilkan kod QR.";
+
+"tvu_image_text" = "Gambar dan teks";
+
+"tvu_interact_tool" = "Alat Interaktif";
+
+"tvu_invite_watch_live" = "Saya menjemput anda untuk menonton siaran langsung bersama-sama.";
+
+"tvu_limit_gif_type_tip" = "Gambar tidak menyokong format GIF, sila muat naik semula.";
+
+"tvu_long_press_to_view" = "Tekan lama untuk mengenal pasti kod QR untuk melihat.";
+
+"tvu_no_more_goods" = "Sudah habis melayari semua bilik siaran langsung, sayang.";
+
+"tvu_out_of_stock" = "Dirampas cahaya.";
+
+"tvu_private_chat" = "Pengacara sembang peribadi.";
+
+"tvu_save_local" = "Simpan Tempatan";
+
+"tvu_shopping_car" = "troli membeli-belah.";
+
+"tvu_shopping_car_all" = "Semua";
+
+"tvu_shopping_card" = "kad barangan";
+
+"username_and_other_count_people_are_buying_item_index" = "% @ etc.% ld orang sedang membeli% ld item.";
+
+"username_and_other_count_people_have_placed_an_order_for_item_index" = "% @ etc.% ld orang telah membuat pesanan% ld item.";
+
+"username_has_placed_an_order_for_item_index" = "% @ Sudah membuat pesanan% ld item.";
+
+"username_is_buying_item_index" = "% @ sedang membeli% ld item.";
+
+"video_call" = "Video Lian Mai";
+
+"w" = "juta.";
+
+"warm_tips" = "Peringatan mesra.";
+
+"watching_has_been_suspended_due_to_disturbing_the_order_of_the_live_stream_" = "Tontonan telah digantung kerana mengganggu pesanan di bilik siaran langsung.";
+
+"watching_has_been_suspended_due_to_long_absence_" = "Disebabkan sudah lama tidak ditandatangani, tontonan telah digantung.";
+
+"win_and_watch" = "Tonton siaran langsung dan menangi hadiah.";
+
+"win_award_tip" = "Tahniah, anda telah menerima hadiah.";
+
+"winning_info_completed" = "Maklumat kemenangan telah ditambah baik.";
+
+"you_have_been_muted" = "Anda telah dilarang bercakap.";
+
+"仅展示前200名中奖观众" = "Hanya 200 penonton yang memenangi hadiah pertama akan dipaparkan.";
+
+"你的答案：" = "Jawapan anda:";
+
+"做任务参与抽奖" = "Buat tugasan untuk menyertai cabutan bertuah.";
+
+"公告" = "Pengumuman";
+
+"关注" = "Ikut.";
+
+"单选" = "Pilihan radio";
+
+"去参加" = "Untuk mengambil bahagian.";
+
+"参与" = "Terlibat";
+
+"参与答题" = "Mengambil bahagian dalam menjawab soalan";
+
+"回答正确" = "Jawapan yang betul.";
+
+"回答错误" = "Jawapan salah";
+
+"多选" = "Pelbagai Pilihan";
+
+"完成全部任务即可参与" = "Selesaikan semua tugas dan anda boleh mengambil bahagian.";
+
+"实际参与人数：%d人" = "Bilangan sebenar peserta:% d orang";
+
+"已关注" = "Telah diikuti.";
+
+"已完成" = "Sudah siap.";
+
+"已投票" = "Sudah mengundi.";
+
+"已提交" = "Telah dihantar.";
+
+"已提交，请等待公布答案" = "Ia telah dihantar, sila tunggu penerbitan jawapan.";
+
+"已签到" = "sudah ditandatangani.";
+
+"已结束" = "Sudah tamat.";
+
+"当前处于非Wi-Fi网络，播放将消耗流量" = "Pada masa ini dalam rangkaian bukan Wi-Fi, main balik akan menggunakan trafik.";
+
+"很遗憾，你未参与" = "Saya meminta maaf kerana anda tidak terlibat.";
+
+"投票" = "Undi.";
+
+"投票已截止" = "Pengundian telah ditutup.";
+
+"提交全部投票" = "Hantar semua undi.";
+
+"提交全部答题" = "Hantar semua jawapan.";
+
+"提交全部签到" = "Hantar semua daftar masuk.";
+
+"提交全部问卷" = "Hantar semua soal selidik.";
+
+"提交投票" = "Hantar untuk mengundi.";
+
+"未作答" = "Tidak terjawab.";
+
+"未完成" = "Belum Selesai";
+
+"未签到" = "Tidak ditandatangani";
+
+"查看中奖名单" = "Lihat senarai pemenang.";
+
+"查看结果" = "Lihat hasilnya.";
+
+"查看详情" = "Lihat butiran.";
+
+"正确答案：" = "Jawapan yang betul:";
+
+"没有更多内容了" = "Tiada lagi kandungan.";
+
+"点击参与" = "Klik untuk menyertai.";
+
+"点击参加" = "Klik untuk menyertai.";
+
+"直播间发起了一场抽奖" = "Satu cabutan bertuah telah dilancarkan di bilik siaran langsung.";
+
+"看结果" = "Lihat hasilnya.";
+
+"确认不再关注了吗 ？" = "Adakah anda pasti anda tidak mengikuti lagi?";
+
+"确认提交" = "Sahkan penyerahan.";
+
+"立即参与" = "Sertai sekarang.";
+
+"立即签到" = "Daftar masuk sekarang.";
+
+"答对全部答题" = "Jawab semua soalan dengan betul.";
+
+"答案解析：" = "Analisis jawapan:";
+
+"答题已截止" = "Jawapan telah tamat tempoh.";
+
+"签到" = "Daftar Masuk";
+
+"继续观看直播" = "Teruskan menonton siaran langsung.";
+
+"自动发送" = "Penghantaran automatik";
+
+"至少提交%@个投票" = "Hantar sekurang-kurangnya% @ satu undian.";
+
+"至少提交%@个签到" = "Hantar sekurang-kurangnya% @ tanda masuk";
+
+"至少提交%@个问卷" = "Hantar sekurang-kurangnya% @ soal selidik";
+
+"至少提交%@道答题" = "Hantar sekurang-kurangnya% @ soalan";
+
+"至少答对%@道答题" = "Jawab soalan dengan betul sekurang-kurangnya% @";
+
+"讲解中" = "sedang dijelaskan.";
+
+"评论过于频繁，请稍后再试" = "Komen terlalu kerap, sila cuba lagi kemudian.";
+
+"请联系主办方领取奖品" = "Sila hubungi pihak penganjur untuk mengutip hadiah.";
+
+"请输入你的昵称，开始互动～" = "Sila masukkan nama panggilan anda dan mula berinteraksi ~";
+
+"请输入昵称" = "Sila masukkan nama samaran.";
+
+"请选择您的选项" = "Sila pilih pilihan anda.";
+
+"距答题截止" = "Sehingga tamat tempoh jawapan.";
+
+"输入项不能为空" = "Item input tidak boleh kosong.";
+
+"进行中" = "Sedang berlangsung.";
+
+"重试" = "Cuba lagi.";

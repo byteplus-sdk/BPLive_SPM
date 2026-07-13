@@ -1,0 +1,668 @@
+
+"%ld人" = "% ld người";
+
+"%ld票" = "% ld phiếu";
+
+"Confirm to quit the audience link" = "Xác nhận rút lui khỏi khán giả Liên Mai?";
+
+"Flip camera" = "Lật camera";
+
+"Linking, quti will colse link" = "Hiện đang ở Lianmai, tắt livestream Lianmai sẽ\ n thoát khỏi Lianmai hiện tại.";
+
+"Mute" = "Tắt tiếng";
+
+"Please go to System Settings to turn on relevant permissions." = "Vui lòng vào cài đặt hệ thống để mở các quyền liên quan";
+
+"Turn off the camera" = "Tắt camera đi.";
+
+"Turn on the camera" = "Bật camera lên.";
+
+"Unmute" = "Tắt tiếng";
+
+"all-1" = "Tất cả";
+
+"apply_link" = "Áp dụng cho Liên Mai Trung...";
+
+"audio_call" = "Âm thanh Lianmai";
+
+"available" = "Có thể mở";
+
+"award" = "Giải thưởng:";
+
+"award_and_detail" = " Giải thưởng:% @% ld Xem chi tiết";
+
+"award_award" = "Giải thưởng ";
+
+"award_award_comming" = "Một làn sóng giải thưởng lớn đang đến với bạn.";
+
+"award_count" = "Số lượng phần thưởng:% d";
+
+"award_count_short" = "Số lượng ";
+
+"award_event_end" = "Sự kiện đã kết thúc";
+
+"award_fill_success" = "Thông tin trúng thưởng được điền thành công";
+
+"award_go_get_award" = "Nhận giải thưởng";
+
+"award_info_input_hint" = "Vui lòng điền thông tin trúng thưởng càng sớm càng tốt, tránh bỏ lỡ giải thưởng\ n Quyền giải thích và bên cung cấp giải thưởng thuộc về bên tổ chức.";
+
+"award_info_input_title" = "Hoàn thiện thông tin trúng thưởng";
+
+"award_input_receiver" = "Vui lòng nhập tên";
+
+"award_join_fail_tip" = "Tham gia thất bại";
+
+"award_join_success_tip" = "Tham gia thành công, xin vui lòng kiên nhẫn chờ đợi phần thưởng ~";
+
+"award_lost_empty_box" = "Rất tiếc, bên trong hộp trống rỗng, cố gắng hơn nữa ~";
+
+"award_no_need_fill" = "Không cần điền";
+
+"award_no_record_keep_going" = "Tạm thời không có kỷ lục trúng thưởng, tiếp tục cố lên nhé.";
+
+"award_opened" = "Rút thăm trúng thưởng đã mở";
+
+"award_recipient" = "Người nhận";
+
+"award_repeat_join_tip" = "Đã tham gia rút thăm trúng thưởng";
+
+"award_result_dialog_tip" = "Quyền giải thích và bên cung cấp giải thưởng thuộc về bên tổ chức.";
+
+"award_still_lock" = "Rút thăm trúng thưởng tạm thời chưa mở khóa, tiếp tục cố gắng ~";
+
+"award_to_be_filled" = "Đang chờ điền";
+
+"award_will_start" = "Rút thăm trúng thưởng sắp mở, xin vui lòng chờ một chút ~";
+
+"award_win_prize" = "Chúc mừng% @ trúng% @";
+
+"award_winner_count" = "Tổng% ld người trúng thưởng";
+
+"award_winner_hint" = "Người dùng trúng thưởng điền thông tin trúng thưởng vào công cụ tương tác - lối vào rút thăm trúng thưởng càng sớm càng tốt để tránh bỏ lỡ giải thưởng ~";
+
+"award_winner_hint_highlight" = "Công cụ tương tác - Rút thăm trúng thưởng";
+
+"award_winner_list" = "Danh sách trúng thưởng";
+
+"back_continue_award" = "Quay lại tiếp tục rút thăm trúng thưởng";
+
+"back_to_live" = "Quay lại livestream";
+
+"buy_now" = "Mua ngay";
+
+"buying_now_" = "Đang mua";
+
+"cancel" = "Hủy";
+
+"cancel_request" = "Hủy yêu cầu";
+
+"card_see_explain" = "Xem giải thích";
+
+"cell_phone_number" = "Số di động";
+
+"change_channel" = "Chuyển kênh";
+
+"change_language" = "Ngôn ngữ";
+
+"clear_screen" = "Màn hình";
+
+"click_for_the_draw" = "Nhấp vào rút thăm trúng thưởng";
+
+"click_one_click_join_btn_tip" = "Nhấp vào một cú nhấp chuột để tham gia tự động hoàn thành";
+
+"click_replay" = "Nhấp vào phát lại";
+
+"click_too_fast" = "Tốc độ tay quá nhanh, chờ một chút ~";
+
+"comment_failed" = "Bình luận thất bại";
+
+"comment_report_abet_btn_text" = "Nghi ngờ / xúi giục tự làm hại bản thân";
+
+"comment_report_advertise_btn_text" = "Quảng cáo";
+
+"comment_report_cheat_btn_text" = "Bị cáo buộc gian lận";
+
+"comment_report_curse_btn_text" = "Xúc phạm tôi hoặc người khác";
+
+"comment_report_edittext_hint" = "Vui lòng mô tả chi tiết lý do báo cáo để nền tảng có thể xác định xem bình luận có vi phạm hay không.";
+
+"comment_report_other_btn_text" = "Khác";
+
+"comment_report_post_btn_text" = "Gửi";
+
+"comment_report_title_text" = "Báo cáo bình luận";
+
+"comment_report_unlawful_btn_text" = "Vi phạm pháp luật";
+
+"comment_report_vulgar_btn_text" = "Khiêu dâm thô tục";
+
+"confirm" = "Chắc rồi.";
+
+"congratulations_to_for" = "Chúc mừng% @ trúng% @";
+
+"congratulations_you_won_the_lottery" = "Chúc mừng bạn, trúng thưởng rồi.";
+
+"copy_link" = "Sao chép liên kết";
+
+"copy_link_ok" = "Sao chép liên kết thành công";
+
+"count_down" = "Đếm ngược";
+
+"days" = "Chúa ơi.";
+
+"did_not_win" = "Không trúng thưởng";
+
+"disconnect mic" = "Ngắt kết nối Lianmai";
+
+"draw" = "Rút thăm trúng thưởng";
+
+"duration_colon" = "Đã xem ";
+
+"end" = "Kết thúc.";
+
+"entered_live_room" = "Vào phòng livestream";
+
+"fail_and_retry" = "Gửi không thành công, xin vui lòng thử lại";
+
+"failed_open_please_retry_later" = "Mở không thành công, xin vui lòng thử lại sau.";
+
+"fill_address" = "Vui lòng điền địa chỉ nhận hàng";
+
+"fill_phone_number" = "Vui lòng nhập đúng số điện thoại di động";
+
+"fore_show" = "Xem trước";
+
+"free_to_buy" = "Cướp miễn phí";
+
+"get_award" = "Nhận giải thưởng";
+
+"getting_comments" = "Nhận được bình luận...";
+
+"gift_reward_effect_off" = "Quà tặng hiệu ứng đặc biệt đóng";
+
+"gift_reward_effect_on" = "Quà tặng hiệu ứng đặc biệt mở ra";
+
+"gift_reward_effect_switch" = "Quà tặng hiệu ứng đặc biệt";
+
+"gift_reward_free" = "Miễn phí";
+
+"gift_reward_not_enough" = "Điểm không đủ, không thể thưởng.";
+
+"gift_reward_point" = "Điểm thưởng";
+
+"gift_reward_send" = "Quà tặng";
+
+"gift_reward_service_exception" = "Điểm bất thường, xin vui lòng thử lại sau.";
+
+"gift_reward_title" = "Quà tặng";
+
+"gift_sent_hint" = "Gửi đi";
+
+"goods_receiving_information" = "Thông tin nhận hàng";
+
+"got_it" = "Hiểu rồi.";
+
+"has_won" = "Đã trúng thưởng";
+
+"here_it_comes_" = "Tới rồi.";
+
+"host" = "Người dẫn chương trình";
+
+"host_changed_nickname" = "Người dẫn chương trình đã thay đổi nick của bạn";
+
+"host_close_audio" = "Máy chủ đã tắt micro của bạn rồi.";
+
+"host_close_audio_and_video" = "Máy chủ đã tắt micro và camera của bạn.";
+
+"host_close_video" = "Người dẫn chương trình đã tắt camera của bạn rồi.";
+
+"host_open_audio" = "Người dẫn chương trình yêu cầu mở micro của bạn";
+
+"host_open_audio_and_video" = "Người dẫn chương trình yêu cầu bật micrô và camera của bạn";
+
+"host_open_video" = "Người dẫn chương trình yêu cầu mở camera của bạn";
+
+"host_set_link_mute" = "Người dẫn chương trình đã thiết lập tắt tiếng cho tất cả nhân viên";
+
+"hot_sale" = "Bán chạy";
+
+"hours" = "Thời gian";
+
+"i_know" = "Tôi biết rồi.";
+
+"input_card_name_or_index" = "Nhập tên sản phẩm hoặc số sê-ri";
+
+"input_phone_number" = "Vui lòng nhập số điện thoại di động";
+
+"input_receiving_address" = "Vui lòng nhập địa chỉ nhận hàng";
+
+"interact_tool_count" = "Tổng% zd nội dung tương tác";
+
+"internet_unstable_switch_resolution" = "Mạng hiện tại không ổn định, chúng tôi khuyên bạn nên chuyển sang";
+
+"invalid_nickname" = "Biệt danh không hợp pháp";
+
+"join_requirement" = "Điều kiện tham gia";
+
+"like_failed" = "Thích thất bại";
+
+"link failed" = "Liên Mai thất bại";
+
+"link_end_tip" = "Kết thúc rồi.";
+
+"live" = "Đang livestream";
+
+"live_description" = "Mô tả livestream";
+
+"live_end_tip" = "Livestream đã kết thúc";
+
+"live_interactive" = "Tương tác livestream";
+
+"live_not_allowed_mobile_watch" = "Phòng livestream không cho phép xem trên thiết bị di động.";
+
+"live_start_countdown" = "Khoảng cách livestream bắt đầu còn có";
+
+"liveroom_qrcode" = "Mã qr phòng livestream";
+
+"long_click_save_picture" = "Nhấn lâu để lưu ảnh";
+
+"long_click_save_qrcode" = "Nhấn lâu để lưu mã QR, chia sẻ cho bạn bè nhé ~";
+
+"lose_award_tip" = "Rất tiếc, bạn không trúng thưởng.";
+
+"lottery_drawn" = "Đã mở thưởng";
+
+"lottery_will_open" = "Sắp mở thưởng";
+
+"me" = "Tôi...";
+
+"minutes" = "Điểm";
+
+"minutes2" = "Phút";
+
+"modification" = "Sửa đổi";
+
+"more" = "Thêm";
+
+"my_prize" = "Kỷ lục trúng thưởng";
+
+"net_abnormal" = "Mạng bất thường, xin vui lòng thử lại";
+
+"net_error_btn_text" = "Thử lại";
+
+"net_error_portrait_btn_text" = "Làm mới thử lại";
+
+"net_error_text" = "Mạng hiện tại không khả dụng, hãy thử lại sau khi kiểm tra kết nối mạng";
+
+"nick_name_cannot_be_blank" = "Biệt danh không thể để trống!";
+
+"nick_name_dialog_hint_text" = "Vui lòng nhập nick của bạn và bắt đầu tương tác.";
+
+"no_comments" = "Chưa có bình luận";
+
+"no_more_historical_comments" = "Không thêm bình luận lịch sử";
+
+"no_one_participate_award" = "Không ai tham gia rút thăm trúng thưởng này.";
+
+"no_private_chat_yet" = "Tạm thời không nói chuyện riêng";
+
+"no_product_yet" = "Không tìm thấy kết quả";
+
+"non_wifi_btn_text" = "Tiếp tục chơi";
+
+"one_click_join" = "Tham gia một cú nhấp chuột";
+
+"only_stock_left" = "Hàng tồn kho chỉ còn lại";
+
+"open_immediately" = "Mở ngay";
+
+"opened" = "Đã mở";
+
+"ordered" = "Đã đặt hàng";
+
+"participate_successfully_and_wait_for_the_draw" = "Tham gia thành công, chờ mở thưởng";
+
+"participated" = "Đã tham gia";
+
+"participated_count" = "Đã tham gia% ld người";
+
+"people_count" = "người xem";
+
+"phone_number" = "Số điện thoại di động";
+
+"pinned" = "Ghim";
+
+"pinned_content" = "Nội dung hàng đầu";
+
+"play_back" = "Phát lại";
+
+"playback" = "Phát lại";
+
+"please_enter_the_correct_email" = "Vui lòng nhập đúng email";
+
+"please_enter_the_correct_phone_number" = "Vui lòng nhập đúng số điện thoại di động";
+
+"please_fill_receiver" = "Vui lòng nhập người nhận";
+
+"please_input_question_answer" = "Điền thông tin";
+
+"please_select_an_image_with_a_size_less_than_8m" = "Vui lòng chọn hình ảnh có kích thước nhỏ hơn 8M";
+
+"presenter" = "Diễn giả";
+
+"pull_to_load_more_comments" = "Tải thêm bình luận";
+
+"pulling_historical_comments_limit" = "Kéo bình luận lịch sử đã đạt đến giới hạn";
+
+"questionnaire_answer_required" = "Mục này là bắt buộc";
+
+"questionnaire_filled" = "Bạn đã điền vào bảng câu hỏi này, cảm ơn bạn đã tham gia.";
+
+"questionnaire_string" = "Bảng câu hỏi";
+
+"receiving_address" = "Địa chỉ nhận hàng";
+
+"redirect_to_time" = "Đã xác định vị trí cho bạn";
+
+"register_success" = "Đăng ký thành công";
+
+"release_to_load_more_comments" = "Phát hành Tải thêm bình luận";
+
+"replay" = "Phát lại";
+
+"replay_comment" = "Trả lời";
+
+"report_comment" = "Báo cáo";
+
+"report_error" = "Báo cáo thất bại";
+
+"report_success" = "Gửi thành công, cảm ơn bạn đã phản hồi";
+
+"request_link" = "Áp dụng cho Liên Mai";
+
+"requesting" = "Đang áp dụng...";
+
+"reservation_fail" = "Đặt phòng không thành công";
+
+"reservation_now" = "Đặt ngay";
+
+"reservation_success" = "Đặt phòng thành công";
+
+"reservationed" = "Đặt trước";
+
+"resolution_auto" = "Thông minh";
+
+"resolution_bd" = "Ánh sáng xanh";
+
+"resolution_uhd" = "1080P";
+
+"resolution_hd" = "720P";
+
+"resolution_sd" = "540P";
+
+"resolution_origin" = "Bức tranh gốc";
+
+"resolution_ld" = "240P";
+
+"resolution_select" = "Chất lượng";
+
+"resolution_title" = "Chất lượng";
+
+"save_picture" = "Lưu ảnh";
+
+"save_picture_failed" = "Lưu ảnh không thành công";
+
+"save_picture_ok" = "Hình ảnh đã được lưu vào album";
+
+"screen sharing" = "Đang chia sẻ màn hình";
+
+"search" = "Tìm kiếm";
+
+"search_other_products" = "Hãy tìm kiếm từ khoá khác";
+
+"seconds" = "Giây";
+
+"send" = "Gửi";
+
+"send_comment_no_enable" = "Chưa mở chat";
+
+"send_danmaku_key" = "Phát hành mật khẩu màn hình đạn:";
+
+"send_image_fail" = "Gửi ảnh không thành công";
+
+"send_image_to_chat" = "Gửi hình ảnh để trò chuyện";
+
+"share" = "Chia sẻ";
+
+"sign_in_successfully" = "Đăng ký thành công";
+
+"speed" = "Tốc độ gấp đôi";
+
+"speed_play" = "Tốc độ phát lại";
+
+"speed_toast" = "Đã mở phát lại tốc độ gấp đôi% s cho bạn";
+
+"submit_failed" = "Gửi không thành công";
+
+"submit_winning_information" = "Gửi thông tin trúng thưởng";
+
+"submitted_success" = "Gửi thành công";
+
+"task_award_locked" = "Đang mở khóa";
+
+"task_award_open_now" = "Mở ngay";
+
+"task_award_rule" = "Quy tắc hoạt động";
+
+"tips" = "Gợi ý";
+
+"tvu_award_result" = "Kết quả trúng thưởng";
+
+"tvu_embedded_web_url" = "Liên kết nhúng";
+
+"tvu_exit_clear_screen" = "Thoát khỏi màn hình";
+
+"tvu_generate_poster" = "Tạo poster";
+
+"tvu_generate_qrcode" = "Tạo mã qr";
+
+"tvu_image_text" = "Đồ họa";
+
+"tvu_interact_tool" = "Công cụ tương tác";
+
+"tvu_invite_watch_live" = "Mời bạn cùng xem livestream";
+
+"tvu_limit_gif_type_tip" = "Hình ảnh không hỗ trợ định dạng GIF, xin vui lòng tải lên lại";
+
+"tvu_long_press_to_view" = "Nhấn lâu để xác định mã qr để xem";
+
+"tvu_no_more_goods" = "Đã hết sản phẩm.";
+
+"tvu_private_chat" = "Người dẫn chương trình trò chuyện riêng tư";
+
+"tvu_save_local" = "Lưu địa phương";
+
+"tvu_shopping_car" = "Giỏ hàng";
+
+"tvu_shopping_car_all" = "Tất cả";
+
+"tvu_shopping_card" = "Thẻ sản phẩm";
+
+"username_and_other_count_people_are_buying_item_index" = "% @ chờ% ld người đang mua sản phẩm số% ld";
+
+"username_and_other_count_people_have_placed_an_order_for_item_index" = "% @ chờ% ld người đã đặt hàng sản phẩm số% ld";
+
+"username_has_placed_an_order_for_item_index" = "% @ Đã đặt hàng sản phẩm số% ld";
+
+"username_is_buying_item_index" = "% @ đang mua sản phẩm số% ld";
+
+"video_call" = "Video Liên Mai";
+
+"w" = "triệu.";
+
+"warm_tips" = "Lời khuyên ấm áp";
+
+"win_and_watch" = "Xem livestream, thắng giải thưởng";
+
+"win_award_tip" = "Chúc mừng bạn, nhận được phần thưởng";
+
+"winning_info_completed" = "Thông tin trúng thưởng đã được hoàn thiện";
+
+"you_have_been_muted" = "Bạn đã bị cấm.";
+
+"仅展示前200名中奖观众" = "Chỉ hiển thị 200 người xem trúng thưởng hàng đầu";
+
+"你的答案：" = "Câu trả lời của bạn:";
+
+"做任务参与抽奖" = "Làm nhiệm vụ tham gia rút thăm trúng thưởng";
+
+"公告" = "Thông báo";
+
+"单选" = "Chọn đơn";
+
+"去参加" = "Đi tham gia.";
+
+"参与" = "Tham gia";
+
+"参与答题" = "Tham gia trả lời câu hỏi";
+
+"回答正确" = "Câu trả lời đúng.";
+
+"回答错误" = "Trả lời sai";
+
+"多选" = "Chọn nhiều";
+
+"完成全部任务即可参与" = "Hoàn thành tất cả nhiệm vụ để tham gia";
+
+"实际参与人数：%d人" = "Số người tham gia thực tế:% d người";
+
+"已完成" = "Đã hoàn thành";
+
+"已投票" = "Đã bình chọn";
+
+"已提交" = "Đã gửi";
+
+"已提交，请等待公布答案" = "Đã gửi, xin vui lòng chờ công bố câu trả lời";
+
+"已签到" = "Đã đăng ký";
+
+"已结束" = "Đã kết thúc";
+
+"很遗憾，你未参与" = "Rất tiếc, bạn không tham gia.";
+
+"投票" = "Bầu cử";
+
+"投票已截止" = "Bỏ phiếu đã kết thúc";
+
+"提交投票" = "Gửi";
+
+"未作答" = "Chưa trả lời";
+
+"未完成" = "Chưa hoàn thành";
+
+"未签到" = "Chưa ký";
+
+"查看中奖名单" = "Xem danh sách trúng thưởng";
+
+"查看结果" = "Xem kết quả";
+
+"查看详情" = "Xem chi tiết";
+
+"正确答案：" = "Câu trả lời đúng:";
+
+"没有更多内容了" = "Không còn gì nữa.";
+
+"点击参与" = "Nhấp vào Tham gia";
+
+"点击参加" = "Nhấn vào để tham gia";
+
+"直播间发起了一场抽奖" = "Phòng livestream đã phát động một cuộc rút thăm trúng thưởng.";
+
+"看结果" = "Xem kết quả";
+
+"确认提交" = "Xác nhận gửi";
+
+"立即参与" = "Tham gia ngay";
+
+"答案解析：" = "Phân tích đáp án:";
+
+"答题已截止" = "Câu hỏi đã kết thúc";
+
+"签到" = "Đăng ký";
+
+"继续观看直播" = "Tiếp tục xem livestream";
+
+"自动发送" = "Tự động gửi";
+
+"至少提交%@个投票" = "Gửi ít nhất% @ phiếu bầu";
+
+"至少提交%@个签到" = "Gửi ít nhất% @ đăng ký";
+
+"至少提交%@个问卷" = "Gửi ít nhất% @ câu hỏi";
+
+"至少提交%@道答题" = "Gửi ít nhất% @ câu trả lời";
+
+"至少答对%@道答题" = "Trả lời đúng ít nhất% @ câu hỏi";
+
+"讲解中" = "Đang LIVE";
+
+"请联系主办方领取奖品" = "Vui lòng liên hệ với bên tổ chức để nhận giải thưởng";
+
+"请选择您的选项" = "Vui lòng chọn tùy chọn của bạn";
+
+"距答题截止" = "Đến hạn trả lời";
+
+"输入项不能为空" = "Mục nhập không thể trống";
+
+"进行中" = "Đang tiến hành.";
+
+"当前处于非Wi-Fi网络，播放将消耗流量" = "Hiện đang ở trong mạng không phải Wi-Fi, phát lại sẽ tiêu thụ lưu lượng truy cập";
+
+"评论过于频繁，请稍后再试" = "Bình luận quá thường xuyên, xin vui lòng thử lại sau.";
+
+"请输入你的昵称，开始互动～" = "Vui lòng nhập nick của bạn và bắt đầu tương tác.";
+
+"请输入昵称" = "Vui lòng nhập nick";
+
+"重试" = "Thử lại";
+
+"关注" = "Theo dõi";
+
+"已关注" = "Đã theo dõi";
+
+"the_current_account_is_logged_in_on_another_device" = "Tài khoản hiện tại đã được đăng nhập trên thiết bị khác";
+
+"watching_has_been_suspended_due_to_disturbing_the_order_of_the_live_stream_" = "Do làm gián đoạn trật tự phòng livestream, đã tạm dừng xem.";
+
+"watching_has_been_suspended_due_to_long_absence_" = "Đã tạm dừng xem vì lâu rồi không ký nhận được.";
+
+"keep_watching" = "Tiếp tục xem";
+
+"sign_in_has_closed" = "Đăng ký đã hết hạn";
+
+"exit_live_room" = "Thoát khỏi phòng livestream";
+
+"立即签到" = "Đăng ký ngay";
+
+"in_order_to_avoid_suspending_watching_the_live_stream__please_complete_the_check" = "Để tránh tạm dừng xem livestream, xin vui lòng hoàn thành đăng ký càng sớm càng tốt.";
+
+"确认不再关注了吗 ？" = "Huỷ theo dõi?";
+
+"提交全部投票" = "Gửi tất cả phiếu bầu";
+
+"提交全部答题" = "Gửi tất cả các câu hỏi";
+
+"提交全部签到" = "Gửi tất cả để đăng ký";
+
+"提交全部问卷" = "Gửi toàn bộ bảng câu hỏi";
+
+"答对全部答题" = "Trả lời đúng tất cả các câu hỏi";
+
+"email" = "Hộp thư";
+
+"email_hint" = "Vui lòng nhập email";
+
+"fill_email" = "Vui lòng nhập đúng email";
+
+"tvu_out_of_stock" = "Đã cướp";

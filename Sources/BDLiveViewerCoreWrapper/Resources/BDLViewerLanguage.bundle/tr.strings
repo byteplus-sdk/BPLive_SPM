@@ -1,0 +1,668 @@
+
+"%ld人" = "% ld insanlar";
+
+"%ld票" = "% ld oy";
+
+"Confirm to quit the audience link" = "Seyirciden çekilmeyi onaylayın Lian Mai?";
+
+"Flip camera" = "kamerayı çevir";
+
+"Linking, quti will colse link" = "Şu anda Lianmai 'de, kapanış yardımcı sunucusu mevcut Lianmai' yi kapatacak";
+
+"Mute" = "sessiz";
+
+"Please go to System Settings to turn on relevant permissions." = "İlgili izinleri etkinleştirmek için lütfen sistem ayarlarına gidin.";
+
+"Turn off the camera" = "kamerayı kapat";
+
+"Turn on the camera" = "kamerayı aç";
+
+"Unmute" = "sesini aç";
+
+"all-1" = "hepsi";
+
+"apply_link" = "Lianmai Orta için başvurun...";
+
+"audio_call" = "Ses Lianmai";
+
+"available" = "açılabilir";
+
+"award" = "Ödül:";
+
+"award_and_detail" = " Ödüller:% @% ld kopyalar, ayrıntılara bakın";
+
+"award_award" = "ödül ";
+
+"award_award_comming" = "Bir ödül dalgası yolunuza geliyor.";
+
+"award_count" = "Ödül sayısı:% d";
+
+"award_count_short" = "miktar ";
+
+"award_event_end" = "Etkinlik sona erdi.";
+
+"award_fill_success" = "Kazanan bilgi başarıyla doldurulur.";
+
+"award_go_get_award" = "ödülü almaya git";
+
+"award_info_input_hint" = "Ödülü kaçırmamak için lütfen en kısa sürede kazanan bilgileri doldurun\ nÖdülü ve sağlayıcıyı açıklama hakkı organizatöre aittir.";
+
+"award_info_input_title" = "Kazanan bilgileri mükemmelleştirin";
+
+"award_input_receiver" = "Lütfen adınızı girin";
+
+"award_join_fail_tip" = "katılım başarısızlığı";
+
+"award_join_success_tip" = "Katılım başarılı, lütfen sabırlı olun ve çekiliş için bekleyin ~";
+
+"award_lost_empty_box" = "Ne yazık ki, kutu boş, iyi çalışmaya devam edin ~";
+
+"award_no_need_fill" = "doldurmaya gerek yok";
+
+"award_no_record_keep_going" = "Henüz kazanma rekoru yok, çok çalışmaya devam edin";
+
+"award_opened" = "Piyango açıldı.";
+
+"award_recipient" = "Alıcı";
+
+"award_repeat_join_tip" = "Piyangoya katıldı";
+
+"award_result_dialog_tip" = "Ödülü yorumlama ve verme hakkı organizatöre aittir.";
+
+"award_still_lock" = "Piyango henüz açılmadı, çok çalışmaya devam edin ~";
+
+"award_to_be_filled" = "doldurulacak";
+
+"award_will_start" = "Piyango başlamak üzere, lütfen biraz bekleyin ~";
+
+"award_win_prize" = "Tebrikler% @ kazanan% @";
+
+"award_winner_count" = "Piyangoyu toplam% ld kişi kazandı";
+
+"award_winner_hint" = "Kazanan kullanıcı, ödülü kaçırmamak için etkileşimli araç çekilişinin girişindeki kazanan bilgileri en kısa sürede doldurur ~";
+
+"award_winner_hint_highlight" = "Etkileşimli Araçlar - Çekilişler";
+
+"award_winner_list" = "Kazanma listesi";
+
+"back_continue_award" = "Piyangoya devam etmek için geri dön";
+
+"back_to_live" = "Canlı yayına geri dön";
+
+"buy_now" = "Şimdi Satın Al";
+
+"buying_now_" = "Şimdi satın alıyor.";
+
+"cancel" = "iptal et";
+
+"cancel_request" = "Uygulamayı iptal edin.";
+
+"card_see_explain" = "Açıklamayı oku";
+
+"cell_phone_number" = "Cep telefonu numarası";
+
+"change_channel" = "Kanalı değiştir";
+
+"change_language" = "Dili değiştir";
+
+"clear_screen" = "ekranı temizle";
+
+"click_for_the_draw" = "Çizmek için tıklayın";
+
+"click_one_click_join_btn_tip" = "Otomatik tamamlamaya katılmak için tek tıklamaya tıklayın";
+
+"click_replay" = "Tekrar oynamak için tıklayın.";
+
+"click_too_fast" = "El hızı çok hızlı, bir dakika bekleyin ~";
+
+"comment_failed" = "yorum başarısız oldu";
+
+"comment_report_abet_btn_text" = "Şüpheli / kışkırtılmış kendine zarar verme ve intihar";
+
+"comment_report_advertise_btn_text" = "reklam kampanyası";
+
+"comment_report_cheat_btn_text" = "dolandırıcılıktan şüpheleniliyor";
+
+"comment_report_curse_btn_text" = "Bana veya başkalarına hakaret et";
+
+"comment_report_edittext_hint" = "Platformun yorumun yasa dışı olup olmadığına karar verebilmesi için lütfen raporun nedenini ayrıntılı olarak açıklayın.";
+
+"comment_report_other_btn_text" = "diğer";
+
+"comment_report_post_btn_text" = "gönder";
+
+"comment_report_title_text" = "Bir yorumu bildir";
+
+"comment_report_unlawful_btn_text" = "yasa ve yönetmeliklerin ihlali";
+
+"comment_report_vulgar_btn_text" = "Kaba porno";
+
+"confirm" = "TAMAM";
+
+"congratulations_to_for" = "Tebrikler% @ kazanan% @";
+
+"congratulations_you_won_the_lottery" = "Tebrikler, piyangoyu kazandınız.";
+
+"copy_link" = "Bağlantıyı kopyala";
+
+"copy_link_ok" = "Bağlantıyı başarıyla kopyala";
+
+"count_down" = "Geri sayım";
+
+"days" = "Tanrı";
+
+"did_not_win" = "kazanamadı";
+
+"disconnect mic" = "Buğdayın bağlantısını kesin";
+
+"draw" = "ikinci piyango";
+
+"duration_colon" = "görüntülendi ";
+
+"end" = "son";
+
+"entered_live_room" = "Canlı yayına girdi.";
+
+"fail_and_retry" = "Gönderilemedi, lütfen tekrar deneyin";
+
+"failed_open_please_retry_later" = "Açılamadı, lütfen daha sonra tekrar deneyin.";
+
+"fill_address" = "Lütfen teslimat adresini doldurunuz.";
+
+"fill_phone_number" = "Lütfen doğru cep telefonu numarasını girin.";
+
+"fore_show" = "teaser";
+
+"free_to_buy" = "ücretsiz tut";
+
+"get_award" = "Ödül talep et";
+
+"getting_comments" = "Yorum alın...";
+
+"gift_reward_effect_off" = "Hediye efektleri kapalı";
+
+"gift_reward_effect_on" = "Hediye efekti";
+
+"gift_reward_effect_switch" = "hediye efekti";
+
+"gift_reward_free" = "ücretsiz";
+
+"gift_reward_not_enough" = "Bahşiş için yetersiz puan";
+
+"gift_reward_point" = "ayrılmaz";
+
+"gift_reward_send" = "hediye";
+
+"gift_reward_service_exception" = "Puanlar anormal, lütfen daha sonra tekrar deneyin";
+
+"gift_reward_title" = "hediye";
+
+"gift_sent_hint" = "gönder";
+
+"goods_receiving_information" = "Makbuz bilgileri";
+
+"got_it" = "Anladım.";
+
+"has_won" = "Kazanmak";
+
+"here_it_comes_" = "İşte geliyor.";
+
+"host" = "ev sahibi";
+
+"host_changed_nickname" = "Ev sahibi takma adınızı değiştirdi";
+
+"host_close_audio" = "Ev sahibi mikrofonunuzu kapattı.";
+
+"host_close_audio_and_video" = "Ev sahibi mikrofonunuzu ve kameranızı kapattı.";
+
+"host_close_video" = "Ev sahibi kameranızı kapattı.";
+
+"host_open_audio" = "Ev sahibi mikrofonunuzu açmak için geçerlidir.";
+
+"host_open_audio_and_video" = "Ev sahibi mikrofonunuzu ve kameranızı açmak için geçerlidir.";
+
+"host_open_video" = "Ev sahibi kameranızı açmak için geçerlidir.";
+
+"host_set_link_mute" = "Ev sahibi tüm personeli sessize almaya ayarladı.";
+
+"hot_sale" = "Sıcak satış";
+
+"hours" = "zaman";
+
+"i_know" = "Anlıyorum.";
+
+"input_card_name_or_index" = "Ürün adını veya seri numarasını girin";
+
+"input_phone_number" = "Lütfen cep telefonu numaranızı girin.";
+
+"input_receiving_address" = "Lütfen teslimat adresini girin.";
+
+"interact_tool_count" = "Toplam% zd etkileşimli içerik";
+
+"internet_unstable_switch_resolution" = "Mevcut ağ kararsız, geçiş yapmanız önerilir";
+
+"invalid_nickname" = "Takma ad yasal değil";
+
+"join_requirement" = "Katılım koşulları";
+
+"like_failed" = "Başarısız gibi.";
+
+"link failed" = "Lianmai başarısız oldu";
+
+"link_end_tip" = "Bitti Lianmai";
+
+"live" = "Canlı yayın";
+
+"live_description" = "Canlı yayın açıklaması";
+
+"live_end_tip" = "Canlı yayın sona erdi.";
+
+"live_interactive" = "canlı etkileşim";
+
+"live_not_allowed_mobile_watch" = "Canlı akış, mobil uç görüntülemeye izin vermez";
+
+"live_start_countdown" = "Canlı yayının başlamasına daha günler var.";
+
+"liveroom_qrcode" = "Canlı yayın QR kodu";
+
+"long_click_save_picture" = "Resmi kaydetmek için uzun basın.";
+
+"long_click_save_qrcode" = "QR kodunu kaydetmek ve arkadaşlarınızla paylaşmak için uzun basın ~";
+
+"lose_award_tip" = "Piyangoyu kazanamadığın için üzgünüm.";
+
+"lottery_drawn" = "Çizilmiş";
+
+"lottery_will_open" = "piyango yakında";
+
+"me" = "ben";
+
+"minutes" = "puanlar";
+
+"minutes2" = "dakika";
+
+"modification" = "değiştirmek";
+
+"more" = "daha fazla";
+
+"my_prize" = "kazanan rekor";
+
+"net_abnormal" = "Ağ hatası, lütfen tekrar deneyin";
+
+"net_error_btn_text" = "yeniden dene";
+
+"net_error_portrait_btn_text" = "yeniden dene";
+
+"net_error_text" = "Mevcut ağ kullanılamıyor, lütfen ağ bağlantısını kontrol edin ve tekrar deneyin";
+
+"nick_name_cannot_be_blank" = "Takma ad boş olamaz!";
+
+"nick_name_dialog_hint_text" = "Etkileşime başlamak için lütfen takma adınızı girin ~";
+
+"no_comments" = "Henüz yorum yok";
+
+"no_more_historical_comments" = "Artık tarihsel yorum yok";
+
+"no_one_participate_award" = "Piyangoya kimse katılmadı.";
+
+"no_private_chat_yet" = "Henüz özel sohbet yok";
+
+"no_product_yet" = "Henüz ürün yok";
+
+"non_wifi_btn_text" = "Tekrar oyna.";
+
+"one_click_join" = "tek tıkla katılım";
+
+"only_stock_left" = "Sadece stok kaldı";
+
+"open_immediately" = "Şimdi aç";
+
+"opened" = "Açıldı";
+
+"ordered" = "sipariş edildi";
+
+"participate_successfully_and_wait_for_the_draw" = "Başarıyla katılın ve çekiliş çekilişini bekleyin.";
+
+"participated" = "Katıldı";
+
+"participated_count" = "% ld kişi katıldı";
+
+"people_count" = "popülerlik";
+
+"phone_number" = "Cep telefonu numarası";
+
+"pinned" = "üst";
+
+"pinned_content" = "en iyi içerik";
+
+"play_back" = "oynatma";
+
+"playback" = "oynatma";
+
+"please_enter_the_correct_email" = "Lütfen doğru e-posta adresini girin.";
+
+"please_enter_the_correct_phone_number" = "Lütfen doğru cep telefonu numarasını girin";
+
+"please_fill_receiver" = "Lütfen alıcıyı girin";
+
+"please_input_question_answer" = "Lütfen soru içeriğini girin";
+
+"please_select_an_image_with_a_size_less_than_8m" = "Lütfen boyutu 8M 'den küçük bir resim seçin.";
+
+"presenter" = "hoparlör";
+
+"pull_to_load_more_comments" = "Daha fazla yorum yüklemek için aşağı bırakın";
+
+"pulling_historical_comments_limit" = "Çekme geçmişi yorumları sınırlarına ulaştı";
+
+"questionnaire_answer_required" = "Bu alan gereklidir";
+
+"questionnaire_filled" = "Bu anketi tamamladınız, katılımınız için teşekkür ederiz.";
+
+"questionnaire_string" = "anket";
+
+"receiving_address" = "Teslimat adresi";
+
+"redirect_to_time" = "Sizin için yerleştirildi.";
+
+"register_success" = "Başarılı kayıt";
+
+"release_to_load_more_comments" = "Sürüm Daha Fazla Yorum Yükle";
+
+"replay" = "tekrar oynat";
+
+"replay_comment" = "cevap ver";
+
+"report_comment" = "rapor";
+
+"report_error" = "Başarısızlığı bildir";
+
+"report_success" = "Başarıyla gönderildi, geri bildiriminiz için teşekkürler.";
+
+"request_link" = "Lianmai için başvur";
+
+"requesting" = "Uygulanıyor...";
+
+"reservation_fail" = "Randevu başarısız oldu";
+
+"reservation_now" = "Şimdi Rezervasyon Yap";
+
+"reservation_success" = "Randevu başarılı";
+
+"reservationed" = "ayrılmış";
+
+"resolution_auto" = "Akıllı";
+
+"resolution_bd" = "Blu-ray";
+
+"resolution_hd" = "yüksek tanımlı";
+
+"resolution_ld" = "pürüzsüz";
+
+"resolution_origin" = "orijinal resim";
+
+"resolution_sd" = "SD";
+
+"resolution_select" = "Açıklık seçimi";
+
+"resolution_title" = "Açıklık seçimi";
+
+"resolution_uhd" = "Çok net";
+
+"save_picture" = "Resmi Kaydet";
+
+"save_picture_failed" = "Resim kaydedilemedi";
+
+"save_picture_ok" = "Resim albüme kaydedildi";
+
+"screen sharing" = "Ekran paylaşımı";
+
+"search" = "Arama";
+
+"search_other_products" = "Git diğer ürünleri ara";
+
+"seconds" = "ikinci";
+
+"send" = "gönder";
+
+"send_comment_no_enable" = "Sohbet henüz açık değil";
+
+"send_danmaku_key" = "Kurşun yorumu şifresi gönder:";
+
+"send_image_fail" = "Resim gönderilemedi.";
+
+"send_image_to_chat" = "Sohbet etmek için resim gönderin";
+
+"share" = "paylaş";
+
+"sign_in_successfully" = "Başarıyla oturum açın";
+
+"speed" = "çift hız";
+
+"speed_play" = "çift hızlı oynatma";
+
+"speed_toast" = "% s hız oynatma sizin için açıldı";
+
+"submit_failed" = "Gönderme başarısız oldu.";
+
+"submit_winning_information" = "Kazanan bilgileri gönderin";
+
+"submitted_success" = "Başarıyla gönderildi";
+
+"task_award_locked" = "Kilidi açılacak";
+
+"task_award_open_now" = "Hemen aç";
+
+"task_award_rule" = "Etkinlik kuralları";
+
+"tips" = "ipucu";
+
+"tvu_award_result" = "kazanan sonuç";
+
+"tvu_embedded_web_url" = "satır içi bağlantı";
+
+"tvu_exit_clear_screen" = "Ekrandan çık";
+
+"tvu_generate_poster" = "poster oluştur";
+
+"tvu_generate_qrcode" = "QR kodu oluşturun";
+
+"tvu_image_text" = "grafik";
+
+"tvu_interact_tool" = "etkileşimli araç";
+
+"tvu_invite_watch_live" = "Sizi canlı yayını birlikte izlemeye davet edin.";
+
+"tvu_limit_gif_type_tip" = "Resim GIF formatını desteklemiyor, lütfen tekrar yükleyin.";
+
+"tvu_long_press_to_view" = "İzlenecek QR kodunu belirlemek için uzun basın";
+
+"tvu_no_more_goods" = "Tüm canlı yayın odaları ziyaret edildi bebeğim.";
+
+"tvu_private_chat" = "Özel sohbet canlı akış sunucusu";
+
+"tvu_save_local" = "yerel kaydet";
+
+"tvu_shopping_car" = "alışveriş sepeti";
+
+"tvu_shopping_car_all" = "hepsi";
+
+"tvu_shopping_card" = "Ürün kartı";
+
+"username_and_other_count_people_are_buying_item_index" = "% @ ve diğer% ld insanlar% ld öğesini satın alıyor";
+
+"username_and_other_count_people_have_placed_an_order_for_item_index" = "% @ ve diğer% ld kullanıcıları% ld öğesi için sipariş verdi";
+
+"username_has_placed_an_order_for_item_index" = "% @ eşya numarası için sipariş verdi.% ld";
+
+"username_is_buying_item_index" = "% @ eşya numarası% ld satın alıyor";
+
+"video_call" = "Video Lianmai";
+
+"w" = "on bin";
+
+"warm_tips" = "Sıcak hatırlatma";
+
+"win_and_watch" = "Canlı yayını izleyin ve ödüller kazanın.";
+
+"win_award_tip" = "Tebrikler, ödülü aldın.";
+
+"winning_info_completed" = "Kazanan bilgiler tamamlandı.";
+
+"you_have_been_muted" = "susturuldun";
+
+"仅展示前200名中奖观众" = "Sadece ilk 200 kazanan izleyiciyi göster";
+
+"你的答案：" = "Cevabınız:";
+
+"做任务参与抽奖" = "Görevler yapın ve çekilişe katılın";
+
+"公告" = "duyuru";
+
+"单选" = "radyo";
+
+"去参加" = "Katılmak için git";
+
+"参与" = "katılmak";
+
+"参与答题" = "Soruları yanıtlamaya katılın";
+
+"回答正确" = "Doğru cevap";
+
+"回答错误" = "Yanlış cevap";
+
+"多选" = "çoktan seçmeli";
+
+"完成全部任务即可参与" = "Katılmak için tüm görevleri tamamlayın";
+
+"实际参与人数：%d人" = "Gerçek katılımcı sayısı:% d";
+
+"已完成" = "Tamamlandı.";
+
+"已投票" = "Oylandı";
+
+"已提交" = "Gönderildi";
+
+"已提交，请等待公布答案" = "Gönderildi, lütfen cevabın açıklanmasını bekleyin.";
+
+"已签到" = "oturum açtı";
+
+"已结束" = "Bitti";
+
+"很遗憾，你未参与" = "Katılmadığın için üzgünüm.";
+
+"投票" = "oy ver";
+
+"投票已截止" = "Oylama kapandı";
+
+"提交投票" = "oy gönder";
+
+"未作答" = "Cevap yok";
+
+"未完成" = "eksik";
+
+"未签到" = "Kayıtlı değil";
+
+"查看中奖名单" = "Kazanan listesini kontrol edin";
+
+"查看结果" = "Sonuçları Görüntüle";
+
+"查看详情" = "Ayrıntıları görüntüle";
+
+"正确答案：" = "Doğru cevap:";
+
+"没有更多内容了" = "Artık içerik yok.";
+
+"点击参与" = "Katılmak için tıklayın";
+
+"点击参加" = "Katılmak için tıklayın";
+
+"直播间发起了一场抽奖" = "Canlı yayında bir çekiliş başlatıldı.";
+
+"看结果" = "sonuçlara bak";
+
+"确认提交" = "gönderimi onayla";
+
+"立即参与" = "Şimdi katıl";
+
+"答案解析：" = "Cevap analizi:";
+
+"答题已截止" = "cevap bitti";
+
+"签到" = "oturum aç";
+
+"继续观看直播" = "Canlı yayını izlemeye devam edin";
+
+"自动发送" = "otomatik gönder";
+
+"至少提交%@个投票" = "En az% @ oy gönderin";
+
+"至少提交%@个签到" = "En az% @ check-in gönderin";
+
+"至少提交%@个问卷" = "En az% @ anketi gönderin";
+
+"至少提交%@道答题" = "En az% @ cevap gönderin";
+
+"至少答对%@道答题" = "En az% doğru @ soruyu cevapla";
+
+"讲解中" = "Açıklamak";
+
+"请联系主办方领取奖品" = "Ödülü almak için lütfen organizatörle iletişime geçin.";
+
+"请选择您的选项" = "Lütfen seçeneğinizi seçin";
+
+"距答题截止" = "Soruları yanıtlamak için son tarih";
+
+"输入项不能为空" = "Giriş boş olamaz";
+
+"进行中" = "devam ediyor";
+
+"当前处于非Wi-Fi网络，播放将消耗流量" = "Şu anda Wi-Fi olmayan bir ağda, oynatma veri tüketecektir";
+
+"评论过于频繁，请稍后再试" = "Yorumlar çok sık, lütfen daha sonra tekrar deneyin";
+
+"请输入你的昵称，开始互动～" = "Etkileşime başlamak için lütfen takma adınızı girin ~";
+
+"请输入昵称" = "Lütfen bir takma ad girin";
+
+"重试" = "yeniden dene";
+
+"关注" = "takip et";
+
+"已关注" = "Takip edildi";
+
+"the_current_account_is_logged_in_on_another_device" = "Cari hesap başka bir cihazda oturum açtı";
+
+"watching_has_been_suspended_due_to_disturbing_the_order_of_the_live_stream_" = "Canlı yayının sırasını bozduğu için izleme askıya alındı.";
+
+"watching_has_been_suspended_due_to_long_absence_" = "Uzun süre devamsızlık nedeniyle izleme askıya alındı.";
+
+"keep_watching" = "izlemeye devam et";
+
+"sign_in_has_closed" = "Oturum açma kapandı";
+
+"exit_live_room" = "Canlı akıştan çıkın";
+
+"立即签到" = "Şimdi oturum aç";
+
+"in_order_to_avoid_suspending_watching_the_live_stream__please_complete_the_check" = "Canlı yayını izlemeyi askıya almamak için lütfen en kısa sürede check-in işlemini tamamlayın.";
+
+"确认不再关注了吗 ？" = "Artık takip etmediğinden emin misin?";
+
+"提交全部投票" = "Tüm oyları gönder";
+
+"提交全部答题" = "Tüm cevapları gönder";
+
+"提交全部签到" = "Hepsini Gönder Oturum Aç";
+
+"提交全部问卷" = "Tüm anketleri gönderin";
+
+"答对全部答题" = "Tüm soruları doğru cevapla";
+
+"email" = "e-posta";
+
+"email_hint" = "Lütfen e-posta adresinizi girin";
+
+"fill_email" = "Lütfen doğru e-posta adresini girin.";
+
+"tvu_out_of_stock" = "tükendi";

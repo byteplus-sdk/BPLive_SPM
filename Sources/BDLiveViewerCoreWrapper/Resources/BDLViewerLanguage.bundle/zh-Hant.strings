@@ -1,0 +1,668 @@
+
+"cancel" = "取消";
+
+"change_language" = "切換語言";
+
+"click_replay" = "點擊重新播放";
+
+"comment_failed" = "評論失敗";
+
+"confirm" = "確定";
+
+"end" = "結束";
+
+"fore_show" = "預告";
+
+"free_to_buy" = "免費搶";
+
+"getting_comments" = "獲取評論中...";
+
+"host" = "主持人";
+
+"invalid_nickname" = "暱稱不合法";
+
+"like_failed" = "點贊失敗";
+
+"live_end_tip" = "直播已結束";
+
+"net_abnormal" = "網絡異常，請重試";
+
+"net_error_btn_text" = "重 試";
+
+"net_error_portrait_btn_text" = "刷新重試";
+
+"net_error_text" = "當前網絡不可用，請檢查網絡連接後重試";
+
+"nick_name_cannot_be_blank" = "暱稱不能爲空！";
+
+"nick_name_dialog_hint_text" = "請輸入你的暱稱，開始互動~";
+
+"no_comments" = "暫無評論";
+
+"no_more_historical_comments" = "無更多歷史評論";
+
+"non_wifi_btn_text" = "繼續播放";
+
+"pinned" = "頂";
+
+"pinned_content" = "置頂內容";
+
+"play_back" = "回放";
+
+"pull_to_load_more_comments" = "下拉加載更多評論";
+
+"pulling_historical_comments_limit" = "拉取歷史評論已經達到上限";
+
+"register_success" = "註冊成功";
+
+"release_to_load_more_comments" = "釋放加載更多評論";
+
+"replay" = "重播";
+
+"resolution_auto" = "智能";
+
+"resolution_bd" = "藍光";
+
+"resolution_uhd" = "超清";
+
+"resolution_hd" = "高清";
+
+"resolution_sd" = "標清";
+
+"resolution_origin" = "原畫";
+
+"resolution_ld" = "流暢";
+
+"resolution_select" = "清晰度選擇";
+
+"resolution_title" = "清晰度選擇";
+
+"send_comment_no_enable" = "暫未開啓聊天";
+
+"speed" = "倍速";
+
+"speed_play" = "倍速播放";
+
+"speed_toast" = "已爲你開啓%s倍速播放";
+
+"w" = "萬";
+
+"you_have_been_muted" = "您已被禁言";
+
+"save_picture" = "保存圖片";
+
+"save_picture_ok" = "圖片已保存至相冊";
+
+"save_picture_failed" = "保存圖片失敗";
+
+"copy_link" = "複製鏈接";
+
+"copy_link_ok" = "複製鏈接成功";
+
+"count_down" = "倒計時";
+
+"days" = "天";
+
+"hours" = "時";
+
+"minutes" = "分";
+
+"seconds" = "秒";
+
+"clear_screen" = "清屏";
+
+"participated" = "已參與";
+
+"tvu_award_result" = "中獎結果";
+
+"award_info_input_title" = "完善中獎信息";
+
+"phone_number" = "手機號";
+
+"input_phone_number" = "請輸入手機號";
+
+"receiving_address" = "收貨地址";
+
+"input_receiving_address" = "請輸入收貨地址";
+
+"award_info_input_hint" = "請儘快填寫中獎信息，避免錯失獎品\n獎品解釋權和提供方歸主辦方所有";
+
+"fill_address" = "請填寫收貨地址";
+
+"fill_phone_number" = "請輸入正確的手機號";
+
+"award_winner_count" = "共%ld人中獎";
+
+"award_winner_hint" = "中獎用戶儘快在互動工具-抽獎入口處填寫中獎信息，避免錯失獎品～";
+
+"award_winner_hint_highlight" = "互動工具-抽獎";
+
+"award_winner_list" = "中獎名單";
+
+"no_one_participate_award" = "無人蔘與該抽獎活動";
+
+"click_for_the_draw" = "點擊抽獎";
+
+"lottery_drawn" = "已開獎";
+
+"lottery_will_open" = "即將開獎";
+
+"award" = "獎品：";
+
+"award_count" = "獎品數量：%d份";
+
+"click_one_click_join_btn_tip" = "點擊一鍵參與自動完成";
+
+"join_requirement" = "參與條件";
+
+"send_danmaku_key" = "發佈彈幕口令：";
+
+"one_click_join" = "一鍵參與";
+
+"lose_award_tip" = "很遺憾，你沒有中獎～";
+
+"win_award_tip" = "恭喜你，獲得獎品";
+
+"award_result_dialog_tip" = "獎品解釋權和提供方歸主辦方所有";
+
+"got_it" = "知道了";
+
+"participated_count" = "已參與 %ld 人";
+
+"award_join_success_tip" = "參與成功，請耐心等待開獎～";
+
+"winning_info_completed" = "中獎信息已完善";
+
+"award_join_fail_tip" = "參與失敗";
+
+"award_repeat_join_tip" = "已參與抽獎";
+
+"reservation_fail" = "預約失敗";
+
+"reservation_now" = "立即預約";
+
+"reservation_success" = "預約成功";
+
+"reservationed" = "已預約";
+
+"live_start_countdown" = "距離直播開始還有";
+
+"参与" = "參與";
+
+"直播间发起了一场抽奖" = "直播間發起了一場抽獎";
+
+"live_description" = "直播描述";
+
+"entered_live_room" = "進入了直播間";
+
+"Confirm to quit the audience link" = "確認退出觀衆連麥嗎？";
+
+"Flip camera" = "翻轉攝像頭";
+
+"Linking, quti will colse link" = "當前正在連麥中，關閉直播連麥將\n退出當前連麥";
+
+"Mute" = "靜音";
+
+"Please go to System Settings to turn on relevant permissions." = "請前往系統設置開啓相關權限";
+
+"Turn off the camera" = "關閉攝像頭";
+
+"Turn on the camera" = "打開攝像頭";
+
+"Unmute" = "取消靜音";
+
+"apply_link" = "申請連麥中...";
+
+"audio_call" = "音頻連麥";
+
+"cancel_request" = "取消申請";
+
+"disconnect mic" = "斷開連麥";
+
+"link failed" = "連麥失敗";
+
+"me" = "我";
+
+"presenter" = "主講";
+
+"request_link" = "申請連麥";
+
+"requesting" = "申請中...";
+
+"screen sharing" = "正在共享屏幕";
+
+"video_call" = "視頻連麥";
+
+"link_end_tip" = "已結束連麥";
+
+"replay_comment" = "回覆";
+
+"report_comment" = "舉報";
+
+"change_channel" = "切換頻道";
+
+"live" = "直播中";
+
+"playback" = "回放";
+
+"comment_report_abet_btn_text" = "疑似/唆使自殘自殺";
+
+"comment_report_advertise_btn_text" = "廣告宣傳";
+
+"comment_report_cheat_btn_text" = "涉嫌欺詐";
+
+"comment_report_curse_btn_text" = "辱罵我或他人";
+
+"comment_report_edittext_hint" = "請詳細描述舉報原因，便於平臺判斷評論是否違規";
+
+"comment_report_other_btn_text" = "其他";
+
+"comment_report_post_btn_text" = "提交";
+
+"comment_report_title_text" = "舉報評論";
+
+"comment_report_unlawful_btn_text" = "違法違規";
+
+"comment_report_vulgar_btn_text" = "低俗色情";
+
+"report_error" = "舉報失敗";
+
+"report_success" = "提交成功，感謝您的反饋";
+
+"tvu_invite_watch_live" = "邀請你一起看直播";
+
+"liveroom_qrcode" = "直播間二維碼";
+
+"long_click_save_picture" = "長按保存圖片";
+
+"long_click_save_qrcode" = "長按保存二維碼，分享給朋友吧～";
+
+"tvu_generate_poster" = "生成海報";
+
+"tvu_generate_qrcode" = "生成二維碼";
+
+"tvu_long_press_to_view" = "長按識別二維碼觀看";
+
+"host_changed_nickname" = "主持人已修改您的暱稱";
+
+"host_close_audio" = "主持人已關閉你的麥克風";
+
+"host_close_audio_and_video" = "主持人已關閉你的麥克風和攝像頭";
+
+"host_close_video" = "主持人已關閉你的攝像頭";
+
+"host_open_audio" = "主持人申請打開你的麥克風";
+
+"host_open_audio_and_video" = "主持人申請打開你的麥克風和攝像頭";
+
+"host_open_video" = "主持人申請打開你的攝像頭";
+
+"host_set_link_mute" = "主持人已設置全員靜音";
+
+"click_too_fast" = "手速太快了，稍等下～";
+
+"讲解中" = "講解中";
+
+"fail_and_retry" = "發送失敗，請重試";
+
+"send" = "發送";
+
+"send_image_to_chat" = "發送圖片至聊天";
+
+"send_image_fail" = "發送圖片失敗";
+
+"please_select_an_image_with_a_size_less_than_8m" = "請選擇大小小於8M的圖片";
+
+"live_not_allowed_mobile_watch" = "直播間不允許移動端觀看";
+
+"redirect_to_time" = "已爲您定位至";
+
+"warm_tips" = "溫馨提示";
+
+"tips" = "提示";
+
+"i_know" = "我知道了";
+
+"please_input_question_answer" = "請輸入問題內容";
+
+"questionnaire_answer_required" = "此項爲必填項";
+
+"questionnaire_string" = "問卷";
+
+"submit_failed" = "提交失敗";
+
+"submitted_success" = "提交成功";
+
+"questionnaire_filled" = "您已填寫過該問卷，感謝您的參與";
+
+"please_enter_the_correct_email" = "請輸入正確的郵箱";
+
+"please_enter_the_correct_phone_number" = "請輸入正確的手機號碼";
+
+"多选" = "多選";
+
+"进行中" = "進行中";
+
+"已投票" = "已投票";
+
+"点击参加" = "點擊參加";
+
+"实际参与人数：%d人" = "實際參與人數：%d人";
+
+"提交投票" = "提交投票";
+
+"单选" = "單選";
+
+"投票" = "投票";
+
+"公告" = "公告";
+
+"查看详情" = "查看詳情";
+
+"请选择您的选项" = "請選擇您的選項";
+
+"已结束" = "已結束";
+
+"投票已截止" = "投票已截止";
+
+"看结果" = "看結果";
+
+"查看结果" = "查看結果";
+
+"去参加" = "去參加";
+
+"%ld票" = "%ld 票";
+
+"%ld人" = "%ld人";
+
+"参与答题" = "參與答題";
+
+"正确答案：" = "正確答案：";
+
+"答案解析：" = "答案解析：";
+
+"答题已截止" = "答題已截止";
+
+"已提交" = "已提交";
+
+"未作答" = "未作答";
+
+"回答正确" = "回答正確";
+
+"继续观看直播" = "繼續觀看直播";
+
+"距答题截止" = "距答題截止";
+
+"你的答案：" = "你的答案：";
+
+"已提交，请等待公布答案" = "已提交，請等待公佈答案";
+
+"确认提交" = "確認提交";
+
+"回答错误" = "回答錯誤";
+
+"more" = "更多";
+
+"live_interactive" = "直播互動";
+
+"win_and_watch" = "看直播，贏獎品";
+
+"点击参与" = "點擊參與";
+
+"available" = "可開啟";
+
+"congratulations_to_for" = "恭喜 %@ 抽中 %@";
+
+"draw" = "次抽獎";
+
+"duration_colon" = "已觀看 ";
+
+"minutes2" = "分鐘";
+
+"opened" = "已開啟";
+
+"my_prize" = "中獎記錄";
+
+"task_award_rule" = "活動規則";
+
+"task_award_locked" = "待解鎖";
+
+"task_award_open_now" = "立即\n開啟";
+
+"did_not_win" = "未中獎";
+
+"has_won" = "已中獎";
+
+"award_and_detail" = " 獎品：%@ %ld份 查看詳情";
+
+"get_award" = "領取獎品";
+
+"award_event_end" = "活動已結束";
+
+"award_fill_success" = "中獎信息填寫成功";
+
+"award_opened" = "抽獎已開啓";
+
+"award_recipient" = "收件人";
+
+"award_still_lock" = "抽獎暫未解鎖，繼續努力～";
+
+"award_will_start" = "抽獎即將開啓，請稍等～";
+
+"back_continue_award" = "返回繼續抽獎";
+
+"award_no_need_fill" = "無需填寫";
+
+"award_no_record_keep_going" = "暫無中獎記錄，繼續加油呀";
+
+"award_input_receiver" = "請輸入姓名";
+
+"failed_open_please_retry_later" = "開啓失敗，請稍後再試";
+
+"award_award" = "獎品 ";
+
+"award_count_short" = "數量 ";
+
+"award_lost_empty_box" = "很遺憾，盒子裏面空空的，再接再厲～";
+
+"award_win_prize" = "恭喜 %@ 抽中 %@";
+
+"award_award_comming" = "一大波獎品正向你襲來～";
+
+"award_go_get_award" = "前往領取獎品";
+
+"open_immediately" = "即刻開啓";
+
+"award_to_be_filled" = "待填寫";
+
+"please_fill_receiver" = "請輸入收件人";
+
+"share" = "分享";
+
+"no_product_yet" = "暫無商品";
+
+"search" = "搜索";
+
+"search_other_products" = "去搜索其他商品";
+
+"input_card_name_or_index" = "輸入商品名稱或序號";
+
+"立即参与" = "立即參與";
+
+"participate_successfully_and_wait_for_the_draw" = "參與成功，等待開獎";
+
+"congratulations_you_won_the_lottery" = "恭喜你，中獎啦";
+
+"cell_phone_number" = "手機號碼";
+
+"submit_winning_information" = "提交中奖信息";
+
+"goods_receiving_information" = "收貨信息";
+
+"modification" = "修改";
+
+"做任务参与抽奖" = "做任務參與抽獎";
+
+"至少提交%@个投票" = "至少提交%@個投票";
+
+"至少提交%@个问卷" = "至少提交%@個問卷";
+
+"至少提交%@道答题" = "至少提交%@道答題";
+
+"至少答对%@道答题" = "至少答對%@道答題";
+
+"至少提交%@个签到" = "至少提交%@個簽到";
+
+"未完成" = "未完成";
+
+"已完成" = "已完成";
+
+"自动发送" = "自動發送";
+
+"完成全部任务即可参与" = "完成全部任務即可參與";
+
+"all-1" = "全部";
+
+"很遗憾，你未参与" = "很遺憾，你未參與";
+
+"card_see_explain" = "看講解";
+
+"back_to_live" = "返回直播";
+
+"tvu_limit_gif_type_tip" = "圖片不支持GIF格式，請重新上傳";
+
+"gift_reward_effect_off" = "禮物特效關閉";
+
+"gift_reward_effect_on" = "禮物特效開啓";
+
+"gift_reward_effect_switch" = "禮物特效";
+
+"gift_reward_free" = "免費";
+
+"gift_reward_not_enough" = "積分不足，無法打賞";
+
+"gift_reward_point" = "積分";
+
+"gift_reward_send" = "贈送";
+
+"gift_reward_service_exception" = "積分異常，請稍後重試";
+
+"gift_reward_title" = "禮物";
+
+"gift_sent_hint" = "送出";
+
+"请联系主办方领取奖品" = "請聯繫主辦方領取獎品";
+
+"查看中奖名单" = "查看中獎名單";
+
+"仅展示前200名中奖观众" = "僅展示前200名中獎觀衆";
+
+"tvu_private_chat" = "私聊主播";
+
+"tvu_image_text" = "圖文";
+
+"tvu_interact_tool" = "互動工具";
+
+"tvu_embedded_web_url" = "內嵌鏈接";
+
+"internet_unstable_switch_resolution" = "當前網絡不穩定，建議切換到";
+
+"interact_tool_count" = "共 %zd 條互動內容";
+
+"tvu_shopping_car" = "購物車";
+
+"tvu_shopping_car_all" = "全部";
+
+"tvu_shopping_card" = "商品卡片";
+
+"tvu_save_local" = "保存本地";
+
+"tvu_exit_clear_screen" = "退出清屏";
+
+"tvu_no_more_goods" = "已逛完所有直播間寶貝";
+
+"输入项不能为空" = "輸入項不能為空";
+
+"sign_in_successfully" = "簽到成功";
+
+"已签到" = "已簽到";
+
+"未签到" = "未簽到";
+
+"签到" = "簽到";
+
+"没有更多内容了" = "沒有更多內容了";
+
+"people_count" = "人氣";
+
+"no_private_chat_yet" = "暫無私聊";
+
+"buy_now" = "立即購買";
+
+"buying_now_" = "正在買";
+
+"here_it_comes_" = "來了";
+
+"hot_sale" = "熱賣";
+
+"only_stock_left" = "庫存僅剩";
+
+"ordered" = "已下單";
+
+"username_and_other_count_people_are_buying_item_index" = "%@等%ld人正在買%ld號商品";
+
+"username_and_other_count_people_have_placed_an_order_for_item_index" = "%@等%ld人已下單%ld號商品";
+
+"username_has_placed_an_order_for_item_index" = "%@已下單%ld號商品";
+
+"username_is_buying_item_index" = "%@正在買%ld號商品";
+
+"当前处于非Wi-Fi网络，播放将消耗流量" = "當前處於非Wi-Fi網絡，播放將消耗流量";
+
+"评论过于频繁，请稍后再试" = "評論過於頻繁，請稍後再試";
+
+"请输入你的昵称，开始互动～" = "請輸入你的暱稱，開始互動～";
+
+"请输入昵称" = "請輸入暱稱";
+
+"重试" = "重試";
+
+"关注" = "關注";
+
+"已关注" = "已關注";
+
+"the_current_account_is_logged_in_on_another_device" = "當前賬號已在其他設備登錄";
+
+"watching_has_been_suspended_due_to_disturbing_the_order_of_the_live_stream_" = "因擾亂直播間秩序，已暫停觀看";
+
+"watching_has_been_suspended_due_to_long_absence_" = "因長時間未簽到，已暫停觀看";
+
+"keep_watching" = "繼續觀看";
+
+"sign_in_has_closed" = "簽到已截止";
+
+"exit_live_room" = "退出直播間";
+
+"立即签到" = "立即簽到";
+
+"in_order_to_avoid_suspending_watching_the_live_stream__please_complete_the_check" = "爲避免暫停觀看直播，請儘快完成簽到";
+
+"确认不再关注了吗 ？" = "確認不再關注了嗎 ？";
+
+"提交全部投票" = "提交全部投票";
+
+"提交全部答题" = "提交全部答題";
+
+"提交全部签到" = "提交全部簽到";
+
+"提交全部问卷" = "提交全部問卷";
+
+"答对全部答题" = "答對全部答題";
+
+"email" = "郵箱";
+
+"email_hint" = "請輸入郵箱";
+
+"fill_email" = "請輸入正確的郵箱";
+
+"tvu_out_of_stock" = "已搶光";

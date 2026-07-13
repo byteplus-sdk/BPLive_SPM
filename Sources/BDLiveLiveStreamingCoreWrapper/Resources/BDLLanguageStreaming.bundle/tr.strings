@@ -1,0 +1,954 @@
+
+"1080p" = "Blu-ray 1080p";
+
+"480p" = "SD 480p";
+
+"540p" = "Yüksek çözünürlüklü 540p";
+
+"720p" = "Ultra net 720p";
+
+"abandoned_after_exiting" = "Çıktıktan sonra mevcut tüm işlemler durdurulacak";
+
+"alert_close_live" = "Canlı akışı kapatacağınızdan emin misiniz?";
+
+"alert_emoji_not_support" = "Giriş emojisi henüz desteklenmiyor.";
+
+"alert_flash_lamp_error" = "Üzgünüm, flaş izin alımı başarısız oldu.";
+
+"alert_max_15" = "15 karaktere kadar girin";
+
+"alert_max_200" = "200 karaktere kadar girin";
+
+"alert_msg_screen_switch" = "Canlı yayın ekranının yönü değişmek üzere. Geçmek ister misin?";
+
+"alert_msg_screen_switch_camera" = "Canlı yayın ekranının yönü değişmek üzere ve tuvaldeki kolye değişecek. Değiştirmek ister misin?";
+
+"alert_no_camera" = "Kamera iznini almadım. Ayarlarda %@ izin vermek ister misiniz?";
+
+"alert_no_microphone" = "Mikrofon iznini almadım. Ayarlarda bu izni %@ ister misiniz?";
+
+"alert_no_photo_library" = "Albüm izni alamadım, %@ izin vermek için ayarlara gidin?";
+
+"alert_only_rear_camera" = "Flash 'a yalnızca arka kamera sahnelerinde izin verilir";
+
+"alert_screen_switch" = "Ekran istemlerini değiştir";
+
+"apply_now" = "hemen kullan";
+
+"back" = "dönüş";
+
+"basic_information" = "temel bilgiler";
+
+"basic_information_add_label" = "ekle";
+
+"basic_information_cover_label_%ld" = "Desteklenen formatlar: JPG ve PNG. Dosya boyutu: en fazla %ld MB.";
+
+"basic_information_description_switch_label" = "Canlı akışta canlı akış açıklamasını gösterin.";
+
+"basic_information_description_textview_label" = "İçeriği tanımla";
+
+"basic_information_description_textview_placeholder" = "Canlı yayın açıklamasını girin";
+
+"basic_information_edit_label" = "düzenle";
+
+"basic_information_live_tag" = "Canlı akış sınıflandırması";
+
+"basic_information_live_tag_changed_error" = "Canlı akış sınıflandırması güncellendi, lütfen tekrar deneyin.";
+
+"basic_information_live_tag_count" = "%d bir";
+
+"basic_information_live_tag_empty_title" = "Alternatif kategori yok";
+
+"basic_information_live_title_textview_placeholder" = "Canlı yayın başlığını girin";
+
+"basic_information_nav_account_avatar" = "hesap avatarı";
+
+"basic_information_nav_account_name" = "hesap adı";
+
+"basic_information_nav_cover" = "kapak resmi";
+
+"basic_information_nav_description" = "Canlı yayın açıklaması";
+
+"basic_information_nav_live_title" = "Canlı yayın başlığı";
+
+"beauty" = "Güzellik";
+
+"big_eyes" = "Büyük gözler";
+
+"camera_live" = "video";
+
+"cancel" = "iptal et";
+
+"caton" = "Kart";
+
+"change_avatar" = "değiştirmek";
+
+"choose_sharpness" = "Tanımı seç";
+
+"clean" = "ekranı temizle";
+
+"clear" = "açık";
+
+"clear_pendants_layer" = "boş kolye";
+
+"click_to_edit_template_name" = "Şablon adı Düzenlemek için tıklayın";
+
+"closing_live_streaming" = "Canlı yayın kapandı, lütfen bekleyin.";
+
+"comment_input_placeholder" = "Herkesle konuş";
+
+"confirm" = "TAMAM";
+
+"confirm_delete_template" = "Şablonu silmek istediğinizden emin misiniz?";
+
+"confirm_delete_widget_and_layer" = "Kolyenin çıkarılmasını onaylayın? Sildikten sonra, kolyeyi kullanan katman da silinecektir.";
+
+"confirm_exit" = "Bıraktığını onayla?";
+
+"confirm_switch" = "Devri onayla";
+
+"create_template" = "yeni şablon";
+
+"delete" = "sil";
+
+"delete_all_comment" = "Tüm yorumları temizlemeyi onaylayın?";
+
+"delete_comment" = "Yorumları temizle";
+
+"delete_string" = "sil";
+
+"delete_template_pendent_warning" = "Kolye %@ şablonuna aittir. Sildikten sonra şablonun tekrar indirilmesi gerekiyor. Silmeyi onayla?";
+
+"download" = "indir";
+
+"download_now" = "Şimdi indir";
+
+"exit" = "bırak";
+
+"filter" = "filtre";
+
+"flash_lamp" = "flaş";
+
+"flip" = "çevirmek";
+
+"go_edit" = "Düzenlemek için";
+
+"go_setting" = "ayarlara git";
+
+"good" = "İyi";
+
+"has_update" = "Bir güncelleme var.";
+
+"i_got_it" = "Anlıyorum.";
+
+"image_size_over_%dM_need_reselect" = "Resim %dM'yi aştı, lütfen yeniden yükleyin";
+
+"is_empty" = "boş";
+
+"landscape" = "yatay ekran";
+
+"layer" = "Katman";
+
+"live_end_start_tip" = "Canlı yayın sona erdi. Tekrar başlatmanız gerekiyorsa, lütfen canlı yayın süresini sıfırlayın.";
+
+"live_has_been_started" = "Canlı yayın CANLI oldu ve çalıştırılamaz.";
+
+"live_head_online_label" = "%ld çevrimiçi";
+
+"live_room_name_cannot_be_blank" = "Canlı akışın adı boş olamaz.";
+
+"live_time_left" = "Canlı yayının sonuna kadar%02ld : %02ld: %02ld";
+
+"media" = "medya dosyası";
+
+"mirror" = "ayna görüntüsü";
+
+"more" = "daha fazla";
+
+"msg_net_error" = "Ağ isteği başarısız oldu. Lütfen tekrar deneyin";
+
+"msg_net_error_extra_long" = "Giriş karakteri çok uzun, lütfen tekrar girin.";
+
+"mute" = "sessiz";
+
+"narrow_face" = "dar yüz";
+
+"net_abnormal" = "ağ anormalliği";
+
+"net_error_btn_text" = "yeniden dene";
+
+"net_error_text" = "Mevcut ağ kullanılamıyor, lütfen ağ bağlantısını kontrol edin ve tekrar deneyin";
+
+"network_request_error" = "ağ istek hatası";
+
+"nick_name_cannot_be_blank" = "Takma ad boş olamaz!";
+
+"no" = "iptal et";
+
+"no_template" = "Henüz şablon yok";
+
+"off_line" = "Ağ yok";
+
+"only_support_20_layer" = "20 katmana kadar destekler.";
+
+"pendants" = "kolye";
+
+"pendants_layer" = "Katman";
+
+"pendants_layer_camera" = "Portre katmanı";
+
+"pendants_layer_clear_alert_clear" = "boş";
+
+"pendants_layer_clear_alert_title" = "Tüm kolyeleri boşaltacağınızdan emin misiniz?";
+
+"pendants_layer_down" = "Aşağı Taşı";
+
+"pendants_layer_hide" = "saklan";
+
+"pendants_layer_show" = "göster";
+
+"pendants_layer_tips" = "Siparişi ayarlamak için katmanı hızla sürüklemek için uzun basın ~";
+
+"pendants_layer_up" = "yukarı hareket et";
+
+"please_input" = "Lütfen girin (15 karakter içinde)";
+
+"popularity" = "popülerlik";
+
+"portrait" = "portre ekranı";
+
+"products" = "Alışveriş çantası";
+
+"products_add_added" = "Eklendi";
+
+"products_add_added_des" = "Ürününüz eklendi.";
+
+"products_add_addnew" = "yeni";
+
+"products_add_done" = "Tamamlandı.";
+
+"products_add_shop_cross_text" = "Malların orijinal fiyatı";
+
+"products_add_shop_highlight" = "Mevcut fiyat";
+
+"products_add_shop_image" = "Kapak resmi ekle";
+
+"products_add_shop_image_des" = "Resmin gerilmesini önlemek için 1: 1 oranının yüklenmesi önerilir.";
+
+"products_add_shop_name" = "Ürün adı";
+
+"products_add_shop_name_placeholder" = "Lütfen bir ürün adı girin";
+
+"products_add_shop_price_placehoder" = "Lütfen ürün fiyatını girin.";
+
+"products_add_shop_url" = "ürün bağlantısı";
+
+"products_add_shop_url_placeholder" = "http: /";
+
+"products_add_submit" = "gönder";
+
+"products_can_not_pin_tip" = "Mevcut üründe resim eklenmemiştir ve üzerine resim eklenemez.";
+
+"products_cancel_pin" = "Üstü iptal et";
+
+"products_checkmark" = "parti operasyonu";
+
+"products_confirm_delete" = "Silmeyi onaylıyor musunuz?";
+
+"products_confirm_delete_content" = "Ürün silindikten sonra geri yüklenemez, lütfen dikkatli çalışın.";
+
+"products_delete_count" = "Sil (%ld)";
+
+"products_edit" = "düzenle";
+
+"products_edit_title" = "Ürünü düzenle";
+
+"products_empty" = "Mevcut karta herhangi bir ürün eklenmemiştir.";
+
+"products_empty_tip" = "Ürün Ekle 'ye tıklayın";
+
+"products_filter" = "filtre";
+
+"products_info_changed_error" = "Mevcut liste ürün bilgileri güncellendi, lütfen tekrar deneyin.";
+
+"products_list" = "raflara koy";
+
+"products_more" = "daha fazla";
+
+"products_number_count" = "Toplam %ld Öğeleri";
+
+"products_order" = "siparişi ayarla";
+
+"products_pin_to_top" = "üst";
+
+"products_quantity_limit_error" = "Mevcut ürün listesi maksimum 500 ürün sayısına ulaştı. Lütfen bazı ürünleri silin ve eklemeye devam edin.";
+
+"products_reorder_guide" = "Ürün siparişini ayarlamak için resme tıklayın ve sürükleyin.";
+
+"products_reset" = "sıfırla";
+
+"products_search" = "Arama";
+
+"products_search_empty" = "İlgili ürün bulunamadı.";
+
+"products_search_placeholder" = "Lütfen bir ürün adı girin";
+
+"products_select_all" = "Tümünü Seç";
+
+"products_sure" = "onayla";
+
+"products_sure_count" = "Onay (%ld)";
+
+"products_title" = "canlı yayın ürünü";
+
+"products_unlist" = "raftan";
+
+"prompt" = "ipucu";
+
+"props" = "pervane";
+
+"replay_comment" = "cevap ver";
+
+"resolution" = "netlik";
+
+"rotate_to_landscape_to_apply_template" = "Mevcut canlı yayın portre modunda, yatay ekrana geçip bu şablonu uyguladığınızdan emin misiniz?";
+
+"rotate_to_portrait_to_apply_template" = "Mevcut canlı yayın manzara modunda. Portre ekranına geçip bu şablonu uyguladığınızdan emin misiniz?";
+
+"rotate_to_save_landscape" = "Manzara moduna geçmek ve yeni bir şablon oluşturmak üzere";
+
+"rotate_to_save_portrait" = "Portre moduna geçmek ve yeni bir şablon oluşturmak üzere";
+
+"save" = "kaydet";
+
+"save_error" = "Kaydetme başarısız oldu, lütfen tekrar deneyin";
+
+"save_landscape_template" = "Yatay şablon olarak kaydetmek istediğinizden emin misiniz?";
+
+"save_portrait_template" = "Portre şablonu olarak kaydettiğinizden emin misiniz?";
+
+"save_success" = "Başarıyla kaydedildi";
+
+"screen_live" = "ekran kaydı";
+
+"screen_share_hint" = "Canlı yayın başladıktan sonra izleyici, içeriği telefon ekranınızda gerçek zamanlı olarak görecektir.";
+
+"screen_sharing_hint" = "Ekran kaydı sırasında canlı yayın için cep telefonunun diğer arayüzlerine geçiş yapabilirsiniz.";
+
+"skin_grinding" = "dermabrazyon";
+
+"smooth_live_only_support_10_gif" = "Sorunsuz canlı yayın sağlamak için yalnızca 10 GIF resmi desteklenir.";
+
+"start_live" = "Canlı yayını başlat";
+
+"start_live_fail" = "CANLI git başarısız oldu, lütfen tekrar deneyin";
+
+"sweep_to_switch" = "Şablonları değiştirmek için sola ve sağa kaydırın";
+
+"template" = "şablon";
+
+"template_can_not_save_without_name" = "Doldurulmamış şablon adı kaydedilemez";
+
+"template_delete_hint" = "Şablon silindikten sonra diğer kullanıcılar onu kullanamayacaktır.";
+
+"template_download_first" = "Lütfen önce şablonu indirin ve ardından düzenleyin.";
+
+"template_has_update_click_to_download" = "Şablon güncellendi, indirmek için tıklayın.";
+
+"template_not_exist" = "Şablon mevcut değil veya silindi";
+
+"template_save_hint" = "Güzellik, aksesuarlar, kolyeler ve katman ayarları birlikte şablon olarak kaydedilecektir.";
+
+"text" = "Metin";
+
+"thin_cheekbones" = "yalın elmacık kemikleri";
+
+"thin_face" = "İnce yüz";
+
+"thin_mandible" = "yağsız çene";
+
+"thin_nose" = "sıska burun";
+
+"toast_landscape_live" = "Manzara modunda CANLI olacak şekilde değiştirilen ekran yatay olarak görüntülenir";
+
+"toast_portrait_live" = "Portrede CANLI olacak şekilde değiştirildi ve ekran dikey olarak görüntülendi.";
+
+"ttlv_pendents_upload" = "resim yükle";
+
+"tvu_product_library_please_search" = "Şimdi ara";
+
+"tvu_product_library_search_tip" = "Arama içeriğini girdikten sonra arama sonuçlarını görüntüleyin";
+
+"tvu_push_product_lib_response_error" = "İade hatası, lütfen iade içeriğini kontrol edin";
+
+"tvu_push_product_lib_timeout" = "istek zaman aşımına uğradı";
+
+"tvupush_product_add_library" = "Ürün kitaplığından ekle";
+
+"tvupush_product_library_add" = "ekle";
+
+"tvupush_product_library_search_result_empty" = "Mevcut arama kriterlerine uyan öğe yok";
+
+"tvupush_product_library_uncorrelated" = "Bu canlı akışla ilişkili bir ürün kitaplığı yoktur.";
+
+"tvupush_product_most_product_added" = "500 'e kadar ürün ekleyin";
+
+"tvupush_product_no_products_yet" = "Henüz ürün yok";
+
+"tvupush_product_title_add" = "ürün ekle";
+
+"tvupush_send_success" = "Başarıyla gönderildi";
+
+"tvupush_start_time_not_yet_toast" = "Canlı yayın zamanı gelmedi, lütfen canlı yayın başlangıç saatinden sonra canlı yayına başlayın.";
+
+"unknown" = "bilinmeyen";
+
+"unsupport_gif_warning" = "GIF formatı desteklenmiyor, lütfen yeniden yükleyin";
+
+"unsupport_rotate_to_landscape_hint" = "Go LIVE 'da manzara modunu değiştirmeyi desteklemeyen şablonlar";
+
+"unsupport_rotate_to_portrait_hint" = "Go LIVE 'da portre modunu değiştirmeyi desteklemeyen şablonlar";
+
+"unsupported_broadcast_title" = "Mevcut hizmet sürümü canlı yayını desteklemiyor.";
+
+"unsupported_feature_title" = "Mevcut hizmet sürümü bu özelliği desteklemiyor";
+
+"unsupported_version_message" = "Cari hesap sürümü bu işlevi desteklemiyor, hizmet sürümünü yükseltmek için lütfen müşteri hizmetleriyle iletişime geçin.";
+
+"whitening" = "beyazlatma";
+
+"俄语" = "Rusça";
+
+"印尼语" = "Endonezyalı";
+
+"土耳其语" = "Türkçe";
+
+"日文" = "Japonca";
+
+"泰语" = "Taylandlı";
+
+"简中" = "Basitleştirilmiş Çince";
+
+"繁中" = "Geleneksel Çince";
+
+"英文" = "İngilizce";
+
+"葡萄牙语" = "Portekizce";
+
+"西班牙语" = "İspanyolca";
+
+"越南语" = "Vietnamca";
+
+"阿拉伯语" = "Arapça";
+
+"韩语" = "Korece";
+
+"tvupush_filter_01" = "yumuşak beyaz";
+
+"tvupush_filter_02" = "krem";
+
+"tvupush_filter_03" = "oksijen";
+
+"tvupush_filter_04" = "Platycodon";
+
+"tvupush_filter_05" = "Lolita";
+
+"tvupush_filter_06" = "şeftali";
+
+"tvupush_filter_07" = "Macaron";
+
+"tvupush_filter_08" = "köpük";
+
+"tvupush_filter_09" = "kiraz çiçeği";
+
+"tvupush_filter_10" = "Hafif sıcak";
+
+"tvupush_filter_11" = "Hikaye";
+
+"tvupush_filter_12" = "Hokkaido";
+
+"tvupush_filter_13" = "Çeşitli";
+
+"tvupush_filter_14" = "Seattle";
+
+"tvupush_filter_15" = "sessiz";
+
+"tvupush_filter_16" = "film";
+
+"tvupush_filter_17" = "Sıcak güneş";
+
+"tvupush_filter_18" = "eski günler";
+
+"tvupush_filter_19" = "kırmızı dudaklar";
+
+"tvupush_filter_20" = "Turuncu maviler";
+
+"tvupush_filter_21" = "solmak";
+
+"tvupush_filter_22" = "siyah beyaz";
+
+"tvupush_filter_23" = "nazik";
+
+"tvupush_filter_24" = "Aşk çok tatlı";
+
+"tvupush_filter_25" = "ilk görüş";
+
+"tvupush_filter_26" = "Koyu ton";
+
+"tvupush_filter_27" = "Sütlü çay";
+
+"tvupush_filter_28" = "Yumuşak";
+
+"tvupush_filter_29" = "gün batımı";
+
+"tvupush_filter_30" = "Soğuk oksijen";
+
+"tvupush_filter_31" = "Deniz Kenarında Portre";
+
+"tvupush_filter_32" = "Premium Gri";
+
+"tvupush_filter_33" = "ada";
+
+"tvupush_filter_34" = "hafif yaz";
+
+"tvupush_filter_35" = "gece";
+
+"tvupush_filter_36" = "kırmızı kahverengi";
+
+"tvupush_filter_37" = "Açık";
+
+"tvupush_filter_38" = "Doğa";
+
+"tvupush_filter_39" = "soda";
+
+"tvupush_filter_40" = "Kaliforniya";
+
+"tvupush_filter_41" = "yemek rengi";
+
+"tvupush_filter_42" = "Sichuan aroması";
+
+"tvupush_filter_43" = "Amerikan Filmi";
+
+"tvupush_filter_44" = "kırmızı retro";
+
+"tvupush_filter_45" = "yolculuk";
+
+"tvupush_filter_46" = "Sıcak sarı";
+
+"tvupush_filter_47" = "Mavi Film";
+
+"tvupush_filter_48" = "Soğuk beyaz cilt";
+
+"tvupush_filter_49" = "yarı saydam";
+
+"tvupush_filter_50" = "Parlak turuncu";
+
+"tvupush_filter_51" = "ceviz";
+
+"tvupush_filter_52" = "koyu kahverengi";
+
+"tvupush_filter_53" = "Drakula";
+
+"tvupush_filter_54" = "bordo";
+
+"tvupush_filter_55" = "Hindistan Cevizi Korusu";
+
+"tvupush_filter_56" = "Sıcak yemek";
+
+"tvupush_filter_57" = "Köpüklü su";
+
+"tvupush_filter_58" = "yemek yapmak";
+
+"tvupush_filter_59" = "kömür yakma";
+
+"tvupush_filter_60" = "Kyoto";
+
+"tvupush_filter_61" = "sahil";
+
+"tvupush_filter_62" = "Yeşil Yan";
+
+"tvupush_filter_63" = "Akşam Kiraz";
+
+"tvupush_filter_64" = "yeşil turuncu";
+
+"tvupush_filter_65" = "Aşk Şehri";
+
+"tvupush_filter_66" = "CT";
+
+"tvupush_filter_67" = "EK";
+
+"tvupush_filter_68" = "FJ";
+
+"tvupush_filter_69" = "siyah altın";
+
+"tvupush_filter_70" = "Hepburn";
+
+"模板下载失败，挂件剩余个数不足" = "Şablon indirme başarısız oldu ve kalan kolye sayısı yetersiz.";
+
+"filter_normal" = "Normal";
+
+"tvupush_link_sidebar" = "Kenar Çubuğu Görünümü";
+
+"tvupush_link_user_upper_limit" = "Mevcut Lianmai personeli üst sınıra ulaştı";
+
+"tvupush_link_confirm_microphone_tip" = "Buğdayı bağlamaya başladıktan sonra, mevcut katman kolye artık görüntülenmeyecektir. Başlangıcı onaylamak ister misiniz?";
+
+"tvupush_link_list_empty" = "Şu an için Lian Mai izleyicisi yok ~";
+
+"tvupush_link_start" = "Buğdayla bağlantı kurmaya başlayın";
+
+"tvupush_link_view" = "görünüm";
+
+"tvupush_link_confirm_mike" = "Seyircinin sonunu onaylayın Lian Mai?";
+
+"tvupush_link_remove" = "kaldır";
+
+"tvupush_link_remove_microphone" = "Lianmai 'yi kaldır";
+
+"tvupush_link_quit_mike" = "Şu anda Lianmai 'de, yardımcı sunucunun sonu mevcut Lianmai' den çıkacak";
+
+"tvupush_link_camera" = "kamera";
+
+"tvupush_link_stop" = "Lianmai 'yi bitir";
+
+"tvupush_link_microphone" = "mikrofon";
+
+"tvupush_link_view_settings" = "ayarları görüntüle";
+
+"tvupush_link_apply_list" = "uygulama listesi";
+
+"tvupush_link_audience" = "Seyirci Lian Mai";
+
+"tvupush_link_grid" = "ızgara görünümü";
+
+"tvupush_link_confirm_start" = "Lianmai 'nin başlangıcını onaylayın?";
+
+"tvupush_link_confirm_to_remove" = "\ n [%@] kaldırmak istediğinizden emin misiniz?";
+
+"tvupush_link_hint" = "Lianmai 'yi başlattıktan sonra, izleyici bir Lianmai uygulaması başlatabilir,\ nup to 1v%ld video Lianmai desteklenir";
+
+"tvupush_link_user_action" = "Çalıştır [%@]";
+
+"tvupush_link_resume_hint" = "Geçen sefer, Lian Mai normal bitmedi.";
+
+"tvupush_link_resume_title" = "Lianmai 'yi geri yüklemeniz gerekiyor mu?";
+
+"tvupush_link_start_fail" = "Lianmai başarısız oldu, lütfen tekrar deneyin.";
+
+"tvupush_link_presenter" = "ev sahibi";
+
+"tvupush_link_accept" = "kabul et";
+
+"tvupush_link_apply_send_fail" = "Uygulama gönderilemedi, lütfen tekrar deneyin.";
+
+"tvupush_link_apply_send_success" = "Uygulama başarıyla gönderildi";
+
+"filter_ABG" = "ABG";
+
+"filter_F2" = "soda";
+
+"filter_F3" = "Kaliforniya";
+
+"filter_F4" = "yemek rengi";
+
+"filter_F5" = "Sichuan aroması";
+
+"filter_HUJI" = "HUJI";
+
+"filter_L1" = "ada";
+
+"filter_L2" = "hafif yaz";
+
+"filter_L3" = "gece";
+
+"filter_L4" = "kırmızı kahverengi";
+
+"filter_L5" = "Açık";
+
+"filter_Po1" = "nazik";
+
+"filter_Po10" = "Premium Gri";
+
+"filter_Po2" = "Aşk çok tatlı";
+
+"filter_Po3" = "ilk görüş";
+
+"filter_Po4" = "Koyu ton";
+
+"filter_Po5" = "Sütlü çay";
+
+"filter_Po6" = "yumuşak";
+
+"filter_Po7" = "gün batımı";
+
+"filter_Po8" = "Soğuk oksijen";
+
+"filter_Po9" = "Deniz Kenarında Portre";
+
+"filter_S1" = "Amerikan Filmi";
+
+"filter_S2" = "kırmızı retro";
+
+"filter_S3" = "yolculuk";
+
+"filter_S4" = "Sıcak sarı";
+
+"filter_S5" = "Mavi Film";
+
+"filter_aikefa" = "EK";
+
+"filter_aizhicheng" = "Aşk Şehri";
+
+"filter_baixi" = "adil";
+
+"filter_baixue" = "Pamuk Prenses";
+
+"filter_beihaidao" = "Hokkaido";
+
+"filter_campan" = "Platycodon";
+
+"filter_chalk" = "yumuşak beyaz";
+
+"filter_chaobai" = "Ultra Beyaz";
+
+"filter_chulian" = "İlk Aşk";
+
+"filter_chuxin" = "orijinal niyet";
+
+"filter_degula" = "Drakula";
+
+"filter_dongren" = "hareketli";
+
+"filter_feifan" = "olağanüstü";
+
+"filter_fenci" = "pembe porselen";
+
+"filter_fushi" = "FJ";
+
+"filter_gaoqing" = "yüksek tanımlı";
+
+"filter_guowang" = "pasta";
+
+"filter_haian" = "sahil";
+
+"filter_heben" = "Hepburn";
+
+"filter_heibai" = "siyah beyaz";
+
+"filter_heijin" = "siyah altın";
+
+"filter_hongchun" = "kırmızı dudaklar";
+
+"filter_huanfu" = "cilt gençleştirme";
+
+"filter_huopo" = "canlı";
+
+"filter_hutaomu" = "ceviz";
+
+"filter_jiari" = "Tatil";
+
+"filter_jingdu" = "Kyoto";
+
+"filter_jinshu" = "metal";
+
+"filter_julandiao" = "Turuncu maviler";
+
+"filter_kameier" = "Karmel";
+
+"filter_kangtaishi" = "CT";
+
+"filter_landiao" = "maviler";
+
+"filter_lengbaipi" = "Soğuk beyaz cilt";
+
+"filter_lengxi" = "soğuk sistem";
+
+"filter_liangju" = "Parlak turuncu";
+
+"filter_liaoli" = "yemek yapmak";
+
+"filter_lise" = "bordo";
+
+"filter_lolita" = "Lolita";
+
+"filter_lvyan" = "Yeşil Yan";
+
+"filter_makalong" = "Macaron";
+
+"filter_mitao" = "şeftali";
+
+"filter_mopian" = "sessiz film";
+
+"filter_mousse" = "mus";
+
+"filter_musi" = "Hafif sıcak";
+
+"filter_naihui" = "süt külü";
+
+"filter_naiyou" = "krem";
+
+"filter_nuanshi" = "Sıcak yemek";
+
+"filter_oxgen" = "oksijen";
+
+"filter_qiangwei" = "Gül";
+
+"filter_qingcheng" = "yeşil turuncu";
+
+"filter_qingchun" = "saf";
+
+"filter_qingyang" = "Hafif oksijen";
+
+"filter_qipaoshui" = "Köpüklü su";
+
+"filter_quqi" = "kurabiye";
+
+"filter_rixi" = "Japonca";
+
+"filter_riza" = "Çeşitli";
+
+"filter_rouhe" = "yumuşak";
+
+"filter_shenhe" = "koyu kahverengi";
+
+"filter_shensui" = "derin";
+
+"filter_shenyeshitang" = "Gece geç saatlerde kafeterya";
+
+"filter_suying" = "kamp yapmak";
+
+"filter_tanshao" = "kömür yakma";
+
+"filter_touliang" = "yarı saydam";
+
+"filter_tuise" = "solmak";
+
+"filter_wanying" = "Akşam Kiraz";
+
+"filter_weixun" = "hafif sarhoş";
+
+"filter_wuye" = "Mizuno";
+
+"filter_wuyu" = "Hikaye";
+
+"filter_yelin" = "Hindistan Cevizi Korusu";
+
+"filter_yinglang" = "zor";
+
+"filter_yinhua" = "kiraz çiçeği";
+
+"filter_youhua" = "yağlı boya";
+
+"filter_yuansheng" = "yerli";
+
+"filter_yuanxiangji" = "Orijinal kamera";
+
+"filter_zhengchang" = "Normal";
+
+"filter_ziran" = "Doğa";
+
+"beauty_Android_fenbai_lite_whiten" = "Beyazlatma - Pembe Beyaz";
+
+"beauty_Android_lengbai_lite_whiten" = "Beyazlatma - beyazlatma";
+
+"beauty_Android_lite_BEF_BEAUTY_BRIGHTEN_EYE" = "Gözler - parlak gözler";
+
+"beauty_Android_lite_BEF_BEAUTY_REMOVE_POUCH" = "Gözler - koyu halkalar";
+
+"beauty_Android_lite_BEF_BEAUTY_SMILES_FOLDS" = "Yüz - nazolabial kıvrımlar";
+
+"beauty_Android_lite_smooth" = "dermabrazyon";
+
+"beauty_Android_rosy_lite_rosy" = "Beyazlatma - ruddy";
+
+"beauty_Android_standard_clear" = "açık";
+
+"beauty_Android_standard_sharp" = "keskinleştirmek";
+
+"beauty_Android_standard_smooth" = "dermabrazyon";
+
+"beauty_Android_video_BEF_BEAUTY_REMOVE_POUCH" = "Gözler - koyu halkalar";
+
+"beauty_Android_video_BEF_BEAUTY_SMILES_FOLDS" = "Yüz - nazolabial kıvrımlar";
+
+"beauty_IOS_fenbai_lite_whiten" = "Beyazlatma - Pembe Beyaz";
+
+"beauty_IOS_lengbai_lite_whiten" = "Beyazlatma - beyazlatma";
+
+"beauty_IOS_lite_BEF_BEAUTY_BRIGHTEN_EYE" = "Gözler - parlak gözler";
+
+"beauty_IOS_lite_BEF_BEAUTY_REMOVE_POUCH" = "Gözler - koyu halkalar";
+
+"beauty_IOS_lite_BEF_BEAUTY_SMILES_FOLDS" = "Yüz - nazolabial kıvrımlar";
+
+"beauty_IOS_lite_smooth" = "dermabrazyon";
+
+"beauty_IOS_rosy_lite_rosy" = "Beyazlatma - ruddy";
+
+"beauty_IOS_standard_clear" = "açık";
+
+"beauty_IOS_standard_sharp" = "keskinleştirmek";
+
+"beauty_IOS_standard_smooth" = "dermabrazyon";
+
+"beauty_IOS_video_BEF_BEAUTY_REMOVE_POUCH" = "Gözler - koyu halkalar";
+
+"beauty_IOS_video_BEF_BEAUTY_SMILES_FOLDS" = "Yüz - nazolabial kıvrımlar";
+
+"comment_failed" = "Yorum başarısız oldu";
+
+"double_eye_lid/newmoon_BEF_BEAUTY_EYE_SINGLE_TO_DOUBLE" = "Gözler - çift göz kapağı";
+
+"reshape_v8_BEF_BEAUTY_BODY_SHRINK_HEAD" = "Yüz - küçük kafa";
+
+"reshape_v8_Face_ALL_boy" = "Yüz - İnce Yüz - Erkek Tanrı";
+
+"reshape_v8_Face_ALL_girl" = "Yüz - İnce Yüz - İlham perisi";
+
+"reshape_v8_Face_ALL_nature" = "Yüz - İnce Yüz - Doğal";
+
+"reshape_v8_Internal_Deform_Face" = "Yüz - küçük yüz";
+
+"reshape_v8_Internal_Deform_MouthCorner" = "Ağız - gülümseme";
+
+"reshape_v8_Internal_Deform_Short_Face" = "Yüz - kısa yüz";
+
+"reshape_v8_Internal_Deform_VFace" = "Yüz-V yüz";
+
+"reshape_v8_lite_BEF_BEAUTY_BODY_SHRINK_HEAD" = "Yüz - küçük kafa";
+
+"reshape_v8_lite_Face_ALL_boy" = "Yüz - İnce Yüz - Erkek Tanrı";
+
+"reshape_v8_lite_Face_ALL_girl" = "Yüz - İnce Yüz - İlham perisi";
+
+"reshape_v8_lite_Face_ALL_nature" = "Yüz - İnce Yüz - Doğal";
+
+"reshape_v8_lite_Internal_Deform_CutFace" = "Yüz - dar yüz";
+
+"reshape_v8_lite_Internal_Deform_Eye" = "Gözler - boyut";
+
+"reshape_v8_lite_Internal_Deform_Face" = "Yüz - küçük yüz";
+
+"reshape_v8_lite_Internal_Deform_MouthCorner" = "Ağız - gülümseme";
+
+"reshape_v8_lite_Internal_Deform_Zoom_Cheekbone" = "Yüz - elmacık kemikleri";
+
+"reshape_v8_lite_Internal_Deform_Zoom_Jawbone" = "Yüz - Çene";
+
+"sharpen_Android_lite_sharp" = "keskinleştirmek";
+
+"sharpen_IOS_lite_sharp" = "keskinleştirmek";
+
+"whiten_clear_Android_lite_clear" = "açık";
+
+"whiten_clear_Android_lite_whiten" = "Beyazlatıcı - Doğal";
+
+"whiten_clear_IOS_lite_clear" = "açık";
+
+"whiten_clear_IOS_lite_whiten" = "Beyazlatıcı - Doğal";
+
+"whiten_teeth_Android_lite_BEF_BEAUTY_WHITEN_TEETH" = "Ağız - Beyaz Dişler";
+
+"whiten_teeth_IOS_lite_BEF_BEAUTY_WHITEN_TEETH" = "Ağız - Beyaz Dişler";
+
+"whiten_teeth_standard_BEF_BEAUTY_WHITEN_TEETH" = "Ağız - Beyaz Dişler";

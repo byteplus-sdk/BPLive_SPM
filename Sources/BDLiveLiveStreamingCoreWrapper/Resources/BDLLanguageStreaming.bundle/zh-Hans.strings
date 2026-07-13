@@ -1,0 +1,954 @@
+
+"1080p" = "蓝光 1080p";
+
+"480p" = "标清 480p";
+
+"540p" = "高清 540p";
+
+"720p" = "超清 720p";
+
+"abandoned_after_exiting" = "退出后将放弃当前所有操作";
+
+"alert_close_live" = "确认关闭直播么？";
+
+"alert_emoji_not_support" = "暂不支持输入表情符";
+
+"alert_flash_lamp_error" = "抱歉，闪光灯权限获取失败";
+
+"alert_max_15" = "最多输入15字符";
+
+"alert_max_200" = "最多输入%ld字符";
+
+"alert_msg_screen_switch" = "即将更改直播屏幕方向，是否切换？";
+
+"alert_msg_screen_switch_camera" = "即将更改直播屏幕方向，画布中的挂件将变化，是否切换？";
+
+"alert_no_camera" = "未获得相机权限，是否去设置中授予%@该权限？";
+
+"alert_no_microphone" = "未获得麦克风权限，是否去设置中授予%@该权限？";
+
+"alert_no_photo_library" = "未获得相册权限，是否去设置中授予%@该权限？";
+
+"alert_only_rear_camera" = "后置摄像头场景才允许开启闪光灯";
+
+"alert_screen_switch" = "切换屏幕提示";
+
+"apply_now" = "立即使用";
+
+"back" = "返回";
+
+"basic_information" = "基础信息";
+
+"basic_information_add_label" = "添加";
+
+"basic_information_cover_label_%ld" = "支持格式：JPG 和 PNG。文件大小：不超过 %ld MB。";
+
+"basic_information_description_switch_label" = "在直播间展示直播描述";
+
+"basic_information_description_textview_label" = "描述内容";
+
+"basic_information_description_textview_placeholder" = "输入直播描述";
+
+"basic_information_edit_label" = "编辑";
+
+"basic_information_live_tag" = "直播分类";
+
+"basic_information_live_tag_changed_error" = "直播间分类已更新，请重试";
+
+"basic_information_live_tag_count" = "%d个";
+
+"basic_information_live_tag_empty_title" = "没有可选择的分类";
+
+"basic_information_live_title_textview_placeholder" = "输入直播标题";
+
+"basic_information_nav_account_avatar" = "账号头像";
+
+"basic_information_nav_account_name" = "账号名称";
+
+"basic_information_nav_cover" = "封面图";
+
+"basic_information_nav_description" = "直播描述";
+
+"basic_information_nav_live_title" = "直播标题";
+
+"beauty" = "美颜";
+
+"big_eyes" = "大眼";
+
+"camera_live" = "视频直播";
+
+"cancel" = "取消";
+
+"caton" = "卡顿";
+
+"change_avatar" = "变更";
+
+"choose_sharpness" = "选择清晰度";
+
+"clean" = "清屏";
+
+"clear" = "清晰";
+
+"clear_pendants_layer" = "清空挂件";
+
+"click_to_edit_template_name" = "模板名称点击编辑";
+
+"closing_live_streaming" = "直播关闭中，请稍后";
+
+"comment_input_placeholder" = "跟大家聊聊呗";
+
+"confirm" = "确定";
+
+"confirm_delete_template" = "确认删除模板吗？";
+
+"confirm_delete_widget_and_layer" = "确认删除挂件？删除后，使用该挂件的图层也会被删除。";
+
+"confirm_exit" = "确认退出吗";
+
+"confirm_switch" = "确认切换";
+
+"create_template" = "新建模板";
+
+"delete" = "删除";
+
+"delete_all_comment" = "确认清空所有评论？";
+
+"delete_comment" = "清空评论";
+
+"delete_string" = "删除";
+
+"delete_template_pendent_warning" = "该挂件属于%@模板，删除后模板需要重新下载，确认删除？";
+
+"download" = "下载";
+
+"download_now" = "立即下载";
+
+"exit" = "退出";
+
+"filter" = "滤镜";
+
+"flash_lamp" = "闪光灯";
+
+"flip" = "翻转";
+
+"go_edit" = "去编辑";
+
+"go_setting" = "去设置";
+
+"good" = "良好";
+
+"has_update" = "有更新";
+
+"i_got_it" = "我知道了";
+
+"image_size_over_%dM_need_reselect" = "图片超过%dM，请重新上传";
+
+"is_empty" = "为空";
+
+"landscape" = "横屏";
+
+"layer" = "图层";
+
+"live_end_start_tip" = "直播已结束，若需再次开启，请重新设置直播时间";
+
+"live_has_been_started" = "该直播间已开播，无法操作";
+
+"live_head_online_label" = "%ld 人在线";
+
+"live_room_name_cannot_be_blank" = "直播间名称不能为空";
+
+"live_time_left" = "距直播结束还剩 %02ld:%02ld:%02ld";
+
+"media" = "媒体文件";
+
+"mirror" = "镜像";
+
+"more" = "更多";
+
+"msg_net_error" = "网络请求失败，请重试";
+
+"msg_net_error_extra_long" = "输入字符超长，请重新输入";
+
+"mute" = "静音";
+
+"narrow_face" = "窄脸";
+
+"net_abnormal" = "网络异常";
+
+"net_error_btn_text" = "重 试";
+
+"net_error_text" = "当前网络不可用，请检查网络连接后重试";
+
+"network_request_error" = "网络请求错误";
+
+"nick_name_cannot_be_blank" = "昵称不能为空！";
+
+"no" = "取消";
+
+"no_template" = "暂无模板";
+
+"off_line" = "无网络";
+
+"only_support_20_layer" = "最多支持20个图层。";
+
+"pendants" = "挂件";
+
+"pendants_layer" = "图层";
+
+"pendants_layer_camera" = "人像层";
+
+"pendants_layer_clear_alert_clear" = "清空";
+
+"pendants_layer_clear_alert_title" = "确认清空所有挂件吗？";
+
+"pendants_layer_down" = "下移";
+
+"pendants_layer_hide" = "隐藏";
+
+"pendants_layer_show" = "显示";
+
+"pendants_layer_tips" = "长按可以快速拖动图层调整顺序哦～";
+
+"pendants_layer_up" = "上移";
+
+"please_input" = "请输入（15字符以内）";
+
+"popularity" = "人气";
+
+"portrait" = "竖屏";
+
+"products" = "购物袋";
+
+"products_add_added" = "已添加";
+
+"products_add_added_des" = "您的商品已经完成添加";
+
+"products_add_addnew" = "新增";
+
+"products_add_done" = "已完成";
+
+"products_add_shop_cross_text" = "商品原价";
+
+"products_add_shop_highlight" = "当前价格";
+
+"products_add_shop_image" = "添加封面图";
+
+"products_add_shop_image_des" = "建议上传比例1:1，防止图片被拉伸";
+
+"products_add_shop_name" = "商品名称";
+
+"products_add_shop_name_placeholder" = "请输入商品名称";
+
+"products_add_shop_price_placehoder" = "请输入商品价格";
+
+"products_add_shop_url" = "商品链接";
+
+"products_add_shop_url_placeholder" = "http:/";
+
+"products_add_submit" = "提交";
+
+"products_can_not_pin_tip" = "当前商品未添加图片，无法置顶";
+
+"products_cancel_pin" = "取消置顶";
+
+"products_checkmark" = "批量操作";
+
+"products_confirm_delete" = "是否确认删除？";
+
+"products_confirm_delete_content" = "商品删除后无法恢复，请谨慎操作";
+
+"products_delete_count" = "删除 (%ld)";
+
+"products_edit" = "编辑";
+
+"products_edit_title" = "编辑商品";
+
+"products_empty" = "当前卡片没有添加商品";
+
+"products_empty_tip" = "点击添加商品";
+
+"products_filter" = "筛选";
+
+"products_info_changed_error" = "当前列表商品信息已更新，请重试";
+
+"products_list" = "上架";
+
+"products_more" = "更多";
+
+"products_number_count" = "总计%ld 件商品";
+
+"products_order" = "调整顺序";
+
+"products_pin_to_top" = "置顶";
+
+"products_quantity_limit_error" = "当前商品列表已达到商品最大数量 500，请删除部分商品后继续添加";
+
+"products_reorder_guide" = "点击并拖拽图片来调整商品顺序";
+
+"products_reset" = "重置";
+
+"products_search" = "搜索";
+
+"products_search_empty" = "没有找到相关商品";
+
+"products_search_placeholder" = "请输入商品名称";
+
+"products_select_all" = "全选";
+
+"products_sure" = "确认";
+
+"products_sure_count" = "确认 (%ld)";
+
+"products_title" = "直播商品";
+
+"products_unlist" = "下架";
+
+"prompt" = "提示";
+
+"props" = "道具";
+
+"replay_comment" = "回复";
+
+"resolution" = "清晰度";
+
+"rotate_to_landscape_to_apply_template" = "当前直播为竖屏模式，确定切换为横屏，并应用此模板？";
+
+"rotate_to_portrait_to_apply_template" = "当前直播为横屏模式，确定切换为竖屏，并应用此模板？";
+
+"rotate_to_save_landscape" = "即将切换至横屏模式，并新建模板";
+
+"rotate_to_save_portrait" = "即将切换至竖屏模式，并新建模板";
+
+"save" = "保存";
+
+"save_error" = "保存失败，请重试";
+
+"save_landscape_template" = "确认保存为横屏模板吗？";
+
+"save_portrait_template" = "确认保存为竖屏模板吗？";
+
+"save_success" = "保存成功";
+
+"screen_live" = "录屏直播";
+
+"screen_share_hint" = "开始直播后，观众将实时看到\n你手机屏幕上的内容";
+
+"screen_sharing_hint" = "录屏中，可以切换到手机其他界面进行直播";
+
+"skin_grinding" = "磨皮";
+
+"smooth_live_only_support_10_gif" = "为保证直播流畅，仅支持添加10个GIF图片";
+
+"start_live" = "开始直播";
+
+"start_live_fail" = "开播失败，请重试";
+
+"sweep_to_switch" = "左右滑切换模板";
+
+"template" = "模板";
+
+"template_can_not_save_without_name" = "未填写模板名称无法保存";
+
+"template_delete_hint" = "模板删除后其他用户将无法使用";
+
+"template_download_first" = "请先下载模板再在进行编辑操作";
+
+"template_has_update_click_to_download" = "模板有更新，点击下载";
+
+"template_not_exist" = "模板不存在或已删除";
+
+"template_save_hint" = "美颜、道具、挂件、图层设置会一起保存为模板";
+
+"text" = "文本";
+
+"thin_cheekbones" = "瘦颧骨";
+
+"thin_face" = "瘦脸";
+
+"thin_mandible" = "瘦下颌骨";
+
+"thin_nose" = "瘦鼻";
+
+"toast_landscape_live" = "已切换为横屏开播，画面横向展示";
+
+"toast_portrait_live" = "已切换为竖屏开播，画面纵向展示";
+
+"ttlv_pendents_upload" = "上传图片";
+
+"tvupush_send_success" = "发送成功";
+
+"unknown" = "未知";
+
+"unsupport_gif_warning" = "不支持GIF格式，请重新上传";
+
+"unsupport_rotate_to_landscape_hint" = "开播中不支持切换横屏模式的模板";
+
+"unsupport_rotate_to_portrait_hint" = "开播中不支持切换竖屏模式的模板";
+
+"unsupported_broadcast_title" = "当前服务版本不支持开播";
+
+"unsupported_feature_title" = "当前服务版本不支持此功能";
+
+"unsupported_version_message" = "当前账号版本不支持该功能，请联系客服升级服务版本";
+
+"whitening" = "美白";
+
+"tvupush_product_add_library" = "从商品库添加";
+
+"tvupush_product_library_add" = "添加";
+
+"tvupush_product_library_search_result_empty" = "没有符合当前搜索条件的商品";
+
+"tvupush_product_library_uncorrelated" = "本直播间未关联商品库";
+
+"tvupush_product_most_product_added" = "最多添加500个商品";
+
+"tvupush_product_no_products_yet" = "暂无商品";
+
+"tvupush_product_title_add" = "添加商品";
+
+"tvupush_start_time_not_yet_toast" = "直播时间未到，请在直播开始时间后开启直播";
+
+"tvu_product_library_please_search" = "立即搜索";
+
+"tvu_product_library_search_tip" = "输入搜索内容后，展示搜索后结果";
+
+"tvu_push_product_lib_response_error" = "返回错误，请检查返回内容";
+
+"tvu_push_product_lib_timeout" = "请求超时";
+
+"俄语" = "俄语";
+
+"印尼语" = "印尼语";
+
+"土耳其语" = "土耳其语";
+
+"日文" = "日文";
+
+"泰语" = "泰语";
+
+"简中" = "简中";
+
+"繁中" = "繁中";
+
+"英文" = "英文";
+
+"葡萄牙语" = "葡萄牙语";
+
+"西班牙语" = "西班牙语";
+
+"越南语" = "越南语";
+
+"阿拉伯语" = "阿拉伯语";
+
+"韩语" = "韩语";
+
+"tvupush_filter_01" = "柔白";
+
+"tvupush_filter_02" = "奶油";
+
+"tvupush_filter_03" = "氧气";
+
+"tvupush_filter_04" = "桔梗";
+
+"tvupush_filter_05" = "洛丽塔";
+
+"tvupush_filter_06" = "蜜桃";
+
+"tvupush_filter_07" = "马卡龙";
+
+"tvupush_filter_08" = "泡沫";
+
+"tvupush_filter_09" = "樱花";
+
+"tvupush_filter_10" = "浅暖";
+
+"tvupush_filter_11" = "物语";
+
+"tvupush_filter_12" = "北海道";
+
+"tvupush_filter_13" = "日杂";
+
+"tvupush_filter_14" = "西雅图";
+
+"tvupush_filter_15" = "静谧";
+
+"tvupush_filter_16" = "胶片";
+
+"tvupush_filter_17" = "暖阳";
+
+"tvupush_filter_18" = "旧日";
+
+"tvupush_filter_19" = "红唇";
+
+"tvupush_filter_20" = "橘蓝调";
+
+"tvupush_filter_21" = "褪色";
+
+"tvupush_filter_22" = "黑白";
+
+"tvupush_filter_23" = "温柔";
+
+"tvupush_filter_24" = "恋爱超甜";
+
+"tvupush_filter_25" = "初见";
+
+"tvupush_filter_26" = "暗调";
+
+"tvupush_filter_27" = "奶茶";
+
+"tvupush_filter_28" = "Soft";
+
+"tvupush_filter_29" = "夕阳";
+
+"tvupush_filter_30" = "冷氧";
+
+"tvupush_filter_31" = "海边人像";
+
+"tvupush_filter_32" = "高级灰";
+
+"tvupush_filter_33" = "海岛";
+
+"tvupush_filter_34" = "浅夏";
+
+"tvupush_filter_35" = "夜色";
+
+"tvupush_filter_36" = "红棕";
+
+"tvupush_filter_37" = "清透";
+
+"tvupush_filter_38" = "自然";
+
+"tvupush_filter_39" = "苏打";
+
+"tvupush_filter_40" = "加州";
+
+"tvupush_filter_41" = "食色";
+
+"tvupush_filter_42" = "川味";
+
+"tvupush_filter_43" = "美式胶片";
+
+"tvupush_filter_44" = "红色复古";
+
+"tvupush_filter_45" = "旅途";
+
+"tvupush_filter_46" = "暖黄";
+
+"tvupush_filter_47" = "蓝调胶片";
+
+"tvupush_filter_48" = "冷白皮";
+
+"tvupush_filter_49" = "透亮";
+
+"tvupush_filter_50" = "亮橘";
+
+"tvupush_filter_51" = "胡桃木";
+
+"tvupush_filter_52" = "深褐";
+
+"tvupush_filter_53" = "德古拉";
+
+"tvupush_filter_54" = "栗色";
+
+"tvupush_filter_55" = "椰林";
+
+"tvupush_filter_56" = "暖食";
+
+"tvupush_filter_57" = "气泡水";
+
+"tvupush_filter_58" = "料理";
+
+"tvupush_filter_59" = "炭烧";
+
+"tvupush_filter_60" = "京都";
+
+"tvupush_filter_61" = "海岸";
+
+"tvupush_filter_62" = "绿妍";
+
+"tvupush_filter_63" = "晚樱";
+
+"tvupush_filter_64" = "青橙";
+
+"tvupush_filter_65" = "爱之城";
+
+"tvupush_filter_66" = "CT";
+
+"tvupush_filter_67" = "EK";
+
+"tvupush_filter_68" = "FJ";
+
+"tvupush_filter_69" = "黑金";
+
+"tvupush_filter_70" = "赫本";
+
+"模板下载失败，挂件剩余个数不足" = "模板下载失败，挂件剩余个数不足";
+
+"filter_normal" = "正常";
+
+"tvupush_link_sidebar" = "侧边栏视图";
+
+"tvupush_link_user_upper_limit" = "当前连麦人员已达到上限";
+
+"tvupush_link_confirm_microphone_tip" = "开始连麦后，当前图层挂件将不再展示，是否确认开始？";
+
+"tvupush_link_list_empty" = "暂时没有连麦的观众哦～";
+
+"tvupush_link_start" = "开始连麦";
+
+"tvupush_link_view" = "视图";
+
+"tvupush_link_confirm_mike" = "确认结束观众连麦吗？";
+
+"tvupush_link_remove" = "移除";
+
+"tvupush_link_remove_microphone" = "移除连麦";
+
+"tvupush_link_quit_mike" = "当前正在连麦中，结束直播连麦将退出当前连麦";
+
+"tvupush_link_camera" = "摄像头";
+
+"tvupush_link_stop" = "结束连麦";
+
+"tvupush_link_microphone" = "麦克风";
+
+"tvupush_link_view_settings" = "视图设置";
+
+"tvupush_link_apply_list" = "申请列表";
+
+"tvupush_link_audience" = "观众连麦";
+
+"tvupush_link_grid" = "宫格视图";
+
+"tvupush_link_confirm_start" = "确认开始连麦？";
+
+"tvupush_link_confirm_to_remove" = "确认要移除\n[%@] 吗？";
+
+"tvupush_link_hint" = "开始连麦后，观众可以发起连麦申请，\n最多支持1v%ld视频连麦";
+
+"tvupush_link_user_action" = "针对 [%@] 进行操作";
+
+"tvupush_link_resume_hint" = "上次连麦未正常结束";
+
+"tvupush_link_resume_title" = "需要恢复连麦吗？";
+
+"tvupush_link_start_fail" = "连麦失败，请重试";
+
+"tvupush_link_presenter" = "主持人";
+
+"tvupush_link_accept" = "接受";
+
+"tvupush_link_apply_send_fail" = "申请发送失败，请重试";
+
+"tvupush_link_apply_send_success" = "申请发送成功";
+
+"filter_ABG" = "哥哥";
+
+"filter_F2" = "苏打";
+
+"filter_F3" = "加州";
+
+"filter_F4" = "食色";
+
+"filter_F5" = "川味";
+
+"filter_HUJI" = "下雨了";
+
+"filter_L1" = "海岛";
+
+"filter_L2" = "浅夏";
+
+"filter_L3" = "夜色";
+
+"filter_L4" = "红棕";
+
+"filter_L5" = "清透";
+
+"filter_Po1" = "温柔";
+
+"filter_Po10" = "高级灰";
+
+"filter_Po2" = "恋爱超甜";
+
+"filter_Po3" = "初见";
+
+"filter_Po4" = "暗调";
+
+"filter_Po5" = "奶茶";
+
+"filter_Po6" = "柔软";
+
+"filter_Po7" = "夕阳";
+
+"filter_Po8" = "冷氧";
+
+"filter_Po9" = "海边人像";
+
+"filter_S1" = "美式胶片";
+
+"filter_S2" = "红色复古";
+
+"filter_S3" = "旅途";
+
+"filter_S4" = "暖黄";
+
+"filter_S5" = "蓝调胶片";
+
+"filter_aikefa" = "EK";
+
+"filter_aizhicheng" = "爱之城";
+
+"filter_baixi" = "白皙";
+
+"filter_baixue" = "白雪";
+
+"filter_beihaidao" = "北海道";
+
+"filter_campan" = "桔梗";
+
+"filter_chalk" = "柔白";
+
+"filter_chaobai" = "超白";
+
+"filter_chulian" = "初恋";
+
+"filter_chuxin" = "初心";
+
+"filter_degula" = "德古拉";
+
+"filter_dongren" = "动人";
+
+"filter_feifan" = "非凡";
+
+"filter_fenci" = "粉瓷";
+
+"filter_fushi" = "FJ";
+
+"filter_gaoqing" = "高清";
+
+"filter_guowang" = "过往";
+
+"filter_haian" = "海岸";
+
+"filter_heben" = "赫本";
+
+"filter_heibai" = "黑白";
+
+"filter_heijin" = "黑金";
+
+"filter_hongchun" = "红唇";
+
+"filter_huanfu" = "焕肤";
+
+"filter_huopo" = "活泼";
+
+"filter_hutaomu" = "胡桃木";
+
+"filter_jiari" = "假日";
+
+"filter_jingdu" = "京都";
+
+"filter_jinshu" = "金属";
+
+"filter_julandiao" = "橘蓝调";
+
+"filter_kameier" = "卡梅尔";
+
+"filter_kangtaishi" = "CT";
+
+"filter_landiao" = "蓝调";
+
+"filter_lengbaipi" = "冷白皮";
+
+"filter_lengxi" = "冷系";
+
+"filter_liangju" = "亮橘";
+
+"filter_liaoli" = "料理";
+
+"filter_lise" = "栗色";
+
+"filter_lolita" = "洛丽塔";
+
+"filter_lvyan" = "绿妍";
+
+"filter_makalong" = "马卡龙";
+
+"filter_mitao" = "蜜桃";
+
+"filter_mopian" = "默片";
+
+"filter_mousse" = "慕斯";
+
+"filter_musi" = "浅暖";
+
+"filter_naihui" = "奶灰";
+
+"filter_naiyou" = "奶油";
+
+"filter_nuanshi" = "暖食";
+
+"filter_oxgen" = "氧气";
+
+"filter_qiangwei" = "蔷薇";
+
+"filter_qingcheng" = "青橙";
+
+"filter_qingchun" = "清纯";
+
+"filter_qingyang" = "轻氧";
+
+"filter_qipaoshui" = "气泡水";
+
+"filter_quqi" = "曲奇";
+
+"filter_rixi" = "日系";
+
+"filter_riza" = "日杂";
+
+"filter_rouhe" = "柔和";
+
+"filter_shenhe" = "深褐";
+
+"filter_shensui" = "深邃";
+
+"filter_shenyeshitang" = "深夜食堂";
+
+"filter_suying" = "宿营";
+
+"filter_tanshao" = "炭烧";
+
+"filter_touliang" = "透亮";
+
+"filter_tuise" = "褪色";
+
+"filter_wanying" = "晚樱";
+
+"filter_weixun" = "微醺";
+
+"filter_wuye" = "雾野";
+
+"filter_wuyu" = "物语";
+
+"filter_yelin" = "椰林";
+
+"filter_yinglang" = "硬朗";
+
+"filter_yinhua" = "樱花";
+
+"filter_youhua" = "油画";
+
+"filter_yuansheng" = "原生";
+
+"filter_yuanxiangji" = "原相机";
+
+"filter_zhengchang" = "正常";
+
+"filter_ziran" = "自然";
+
+"beauty_Android_fenbai_lite_whiten" = "美白-粉白";
+
+"beauty_Android_lengbai_lite_whiten" = "美白-白皙";
+
+"beauty_Android_lite_BEF_BEAUTY_BRIGHTEN_EYE" = "眼睛-亮眼";
+
+"beauty_Android_lite_BEF_BEAUTY_REMOVE_POUCH" = "眼睛-黑眼圈";
+
+"beauty_Android_lite_BEF_BEAUTY_SMILES_FOLDS" = "面部-法令纹";
+
+"beauty_Android_lite_smooth" = "磨皮";
+
+"beauty_Android_rosy_lite_rosy" = "美白-红润";
+
+"beauty_Android_standard_clear" = "清晰";
+
+"beauty_Android_standard_sharp" = "锐化";
+
+"beauty_Android_standard_smooth" = "磨皮";
+
+"beauty_Android_video_BEF_BEAUTY_REMOVE_POUCH" = "眼睛-黑眼圈";
+
+"beauty_Android_video_BEF_BEAUTY_SMILES_FOLDS" = "面部-法令纹";
+
+"beauty_IOS_fenbai_lite_whiten" = "美白-粉白";
+
+"beauty_IOS_lengbai_lite_whiten" = "美白-白皙";
+
+"beauty_IOS_lite_BEF_BEAUTY_BRIGHTEN_EYE" = "眼睛-亮眼";
+
+"beauty_IOS_lite_BEF_BEAUTY_REMOVE_POUCH" = "眼睛-黑眼圈";
+
+"beauty_IOS_lite_BEF_BEAUTY_SMILES_FOLDS" = "面部-法令纹";
+
+"beauty_IOS_lite_smooth" = "磨皮";
+
+"beauty_IOS_rosy_lite_rosy" = "美白-红润";
+
+"beauty_IOS_standard_clear" = "清晰";
+
+"beauty_IOS_standard_sharp" = "锐化";
+
+"beauty_IOS_standard_smooth" = "磨皮";
+
+"beauty_IOS_video_BEF_BEAUTY_REMOVE_POUCH" = "眼睛-黑眼圈";
+
+"beauty_IOS_video_BEF_BEAUTY_SMILES_FOLDS" = "面部-法令纹";
+
+"comment_failed" = "评论失败";
+
+"double_eye_lid/newmoon_BEF_BEAUTY_EYE_SINGLE_TO_DOUBLE" = "眼睛-双眼皮";
+
+"reshape_v8_BEF_BEAUTY_BODY_SHRINK_HEAD" = "面部-小头";
+
+"reshape_v8_Face_ALL_boy" = "面部-瘦脸-男神";
+
+"reshape_v8_Face_ALL_girl" = "面部-瘦脸-女神";
+
+"reshape_v8_Face_ALL_nature" = "面部-瘦脸-自然";
+
+"reshape_v8_Internal_Deform_Face" = "面部-小脸";
+
+"reshape_v8_Internal_Deform_MouthCorner" = "嘴巴-微笑";
+
+"reshape_v8_Internal_Deform_Short_Face" = "面部-短脸";
+
+"reshape_v8_Internal_Deform_VFace" = "面部-V脸";
+
+"reshape_v8_lite_BEF_BEAUTY_BODY_SHRINK_HEAD" = "面部-小头";
+
+"reshape_v8_lite_Face_ALL_boy" = "面部-瘦脸-男神";
+
+"reshape_v8_lite_Face_ALL_girl" = "面部-瘦脸-女神";
+
+"reshape_v8_lite_Face_ALL_nature" = "面部-瘦脸-自然";
+
+"reshape_v8_lite_Internal_Deform_CutFace" = "面部-窄脸";
+
+"reshape_v8_lite_Internal_Deform_Eye" = "眼睛-大小";
+
+"reshape_v8_lite_Internal_Deform_Face" = "面部-小脸";
+
+"reshape_v8_lite_Internal_Deform_MouthCorner" = "嘴巴-微笑";
+
+"reshape_v8_lite_Internal_Deform_Zoom_Cheekbone" = "面部-颧骨";
+
+"reshape_v8_lite_Internal_Deform_Zoom_Jawbone" = "面部-下颌";
+
+"sharpen_Android_lite_sharp" = "锐化";
+
+"sharpen_IOS_lite_sharp" = "锐化";
+
+"whiten_clear_Android_lite_clear" = "清晰";
+
+"whiten_clear_Android_lite_whiten" = "美白-自然";
+
+"whiten_clear_IOS_lite_clear" = "清晰";
+
+"whiten_clear_IOS_lite_whiten" = "美白-自然";
+
+"whiten_teeth_Android_lite_BEF_BEAUTY_WHITEN_TEETH" = "嘴巴-白牙";
+
+"whiten_teeth_IOS_lite_BEF_BEAUTY_WHITEN_TEETH" = "嘴巴-白牙";
+
+"whiten_teeth_standard_BEF_BEAUTY_WHITEN_TEETH" = "嘴巴-白牙";

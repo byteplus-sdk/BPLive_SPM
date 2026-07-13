@@ -1,0 +1,668 @@
+
+"cancel" = "取消";
+
+"change_language" = "切换语言";
+
+"click_replay" = "点击重新播放";
+
+"comment_failed" = "评论失败";
+
+"confirm" = "确定";
+
+"end" = "结束";
+
+"fore_show" = "预告";
+
+"free_to_buy" = "免费抢";
+
+"getting_comments" = "获取评论中...";
+
+"host" = "主持人";
+
+"invalid_nickname" = "昵称不合法";
+
+"like_failed" = "点赞失败";
+
+"live_end_tip" = "直播已结束";
+
+"net_abnormal" = "网络异常，请重试";
+
+"net_error_btn_text" = "重 试";
+
+"net_error_portrait_btn_text" = "刷新重试";
+
+"net_error_text" = "当前网络不可用，请检查网络连接后重试";
+
+"nick_name_cannot_be_blank" = "昵称不能为空！";
+
+"nick_name_dialog_hint_text" = "请输入你的昵称，开始互动~";
+
+"no_comments" = "暂无评论";
+
+"no_more_historical_comments" = "无更多历史评论";
+
+"non_wifi_btn_text" = "继续播放";
+
+"pinned" = "顶";
+
+"pinned_content" = "置顶内容";
+
+"play_back" = "回放";
+
+"pull_to_load_more_comments" = "下拉加载更多评论";
+
+"pulling_historical_comments_limit" = "拉取历史评论已经达到上限";
+
+"register_success" = "注册成功";
+
+"release_to_load_more_comments" = "释放加载更多评论";
+
+"replay" = "重播";
+
+"resolution_auto" = "智能";
+
+"resolution_bd" = "蓝光";
+
+"resolution_uhd" = "超清";
+
+"resolution_hd" = "高清";
+
+"resolution_sd" = "标清";
+
+"resolution_origin" = "原画";
+
+"resolution_ld" = "流畅";
+
+"resolution_select" = "清晰度选择";
+
+"resolution_title" = "清晰度选择";
+
+"send_comment_no_enable" = "暂未开启聊天";
+
+"speed" = "倍速";
+
+"speed_play" = "倍速播放";
+
+"speed_toast" = "已为你开启%s倍速播放";
+
+"w" = "万";
+
+"you_have_been_muted" = "您已被禁言";
+
+"save_picture" = "保存图片";
+
+"save_picture_ok" = "图片已保存至相册";
+
+"save_picture_failed" = "保存图片失败";
+
+"copy_link" = "复制链接";
+
+"copy_link_ok" = "复制链接成功";
+
+"count_down" = "倒计时";
+
+"days" = "天";
+
+"hours" = "时";
+
+"minutes" = "分";
+
+"seconds" = "秒";
+
+"clear_screen" = "清屏";
+
+"participated" = "已参与";
+
+"tvu_award_result" = "中奖结果";
+
+"award_info_input_title" = "完善中奖信息";
+
+"phone_number" = "手机号";
+
+"input_phone_number" = "请输入手机号";
+
+"receiving_address" = "收货地址";
+
+"input_receiving_address" = "请输入收货地址";
+
+"award_info_input_hint" = "请尽快填写中奖信息，避免错失奖品\n奖品解释权和提供方归主办方所有";
+
+"fill_address" = "请填写收货地址";
+
+"fill_phone_number" = "请输入正确的手机号";
+
+"award_winner_count" = "共%ld人中奖";
+
+"award_winner_hint" = "中奖用户尽快在互动工具-抽奖入口处填写中奖信息，避免错失奖品～";
+
+"award_winner_hint_highlight" = "互动工具-抽奖";
+
+"award_winner_list" = "中奖名单";
+
+"no_one_participate_award" = "无人参与该抽奖活动";
+
+"click_for_the_draw" = "点击抽奖";
+
+"lottery_drawn" = "已开奖";
+
+"lottery_will_open" = "即将开奖";
+
+"award" = "奖品：";
+
+"award_count" = "奖品数量：%d份";
+
+"click_one_click_join_btn_tip" = "点击一键参与自动完成";
+
+"join_requirement" = "参与条件";
+
+"send_danmaku_key" = "发布弹幕口令：";
+
+"one_click_join" = "一键参与";
+
+"lose_award_tip" = "很遗憾，你没有中奖～";
+
+"win_award_tip" = "恭喜你，获得奖品";
+
+"award_result_dialog_tip" = "奖品解释权和提供方归主办方所有";
+
+"got_it" = "知道了";
+
+"participated_count" = "已参与 %ld 人";
+
+"award_join_success_tip" = "参与成功，请耐心等待开奖～";
+
+"winning_info_completed" = "中奖信息已完善";
+
+"award_join_fail_tip" = "参与失败";
+
+"award_repeat_join_tip" = "已参与抽奖";
+
+"reservation_fail" = "预约失败";
+
+"reservation_now" = "立即预约";
+
+"reservation_success" = "预约成功";
+
+"reservationed" = "已预约";
+
+"live_start_countdown" = "距离直播开始还有";
+
+"参与" = "参与";
+
+"直播间发起了一场抽奖" = "直播间发起了一场抽奖";
+
+"live_description" = "直播描述";
+
+"entered_live_room" = "进入了直播间";
+
+"Confirm to quit the audience link" = "确认退出观众连麦吗？";
+
+"Flip camera" = "翻转摄像头";
+
+"Linking, quti will colse link" = "当前正在连麦中，关闭直播连麦将\n退出当前连麦";
+
+"Mute" = "静音";
+
+"Please go to System Settings to turn on relevant permissions." = "请前往系统设置开启相关权限";
+
+"Turn off the camera" = "关闭摄像头";
+
+"Turn on the camera" = "打开摄像头";
+
+"Unmute" = "取消静音";
+
+"apply_link" = "申请连麦中...";
+
+"audio_call" = "音频连麦";
+
+"cancel_request" = "取消申请";
+
+"disconnect mic" = "断开连麦";
+
+"link failed" = "连麦失败";
+
+"me" = "我";
+
+"presenter" = "主讲";
+
+"request_link" = "申请连麦";
+
+"requesting" = "申请中...";
+
+"screen sharing" = "正在共享屏幕";
+
+"video_call" = "视频连麦";
+
+"link_end_tip" = "已结束连麦";
+
+"replay_comment" = "回复";
+
+"report_comment" = "举报";
+
+"change_channel" = "切换频道";
+
+"live" = "直播中";
+
+"playback" = "回放";
+
+"comment_report_abet_btn_text" = "疑似/唆使自残自杀";
+
+"comment_report_advertise_btn_text" = "广告宣传";
+
+"comment_report_cheat_btn_text" = "涉嫌欺诈";
+
+"comment_report_curse_btn_text" = "辱骂我或他人";
+
+"comment_report_edittext_hint" = "请详细描述举报原因，便于平台判断评论是否违规";
+
+"comment_report_other_btn_text" = "其他";
+
+"comment_report_post_btn_text" = "提交";
+
+"comment_report_title_text" = "举报评论";
+
+"comment_report_unlawful_btn_text" = "违法违规";
+
+"comment_report_vulgar_btn_text" = "低俗色情";
+
+"report_error" = "举报失败";
+
+"report_success" = "提交成功，感谢您的反馈";
+
+"tvu_invite_watch_live" = "邀请你一起看直播";
+
+"liveroom_qrcode" = "直播间二维码";
+
+"long_click_save_qrcode" = "长按保存二维码，分享给朋友吧～";
+
+"tvu_generate_poster" = "生成海报";
+
+"tvu_generate_qrcode" = "生成二维码";
+
+"tvu_long_press_to_view" = "长按识别二维码观看";
+
+"long_click_save_picture" = "长按保存图片";
+
+"host_changed_nickname" = "主持人已修改您的昵称";
+
+"host_close_audio" = "主持人已关闭你的麦克风";
+
+"host_close_audio_and_video" = "主持人已关闭你的麦克风和摄像头";
+
+"host_close_video" = "主持人已关闭你的摄像头";
+
+"host_open_audio" = "主持人申请打开你的麦克风";
+
+"host_open_audio_and_video" = "主持人申请打开你的麦克风和摄像头";
+
+"host_open_video" = "主持人申请打开你的摄像头";
+
+"host_set_link_mute" = "主持人已设置全员静音";
+
+"click_too_fast" = "手速太快了，稍等下～";
+
+"讲解中" = "讲解中";
+
+"fail_and_retry" = "发送失败，请重试";
+
+"send" = "发送";
+
+"send_image_to_chat" = "发送图片至聊天";
+
+"send_image_fail" = "发送图片失败";
+
+"please_select_an_image_with_a_size_less_than_8m" = "请选择大小小于8M的图片";
+
+"live_not_allowed_mobile_watch" = "直播间不允许移动端观看";
+
+"redirect_to_time" = "已为您定位至";
+
+"warm_tips" = "温馨提示";
+
+"tips" = "提示";
+
+"i_know" = "我知道了";
+
+"please_input_question_answer" = "请输入问题内容";
+
+"questionnaire_answer_required" = "此项为必填项";
+
+"questionnaire_string" = "问卷";
+
+"submit_failed" = "提交失败";
+
+"submitted_success" = "提交成功";
+
+"questionnaire_filled" = "您已填写过该问卷，感谢您的参与";
+
+"please_enter_the_correct_email" = "请输入正确的邮箱";
+
+"please_enter_the_correct_phone_number" = "请输入正确的手机号码";
+
+"多选" = "多选";
+
+"进行中" = "进行中";
+
+"已投票" = "已投票";
+
+"点击参加" = "点击参加";
+
+"实际参与人数：%d人" = "实际参与人数：%d人";
+
+"提交投票" = "提交投票";
+
+"单选" = "单选";
+
+"投票" = "投票";
+
+"公告" = "公告";
+
+"查看详情" = "查看详情";
+
+"请选择您的选项" = "请选择您的选项";
+
+"已结束" = "已结束";
+
+"投票已截止" = "投票已截止";
+
+"看结果" = "看结果";
+
+"查看结果" = "查看结果";
+
+"去参加" = "去参加";
+
+"%ld票" = "%ld 票";
+
+"%ld人" = "%ld人";
+
+"参与答题" = "参与答题";
+
+"正确答案：" = "正确答案：";
+
+"答案解析：" = "答案解析：";
+
+"答题已截止" = "答题已截止";
+
+"已提交" = "已提交";
+
+"未作答" = "未作答";
+
+"回答正确" = "回答正确";
+
+"继续观看直播" = "继续观看直播";
+
+"距答题截止" = "距答题截止";
+
+"你的答案：" = "你的答案：";
+
+"已提交，请等待公布答案" = "已提交，请等待公布答案";
+
+"确认提交" = "确认提交";
+
+"回答错误" = "回答错误";
+
+"more" = "更多";
+
+"live_interactive" = "直播互动";
+
+"win_and_watch" = "看直播，赢奖品";
+
+"点击参与" = "点击参与";
+
+"available" = "可开启";
+
+"congratulations_to_for" = "恭喜 %@ 抽中 %@";
+
+"draw" = "次抽奖";
+
+"duration_colon" = "已观看 ";
+
+"minutes2" = "分钟";
+
+"opened" = "已开启";
+
+"my_prize" = "中奖记录";
+
+"task_award_rule" = "活动规则";
+
+"task_award_locked" = "待解锁";
+
+"task_award_open_now" = "立即\n开启";
+
+"did_not_win" = "未中奖";
+
+"has_won" = "已中奖";
+
+"award_and_detail" = " 奖品：%@ %ld份 查看详情";
+
+"get_award" = "领取奖品";
+
+"award_event_end" = "活动已结束";
+
+"award_fill_success" = "中奖信息填写成功";
+
+"award_opened" = "抽奖已开启";
+
+"award_recipient" = "收件人";
+
+"award_still_lock" = "抽奖暂未解锁，继续努力～";
+
+"award_will_start" = "抽奖即将开启，请稍等～";
+
+"back_continue_award" = "返回继续抽奖";
+
+"award_no_need_fill" = "无需填写";
+
+"award_no_record_keep_going" = "暂无中奖记录，继续加油呀";
+
+"award_input_receiver" = "请输入姓名";
+
+"failed_open_please_retry_later" = "开启失败，请稍后再试";
+
+"award_award" = "奖品 ";
+
+"award_count_short" = "数量 ";
+
+"award_lost_empty_box" = "很遗憾，盒子里面空空的，再接再厉～";
+
+"award_win_prize" = "恭喜 %@ 抽中 %@";
+
+"award_award_comming" = "一大波奖品正向你袭来～";
+
+"award_go_get_award" = "前往领取奖品";
+
+"open_immediately" = "立即开启";
+
+"award_to_be_filled" = "待填写";
+
+"please_fill_receiver" = "请输入收件人";
+
+"share" = "分享";
+
+"no_product_yet" = "暂无商品";
+
+"search" = "搜索";
+
+"search_other_products" = "去搜索其他商品";
+
+"input_card_name_or_index" = "输入商品名称或序号";
+
+"立即参与" = "立即参与";
+
+"participate_successfully_and_wait_for_the_draw" = "参与成功，等待开奖";
+
+"congratulations_you_won_the_lottery" = "恭喜你，中奖啦";
+
+"cell_phone_number" = "手机号码";
+
+"submit_winning_information" = "提交中奖信息";
+
+"goods_receiving_information" = "收货信息";
+
+"modification" = "修改";
+
+"做任务参与抽奖" = "做任务参与抽奖";
+
+"至少提交%@个投票" = "至少提交%@个投票";
+
+"至少提交%@个问卷" = "至少提交%@个问卷";
+
+"至少提交%@道答题" = "至少提交%@道答题";
+
+"至少答对%@道答题" = "至少答对%@道答题";
+
+"至少提交%@个签到" = "至少提交%@个签到";
+
+"未完成" = "未完成";
+
+"已完成" = "已完成";
+
+"自动发送" = "自动发送";
+
+"完成全部任务即可参与" = "完成全部任务即可参与";
+
+"all-1" = "全部";
+
+"很遗憾，你未参与" = "很遗憾，你未参与";
+
+"card_see_explain" = "看讲解";
+
+"back_to_live" = "返回直播";
+
+"tvu_limit_gif_type_tip" = "图片不支持GIF格式，请重新上传";
+
+"gift_reward_effect_off" = "礼物特效关闭";
+
+"gift_reward_effect_on" = "礼物特效开启";
+
+"gift_reward_effect_switch" = "礼物特效";
+
+"gift_reward_free" = "免费";
+
+"gift_reward_not_enough" = "积分不足，无法打赏";
+
+"gift_reward_point" = "积分";
+
+"gift_reward_send" = "赠送";
+
+"gift_reward_service_exception" = "积分异常，请稍后重试";
+
+"gift_reward_title" = "礼物";
+
+"gift_sent_hint" = "送出";
+
+"请联系主办方领取奖品" = "请联系主办方领取奖品";
+
+"查看中奖名单" = "查看中奖名单";
+
+"仅展示前200名中奖观众" = "仅展示前200名中奖观众";
+
+"tvu_interact_tool" = "互动工具";
+
+"tvu_embedded_web_url" = "内嵌链接";
+
+"tvu_image_text" = "图文";
+
+"tvu_private_chat" = "私聊主播";
+
+"internet_unstable_switch_resolution" = "当前网络不稳定，建议切换到";
+
+"interact_tool_count" = "共 %zd 条互动内容";
+
+"tvu_shopping_car" = "购物车";
+
+"tvu_shopping_car_all" = "全部";
+
+"tvu_shopping_card" = "商品卡片";
+
+"tvu_save_local" = "保存本地";
+
+"tvu_exit_clear_screen" = "退出清屏";
+
+"tvu_no_more_goods" = "已逛完所有直播间宝贝";
+
+"输入项不能为空" = "输入项不能为空";
+
+"sign_in_successfully" = "签到成功";
+
+"已签到" = "已签到";
+
+"未签到" = "未签到";
+
+"签到" = "签到";
+
+"没有更多内容了" = "没有更多内容了";
+
+"people_count" = "人气";
+
+"no_private_chat_yet" = "暂无私聊";
+
+"buy_now" = "立即购买";
+
+"buying_now_" = "正在买";
+
+"here_it_comes_" = "来了";
+
+"hot_sale" = "热卖";
+
+"only_stock_left" = "库存仅剩";
+
+"ordered" = "已下单";
+
+"username_and_other_count_people_are_buying_item_index" = "%@等%ld人正在买%ld号商品";
+
+"username_and_other_count_people_have_placed_an_order_for_item_index" = "%@等%ld人已下单%ld号商品";
+
+"username_has_placed_an_order_for_item_index" = "%@已下单%ld号商品";
+
+"username_is_buying_item_index" = "%@正在买%ld号商品";
+
+"关注" = "关注";
+
+"已关注" = "已关注";
+
+"当前处于非Wi-Fi网络，播放将消耗流量" = "当前处于非Wi-Fi网络，播放将消耗流量";
+
+"评论过于频繁，请稍后再试" = "评论过于频繁，请稍后再试";
+
+"请输入你的昵称，开始互动～" = "请输入你的昵称，开始互动～";
+
+"请输入昵称" = "请输入昵称";
+
+"重试" = "重试";
+
+"the_current_account_is_logged_in_on_another_device" = "当前账号已在其他设备登录";
+
+"watching_has_been_suspended_due_to_disturbing_the_order_of_the_live_stream_" = "因扰乱直播间秩序，已暂停观看";
+
+"watching_has_been_suspended_due_to_long_absence_" = "因长时间未签到，已暂停观看";
+
+"keep_watching" = "继续观看";
+
+"sign_in_has_closed" = "签到已截止";
+
+"exit_live_room" = "退出直播间";
+
+"立即签到" = "立即签到";
+
+"in_order_to_avoid_suspending_watching_the_live_stream__please_complete_the_check" = "为避免暂停观看直播，请尽快完成签到";
+
+"确认不再关注了吗 ？" = "确认不再关注了吗 ？";
+
+"提交全部投票" = "提交全部投票";
+
+"提交全部答题" = "提交全部答题";
+
+"提交全部签到" = "提交全部签到";
+
+"提交全部问卷" = "提交全部问卷";
+
+"答对全部答题" = "答对全部答题";
+
+"email" = "邮箱";
+
+"email_hint" = "请输入邮箱";
+
+"fill_email" = "请输入正确的邮箱";
+
+"tvu_out_of_stock" = "已抢光";

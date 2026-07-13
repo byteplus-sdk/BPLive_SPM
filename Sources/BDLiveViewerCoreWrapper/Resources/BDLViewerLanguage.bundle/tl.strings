@@ -1,0 +1,668 @@
+
+"%ld人" = "%";
+
+"%ld票" = "% boto";
+
+"Confirm to quit the audience link" = "Sigurado ka bang aalis ka sa Lianmai?";
+
+"Flip camera" = "flip camera";
+
+"Linking, quti will colse link" = "Kasalukuyang nasa Lianmai, i-off ang live na Lianmai at aalis sa kasalukuyang Lianmai.";
+
+"Mute" = "i-mute";
+
+"Please go to System Settings to turn on relevant permissions." = "Mangyaring pumunta sa mga setting ng system upang paganahin ang mga nauugnay na pahintulot.";
+
+"Turn off the camera" = "i-off ang camera";
+
+"Turn on the camera" = "i-on ang camera";
+
+"Unmute" = "I-unmute";
+
+"all-1" = "lahat";
+
+"apply_link" = "Mag-apply para sa Lianmaizhong...";
+
+"audio_call" = "Audio mic";
+
+"available" = "maaaring i-on";
+
+"award" = "premyo:";
+
+"award_and_detail" = " Mga Premyo:% @% ld Tingnan ang mga detalye";
+
+"award_award" = "premyo ";
+
+"award_award_comming" = "Isang malaking alon ng mga premyo ang darating sa iyo ~";
+
+"award_count" = "Bilang ng mga premyo:% d";
+
+"award_count_short" = "dami ";
+
+"award_event_end" = "tapos na ang event";
+
+"award_fill_success" = "Matagumpay na napunan ang panalong impormasyon";
+
+"award_go_get_award" = "pumunta para kunin ang premyo";
+
+"award_info_input_hint" = "Mangyaring punan ang panalong impormasyon sa lalong madaling panahon upang maiwasang mawala ang premyo.";
+
+"award_info_input_title" = "Kumpletuhin ang panalong impormasyon";
+
+"award_input_receiver" = "mangyaring ilagay ang iyong pangalan";
+
+"award_join_fail_tip" = "Nabigo ang pakikilahok";
+
+"award_join_success_tip" = "Ang pakikilahok ay matagumpay, mangyaring matiyagang maghintay para sa lottery ~";
+
+"award_lost_empty_box" = "Sa kasamaang palad, ang kahon ay walang laman. Ipagpatuloy ang mabuting gawain ~";
+
+"award_no_need_fill" = "hindi na kailangang punan";
+
+"award_no_record_keep_going" = "Wala pang winning record, ituloy mo.";
+
+"award_opened" = "Nagsimula na ang draw";
+
+"award_recipient" = "tatanggap";
+
+"award_repeat_join_tip" = "Lumahok sa lotto";
+
+"award_result_dialog_tip" = "Ang karapatang bigyang-kahulugan at ibigay ang mga premyo ay pagmamay-ari ng sponsor.";
+
+"award_still_lock" = "Ang lottery ay hindi pa na-unlock, patuloy na magtrabaho nang husto ~";
+
+"award_to_be_filled" = "Punan";
+
+"award_will_start" = "Magsisimula na ang lottery draw, mangyaring maghintay ng ilang sandali ~";
+
+"award_win_prize" = "Congratulations% @ Draw% @";
+
+"award_winner_count" = "Isang kabuuang% ng mga nanalo ang nanalo ng premyo";
+
+"award_winner_hint" = "Dapat punan ng mga nanalong user ang panalong impormasyon sa pasukan ng interactive na tool - lottery sa lalong madaling panahon upang maiwasang mawalan ng mga premyo ~";
+
+"award_winner_hint_highlight" = "Mga Interactive na Tool - Lucky Draw";
+
+"award_winner_list" = "listahan ng mga nanalo";
+
+"back_continue_award" = "Bumalik upang ipagpatuloy ang lottery";
+
+"back_to_live" = "bumalik sa live";
+
+"buy_now" = "bumili ka na";
+
+"buying_now_" = "bumibili";
+
+"cancel" = "kanselahin";
+
+"cancel_request" = "kanselahin ang aplikasyon";
+
+"card_see_explain" = "basahin ang paliwanag";
+
+"cell_phone_number" = "numero ng telepono";
+
+"change_channel" = "lumipat ng channel";
+
+"change_language" = "lumipat ng wika";
+
+"clear_screen" = "malinaw na screen";
+
+"click_for_the_draw" = "I-click upang gumuhit";
+
+"click_one_click_join_btn_tip" = "Mag-click sa isang pag-click upang lumahok sa awtomatikong pagkumpleto";
+
+"click_replay" = "I-click upang i-replay";
+
+"click_too_fast" = "Ang bilis ng kamay ay masyadong mabilis, sandali ~";
+
+"comment_failed" = "Nabigo ang komento";
+
+"comment_report_abet_btn_text" = "Pinaghihinalaang / nag-udyok sa pagpapakamatay";
+
+"comment_report_advertise_btn_text" = "advertising";
+
+"comment_report_cheat_btn_text" = "pinaghihinalaan ng pandaraya";
+
+"comment_report_curse_btn_text" = "insultuhin mo ako o ang iba";
+
+"comment_report_edittext_hint" = "Pakilarawan nang detalyado ang dahilan ng ulat, upang matukoy ng platform kung ilegal ang komento.";
+
+"comment_report_other_btn_text" = "iba pa";
+
+"comment_report_post_btn_text" = "isumite";
+
+"comment_report_title_text" = "Mag-ulat ng mga komento";
+
+"comment_report_unlawful_btn_text" = "paglabag sa mga batas at regulasyon";
+
+"comment_report_vulgar_btn_text" = "bulgar na pornograpiya";
+
+"confirm" = "OK";
+
+"congratulations_to_for" = "Congratulations% @ Draw% @";
+
+"congratulations_you_won_the_lottery" = "Binabati kita, nanalo ka sa lotto.";
+
+"copy_link" = "kopyahin ang link";
+
+"copy_link_ok" = "Matagumpay na nakopya ang link";
+
+"count_down" = "countdown";
+
+"days" = "langit";
+
+"did_not_win" = "hindi nanalo";
+
+"disconnect mic" = "Idiskonekta ang mikropono";
+
+"draw" = "lottery";
+
+"duration_colon" = "napanood ";
+
+"email" = "Mail";
+
+"email_hint" = "Mangyaring mag-email";
+
+"end" = "wakas";
+
+"entered_live_room" = "sa live room";
+
+"exit_live_room" = "Lumabas sa live room";
+
+"fail_and_retry" = "Nabigo ang pagpapadala, pakisubukang muli";
+
+"failed_open_please_retry_later" = "Nabigo itong i-on, pakisubukang muli sa ibang pagkakataon";
+
+"fill_address" = "Mangyaring punan ang address ng pagpapadala";
+
+"fill_email" = "Mangyaring ilagay ang tamang email address";
+
+"fill_phone_number" = "Mangyaring ilagay ang tamang numero ng telepono";
+
+"fore_show" = "pansinin";
+
+"free_to_buy" = "Kunin ito nang libre";
+
+"get_award" = "tumanggap ng mga premyo";
+
+"getting_comments" = "Kumuha ng mga komento...";
+
+"gift_reward_effect_off" = "Naka-off ang epekto ng regalo";
+
+"gift_reward_effect_on" = "Naka-on ang espesyal na epekto ng regalo";
+
+"gift_reward_effect_switch" = "mga espesyal na epekto ng regalo";
+
+"gift_reward_free" = "libre";
+
+"gift_reward_not_enough" = "Hindi sapat na mga puntos upang gantimpalaan";
+
+"gift_reward_point" = "integral";
+
+"gift_reward_send" = "regalo";
+
+"gift_reward_service_exception" = "Abnormal ang mga puntos, pakisubukang muli sa ibang pagkakataon";
+
+"gift_reward_title" = "regalo";
+
+"gift_sent_hint" = "Ipadala";
+
+"goods_receiving_information" = "pagtanggap ng impormasyon";
+
+"got_it" = "nakuha ko";
+
+"has_won" = "nanalo ng premyo";
+
+"here_it_comes_" = "pagdating";
+
+"host" = "host";
+
+"host_changed_nickname" = "Binago ng moderator ang iyong palayaw";
+
+"host_close_audio" = "Pinatay ng moderator ang iyong mikropono";
+
+"host_close_audio_and_video" = "Pinatay ng moderator ang iyong mikropono at camera";
+
+"host_close_video" = "Pinatay ng moderator ang iyong camera";
+
+"host_open_audio" = "Humihiling ang moderator na i-on ang iyong mikropono";
+
+"host_open_audio_and_video" = "Humihiling ang moderator na i-on ang iyong mikropono at camera";
+
+"host_open_video" = "Humihiling ang moderator na i-on ang iyong camera";
+
+"host_set_link_mute" = "Itinakda ng host na i-mute ang lahat ng staff.";
+
+"hot_sale" = "mainit na sale";
+
+"hours" = "kailan";
+
+"i_know" = "Nakita ko";
+
+"in_order_to_avoid_suspending_watching_the_live_stream__please_complete_the_check" = "Upang maiwasang masuspinde ang panonood ng live na broadcast, mangyaring mag-sign in sa lalong madaling panahon.";
+
+"input_card_name_or_index" = "Ilagay ang pangalan ng produkto o serial number";
+
+"input_phone_number" = "Mangyaring ilagay ang iyong numero ng telepono";
+
+"input_receiving_address" = "Mangyaring ilagay ang address ng pagpapadala";
+
+"interact_tool_count" = "Kabuuang% zd interactive na nilalaman";
+
+"internet_unstable_switch_resolution" = "Ang kasalukuyang network ay hindi matatag, inirerekumenda na lumipat sa";
+
+"invalid_nickname" = "ilegal ang palayaw";
+
+"join_requirement" = "mga kondisyon ng pakikilahok";
+
+"keep_watching" = "ipagpatuloy ang panonood";
+
+"like_failed" = "Nabigo ang like";
+
+"link failed" = "Nabigo si Lianmai";
+
+"link_end_tip" = "Tinapos ang Lianmai";
+
+"live" = "live streaming";
+
+"live_description" = "live na paglalarawan";
+
+"live_end_tip" = "Tapos na ang live broadcast";
+
+"live_interactive" = "Live na pakikipag-ugnayan";
+
+"live_not_allowed_mobile_watch" = "Hindi pinapayagan ang panonood sa mobile sa live broadcast room";
+
+"live_start_countdown" = "May oras pa bago magsimula ang live broadcast.";
+
+"liveroom_qrcode" = "QR code sa live room";
+
+"long_click_save_picture" = "Pindutin nang matagal upang i-save ang larawan";
+
+"long_click_save_qrcode" = "Pindutin nang matagal upang i-save ang QR code at ibahagi ito sa iyong mga kaibigan ~";
+
+"lose_award_tip" = "Sa kasamaang palad, hindi ka nanalo sa lotto ~";
+
+"lottery_drawn" = "iginuhit";
+
+"lottery_will_open" = "Malapit na";
+
+"me" = "ako";
+
+"minutes" = "minuto";
+
+"minutes2" = "minuto";
+
+"modification" = "Baguhin";
+
+"more" = "Higit pa";
+
+"my_prize" = "panalong record";
+
+"net_abnormal" = "Abnormal ang network, pakisubukang muli";
+
+"net_error_btn_text" = "subukan muli";
+
+"net_error_portrait_btn_text" = "I-refresh at subukang muli";
+
+"net_error_text" = "Ang kasalukuyang network ay hindi magagamit, mangyaring suriin ang koneksyon sa network at subukang muli";
+
+"nick_name_cannot_be_blank" = "Ang mga palayaw ay hindi maaaring walang laman!";
+
+"nick_name_dialog_hint_text" = "Mangyaring ilagay ang iyong palayaw upang simulan ang pakikipag-ugnayan ~";
+
+"no_comments" = "Wala pang komento";
+
+"no_more_historical_comments" = "wala nang makasaysayang pagsusuri";
+
+"no_one_participate_award" = "Walang sumali sa raffle";
+
+"no_private_chat_yet" = "Walang pribadong chat";
+
+"no_product_yet" = "Wala pang produkto";
+
+"non_wifi_btn_text" = "ipagpatuloy ang paglalaro";
+
+"one_click_join" = "Isang-click na pakikilahok";
+
+"only_stock_left" = "stock na lang ang natitira";
+
+"open_immediately" = "buksan mo na";
+
+"opened" = "naka-on";
+
+"ordered" = "Nailagay na ang order";
+
+"participate_successfully_and_wait_for_the_draw" = "Matagumpay na lumahok, naghihintay para sa lottery";
+
+"participated" = "nakilahok";
+
+"participated_count" = "Lumahok sa%";
+
+"people_count" = "kasikatan";
+
+"phone_number" = "numero ng telepono";
+
+"pinned" = "itaas";
+
+"pinned_content" = "nangungunang nilalaman";
+
+"play_back" = "playback";
+
+"playback" = "playback";
+
+"please_enter_the_correct_email" = "Mangyaring ilagay ang tamang email address";
+
+"please_enter_the_correct_phone_number" = "Mangyaring ilagay ang tamang numero ng mobile phone";
+
+"please_fill_receiver" = "Mangyaring ipasok ang tatanggap";
+
+"please_input_question_answer" = "Mangyaring ipasok ang nilalaman ng tanong";
+
+"please_select_an_image_with_a_size_less_than_8m" = "Mangyaring pumili ng isang larawan na may sukat na mas mababa sa 8M";
+
+"presenter" = "Tagapagsalita";
+
+"pull_to_load_more_comments" = "Mag-scroll pababa upang mag-load ng higit pang mga komento";
+
+"pulling_historical_comments_limit" = "Ang paghila ng mga makasaysayang komento ay umabot na sa pinakamataas na limitasyon";
+
+"questionnaire_answer_required" = "Ito ay kinakailangan";
+
+"questionnaire_filled" = "Napunan mo na ang talatanungan, salamat sa iyong pakikilahok";
+
+"questionnaire_string" = "talatanungan";
+
+"receiving_address" = "address ng pagpapadala";
+
+"redirect_to_time" = "ay nakaposisyon para sa iyo";
+
+"register_success" = "matagumpay na pagpaparehistro";
+
+"release_to_load_more_comments" = "Bitawan at i-load ang higit pang mga komento";
+
+"replay" = "replay";
+
+"replay_comment" = "Sumagot";
+
+"report_comment" = "ulat";
+
+"report_error" = "Nabigo ang ulat";
+
+"report_success" = "Matagumpay na naisumite, salamat sa iyong feedback";
+
+"request_link" = "Mag-apply para sa Lianmai";
+
+"requesting" = "Aplikasyon...";
+
+"reservation_fail" = "Nabigo ang appointment";
+
+"reservation_now" = "Mag-book na";
+
+"reservation_success" = "Matagumpay ang appointment";
+
+"reservationed" = "nakareserba";
+
+"resolution_auto" = "matalino";
+
+"resolution_bd" = "Blu-ray";
+
+"resolution_hd" = "HD";
+
+"resolution_ld" = "makinis";
+
+"resolution_origin" = "orihinal na pagpipinta";
+
+"resolution_sd" = "karaniwang malinaw";
+
+"resolution_select" = "pagpili ng kalinawan";
+
+"resolution_title" = "pagpili ng kalinawan";
+
+"resolution_uhd" = "napakalinaw";
+
+"save_picture" = "i-save ang larawan";
+
+"save_picture_failed" = "Nabigong i-save ang larawan";
+
+"save_picture_ok" = "Ang larawan ay nai-save sa album";
+
+"screen sharing" = "pagbabahagi ng screen";
+
+"search" = "paghahanap";
+
+"search_other_products" = "upang maghanap ng iba pang mga produkto";
+
+"seconds" = "segundo";
+
+"send" = "ipadala";
+
+"send_comment_no_enable" = "Hindi pa bukas ang chat";
+
+"send_danmaku_key" = "I-publish ang barrage password:";
+
+"send_image_fail" = "Nabigong magpadala ng larawan";
+
+"send_image_to_chat" = "magpadala ng mga larawan sa chat";
+
+"share" = "ibahagi";
+
+"sign_in_has_closed" = "Natapos na ang pag-sign in";
+
+"sign_in_successfully" = "Matagumpay na mag-sign in";
+
+"speed" = "dobleng bilis";
+
+"speed_play" = "dobleng bilis ng pag-playback";
+
+"speed_toast" = "Naka-on ang% s double speed playback para sa iyo";
+
+"submit_failed" = "Nabigo ang pagsusumite";
+
+"submit_winning_information" = "Isumite ang panalong impormasyon";
+
+"submitted_success" = "matagumpay na naisumite";
+
+"task_award_locked" = "para ma-unlock";
+
+"task_award_open_now" = "i-on ang\ n ngayon";
+
+"task_award_rule" = "mga panuntunan sa aktibidad";
+
+"the_current_account_is_logged_in_on_another_device" = "Ang kasalukuyang account ay naka-log in sa iba pang mga device.";
+
+"tips" = "pahiwatig";
+
+"tvu_award_result" = "panalong resulta";
+
+"tvu_embedded_web_url" = "Mga naka-embed na link";
+
+"tvu_exit_clear_screen" = "Lumabas sa Clear Screen";
+
+"tvu_generate_poster" = "Bumuo ng poster";
+
+"tvu_generate_qrcode" = "Bumuo ng QR code";
+
+"tvu_image_text" = "graphic";
+
+"tvu_interact_tool" = "interactive na tool";
+
+"tvu_invite_watch_live" = "Anyayahan kang manood ng live na broadcast nang magkasama";
+
+"tvu_limit_gif_type_tip" = "Hindi sinusuportahan ng larawan ang format na GIF, mangyaring muling i-upload";
+
+"tvu_long_press_to_view" = "Pindutin nang matagal upang matukoy ang QR code para mapanood";
+
+"tvu_no_more_goods" = "Na-browse ko na lahat ng live broadcast rooms, baby.";
+
+"tvu_out_of_stock" = "sold out";
+
+"tvu_private_chat" = "pribadong chat anchor";
+
+"tvu_save_local" = "i-save nang lokal";
+
+"tvu_shopping_car" = "shopping cart";
+
+"tvu_shopping_car_all" = "lahat";
+
+"tvu_shopping_card" = "card ng produkto";
+
+"username_and_other_count_people_are_buying_item_index" = "% @ wait% Ang mga taong may hawak ay bumibili ng% ld na mga produkto";
+
+"username_and_other_count_people_have_placed_an_order_for_item_index" = "% @ et al.% ng mga tao ang nag-order para sa% ng mga produkto.";
+
+"username_has_placed_an_order_for_item_index" = "% @ ay nag-order ng% ld na produkto";
+
+"username_is_buying_item_index" = "% @ ay bumibili ng% ld na produkto";
+
+"video_call" = "Video Lianmai";
+
+"w" = "Sampung libo";
+
+"warm_tips" = "Paalala";
+
+"watching_has_been_suspended_due_to_disturbing_the_order_of_the_live_stream_" = "Dahil sa pagkagambala sa pagkakasunud-sunod ng live broadcast room, nasuspinde ang panonood.";
+
+"watching_has_been_suspended_due_to_long_absence_" = "Nasuspinde ang panonood dahil matagal na itong hindi napirmahan.";
+
+"win_and_watch" = "Manood ng live at manalo ng mga premyo";
+
+"win_award_tip" = "Binabati kita, nakuha mo ang premyo";
+
+"winning_info_completed" = "Nakumpleto na ang panalong impormasyon";
+
+"you_have_been_muted" = "pinagbawalan ka";
+
+"仅展示前200名中奖观众" = "Tanging ang nangungunang 200 nanalong manonood ang ipapakita";
+
+"你的答案：" = "ang sagot mo:";
+
+"做任务参与抽奖" = "Gumawa ng mga gawain at lumahok sa lottery";
+
+"公告" = "anunsyo";
+
+"关注" = "tumutok sa";
+
+"单选" = "solong pagpipilian";
+
+"去参加" = "upang makilahok";
+
+"参与" = "Makilahok";
+
+"参与答题" = "Makilahok sa pagsagot sa mga tanong";
+
+"回答正确" = "tamang sagot";
+
+"回答错误" = "maling sagot";
+
+"多选" = "maramihang pagpipilian";
+
+"完成全部任务即可参与" = "Kumpletuhin ang lahat ng mga gawain upang makilahok";
+
+"实际参与人数：%d人" = "Aktwal na bilang ng mga kalahok:% d tao";
+
+"已关注" = "Sinundan";
+
+"已完成" = "nakumpleto";
+
+"已投票" = "bumoto";
+
+"已提交" = "isinumite";
+
+"已提交，请等待公布答案" = "Naisumite na, mangyaring maghintay para sa anunsyo ng sagot";
+
+"已签到" = "naka-sign in";
+
+"已结束" = "natapos";
+
+"当前处于非Wi-Fi网络，播放将消耗流量" = "Kasalukuyang nasa isang non-Wi-Fi network, ang pag-playback ay kumonsumo ng trapiko";
+
+"很遗憾，你未参与" = "Sa kasamaang palad, hindi ka kasali";
+
+"投票" = "bumoto";
+
+"投票已截止" = "Natapos na ang pagboto";
+
+"提交全部投票" = "Isumite ang lahat ng boto";
+
+"提交全部答题" = "Isumite ang lahat ng mga sagot";
+
+"提交全部签到" = "Isumite ang lahat ng check-in";
+
+"提交全部问卷" = "Isumite ang lahat ng mga talatanungan";
+
+"提交投票" = "magsumite ng boto";
+
+"未作答" = "walang sagot";
+
+"未完成" = "hindi natapos";
+
+"未签到" = "hindi naka-sign in";
+
+"查看中奖名单" = "Tingnan ang listahan ng mga nanalo";
+
+"查看结果" = "tingnan ang mga resulta";
+
+"查看详情" = "suriin ang mga detalye";
+
+"正确答案：" = "tamang sagot:";
+
+"没有更多内容了" = "wala nang nilalaman";
+
+"点击参与" = "i-click upang lumahok";
+
+"点击参加" = "i-click para lumahok";
+
+"直播间发起了一场抽奖" = "Isang lucky draw ang inilunsad sa live broadcast room.";
+
+"看结果" = "tingnan ang resulta";
+
+"确认不再关注了吗 ？" = "Sigurado ka bang hindi mo na pinapansin?";
+
+"确认提交" = "Kumpirmahin ang pagsusumite";
+
+"立即参与" = "makilahok ngayon";
+
+"立即签到" = "mag-sign in ngayon";
+
+"答对全部答题" = "Sagutin ng tama ang lahat ng tanong";
+
+"答案解析：" = "Pagsusuri ng sagot:";
+
+"答题已截止" = "Natapos na ang pagsagot sa mga tanong";
+
+"签到" = "mag-sign in";
+
+"继续观看直播" = "patuloy na manood ng live";
+
+"自动发送" = "awtomatikong pagpapadala";
+
+"至少提交%@个投票" = "Magsumite ng hindi bababa sa% @ isang boto";
+
+"至少提交%@个签到" = "Magsumite ng hindi bababa sa% @ isang sign-in";
+
+"至少提交%@个问卷" = "Magsumite ng hindi bababa sa% @ questionnaire";
+
+"至少提交%@道答题" = "Magsumite ng hindi bababa sa% @ Dao na sagot";
+
+"至少答对%@道答题" = "Sagutin ng tama ang hindi bababa sa% @ Dao Sagutin ang tanong";
+
+"讲解中" = "nagpapaliwanag";
+
+"评论过于频繁，请稍后再试" = "Masyadong madalas ang mga komento, pakisubukang muli sa ibang pagkakataon";
+
+"请联系主办方领取奖品" = "Mangyaring makipag-ugnayan sa organizer upang i-claim ang premyo";
+
+"请输入你的昵称，开始互动～" = "Mangyaring ilagay ang iyong palayaw upang simulan ang pakikipag-ugnayan ~";
+
+"请输入昵称" = "mangyaring ilagay ang palayaw";
+
+"请选择您的选项" = "Mangyaring piliin ang iyong opsyon";
+
+"距答题截止" = "Deadline para sa pagsagot sa mga tanong";
+
+"输入项不能为空" = "Ang input item ay hindi maaaring walang laman";
+
+"进行中" = "isinasagawa";
+
+"重试" = "subukan ulit";

@@ -1,0 +1,954 @@
+
+"1080p" = "Blu-ray 1080p";
+
+"480p" = "SD 480p";
+
+"540p" = "Высокое определение 540p";
+
+"720p" = "Ультра прозрачный 720p";
+
+"abandoned_after_exiting" = "После выхода все текущие операции будут прерваны";
+
+"alert_close_live" = "Вы уверены, что закроете прямую трансляцию?";
+
+"alert_emoji_not_support" = "Ввод эмодзи пока не поддерживается.";
+
+"alert_flash_lamp_error" = "Извините, получение разрешений на flash не удалось.";
+
+"alert_max_15" = "Введите до 15 символов";
+
+"alert_max_200" = "Введите до 200 символов";
+
+"alert_msg_screen_switch" = "Ориентация экрана прямой трансляции вот-вот изменится. Вы хотите переключиться?";
+
+"alert_msg_screen_switch_camera" = "Ориентация экрана прямой трансляции вот-вот изменится, и кулон на холсте изменится. Вы хотите переключиться?";
+
+"alert_no_camera" = "Я не получил разрешение камеры. Вы хотите предоставить %@ разрешение в настройках?";
+
+"alert_no_microphone" = "Я не получил разрешение на микрофон. Вы хотите предоставить %@ это разрешение в настройках?";
+
+"alert_no_photo_library" = "Не получили разрешение на альбом, перейдите в настройки, чтобы предоставить %@ разрешение?";
+
+"alert_only_rear_camera" = "Вспышка разрешена только в сценах задней камеры";
+
+"alert_screen_switch" = "Подсказки переключения экрана";
+
+"apply_now" = "используйте немедленно";
+
+"back" = "возвращение";
+
+"basic_information" = "основная информация";
+
+"basic_information_add_label" = "добавь";
+
+"basic_information_cover_label_%ld" = "Поддерживаемые форматы: JPG и PNG. Размер файла: не более %ld МБ.";
+
+"basic_information_description_switch_label" = "Покажите описание прямого эфира в прямом эфире.";
+
+"basic_information_description_textview_label" = "Опишите контент";
+
+"basic_information_description_textview_placeholder" = "Введите описание прямой трансляции";
+
+"basic_information_edit_label" = "редактировать";
+
+"basic_information_live_tag" = "Классификация прямых трансляций";
+
+"basic_information_live_tag_changed_error" = "Классификация прямых трансляций обновлена, попробуйте еще раз.";
+
+"basic_information_live_tag_count" = "%d один";
+
+"basic_information_live_tag_empty_title" = "Нет альтернативных категорий";
+
+"basic_information_live_title_textview_placeholder" = "Введите название прямой трансляции";
+
+"basic_information_nav_account_avatar" = "аватар аккаунта";
+
+"basic_information_nav_account_name" = "название аккаунта";
+
+"basic_information_nav_cover" = "изображение обложки";
+
+"basic_information_nav_description" = "Описание прямой трансляции";
+
+"basic_information_nav_live_title" = "Название прямой трансляции";
+
+"beauty" = "Красотка";
+
+"big_eyes" = "Большие глаза";
+
+"camera_live" = "видео";
+
+"cancel" = "отменить";
+
+"caton" = "Карта";
+
+"change_avatar" = "изменить";
+
+"choose_sharpness" = "Выберите определение";
+
+"clean" = "четкий экран";
+
+"clear" = "ясно";
+
+"clear_pendants_layer" = "Пустой кулон";
+
+"click_to_edit_template_name" = "Название шаблона Нажмите для редактирования";
+
+"closing_live_streaming" = "Прямая трансляция закрыта, подождите, пожалуйста.";
+
+"comment_input_placeholder" = "Поговорите со всеми";
+
+"confirm" = "ОК";
+
+"confirm_delete_template" = "Вы уверены, что хотите удалить шаблон?";
+
+"confirm_delete_widget_and_layer" = "Подтвердить удаление кулона? После удаления слой, использующий кулон, также будет удален.";
+
+"confirm_exit" = "Подтвердить отказ?";
+
+"confirm_switch" = "Подтвердите передачу";
+
+"create_template" = "новый шаблон";
+
+"delete" = "удаляю";
+
+"delete_all_comment" = "Подтвердить удаление всех комментариев?";
+
+"delete_comment" = "Ясные комментарии";
+
+"delete_string" = "удаляю";
+
+"delete_template_pendent_warning" = "Кулон принадлежит шаблону %@ . После удаления шаблон необходимо загрузить снова. Подтвердить удаление?";
+
+"download" = "скачать";
+
+"download_now" = "Скачать сейчас";
+
+"exit" = "брось";
+
+"filter" = "фильтр";
+
+"flash_lamp" = "вспышка";
+
+"flip" = "флип";
+
+"go_edit" = "Чтобы редактировать";
+
+"go_setting" = "Перейти в настройки";
+
+"good" = "Хороший";
+
+"has_update" = "Есть обновление.";
+
+"i_got_it" = "О, я понимаю.";
+
+"image_size_over_%dM_need_reselect" = "Размер изображения превышает %dM, пожалуйста, загрузите заново";
+
+"is_empty" = "пусто";
+
+"landscape" = "горизонтальный экран";
+
+"layer" = "Слой";
+
+"live_end_start_tip" = "Прямая трансляция закончилась. Если вам нужно начать ее снова, пожалуйста, сбросьте время прямой трансляции.";
+
+"live_has_been_started" = "Прямая трансляция вышла в эфир и не может быть запущена.";
+
+"live_head_online_label" = "%ld онлайн";
+
+"live_room_name_cannot_be_blank" = "Имя прямого эфира не может быть пустым.";
+
+"live_time_left" = "%02ld осталось до конца прямого эфира: %02ld: %02ld";
+
+"media" = "медиафайл";
+
+"mirror" = "зеркальное отражение";
+
+"more" = "больше";
+
+"msg_net_error" = "Ошибка сетевого запроса. Пожалуйста, попробуйте еще раз";
+
+"msg_net_error_extra_long" = "Входной символ слишком длинный, пожалуйста, введите его еще раз.";
+
+"mute" = "немой";
+
+"narrow_face" = "узкое лицо";
+
+"net_abnormal" = "аномалия сети";
+
+"net_error_btn_text" = "Повторить";
+
+"net_error_text" = "Текущая сеть недоступна, пожалуйста, проверьте сетевое соединение и попробуйте еще раз";
+
+"network_request_error" = "Ошибка сетевого запроса";
+
+"nick_name_cannot_be_blank" = "Ник не может быть пустым!";
+
+"no" = "отменить";
+
+"no_template" = "Пока нет шаблона";
+
+"off_line" = "Нет сети";
+
+"only_support_20_layer" = "Поддерживает до 20 слоев.";
+
+"pendants" = "Кулон";
+
+"pendants_layer" = "Слой";
+
+"pendants_layer_camera" = "Портретный слой";
+
+"pendants_layer_clear_alert_clear" = "пусто";
+
+"pendants_layer_clear_alert_title" = "Вы уверены, что опорожните все подвески?";
+
+"pendants_layer_down" = "Двигайтесь вниз";
+
+"pendants_layer_hide" = "спрятать";
+
+"pendants_layer_show" = "показать";
+
+"pendants_layer_tips" = "Длительное нажатие для быстрого перетаскивания слоя для корректировки порядка ~";
+
+"pendants_layer_up" = "двигаться вверх";
+
+"please_input" = "Пожалуйста, введите (в течение 15 символов)";
+
+"popularity" = "популярность";
+
+"portrait" = "портретный экран";
+
+"products" = "Сумка для покупок";
+
+"products_add_added" = "Добавлено";
+
+"products_add_added_des" = "Ваш продукт был добавлен.";
+
+"products_add_addnew" = "новый";
+
+"products_add_done" = "Завершено.";
+
+"products_add_shop_cross_text" = "Первоначальная цена товара";
+
+"products_add_shop_highlight" = "Текущая цена";
+
+"products_add_shop_image" = "Добавить изображение обложки";
+
+"products_add_shop_image_des" = "Рекомендуется загружать соотношение 1: 1, чтобы изображение не растягивалось.";
+
+"products_add_shop_name" = "Название продукта";
+
+"products_add_shop_name_placeholder" = "Пожалуйста, введите название продукта";
+
+"products_add_shop_price_placehoder" = "Пожалуйста, введите цену продукта.";
+
+"products_add_shop_url" = "ссылка на продукт";
+
+"products_add_shop_url_placeholder" = "http: /";
+
+"products_add_submit" = "представить";
+
+"products_can_not_pin_tip" = "Текущий продукт не имеет добавленных изображений и не может быть обновлен.";
+
+"products_cancel_pin" = "Отменить топ";
+
+"products_checkmark" = "пакетная операция";
+
+"products_confirm_delete" = "Вы подтверждаете удаление?";
+
+"products_confirm_delete_content" = "Продукт не может быть восстановлен после удаления, пожалуйста, действуйте осторожно.";
+
+"products_delete_count" = "Исключить (%ld)";
+
+"products_edit" = "редактировать";
+
+"products_edit_title" = "Редактировать продукт";
+
+"products_empty" = "На текущую карту товары не добавлены.";
+
+"products_empty_tip" = "Нажмите Добавить продукт";
+
+"products_filter" = "фильтр";
+
+"products_info_changed_error" = "Текущая информация о продукте списка была обновлена, пожалуйста, попробуйте еще раз.";
+
+"products_list" = "поставить на полки";
+
+"products_more" = "больше";
+
+"products_number_count" = "Всего %ld товаров";
+
+"products_order" = "отрегулировать порядок";
+
+"products_pin_to_top" = "топ";
+
+"products_quantity_limit_error" = "Текущий список продуктов достиг максимального количества продуктов 500. Пожалуйста, удалите некоторые продукты и продолжайте их добавлять.";
+
+"products_reorder_guide" = "Нажмите и перетащите изображение, чтобы настроить заказ продукта.";
+
+"products_reset" = "сброс";
+
+"products_search" = "Поиск";
+
+"products_search_empty" = "Сопутствующие товары не найдены.";
+
+"products_search_placeholder" = "Пожалуйста, введите название продукта";
+
+"products_select_all" = "Выбрать все";
+
+"products_sure" = "подтвердить";
+
+"products_sure_count" = "Подтверждение (%ld)";
+
+"products_title" = "продукт в прямом эфире";
+
+"products_unlist" = "с полки";
+
+"prompt" = "подсказка";
+
+"props" = "проп";
+
+"replay_comment" = "ответь";
+
+"resolution" = "ясность";
+
+"rotate_to_landscape_to_apply_template" = "Текущая прямая трансляция находится в портретном режиме, вы обязательно переключитесь на альбомный экран и примените этот шаблон?";
+
+"rotate_to_portrait_to_apply_template" = "Текущая прямая трансляция находится в ландшафтном режиме. Вы обязательно переключитесь на портретный экран и примените этот шаблон?";
+
+"rotate_to_save_landscape" = "О переходе в ландшафтный режим и создании нового шаблона";
+
+"rotate_to_save_portrait" = "О переходе в портретный режим и создании нового шаблона";
+
+"save" = "спасите";
+
+"save_error" = "Ошибка сохранения, попробуйте еще раз";
+
+"save_landscape_template" = "Вы уверены, что хотите сохранить как горизонтальный шаблон?";
+
+"save_portrait_template" = "Вы уверены, что сохраните как шаблон портрета?";
+
+"save_success" = "Успешно сохранила";
+
+"screen_live" = "запись экрана";
+
+"screen_share_hint" = "После начала прямой трансляции аудитория будет видеть контент на экране вашего телефона в режиме реального времени.";
+
+"screen_sharing_hint" = "Во время записи экрана вы можете переключаться на другие интерфейсы мобильного телефона для прямой трансляции.";
+
+"skin_grinding" = "дермабразия";
+
+"smooth_live_only_support_10_gif" = "Чтобы обеспечить плавную прямую трансляцию, поддерживается только 10 GIF-изображений.";
+
+"start_live" = "Начать прямую трансляцию";
+
+"start_live_fail" = "Не удалось выйти в прямой эфир, попробуйте еще раз";
+
+"sweep_to_switch" = "Слайд влево и вправо для переключения шаблонов";
+
+"template" = "шаблон";
+
+"template_can_not_save_without_name" = "Незаполненное имя шаблона не может быть сохранено";
+
+"template_delete_hint" = "После удаления шаблона другие пользователи не смогут его использовать";
+
+"template_download_first" = "Сначала загрузите шаблон, а затем отредактируйте его.";
+
+"template_has_update_click_to_download" = "Шаблон обновлен, нажмите, чтобы скачать.";
+
+"template_not_exist" = "Шаблон не существует или был удален";
+
+"template_save_hint" = "Красота, реквизит, кулоны и настройки слоев будут сохранены вместе как шаблоны.";
+
+"text" = "Текст";
+
+"thin_cheekbones" = "скулы постные";
+
+"thin_face" = "Тонкое лицо";
+
+"thin_mandible" = "постная нижняя челюсть";
+
+"thin_nose" = "Тощий нос";
+
+"toast_landscape_live" = "Переключен на LIVE в ландшафтном режиме, экран отображается горизонтально";
+
+"toast_portrait_live" = "Он был переключен на прямой эфир в портретном режиме, а экран отображается вертикально.";
+
+"ttlv_pendents_upload" = "Загрузить изображение";
+
+"tvu_product_library_please_search" = "Искать сейчас";
+
+"tvu_product_library_search_tip" = "После ввода поискового контента отобразите результаты поиска";
+
+"tvu_push_product_lib_response_error" = "Ошибка возврата, пожалуйста, проверьте возвращаемое содержимое";
+
+"tvu_push_product_lib_timeout" = "запрос истек";
+
+"tvupush_product_add_library" = "Добавить из библиотеки продуктов";
+
+"tvupush_product_library_add" = "добавь";
+
+"tvupush_product_library_search_result_empty" = "Нет элементов, соответствующих текущим критериям поиска";
+
+"tvupush_product_library_uncorrelated" = "К этой прямой трансляции не связана библиотека продуктов.";
+
+"tvupush_product_most_product_added" = "Добавить до 500 товаров";
+
+"tvupush_product_no_products_yet" = "Нет товаров";
+
+"tvupush_product_title_add" = "Добавить продукт";
+
+"tvupush_send_success" = "Отправлено успешно";
+
+"tvupush_start_time_not_yet_toast" = "Время прямой трансляции не пришло, пожалуйста, начните прямую трансляцию после времени начала прямой трансляции.";
+
+"unknown" = "неизвестный";
+
+"unsupport_gif_warning" = "Формат GIF не поддерживается, перезалей пожалуйста";
+
+"unsupport_rotate_to_landscape_hint" = "Шаблоны, не поддерживающие переключение ландшафтного режима в Go LIVE";
+
+"unsupport_rotate_to_portrait_hint" = "Шаблоны, не поддерживающие переключение портретного режима в Go LIVE";
+
+"unsupported_broadcast_title" = "Текущая версия сервиса не поддерживает запуск.";
+
+"unsupported_feature_title" = "Текущая версия сервиса не поддерживает эту функцию";
+
+"unsupported_version_message" = "Текущая версия учетной записи не поддерживает эту функцию, пожалуйста, свяжитесь со службой поддержки для обновления версии службы.";
+
+"whitening" = "отбеливание";
+
+"俄语" = "Русский";
+
+"印尼语" = "индонезийский";
+
+"土耳其语" = "Турецкий";
+
+"日文" = "Японцы";
+
+"泰语" = "тайский";
+
+"简中" = "Упрощенный китайский";
+
+"繁中" = "Традиционный китайский";
+
+"英文" = "Английский";
+
+"葡萄牙语" = "Португальский";
+
+"西班牙语" = "Испанский";
+
+"越南语" = "вьетнамцы";
+
+"阿拉伯语" = "Арабский";
+
+"韩语" = "Корейский";
+
+"tvupush_filter_01" = "мягкий белый";
+
+"tvupush_filter_02" = "сливки";
+
+"tvupush_filter_03" = "кислород";
+
+"tvupush_filter_04" = "Платикодон";
+
+"tvupush_filter_05" = "Лолита";
+
+"tvupush_filter_06" = "персик";
+
+"tvupush_filter_07" = "Макарон";
+
+"tvupush_filter_08" = "пена";
+
+"tvupush_filter_09" = "вишневый цвет";
+
+"tvupush_filter_10" = "Светло тёплый";
+
+"tvupush_filter_11" = "История";
+
+"tvupush_filter_12" = "Хоккайдо";
+
+"tvupush_filter_13" = "Разное";
+
+"tvupush_filter_14" = "Сиэтл";
+
+"tvupush_filter_15" = "тихо";
+
+"tvupush_filter_16" = "фильм";
+
+"tvupush_filter_17" = "Теплое солнце";
+
+"tvupush_filter_18" = "старые времена";
+
+"tvupush_filter_19" = "красные губы";
+
+"tvupush_filter_20" = "Оранжевый блюз";
+
+"tvupush_filter_21" = "исчезать";
+
+"tvupush_filter_22" = "черно-белое";
+
+"tvupush_filter_23" = "нежный";
+
+"tvupush_filter_24" = "Любовь супер сладкая";
+
+"tvupush_filter_25" = "первый взгляд";
+
+"tvupush_filter_26" = "Тёмный тон";
+
+"tvupush_filter_27" = "Молочный чай";
+
+"tvupush_filter_28" = "Мягкий";
+
+"tvupush_filter_29" = "закат";
+
+"tvupush_filter_30" = "Холодный кислород";
+
+"tvupush_filter_31" = "Портрет у моря";
+
+"tvupush_filter_32" = "Премиум серый";
+
+"tvupush_filter_33" = "остров";
+
+"tvupush_filter_34" = "Лёгкое лето";
+
+"tvupush_filter_35" = "ночь";
+
+"tvupush_filter_36" = "красный коричневый";
+
+"tvupush_filter_37" = "Чисто";
+
+"tvupush_filter_38" = "Природа";
+
+"tvupush_filter_39" = "сода";
+
+"tvupush_filter_40" = "Калифорния";
+
+"tvupush_filter_41" = "пищевой цвет";
+
+"tvupush_filter_42" = "Сычуаньский вкус";
+
+"tvupush_filter_43" = "Американский фильм";
+
+"tvupush_filter_44" = "Красное ретро";
+
+"tvupush_filter_45" = "путешествие";
+
+"tvupush_filter_46" = "Теплый желтый";
+
+"tvupush_filter_47" = "Блюз фильм";
+
+"tvupush_filter_48" = "Холодная белая кожа";
+
+"tvupush_filter_49" = "полупрозрачный";
+
+"tvupush_filter_50" = "Ярко-оранжевый";
+
+"tvupush_filter_51" = "орех";
+
+"tvupush_filter_52" = "темно-коричневый";
+
+"tvupush_filter_53" = "Дракула";
+
+"tvupush_filter_54" = "бордовый";
+
+"tvupush_filter_55" = "Кокосовая роща";
+
+"tvupush_filter_56" = "Горячая еда";
+
+"tvupush_filter_57" = "Газированная вода";
+
+"tvupush_filter_58" = "готовка";
+
+"tvupush_filter_59" = "сжигание древесного угля";
+
+"tvupush_filter_60" = "Киото";
+
+"tvupush_filter_61" = "побережье";
+
+"tvupush_filter_62" = "Грин Ян";
+
+"tvupush_filter_63" = "Вечерняя Вишня";
+
+"tvupush_filter_64" = "зеленый оранжевый";
+
+"tvupush_filter_65" = "Город любви";
+
+"tvupush_filter_66" = "КТ";
+
+"tvupush_filter_67" = "ЕК";
+
+"tvupush_filter_68" = "ФЖ";
+
+"tvupush_filter_69" = "черное золото";
+
+"tvupush_filter_70" = "Хепберн";
+
+"模板下载失败，挂件剩余个数不足" = "Загрузка шаблона не удалась, а оставшегося количества подвесок недостаточно.";
+
+"filter_normal" = "Нормальный";
+
+"tvupush_link_sidebar" = "Боковой вид";
+
+"tvupush_link_user_upper_limit" = "Нынешний персонал Lianmai достиг верхнего предела";
+
+"tvupush_link_confirm_microphone_tip" = "После начала подключения пшеницы кулон текущего слоя больше не будет отображаться. Вы хотите подтвердить старт?";
+
+"tvupush_link_list_empty" = "Пока нет зрителей Лиан Май ~";
+
+"tvupush_link_start" = "Начните соединяться с пшеницей";
+
+"tvupush_link_view" = "смотреть";
+
+"tvupush_link_confirm_mike" = "Подтвердить конец аудитории Лиан Май?";
+
+"tvupush_link_remove" = "снять";
+
+"tvupush_link_remove_microphone" = "Удалить Lianmai";
+
+"tvupush_link_quit_mike" = "В настоящее время в Lianmai, конец соведущего покинет нынешний Lianmai";
+
+"tvupush_link_camera" = "камера";
+
+"tvupush_link_stop" = "Конец Lianmai";
+
+"tvupush_link_microphone" = "микрофон";
+
+"tvupush_link_view_settings" = "посмотреть настройки";
+
+"tvupush_link_apply_list" = "список заявок";
+
+"tvupush_link_audience" = "Аудитория Лиан Май";
+
+"tvupush_link_grid" = "вид сетки";
+
+"tvupush_link_confirm_start" = "Подтвердить начало Lianmai?";
+
+"tvupush_link_confirm_to_remove" = "Вы уверены, что хотите удалить\ n [%@]?";
+
+"tvupush_link_hint" = "После запуска Lianmai аудитория может инициировать приложение Lianmai,\ nup до видео 1v%ld Lianmai поддерживается";
+
+"tvupush_link_user_action" = "Работает на [%@]";
+
+"tvupush_link_resume_hint" = "В прошлый раз Лиан Май не закончил нормально.";
+
+"tvupush_link_resume_title" = "Вам нужно восстановить Lianmai?";
+
+"tvupush_link_start_fail" = "Lianmai не удалось, пожалуйста, попробуйте еще раз.";
+
+"tvupush_link_presenter" = "ведущий";
+
+"tvupush_link_accept" = "принять";
+
+"tvupush_link_apply_send_fail" = "Заявка не была отправлена, попробуйте еще раз.";
+
+"tvupush_link_apply_send_success" = "Заявка успешно отправлена";
+
+"filter_ABG" = "АБГ";
+
+"filter_F2" = "сода";
+
+"filter_F3" = "Калифорния";
+
+"filter_F4" = "пищевой цвет";
+
+"filter_F5" = "Сычуаньский вкус";
+
+"filter_HUJI" = "ХУДЖИ";
+
+"filter_L1" = "остров";
+
+"filter_L2" = "Лёгкое лето";
+
+"filter_L3" = "ночь";
+
+"filter_L4" = "красный коричневый";
+
+"filter_L5" = "Чисто";
+
+"filter_Po1" = "нежный";
+
+"filter_Po10" = "Премиум серый";
+
+"filter_Po2" = "Любовь супер сладкая";
+
+"filter_Po3" = "первый взгляд";
+
+"filter_Po4" = "Тёмный тон";
+
+"filter_Po5" = "Молочный чай";
+
+"filter_Po6" = "мягкий";
+
+"filter_Po7" = "закат";
+
+"filter_Po8" = "Холодный кислород";
+
+"filter_Po9" = "Портрет у моря";
+
+"filter_S1" = "Американский фильм";
+
+"filter_S2" = "Красное ретро";
+
+"filter_S3" = "путешествие";
+
+"filter_S4" = "Теплый желтый";
+
+"filter_S5" = "Блюз фильм";
+
+"filter_aikefa" = "ЕК";
+
+"filter_aizhicheng" = "Город любви";
+
+"filter_baixi" = "ярмарка";
+
+"filter_baixue" = "Белоснежка";
+
+"filter_beihaidao" = "Хоккайдо";
+
+"filter_campan" = "Платикодон";
+
+"filter_chalk" = "мягкий белый";
+
+"filter_chaobai" = "Ультра белый";
+
+"filter_chulian" = "Первая любовь";
+
+"filter_chuxin" = "оригинальное намерение";
+
+"filter_degula" = "Дракула";
+
+"filter_dongren" = "переезд";
+
+"filter_feifan" = "необыкновенный";
+
+"filter_fenci" = "Розовый фарфор";
+
+"filter_fushi" = "ФЖ";
+
+"filter_gaoqing" = "высокое определение";
+
+"filter_guowang" = "прошлое";
+
+"filter_haian" = "побережье";
+
+"filter_heben" = "Хепберн";
+
+"filter_heibai" = "черно-белое";
+
+"filter_heijin" = "черное золото";
+
+"filter_hongchun" = "красные губы";
+
+"filter_huanfu" = "омоложение кожи";
+
+"filter_huopo" = "живой";
+
+"filter_hutaomu" = "орех";
+
+"filter_jiari" = "Праздник";
+
+"filter_jingdu" = "Киото";
+
+"filter_jinshu" = "металл";
+
+"filter_julandiao" = "Оранжевый блюз";
+
+"filter_kameier" = "Кармель";
+
+"filter_kangtaishi" = "КТ";
+
+"filter_landiao" = "Блюз";
+
+"filter_lengbaipi" = "Холодная белая кожа";
+
+"filter_lengxi" = "Холодная система";
+
+"filter_liangju" = "Ярко-оранжевый";
+
+"filter_liaoli" = "готовка";
+
+"filter_lise" = "бордовый";
+
+"filter_lolita" = "Лолита";
+
+"filter_lvyan" = "Грин Ян";
+
+"filter_makalong" = "Макарон";
+
+"filter_mitao" = "персик";
+
+"filter_mopian" = "немой фильм";
+
+"filter_mousse" = "мусс";
+
+"filter_musi" = "Светло тёплый";
+
+"filter_naihui" = "пепел молока";
+
+"filter_naiyou" = "сливки";
+
+"filter_nuanshi" = "Горячая еда";
+
+"filter_oxgen" = "кислород";
+
+"filter_qiangwei" = "Роза";
+
+"filter_qingcheng" = "зеленый оранжевый";
+
+"filter_qingchun" = "чисто";
+
+"filter_qingyang" = "Легкий кислород";
+
+"filter_qipaoshui" = "Газированная вода";
+
+"filter_quqi" = "печенька";
+
+"filter_rixi" = "Японцы";
+
+"filter_riza" = "Разное";
+
+"filter_rouhe" = "мягкий";
+
+"filter_shenhe" = "темно-коричневый";
+
+"filter_shensui" = "глубокий";
+
+"filter_shenyeshitang" = "Ночной кафетерий";
+
+"filter_suying" = "кемпинг";
+
+"filter_tanshao" = "сжигание древесного угля";
+
+"filter_touliang" = "полупрозрачный";
+
+"filter_tuise" = "исчезать";
+
+"filter_wanying" = "Вечерняя Вишня";
+
+"filter_weixun" = "слегка пьяный";
+
+"filter_wuye" = "Мидзуно";
+
+"filter_wuyu" = "История";
+
+"filter_yelin" = "Кокосовая роща";
+
+"filter_yinglang" = "Жесткий";
+
+"filter_yinhua" = "вишневый цвет";
+
+"filter_youhua" = "живопись маслом";
+
+"filter_yuansheng" = "родной";
+
+"filter_yuanxiangji" = "Оригинальная камера";
+
+"filter_zhengchang" = "Нормальный";
+
+"filter_ziran" = "Природа";
+
+"beauty_Android_fenbai_lite_whiten" = "Отбеливание - Розовый Белый";
+
+"beauty_Android_lengbai_lite_whiten" = "Отбеливание - отбеливание";
+
+"beauty_Android_lite_BEF_BEAUTY_BRIGHTEN_EYE" = "Глаза - светлые глаза";
+
+"beauty_Android_lite_BEF_BEAUTY_REMOVE_POUCH" = "Глаза - темные круги";
+
+"beauty_Android_lite_BEF_BEAUTY_SMILES_FOLDS" = "Лицо - носогубные складки";
+
+"beauty_Android_lite_smooth" = "дермабразия";
+
+"beauty_Android_rosy_lite_rosy" = "Отбеливание - румяный";
+
+"beauty_Android_standard_clear" = "ясно";
+
+"beauty_Android_standard_sharp" = "точить";
+
+"beauty_Android_standard_smooth" = "дермабразия";
+
+"beauty_Android_video_BEF_BEAUTY_REMOVE_POUCH" = "Глаза - темные круги";
+
+"beauty_Android_video_BEF_BEAUTY_SMILES_FOLDS" = "Лицо - носогубные складки";
+
+"beauty_IOS_fenbai_lite_whiten" = "Отбеливание - Розовый Белый";
+
+"beauty_IOS_lengbai_lite_whiten" = "Отбеливание - отбеливание";
+
+"beauty_IOS_lite_BEF_BEAUTY_BRIGHTEN_EYE" = "Глаза - светлые глаза";
+
+"beauty_IOS_lite_BEF_BEAUTY_REMOVE_POUCH" = "Глаза - темные круги";
+
+"beauty_IOS_lite_BEF_BEAUTY_SMILES_FOLDS" = "Лицо - носогубные складки";
+
+"beauty_IOS_lite_smooth" = "дермабразия";
+
+"beauty_IOS_rosy_lite_rosy" = "Отбеливание - румяный";
+
+"beauty_IOS_standard_clear" = "ясно";
+
+"beauty_IOS_standard_sharp" = "точить";
+
+"beauty_IOS_standard_smooth" = "дермабразия";
+
+"beauty_IOS_video_BEF_BEAUTY_REMOVE_POUCH" = "Глаза - темные круги";
+
+"beauty_IOS_video_BEF_BEAUTY_SMILES_FOLDS" = "Лицо - носогубные складки";
+
+"comment_failed" = "Комментарий не удался";
+
+"double_eye_lid/newmoon_BEF_BEAUTY_EYE_SINGLE_TO_DOUBLE" = "Глаза - двойные веки";
+
+"reshape_v8_BEF_BEAUTY_BODY_SHRINK_HEAD" = "Лицо - маленькая голова";
+
+"reshape_v8_Face_ALL_boy" = "Лицо - Тонкое лицо - Мужской Бог";
+
+"reshape_v8_Face_ALL_girl" = "Лицо - Тонкое лицо - Muse";
+
+"reshape_v8_Face_ALL_nature" = "Лицо - Тонкое лицо - Натуральное";
+
+"reshape_v8_Internal_Deform_Face" = "Лицо - маленькое лицо";
+
+"reshape_v8_Internal_Deform_MouthCorner" = "Рот - улыбка";
+
+"reshape_v8_Internal_Deform_Short_Face" = "Лицо - короткое лицо";
+
+"reshape_v8_Internal_Deform_VFace" = "Лицо-V лицо";
+
+"reshape_v8_lite_BEF_BEAUTY_BODY_SHRINK_HEAD" = "Лицо - маленькая голова";
+
+"reshape_v8_lite_Face_ALL_boy" = "Лицо - Тонкое лицо - Мужской Бог";
+
+"reshape_v8_lite_Face_ALL_girl" = "Лицо - Тонкое лицо - Muse";
+
+"reshape_v8_lite_Face_ALL_nature" = "Лицо - Тонкое лицо - Натуральное";
+
+"reshape_v8_lite_Internal_Deform_CutFace" = "Лицо - узкое лицо";
+
+"reshape_v8_lite_Internal_Deform_Eye" = "Глаза - размер";
+
+"reshape_v8_lite_Internal_Deform_Face" = "Лицо - маленькое лицо";
+
+"reshape_v8_lite_Internal_Deform_MouthCorner" = "Рот - улыбка";
+
+"reshape_v8_lite_Internal_Deform_Zoom_Cheekbone" = "Лицо - скулы";
+
+"reshape_v8_lite_Internal_Deform_Zoom_Jawbone" = "Лицо - Челюсть";
+
+"sharpen_Android_lite_sharp" = "точить";
+
+"sharpen_IOS_lite_sharp" = "точить";
+
+"whiten_clear_Android_lite_clear" = "ясно";
+
+"whiten_clear_Android_lite_whiten" = "Отбеливание - Натуральное";
+
+"whiten_clear_IOS_lite_clear" = "ясно";
+
+"whiten_clear_IOS_lite_whiten" = "Отбеливание - Натуральное";
+
+"whiten_teeth_Android_lite_BEF_BEAUTY_WHITEN_TEETH" = "Рот - Белые зубы";
+
+"whiten_teeth_IOS_lite_BEF_BEAUTY_WHITEN_TEETH" = "Рот - Белые зубы";
+
+"whiten_teeth_standard_BEF_BEAUTY_WHITEN_TEETH" = "Рот - Белые зубы";

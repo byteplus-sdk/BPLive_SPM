@@ -1,0 +1,954 @@
+
+"1080p" = "1080p";
+
+"480p" = "480p";
+
+"540p" = "540p";
+
+"720p" = "720p";
+
+"abandoned_after_exiting" = "You will lose all current progress after exiting";
+
+"alert_close_live" = "End the live stream now?";
+
+"alert_emoji_not_support" = "Emojis are currently not supported";
+
+"alert_flash_lamp_error" = "Sorry, failed to get permission for the flash";
+
+"alert_max_15" = "Enter at most 15 characters";
+
+"alert_max_200" = "Enter at most 200 characters";
+
+"alert_msg_screen_switch" = "Switch screen orientation?";
+
+"alert_msg_screen_switch_camera" = "The screen orientation is about to change, and you need to configure widgets on the screen again. Do you want to proceed?";
+
+"alert_no_camera" = "Camera permission not granted. Grant %@ permission in Settings?";
+
+"alert_no_microphone" = "Microphone permission not granted. Grant %@ permission in Settings?";
+
+"alert_no_photo_library" = "Photo library permission not granted. Grant %@ permission in Settings?";
+
+"alert_only_rear_camera" = "Flash can be enabled only for the rear-facing camera";
+
+"alert_screen_switch" = "Note";
+
+"apply_now" = "Use now";
+
+"back" = "Back";
+
+"basic_information" = "Basic information";
+
+"basic_information_add_label" = "Add";
+
+"basic_information_cover_label_%ld" = "Supported formats: JPG and PNG. File size: no more than %ld MB.";
+
+"basic_information_description_switch_label" = "Display description in the live room";
+
+"basic_information_description_textview_label" = "Description";
+
+"basic_information_description_textview_placeholder" = "Enter a live room description";
+
+"basic_information_edit_label" = "Edit";
+
+"basic_information_live_tag" = "Brand tag";
+
+"basic_information_live_tag_changed_error" = "Brand tags have been updated. Try again.";
+
+"basic_information_live_tag_count" = "%ld selected";
+
+"basic_information_live_tag_empty_title" = "No tags to select";
+
+"basic_information_live_title_textview_placeholder" = "Enter a live room name";
+
+"basic_information_nav_account_avatar" = "Account avatar";
+
+"basic_information_nav_account_name" = "Account name";
+
+"basic_information_nav_cover" = "Cover";
+
+"basic_information_nav_description" = "Live room description";
+
+"basic_information_nav_live_title" = "Live room name";
+
+"beauty" = "Beauty AR";
+
+"big_eyes" = "Eyes";
+
+"camera_live" = "Camera live";
+
+"cancel" = "Cancel";
+
+"caton" = "Lagging";
+
+"change_avatar" = "Change";
+
+"choose_sharpness" = "Select resolution";
+
+"clean" = "Clear screen";
+
+"clear" = "Sharpen";
+
+"clear_pendants_layer" = "Clear widgets";
+
+"click_to_edit_template_name" = "Click to edit the template name";
+
+"closing_live_streaming" = "Ending the live stream. Wait a moment.";
+
+"comment_input_placeholder" = "Comment here";
+
+"confirm" = "Confirm";
+
+"confirm_delete_template" = "Delete the template?";
+
+"confirm_delete_widget_and_layer" = "Delete the widget? After deletion, any layers using this widget will also be deleted.";
+
+"confirm_exit" = "Are you sure you want to exit?";
+
+"confirm_switch" = "Yes";
+
+"create_template" = "Create";
+
+"delete" = "Delete";
+
+"delete_all_comment" = "Clear all comments?";
+
+"delete_comment" = "Clear comments";
+
+"delete_string" = "Delete";
+
+"delete_template_pendent_warning" = "This widget belongs to the %@ template. After deletion, you must download the template again. Confirm deletion?";
+
+"download" = "download";
+
+"download_now" = "Download now";
+
+"exit" = "Exit";
+
+"filter" = "Filters";
+
+"flash_lamp" = "Flash";
+
+"flip" = "Flip";
+
+"go_edit" = "Edit";
+
+"go_setting" = "Configure now";
+
+"good" = "Good";
+
+"has_update" = "New update";
+
+"i_got_it" = "Got it";
+
+"image_size_over_%dM_need_reselect" = "The picture exceeds %d MB. Re-upload another one.";
+
+"is_empty" = "is empty";
+
+"landscape" = "Landscape";
+
+"layer" = "Layers";
+
+"live_end_start_tip" = "The live stream has ended. To start the stream again, reset the live stream time.";
+
+"live_has_been_started" = "The live room is in the Live status. No operations are allowed.";
+
+"live_head_online_label" = "%ld viewers online";
+
+"live_room_name_cannot_be_blank" = "The live room name cannot be empty";
+
+"live_time_left" = "%02ld:%02ld:%02ld left till live ends";
+
+"media" = "Media";
+
+"mirror" = "Mirror";
+
+"more" = "more";
+
+"msg_net_error" = "Network request failed. Try again.";
+
+"msg_net_error_extra_long" = "The entered characters are too long. Re-enter.";
+
+"mute" = "Mute";
+
+"narrow_face" = "Width";
+
+"net_abnormal" = "Network error";
+
+"net_error_btn_text" = "Retry";
+
+"net_error_text" = "The network is currently unavailable. Check your network connection and try again.";
+
+"network_request_error" = "Network request error";
+
+"nick_name_cannot_be_blank" = "The nickname cannot be empty";
+
+"no" = "No";
+
+"no_template" = "No template yet";
+
+"off_line" = "Offline";
+
+"only_support_20_layer" = "Only supports up to 20 layers";
+
+"pendants" = "Widgets";
+
+"pendants_layer" = "Layers";
+
+"pendants_layer_camera" = "Portrait layer";
+
+"pendants_layer_clear_alert_clear" = "Clear";
+
+"pendants_layer_clear_alert_title" = "Clear all widgets?";
+
+"pendants_layer_down" = "Down";
+
+"pendants_layer_hide" = "Hide";
+
+"pendants_layer_show" = "Show";
+
+"pendants_layer_tips" = "Hold and drag to reorder";
+
+"pendants_layer_up" = "Up";
+
+"please_input" = "Enter (within 15 characters)";
+
+"popularity" = "popularity";
+
+"portrait" = "Portrait";
+
+"products" = "Products";
+
+"products_add_added" = "Added";
+
+"products_add_added_des" = "The product is added.";
+
+"products_add_addnew" = "Add new";
+
+"products_add_done" = "Done";
+
+"products_add_shop_cross_text" = "Original price";
+
+"products_add_shop_highlight" = "Current price";
+
+"products_add_shop_image" = "Product image";
+
+"products_add_shop_image_des" = "For the best display, upload a picture with a 1:1 aspect ratio. Otherwise, the picture will be stretched.";
+
+"products_add_shop_name" = "Product name";
+
+"products_add_shop_name_placeholder" = "Enter a product name";
+
+"products_add_shop_price_placehoder" = "Enter a price";
+
+"products_add_shop_url" = "Product URL";
+
+"products_add_shop_url_placeholder" = "http://example.com";
+
+"products_add_submit" = "Submit";
+
+"products_can_not_pin_tip" = "Cannot pin the product because the product image has not been added yet.";
+
+"products_cancel_pin" = "Unpin";
+
+"products_checkmark" = "Batch manage";
+
+"products_confirm_delete" = "Confirm deletion?";
+
+"products_confirm_delete_content" = "Products cannot be recovered after deletion. Proceed with caution.";
+
+"products_delete_count" = "Delete (%ld)";
+
+"products_edit" = "Edit";
+
+"products_edit_title" = "Edit product";
+
+"products_empty" = "No products";
+
+"products_empty_tip" = "Add one";
+
+"products_filter" = "Filter";
+
+"products_info_changed_error" = "Products in the list have been updated. Try your action again.";
+
+"products_list" = "List";
+
+"products_more" = "More";
+
+"products_number_count" = "%ld products in total";
+
+"products_order" = "Reorder";
+
+"products_pin_to_top" = "Pin";
+
+"products_quantity_limit_error" = "The maximum limit of 500 products has been reached in the list. Delete some products first and add products again.";
+
+"products_reorder_guide" = "Hold and drag a product to change its order";
+
+"products_reset" = "Reset";
+
+"products_search" = "Search";
+
+"products_search_empty" = "No results found";
+
+"products_search_placeholder" = "Enter a product name";
+
+"products_select_all" = "Select all";
+
+"products_sure" = "OK";
+
+"products_sure_count" = "OK (%ld)";
+
+"products_title" = "Products";
+
+"products_unlist" = "Unlist";
+
+"prompt" = "Note";
+
+"props" = "Props";
+
+"replay_comment" = "Reply";
+
+"resolution" = "Resolution";
+
+"rotate_to_landscape_to_apply_template" = "You are now in portrait mode. Are you sure you want to switch to landscape mode and apply this template?";
+
+"rotate_to_portrait_to_apply_template" = "You are now in landscape mode. Are you sure you want to switch to portrait mode and apply this template?";
+
+"rotate_to_save_landscape" = "About to switch to the landscape mode and create a template";
+
+"rotate_to_save_portrait" = "About to switch to the portrait mode and create a template";
+
+"save" = "Save";
+
+"save_error" = "Save failed. Try again.";
+
+"save_landscape_template" = "Save as a landscape template?";
+
+"save_portrait_template" = "Save it as a portrait template?";
+
+"save_success" = "Saved";
+
+"screen_live" = "Screen live";
+
+"screen_share_hint" = "After the live stream starts, viewers will see what is displayed on your phone in real time";
+
+"screen_sharing_hint" = "Screen recording in progress, and you can switch to other interfaces on your phone to continue the live stream";
+
+"skin_grinding" = "Smooth";
+
+"smooth_live_only_support_10_gif" = "To ensure smooth live streaming, you can add up to 10 GIFs";
+
+"start_live" = "Start live";
+
+"start_live_fail" = "Failed to start the live stream. Try again.";
+
+"sweep_to_switch" = "Swipe left or right to switch templates";
+
+"template" = "Template";
+
+"template_can_not_save_without_name" = "Cannot save without a template name";
+
+"template_delete_hint" = "After being deleted, the template cannot be used by others";
+
+"template_download_first" = "Download the template first and then edit it";
+
+"template_has_update_click_to_download" = "The template has been updated. Click to download.";
+
+"template_not_exist" = "The template does not exist or has been deleted";
+
+"template_save_hint" = "Beauty AR, props, widgets, and layers settings will be saved together as a template";
+
+"text" = "Text";
+
+"thin_cheekbones" = "Cheekbones";
+
+"thin_face" = "Lift";
+
+"thin_mandible" = "Jawline";
+
+"thin_nose" = "Nose";
+
+"toast_landscape_live" = "Switched to landscape orientation. The live stream will be in landscape mode.";
+
+"toast_portrait_live" = "Switched to portrait orientation. The live stream will be in portrait mode.";
+
+"ttlv_pendents_upload" = "Upload image";
+
+"tvupush_product_add_library" = "Add from library";
+
+"tvupush_product_library_add" = "Add";
+
+"tvupush_product_library_search_result_empty" = "No products found";
+
+"tvupush_product_library_uncorrelated" = "No product libraries added to this live room yet";
+
+"tvupush_product_most_product_added" = "Add at most 500 products";
+
+"tvupush_product_no_products_yet" = "No products";
+
+"tvupush_product_title_add" = "Add manually";
+
+"tvupush_send_success" = "Sent";
+
+"unknown" = "Unknown";
+
+"unsupport_gif_warning" = "GIF format is not supported. Upload again.";
+
+"unsupport_rotate_to_landscape_hint" = "Switching to landscape templates is not supported during a live stream";
+
+"unsupport_rotate_to_portrait_hint" = "Switching to portrait templates is not supported during a live stream";
+
+"unsupported_broadcast_title" = "The current service version does not support starting a live stream";
+
+"unsupported_feature_title" = "The current service version does not support this feature";
+
+"unsupported_version_message" = "The current version does not support this feature. Contact your sales representative to upgrade the version.";
+
+"whitening" = "Bright";
+
+"tvupush_start_time_not_yet_toast" = "The live streaming time hasn't arrived. Please start it after the start time";
+
+"tvu_product_library_please_search" = "Please search";
+
+"tvu_product_library_search_tip" = "Show products after searching";
+
+"tvu_push_product_lib_response_error" = "Please Check Your Response Format.";
+
+"tvu_push_product_lib_timeout" = "Internal Service is timeout. Pls Contact With Admin.";
+
+"俄语" = "Russian";
+
+"印尼语" = "Indonesian";
+
+"土耳其语" = "Turkish";
+
+"日文" = "Japanese";
+
+"泰语" = "Thai";
+
+"简中" = "Simplified Chinese";
+
+"繁中" = "Traditional Chinese";
+
+"英文" = "English";
+
+"葡萄牙语" = "Portuguese";
+
+"西班牙语" = "Spanish";
+
+"越南语" = "Vietnamese";
+
+"阿拉伯语" = "Arabic";
+
+"韩语" = "Korean";
+
+"tvupush_filter_01" = "soft white";
+
+"tvupush_filter_02" = "cream";
+
+"tvupush_filter_03" = "oxygen";
+
+"tvupush_filter_04" = "Platycodon";
+
+"tvupush_filter_05" = "Lolita";
+
+"tvupush_filter_06" = "peach";
+
+"tvupush_filter_07" = "Macaron";
+
+"tvupush_filter_08" = "foam";
+
+"tvupush_filter_09" = "cherry blossom";
+
+"tvupush_filter_10" = "Light warm";
+
+"tvupush_filter_11" = "Story";
+
+"tvupush_filter_12" = "Hokkaido";
+
+"tvupush_filter_13" = "Miscellaneous";
+
+"tvupush_filter_14" = "Seattle";
+
+"tvupush_filter_15" = "quiet";
+
+"tvupush_filter_16" = "film";
+
+"tvupush_filter_17" = "Warm Sun";
+
+"tvupush_filter_18" = "old days";
+
+"tvupush_filter_19" = "red lips";
+
+"tvupush_filter_20" = "Orange Blues";
+
+"tvupush_filter_21" = "fade";
+
+"tvupush_filter_22" = "black and white";
+
+"tvupush_filter_23" = "gentle";
+
+"tvupush_filter_24" = "Love is super sweet";
+
+"tvupush_filter_25" = "first sight";
+
+"tvupush_filter_26" = "Dark tone";
+
+"tvupush_filter_27" = "Milk tea";
+
+"tvupush_filter_28" = "Soft";
+
+"tvupush_filter_29" = "sunset";
+
+"tvupush_filter_30" = "Cold oxygen";
+
+"tvupush_filter_31" = "Portrait by the Sea";
+
+"tvupush_filter_32" = "Premium Grey";
+
+"tvupush_filter_33" = "island";
+
+"tvupush_filter_34" = "Light summer";
+
+"tvupush_filter_35" = "night";
+
+"tvupush_filter_36" = "red brown";
+
+"tvupush_filter_37" = "Clear";
+
+"tvupush_filter_38" = "Nature";
+
+"tvupush_filter_39" = "soda";
+
+"tvupush_filter_40" = "California";
+
+"tvupush_filter_41" = "food color";
+
+"tvupush_filter_42" = "Sichuan flavor";
+
+"tvupush_filter_43" = "American Film";
+
+"tvupush_filter_44" = "Red retro";
+
+"tvupush_filter_45" = "journey";
+
+"tvupush_filter_46" = "Warm yellow";
+
+"tvupush_filter_47" = "Blues Film";
+
+"tvupush_filter_48" = "Cold white skin";
+
+"tvupush_filter_49" = "translucent";
+
+"tvupush_filter_50" = "Bright orange";
+
+"tvupush_filter_51" = "walnut";
+
+"tvupush_filter_52" = "dark brown";
+
+"tvupush_filter_53" = "Dracula";
+
+"tvupush_filter_54" = "maroon";
+
+"tvupush_filter_55" = "Coconut Grove";
+
+"tvupush_filter_56" = "Warm food";
+
+"tvupush_filter_57" = "Sparkling water";
+
+"tvupush_filter_58" = "cooking";
+
+"tvupush_filter_59" = "charcoal burning";
+
+"tvupush_filter_60" = "Kyoto";
+
+"tvupush_filter_61" = "coast";
+
+"tvupush_filter_62" = "Green Yan";
+
+"tvupush_filter_63" = "Evening Cherry";
+
+"tvupush_filter_64" = "green orange";
+
+"tvupush_filter_65" = "City of Love";
+
+"tvupush_filter_66" = "CT";
+
+"tvupush_filter_67" = "EK";
+
+"tvupush_filter_68" = "FJ";
+
+"tvupush_filter_69" = "black gold";
+
+"tvupush_filter_70" = "Hepburn";
+
+"模板下载失败，挂件剩余个数不足" = "The template download failed, and the remaining number of pendants is insufficient.";
+
+"filter_normal" = "Off";
+
+"tvupush_link_sidebar" = "Sidebar View";
+
+"tvupush_link_user_upper_limit" = "The current Lianmai personnel have reached the upper limit";
+
+"tvupush_link_confirm_microphone_tip" = "After starting to connect the wheat, the current layer pendant will no longer be displayed. Do you want to confirm the start?";
+
+"tvupush_link_list_empty" = "There are no Lian Mai viewers for the time being~";
+
+"tvupush_link_start" = "Start connecting with wheat";
+
+"tvupush_link_view" = "view";
+
+"tvupush_link_confirm_mike" = "Confirm the end of the audience Lian Mai?";
+
+"tvupush_link_remove" = "remove";
+
+"tvupush_link_remove_microphone" = "Remove Lianmai";
+
+"tvupush_link_quit_mike" = "Currently in Lianmai, the end of co-host will exit the current Lianmai";
+
+"tvupush_link_camera" = "camera";
+
+"tvupush_link_stop" = "End Lianmai";
+
+"tvupush_link_microphone" = "microphone";
+
+"tvupush_link_view_settings" = "view settings";
+
+"tvupush_link_apply_list" = "application list";
+
+"tvupush_link_audience" = "Audience Lian Mai";
+
+"tvupush_link_grid" = "grid view";
+
+"tvupush_link_confirm_start" = "Confirm the start of Lianmai?";
+
+"tvupush_link_confirm_to_remove" = "Are you sure you want to remove\ n [%@]?";
+
+"tvupush_link_hint" = "After starting Lianmai, the audience can initiate a Lianmai application,\ nup to 1v%ld video Lianmai is supported";
+
+"tvupush_link_user_action" = "Operate on [%@]";
+
+"tvupush_link_resume_hint" = "Last time, Lian Mai did not end normally.";
+
+"tvupush_link_resume_title" = "Do you need to restore Lianmai?";
+
+"tvupush_link_start_fail" = "Lianmai failed, please try again.";
+
+"tvupush_link_presenter" = "host";
+
+"tvupush_link_accept" = "accept";
+
+"tvupush_link_apply_send_fail" = "The application failed to be sent, please try again.";
+
+"tvupush_link_apply_send_success" = "Application sent successfully";
+
+"filter_ABG" = "ABG";
+
+"filter_F2" = "soda";
+
+"filter_F3" = "California";
+
+"filter_F4" = "food color";
+
+"filter_F5" = "Sichuan flavor";
+
+"filter_HUJI" = "HUJI";
+
+"filter_L1" = "island";
+
+"filter_L2" = "Light summer";
+
+"filter_L3" = "night";
+
+"filter_L4" = "red brown";
+
+"filter_L5" = "Clear";
+
+"filter_Po1" = "gentle";
+
+"filter_Po10" = "Premium Grey";
+
+"filter_Po2" = "Love is super sweet";
+
+"filter_Po3" = "first sight";
+
+"filter_Po4" = "Dark tone";
+
+"filter_Po5" = "Milk tea";
+
+"filter_Po6" = "soft";
+
+"filter_Po7" = "sunset";
+
+"filter_Po8" = "Cold oxygen";
+
+"filter_Po9" = "Portrait by the Sea";
+
+"filter_S1" = "American Film";
+
+"filter_S2" = "Red retro";
+
+"filter_S3" = "journey";
+
+"filter_S4" = "Warm yellow";
+
+"filter_S5" = "Blues Film";
+
+"filter_aikefa" = "EK";
+
+"filter_aizhicheng" = "City of Love";
+
+"filter_baixi" = "fair";
+
+"filter_baixue" = "Snow White";
+
+"filter_beihaidao" = "Hokkaido";
+
+"filter_campan" = "Platycodon";
+
+"filter_chalk" = "soft white";
+
+"filter_chaobai" = "Ultra White";
+
+"filter_chulian" = "First Love";
+
+"filter_chuxin" = "original intention";
+
+"filter_degula" = "Dracula";
+
+"filter_dongren" = "moving";
+
+"filter_feifan" = "extraordinary";
+
+"filter_fenci" = "Pink porcelain";
+
+"filter_fushi" = "FJ";
+
+"filter_gaoqing" = "high definition";
+
+"filter_guowang" = "past";
+
+"filter_haian" = "coast";
+
+"filter_heben" = "Hepburn";
+
+"filter_heibai" = "Black and White";
+
+"filter_heijin" = "black gold";
+
+"filter_hongchun" = "red lips";
+
+"filter_huanfu" = "skin rejuvenation";
+
+"filter_huopo" = "lively";
+
+"filter_hutaomu" = "walnut";
+
+"filter_jiari" = "Holiday";
+
+"filter_jingdu" = "Kyoto";
+
+"filter_jinshu" = "metal";
+
+"filter_julandiao" = "Orange Blue";
+
+"filter_kameier" = "Carmel";
+
+"filter_kangtaishi" = "CT";
+
+"filter_landiao" = "Blues";
+
+"filter_lengbaipi" = "Cold white skin";
+
+"filter_lengxi" = "cold system";
+
+"filter_liangju" = "Bright orange";
+
+"filter_liaoli" = "cooking";
+
+"filter_lise" = "maroon";
+
+"filter_lolita" = "Lolita";
+
+"filter_lvyan" = "Green Yan";
+
+"filter_makalong" = "Macaron";
+
+"filter_mitao" = "peach";
+
+"filter_mopian" = "silent film";
+
+"filter_mousse" = "mousse";
+
+"filter_musi" = "Light warm";
+
+"filter_naihui" = "milk ash";
+
+"filter_naiyou" = "cream";
+
+"filter_nuanshi" = "Warm food";
+
+"filter_oxgen" = "Oxygen";
+
+"filter_qiangwei" = "Rose";
+
+"filter_qingcheng" = "green orange";
+
+"filter_qingchun" = "pure";
+
+"filter_qingyang" = "Light oxygen";
+
+"filter_qipaoshui" = "Sparkling water";
+
+"filter_quqi" = "cookie";
+
+"filter_rixi" = "Japanese";
+
+"filter_riza" = "Miscellaneous";
+
+"filter_rouhe" = "soft";
+
+"filter_shenhe" = "dark brown";
+
+"filter_shensui" = "profound";
+
+"filter_shenyeshitang" = "Late night cafeteria";
+
+"filter_suying" = "camping";
+
+"filter_tanshao" = "charcoal burning";
+
+"filter_touliang" = "translucent";
+
+"filter_tuise" = "fade";
+
+"filter_wanying" = "Evening Cherry";
+
+"filter_weixun" = "slightly drunk";
+
+"filter_wuye" = "Mizuno";
+
+"filter_wuyu" = "Story";
+
+"filter_yelin" = "Coconut Grove";
+
+"filter_yinglang" = "tough";
+
+"filter_yinhua" = "cherry blossom";
+
+"filter_youhua" = "oil painting";
+
+"filter_yuansheng" = "native";
+
+"filter_yuanxiangji" = "Original camera";
+
+"filter_zhengchang" = "Normal";
+
+"filter_ziran" = "Nature";
+
+"beauty_Android_fenbai_lite_whiten" = "Whitening - Pink White";
+
+"beauty_Android_lengbai_lite_whiten" = "Whitening - whitening";
+
+"beauty_Android_lite_BEF_BEAUTY_BRIGHTEN_EYE" = "Eyes - bright eyes";
+
+"beauty_Android_lite_BEF_BEAUTY_REMOVE_POUCH" = "Eyes - dark circles";
+
+"beauty_Android_lite_BEF_BEAUTY_SMILES_FOLDS" = "Face - nasolabial folds";
+
+"beauty_Android_lite_smooth" = "dermabrasion";
+
+"beauty_Android_rosy_lite_rosy" = "Whitening - ruddy";
+
+"beauty_Android_standard_clear" = "clear";
+
+"beauty_Android_standard_sharp" = "sharpen";
+
+"beauty_Android_standard_smooth" = "dermabrasion";
+
+"beauty_Android_video_BEF_BEAUTY_REMOVE_POUCH" = "Eyes - dark circles";
+
+"beauty_Android_video_BEF_BEAUTY_SMILES_FOLDS" = "Face - nasolabial folds";
+
+"beauty_IOS_fenbai_lite_whiten" = "Whitening - Pink White";
+
+"beauty_IOS_lengbai_lite_whiten" = "Whitening - whitening";
+
+"beauty_IOS_lite_BEF_BEAUTY_BRIGHTEN_EYE" = "Eyes - bright eyes";
+
+"beauty_IOS_lite_BEF_BEAUTY_REMOVE_POUCH" = "Eyes - dark circles";
+
+"beauty_IOS_lite_BEF_BEAUTY_SMILES_FOLDS" = "Face - nasolabial folds";
+
+"beauty_IOS_lite_smooth" = "dermabrasion";
+
+"beauty_IOS_rosy_lite_rosy" = "Whitening - ruddy";
+
+"beauty_IOS_standard_clear" = "clear";
+
+"beauty_IOS_standard_sharp" = "sharpen";
+
+"beauty_IOS_standard_smooth" = "dermabrasion";
+
+"beauty_IOS_video_BEF_BEAUTY_REMOVE_POUCH" = "Eyes - dark circles";
+
+"beauty_IOS_video_BEF_BEAUTY_SMILES_FOLDS" = "Face - nasolabial folds";
+
+"comment_failed" = "Comment failed";
+
+"double_eye_lid/newmoon_BEF_BEAUTY_EYE_SINGLE_TO_DOUBLE" = "Eyes - double eyelids";
+
+"reshape_v8_BEF_BEAUTY_BODY_SHRINK_HEAD" = "Face - small head";
+
+"reshape_v8_Face_ALL_boy" = "Face - Thin Face - Male God";
+
+"reshape_v8_Face_ALL_girl" = "Face - Thin Face - Muse";
+
+"reshape_v8_Face_ALL_nature" = "Face - Thin Face - Natural";
+
+"reshape_v8_Internal_Deform_Face" = "Face - small face";
+
+"reshape_v8_Internal_Deform_MouthCorner" = "Mouth - smile";
+
+"reshape_v8_Internal_Deform_Short_Face" = "Face - short face";
+
+"reshape_v8_Internal_Deform_VFace" = "Face-V face";
+
+"reshape_v8_lite_BEF_BEAUTY_BODY_SHRINK_HEAD" = "Face - small head";
+
+"reshape_v8_lite_Face_ALL_boy" = "Face - Thin Face - Male God";
+
+"reshape_v8_lite_Face_ALL_girl" = "Face - Thin Face - Muse";
+
+"reshape_v8_lite_Face_ALL_nature" = "Face - Thin Face - Natural";
+
+"reshape_v8_lite_Internal_Deform_CutFace" = "Face - narrow face";
+
+"reshape_v8_lite_Internal_Deform_Eye" = "Eyes - size";
+
+"reshape_v8_lite_Internal_Deform_Face" = "Face - small face";
+
+"reshape_v8_lite_Internal_Deform_MouthCorner" = "Mouth - smile";
+
+"reshape_v8_lite_Internal_Deform_Zoom_Cheekbone" = "Face - cheekbones";
+
+"reshape_v8_lite_Internal_Deform_Zoom_Jawbone" = "Face - Jaw";
+
+"sharpen_Android_lite_sharp" = "sharpen";
+
+"sharpen_IOS_lite_sharp" = "sharpen";
+
+"whiten_clear_Android_lite_clear" = "clear";
+
+"whiten_clear_Android_lite_whiten" = "Whitening - Natural";
+
+"whiten_clear_IOS_lite_clear" = "clear";
+
+"whiten_clear_IOS_lite_whiten" = "Whitening - Natural";
+
+"whiten_teeth_Android_lite_BEF_BEAUTY_WHITEN_TEETH" = "Mouth - White Teeth";
+
+"whiten_teeth_IOS_lite_BEF_BEAUTY_WHITEN_TEETH" = "Mouth - White Teeth";
+
+"whiten_teeth_standard_BEF_BEAUTY_WHITEN_TEETH" = "Mouth - White Teeth";

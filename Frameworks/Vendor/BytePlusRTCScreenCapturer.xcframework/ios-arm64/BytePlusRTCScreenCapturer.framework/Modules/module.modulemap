@@ -1,0 +1,5 @@
+framework module BytePlusRTCScreenCapturer {
+    umbrella header "ByteRTCScreenCapturerExt.h"
+    export *
+    module * { export * }
+}

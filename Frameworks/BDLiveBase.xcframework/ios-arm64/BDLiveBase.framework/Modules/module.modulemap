@@ -1,0 +1,5 @@
+framework module BDLiveBase {
+  umbrella header "BDLiveBase.h"
+  export *
+  module * { export * }
+}

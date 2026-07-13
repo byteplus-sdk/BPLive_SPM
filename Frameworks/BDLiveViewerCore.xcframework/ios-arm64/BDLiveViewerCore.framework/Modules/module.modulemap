@@ -1,0 +1,5 @@
+framework module BDLiveViewerCore {
+  umbrella header "BDLiveViewerCore.h"
+  export *
+  module * { export * }
+}
