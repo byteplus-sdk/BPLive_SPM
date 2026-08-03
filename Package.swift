@@ -24,12 +24,12 @@ let package = Package(
         .library(name: "BDLiveScreenShareLibrary", targets: ["BDLiveScreenShareWrapper"]),
     ],
     dependencies: [
-        .package(url: "git@github.com:SDWebImage/SDWebImage.git", from: "5.0.0"),
-        .package(url: "git@github.com:SDWebImage/SDWebImageWebPCoder.git", from: "0.14.0"),
-        .package(url: "git@github.com:jdg/MBProgressHUD.git", from: "1.2.0"),
-        .package(url: "git@github.com:CoderMJLee/MJRefresh.git", from: "3.7.0"),
-        // .package(url: "git@github.com:volcengine/TTSDK_SPM.git", exact: "1.49.3-premium"),
-        .package(url: "git@github.com:byteplus-sdk/TTSDK_BytePlus_SPM.git", exact: "1.49.300-premium"),
+        .package(url: "https://github.com/SDWebImage/SDWebImage.git", from: "5.0.0"),
+        .package(url: "https://github.com/SDWebImage/SDWebImageWebPCoder.git", from: "0.14.0"),
+        .package(url: "https://github.com/jdg/MBProgressHUD.git", from: "1.2.0"),
+        .package(url: "https://github.com/CoderMJLee/MJRefresh.git", from: "3.7.0"),
+        // .package(url: "https://github.com/volcengine/TTSDK_SPM.git", exact: "1.49.3-premium"),
+        .package(url: "https://github.com/byteplus-sdk/TTSDK_BytePlus_SPM.git", exact: "1.49.300-premium"),
     ],
     targets: [
         // ================================================================
