@@ -6,7 +6,7 @@ let package = Package(
     name: "BPLive",
     defaultLocalization: "zh-Hans",
     platforms: [
-        .iOS(.v12)
+        .iOS(.v13)
     ],
     products: [
         .library(name: "BDLiveBaseLibrary", targets: ["BDLiveBaseWrapper"]),
